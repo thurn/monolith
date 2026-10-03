@@ -498,7 +498,7 @@ A strategy moves to the next stage once it passes its tier gate on the current s
 
 ### 7.4 Anti-cheat review
 
-Each round, a reviewer subagent reads every agent's code for paths to hidden information. The check: anything outside `ctx`, or anything that reads the real `state`.
+Each round, the session does one review pass over every agent's code, looking for paths to hidden information. The check: anything outside `ctx`, or anything that reads the real `state`.
 
 The `clairvoyant` gap is a sanity check. If an "honest" agent matches `clairvoyant` too closely, treat it as a leak until proven otherwise.
 
@@ -536,11 +536,19 @@ Each round ends with a written report in `research/rounds/<id>/report.md` and a 
 
 **R1: build all five, v1**
 
-- First, one worktree builds `knowledge/` (run calculator, protection score, server potential, card hooks). S1, S2 and S3 all depend on it.
-- S4 and S5 share the featurizer, ONNX inference path, and `selfplay.clj` actor pool. Build these in one worktree too, before the two strategies split.
-- Then implement S1–S5 in parallel, one worktree per strategy. Everything depends only on the shared `ai/` contract.
-- S5 starts its self-play training budget as soon as the actor pool works, so it trains while the other strategies are being written.
-- Run the full round-robin on Stage A at 250 ms.
+Build everything **sequentially**, one piece at a time, in this order. Each step builds on the ones before it:
+
+1. `knowledge/`: run calculator, protection score, server potential, and card hooks.
+2. **S1**, which uses step 1. It also becomes the fixed opponent and the rollout policy for later steps.
+3. **Shared NN infrastructure, then S5:**
+   - the featurizer, the ONNX inference path, and the `selfplay.clj` actor pool;
+   - then the R-NaD learner.
+   - Start S5's training budget as a background process right away, so it trains on the CPU while steps 4–6 are written. Pause it during benchmark and profiling runs.
+4. **S3**, which reuses step 1 as evaluator features.
+5. **S2**, which uses S1 rollouts and S3's evaluator.
+6. **S4**, which imitates S3 and reuses step 3's infrastructure.
+
+Each step ends with a smoke match against `random` and S1 before the next step starts. Then run the full round-robin on Stage A at 250 ms.
 - Output:
   - first ratings and failure analysis per strategy;
   - the clairvoyant gap;
@@ -557,7 +565,7 @@ Each round ends with a written report in `research/rounds/<id>/report.md` and a 
 
 **R2: improve and cull**
 
-- Each strategy gets one improvement cycle aimed at its R1 failure analysis. S3 gets its per-feature A/B tuning pass here.
+- Each strategy gets one improvement cycle aimed at its R1 failure analysis, one strategy at a time. Go in R1 rank order, so the leaders improve first if the round runs short. S3 gets its per-feature A/B tuning pass here.
 - Tournament on Stage A, then Stage B.
 - **Cull the bottom two**, unless one of them is clearly valuable as a component (for example, S1 as a rollout policy). Culled strategies are kept as opponents and components.
 
@@ -614,9 +622,11 @@ All speed work is measured, not guessed. Profile with `clj-async-profiler` (flam
 
 ## 10. Running this with Claude Code
 
-- **One session per round.** The session opens by reading this doc, `research/LOG.md`, and the previous round's report.
-- **Parallel strategy work:** in R1 and R2, the orchestrating session spawns one subagent per strategy, each in its own git worktree, against the frozen `ai/` contract. Contract changes go through the orchestrator only.
-- **Prior-art lookups:** when writing a rule or evaluator term, a subagent may read the matching Chiriboga or netrunner-rs code for ideas. GPL code is never pasted or translated into this repo (section 2).
+- **Sequential, not parallel.** Work happens one step at a time on the main branch, in the order section 8 gives. Fanning out to parallel subagents or workflows exhausts Claude usage limits, so don't do it.
+  - Subagents are allowed only for an occasional single, bounded lookup.
+  - Parallelism lives in the **compute**, not in Claude: tournaments, tuning and self-play run as multi-threaded background processes.
+- **One session per step.** Within a round, each strategy or optimization step gets its own session, which keeps context small. A session opens by reading this doc, `research/LOG.md`, and the latest round report. It closes by writing a short handoff entry in the log.
+- **Prior-art lookups:** when writing a rule or evaluator term, read the matching Chiriboga or netrunner-rs code directly with targeted greps (clones under `vendor/prior-art/`, gitignored). GPL code is never pasted or translated into this repo (section 2).
 - **Lab notebook discipline:**
   - Every surprising result, dead end, or decision gets a dated entry in `research/LOG.md`.
   - Results are append-only JSONL. Reports cite run IDs.
@@ -643,7 +653,7 @@ All speed work is measured, not guessed. Profile with `clj-async-profiler` (flam
 | R-NaD needs far more self-play than one machine can produce | S5 stays weak | Small Stage A pool, fixed training budget with a kill signal, fallback to R-NaD fine-tuning from an imitation policy in R3 |
 | JAX → PyTorch/MLX port of R-NaD introduces subtle bugs | S5 learns nothing, and we blame the algorithm | Check the port on a small OpenSpiel game (for example Leduc poker) against the reference implementation's exploitability before using it on Netrunner |
 | A learned value head hurts search despite good calibration | S4 is a net negative | Gate the value head separately from the policy prior |
-| GPL code leaks into the MIT repo | Licensing problem | Ideas only; subagents are told not to copy or translate code |
+| GPL code leaks into the MIT repo | Licensing problem | Ideas only; prior-art code is read for reference but never copied or translated |
 | Overfitting to Stage A decks | Fails on Stage C | Stage gates; keep Stage C held out until R3 |
 
 ## 12. Open questions for the user
