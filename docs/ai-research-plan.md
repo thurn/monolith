@@ -20,9 +20,11 @@ Related:
 | T0 Legal | Finishes games without stalls or crashes | Stall rate < 0.5% over 1,000 games |
 | T1 Sane | Crushes random play | ≥ 99% win rate vs `random` on both sides |
 | T2 Competent | Clearly beats a hand-written expert bot | ≥ 70% vs `heuristic` v1 on both sides, measured against each side's null rate (section 7.2) |
-| T3 Club | Plays like a reasonable human | Blind log review (section 7.5), plus the user winning ≤ 60% of 20+ games through the Godot client |
+| T3 Club | Plays like a reasonable human | Blind log review and the tactical puzzle suite (section 7.5) |
 
 The project is done when one strategy (or hybrid) reaches T3 on the chosen deck pool, or when we have strong evidence about why none can, within the compute and time budget.
+
+**The project runs autonomously.** The user won't play games or validate changes during it. Human playtesting through the Godot client is a follow-up after the project ends (section 7.6). Every gate in this plan is therefore machine-checkable.
 
 ## 2. Constraints and non-goals
 
@@ -30,6 +32,7 @@ The project is done when one strategy (or hybrid) reaches T3 on the chosen deck 
 - Allowed:
   - Patching engine hotspots.
   - Changing engine internals for determinism or forking.
+  - All engine changes go into a **local fork** of `mtgred/netrunner` (section 5.4).
   - Writing limited components in other languages: NN inference, a fast run-outcome estimator, the MCTS tree, featurizers.
 - Not allowed: a parallel "fast simulator" that reimplements card rules. Estimators like the run calculator (section 6, S1) are allowed because they only advise. The engine stays the authority, and estimators are calibrated against it.
 - This is still a disposable prototype (see [AGENTS.md](../AGENTS.md)). We write no unit tests. Correctness of engine optimizations is guarded by the upstream test suite and by seeded replay equivalence (section 9.3).
@@ -37,7 +40,8 @@ The project is done when one strategy (or hybrid) reaches T3 on the chosen deck 
 - Agents may know the opponent's **decklist**, but not the order or the hidden identities.
   - This is a deliberate simplification: in tournaments with a known meta, humans largely know what they're facing.
   - netrunner-rs measured this as worth 0.06–0.11 win share to their Corp, so it inflates results. Stage C revisits it (section 7.1).
-- **Licensing:** this repo is MIT. Chiriboga and netrunner-rs are both GPL-3.0. We borrow **designs, formulas, and lessons**, not code. No file from either project is copied or translated line by line.
+- **Licensing:** this repo matches Jinteki.net's MIT license. Chiriboga and netrunner-rs are both GPL-3.0, so we borrow **designs, formulas, and lessons**, not code. No file from either project is copied or translated line by line.
+- **Compute budget:** about 24 wall-clock hours of background self-play per round for S4 and S5 combined.
 
 ## 3. Engine facts that shape this plan
 
@@ -193,21 +197,20 @@ Its roadmap docs record a lot of A/B data. The bot analysis was taken from its r
   - Pin thread and tree counts; never derive them from the host's core count.
   - 384 games resolves about 7 points of win share.
 - **The value-head failure.** A neural value head can be well calibrated and still hurt search. Gate value heads separately from policy priors (S4).
-- **Difficulty knob.** Search budget made a poor difficulty dial for them. A random-action probability ε on top of the strongest bot worked. That's useful later for the Godot game; it is out of scope here.
+- **Difficulty knob.** Search budget made a poor difficulty dial for them. A random-action probability ε on top of the strongest bot worked. That's useful for the Godot game after this project; it is out of scope here.
 
 ## 5. Architecture
 
 Everything runs in-process on the JVM. The JSON sidecar stays the Godot client's interface; the AI work doesn't go through it.
 
 ```
-ai/                                  Leiningen project; source paths include the vendored engine (like sidecar/)
+ai/                                  Leiningen project; source paths include the engine fork in vendor/netrunner (like sidecar/)
   src/monolith/ai/
     harness.clj                      seeded game loop, decision points, watchdog, action log
     moves.clj                        legal action generation (shared by every agent)
     observe.clj                      per-side redacted observation
     determinize.clj                  sample a full state consistent with an observation
-    fork.clj                         snapshot/restore and cross-worker replay
-    engine_patches.clj               alter-var-root overrides: RNG, IDs, logging, hotspots
+    snapshot.clj                     snapshot/restore and cross-worker replay
     knowledge/                       shared Netrunner knowledge used by S1, S2 and S3
       runcalc.clj                    run calculator (branch-and-bound over break sequences)
       cards.clj                      per-card hook multimethods, defaults derived from card data
@@ -217,7 +220,6 @@ ai/                                  Leiningen project; source paths include the
     selfplay.clj                     actor pool for S4 and S5: trajectories out, weights in
     tourney.clj                      round-robin scheduler, results JSONL
   py/                                uv project: S4 training, S5 R-NaD learner, analysis notebooks
-patches/engine/*.patch               source-level engine patches, applied by scripts/setup
 research/
   LOG.md                             running lab notebook (decisions, surprises, dead ends)
   rounds/R1/ … report.md, results.jsonl, profiles/
@@ -276,6 +278,18 @@ The determinizer samples a full game state that matches what one side can see.
 - **Never resample** a card whose identity this side has seen. That includes accessed or exposed cards and the HQ cards tracked by `knowledge/servers.clj`.
 - **Build sampled cards the engine's way** (`make-card` from `server-card`), so they get real subroutines and abilities. netrunner-rs shipped a bug where every sampled ice was a Barrier with no subroutines.
 - **Guess quality:** log the fraction of sampled cards that are actually there, measured offline against the true state. It's a dashboard metric per round.
+
+### 5.4 The engine fork
+
+`vendor/netrunner` becomes a local fork of `mtgred/netrunner`. Every engine change is an ordinary commit there. There are no patch files and no `alter-var-root` overrides.
+
+- **Branches:**
+  - `upstream` stays at the pinned commit `25c256a3`. It is the pristine baseline for `scripts/engine-equiv`.
+  - `monolith` holds our changes. Commits use Conventional Commits, just like this repo.
+- **R0 changes `scripts/setup`** so it checks out `monolith` (creating it from the pin if it's missing) instead of detaching at the pin. Then setup never overwrites fork work.
+- **Behavior only the AI needs goes behind a dynamic var in the fork**, for example `game.core.say/*headless*` to skip log formatting. That keeps the Godot sidecar, which builds from the same fork, unchanged unless a change is meant for both.
+- **Benchmarks name the fork commit.** Every perf result and every tournament records the fork's SHA alongside this repo's SHA.
+- **`vendor/` is gitignored, so the fork's history lives only in `vendor/netrunner/.git`.** Never delete or re-clone `vendor/netrunner` during the project. Pushing it to a private remote is optional later.
 
 ## 6. The five strategies
 
@@ -469,7 +483,7 @@ Agents are compared at **equal wall-clock per decision**. The default is 250 ms 
 
 1. **Stage A:** `gateway-beginner-corp` vs `gateway-beginner-runner`. Small card pool, already used by the prototype, and fully covered by Chiriboga's card notes.
 2. **Stage B:** the System Gateway intermediate decks.
-3. **Stage C:** two or three Worlds-winning pairings, for example 2023 Sokka Corp vs Runner. These are the T3 target.
+3. **Stage C:** the Worlds 2023 decks (`worlds-2023-sokka-corps` vs `worlds-2023-sokka-runs`). These are the T3 target.
    - Stage C also runs a variant where the determinizer gets a format-pool prior instead of the exact decklist. That measures how much the known-decklist simplification is worth.
 
 A strategy moves to the next stage once it passes its tier gate on the current stage. Every card a stage adds needs move-gen coverage first, checked with `random` stall rates.
@@ -504,22 +518,32 @@ The `clairvoyant` gap is a sanity check. If an "honest" agent matches `clairvoya
 
 ### 7.5 Human-likeness review (for T3)
 
+Both checks below run without the user.
+
 - **Blind log review:** Claude (`claude-opus-5-5`) gets 20 game logs, half from the candidate and half from S1. It scores each against a fixed rubric:
   - Wasted clicks.
   - Facechecking with no reason.
   - Unprotected agendas left in a server.
   - Missed lethal or missed scores.
   - Economy collapse.
-- **Human games:** the user plays 20+ games through the Godot client. This needs an `ai` op added to the sidecar. Results and qualitative notes go in `research/LOG.md`.
 - **Tactical puzzle suite:** about 30 positions built with the upstream `do-game` helpers, each with a known best action ("win this turn," "don't run into this," "score now"). The score is the fraction solved within the budget. It gives fast, low-noise signal between tournaments.
+
+### 7.6 After the project: human playtesting
+
+Out of scope during the project, and listed here so the final report can set it up:
+
+- Add an `ai` op to the sidecar so the Godot client can seat a bot.
+- The user plays about 20 games against each finalist. The target is that the user wins at most 60%.
+- Optionally, add an ε-random difficulty ladder (section 4.2).
 
 ## 8. Round schedule
 
-Each round ends with a written report in `research/rounds/<id>/report.md` and a **stop-and-report checkpoint** with the user before the next one starts.
+Each round ends with a written report in `research/rounds/<id>/report.md`. The next round then starts without waiting for review. Stop and ask the user only when blocked, for example by a hard engine limitation or a budget overrun.
 
 **R0: infrastructure (no strategies yet)**
 
-- Build `ai/`: harness, seeded RNG and counter IDs, move gen, observation, determinizer, `random`, and the tournament runner.
+- Set up the engine fork and update `scripts/setup` (section 5.4).
+- Build `ai/`: harness, seeded RNG and counter IDs (as fork commits), move gen, observation, determinizer, `random`, and the tournament runner.
 - Exit criteria:
   - 1,000 seeded `random` vs `random` games on Stage A.
   - Stall rate < 0.5%, livelocks included.
@@ -587,16 +611,17 @@ Each step ends with a smoke match against `random` and S1 before the next step s
 
 **Final: T3 evaluation**
 
-- Human games, blind log review, puzzle suite, and a final report with the ladder results for every surviving agent.
+- Blind log review, puzzle suite, and a final report with the ladder results for every surviving agent.
+- The report ends with a setup checklist for the human playtesting in section 7.6.
 
 ## 9. Optimization playbook
 
-All speed work is measured, not guessed. Profile with `clj-async-profiler` (flamegraphs into `research/rounds/<id>/profiles/`) and the already-bundled `tufte`. Each change is recorded with its before/after µs per action, and engine patches land one at a time so each speedup can be attributed.
+All speed work is measured, not guessed. Profile with `clj-async-profiler` (flamegraphs into `research/rounds/<id>/profiles/`) and the already-bundled `tufte`. Each change is recorded with its before/after µs per action, and engine changes land as one fork commit each so each speedup can be attributed.
 
 ### 9.1 O1 candidates (low risk)
 
 - Host the engine in-process. No JSON, no `public-states` diff on every action; observations are built only when an agent asks.
-- Make logging a no-op in AI games: `system-msg`, `system-say`, toasts, and sfx, via `alter-var-root`. First verify that no game logic reads `:log`.
+- Make logging a no-op in AI games: `system-msg`, `system-say`, toasts, and sfx, behind a `*headless*` flag in the fork (section 5.4). First verify that no game logic reads `:log`.
 - Run full C2 JIT with a warmup phase, and try `ParallelGC` with a large young generation.
 - Run games on parallel threads in one JVM once the global atoms in section 3 are audited. Otherwise use one JVM per worker.
 - Switch off any schema or instrumentation checks in hot paths.
@@ -614,11 +639,11 @@ All speed work is measured, not guessed. Profile with `clj-async-profiler` (flam
 ### 9.3 Correctness safety net for engine changes
 
 - `scripts/engine-equiv`:
-  - Record 500 seeded `random` games on the pristine engine as an action list plus a state hash after each action. The hash strips logs and IDs.
-  - Replay them on the patched engine.
+  - Record 500 seeded `random` games on the fork's `upstream` branch, plus the seeding commits it needs to be deterministic. Store each game as an action list plus a state hash after each action. The hash strips logs and IDs.
+  - Replay them on the `monolith` branch head.
   - Any hash divergence fails.
 - Run the upstream card test namespaces that cover touched code (`lein test game.cards.ice-test` and so on) before each optimization lands.
-- Engine source changes live as ordered files in `patches/engine/`, applied by `scripts/setup`. Function-level overrides live in `engine_patches.clj`. The vendored checkout stays reproducible.
+- Each optimization is its own commit in the fork, with its measured speedup in the commit message, so a regression can be bisected.
 
 ## 10. Running this with Claude Code
 
@@ -644,7 +669,7 @@ All speed work is measured, not guessed. Profile with `clj-async-profiler` (flam
 | Engine too slow for MCTS even after O2 | S2 and S4-v2 underperform | S3 is per-turn bounded; S4-v1 is offline; root-parallelize across 16 workers |
 | Engine too slow for S3's planning budget | The strongest prior strategy is crippled | O1 target of ≤ 200 µs per action; shrink the beam and budget; run lines in parallel across workers |
 | Forkable-atom patch breaks subtle engine behavior | Silent rules bugs | `engine-equiv` hashes, upstream tests, and keeping make/unmake as a fallback |
-| Move gen misses legal actions | Agents are strictly weaker, invisibly | Compare against `playable?` highlights, and log "engine accepted an action we didn't generate" during human games |
+| Move gen misses legal actions | Agents are strictly weaker, invisibly | Compare against `playable?` highlights, and run a coverage probe each round: try every command on every visible card at sampled decision points, and log any action the engine accepts that move gen didn't offer |
 | Prompt livelocks | Stalls, wasted compute (24% of decisions at one point in netrunner-rs) | Progressive selection, state-hash livelock detection, stall bucketing |
 | Hidden-info leak via `:sim` | Inflated results | Anti-cheat review and clairvoyant-gap check every round |
 | Seat bias misread as agent strength | False conclusions | Per-side null rates measured before any comparison |
@@ -654,13 +679,5 @@ All speed work is measured, not guessed. Profile with `clj-async-profiler` (flam
 | JAX → PyTorch/MLX port of R-NaD introduces subtle bugs | S5 learns nothing, and we blame the algorithm | Check the port on a small OpenSpiel game (for example Leduc poker) against the reference implementation's exploitability before using it on Netrunner |
 | A learned value head hurts search despite good calibration | S4 is a net negative | Gate the value head separately from the policy prior |
 | GPL code leaks into the MIT repo | Licensing problem | Ideas only; prior-art code is read for reference but never copied or translated |
+| Fork history lost (`vendor/` is gitignored) | Engine optimizations lost | Never delete or re-clone `vendor/netrunner`; optionally push the fork to a private remote |
 | Overfitting to Stage A decks | Fails on Stage C | Stage gates; keep Stage C held out until R3 |
-
-## 12. Open questions for the user
-
-1. **Training budget:** how many wall-clock hours of background self-play per round can the machine run for S4 and S5? The plan assumes about 24 hours in R1.
-2. **Stage C decks:** are the Worlds 2023 decks the right target, or is there a meta you'd rather play?
-3. **Human games:** are you willing to play about 20 games per finalist? That needs the `ai` sidecar op and a small client change.
-4. **Known decklists:** OK to let agents know the opponent's decklist (section 2)? netrunner-rs measured this as worth 0.06–0.11 to the Corp.
-5. **Engine patches:** fine to keep them as a patch series against the pinned commit, or do you want a fork of `mtgred/netrunner`?
-6. **Licensing:** OK with "ideas, not code" from the GPL projects? The alternative is relicensing this repo as GPL-3.0, which would let us port Chiriboga's card hooks directly.
