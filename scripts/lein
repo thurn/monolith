@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Runs lein on JDK 21 with an isolated LEIN_HOME so ~/.lein/profiles.clj plugins don't leak in.
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+export JAVA_HOME="${JAVA_HOME:-/opt/homebrew/opt/openjdk@21}"
+export PATH="$JAVA_HOME/bin:$PATH"
+export LEIN_HOME="$ROOT/vendor/lein-home"
+mkdir -p "$LEIN_HOME"
+[ -e "$LEIN_HOME/self-installs" ] || ln -s "$HOME/.lein/self-installs" "$LEIN_HOME/self-installs"
+exec lein "$@"

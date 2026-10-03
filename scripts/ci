@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# Builds the sidecar bundle, checks the Godot project compiles, and boots a game headlessly through it.
+set -euo pipefail
+cd "$(dirname "$0")/.."
+GODOT="${GODOT:-/Applications/Godot.app/Contents/MacOS/Godot}"
+
+[ -f vendor/raw_data.edn ] || ./scripts/setup
+./scripts/build-dist
+
+import_log=$("$GODOT" --headless --path client --import 2>&1 || true)
+if grep -E "SCRIPT ERROR|Parse Error|Compile Error" <<<"$import_log"; then
+  echo "ci: GDScript errors" >&2
+  exit 1
+fi
+
+smoke_log=$(timeout 60 "$GODOT" --headless --path client -- --smoke 2>&1)
+echo "$smoke_log" | grep -E "sidecar ready|response id=1"
+if grep -E "SCRIPT ERROR|ERROR" <<<"$smoke_log" || ! grep -q "response id=1" <<<"$smoke_log"; then
+  echo "ci: smoke failed" >&2
+  echo "$smoke_log" >&2
+  exit 1
+fi
+echo "ci: ok"

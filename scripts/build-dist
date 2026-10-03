@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# Builds a self-contained sidecar bundle in dist/: a jlink-trimmed JVM (with a base CDS archive) and the uberjar.
+# The client creates the app-level CDS archive itself on first launch (-XX:+AutoCreateSharedArchive).
+set -euo pipefail
+cd "$(dirname "$0")/.."
+export JAVA_HOME="${JAVA_HOME:-/opt/homebrew/opt/openjdk@21}"
+MODULES=java.base,java.sql,java.logging,java.management,java.naming,jdk.unsupported,java.xml
+
+(cd sidecar && ../scripts/lein uberjar)
+rm -rf dist
+mkdir -p dist
+"$JAVA_HOME/bin/jlink" --add-modules "$MODULES" --strip-debug --no-man-pages --no-header-files \
+  --compress=zip-6 --generate-cds-archive --output dist/runtime
+cp sidecar/target/sidecar.jar dist/sidecar.jar
+
+du -sh dist/runtime dist/sidecar.jar

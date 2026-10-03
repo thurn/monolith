@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# Fetches the Jinteki.net engine source and card data into vendor/ (gitignored).
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+NETRUNNER_COMMIT=25c256a3131e146198b444cd2ff9a1f02ea7cc1a
+DATA_URL=https://raw.githubusercontent.com/NoahTheDuke/netrunner-data/master/edn/raw_data.edn
+
+mkdir -p vendor
+if [ ! -d vendor/netrunner/.git ]; then
+  git clone https://github.com/mtgred/netrunner.git vendor/netrunner
+fi
+git -C vendor/netrunner fetch --quiet origin "$NETRUNNER_COMMIT" 2>/dev/null || true
+git -C vendor/netrunner checkout --quiet "$NETRUNNER_COMMIT"
+
+if [ ! -f vendor/raw_data.edn ]; then
+  curl -fsSL "$DATA_URL" -o vendor/raw_data.edn
+fi
+
+# The engine needs an i18n dictionary for log messages; bundle English only.
+find vendor/netrunner/resources/public/i18n/en -name '*.ftl' | sort | xargs cat > sidecar/resources/en.ftl
+cp vendor/raw_data.edn sidecar/resources/raw_data.edn
+echo "setup complete"

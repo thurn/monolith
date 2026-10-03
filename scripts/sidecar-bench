@@ -1,0 +1,124 @@
+#!/usr/bin/env python3
+"""Drives the sidecar through a few scripted turns and reports latency/payload sizes."""
+import json
+import os
+import statistics
+import subprocess
+import sys
+import time
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+JAVA = os.path.join(os.environ.get("JAVA_HOME", "/opt/homebrew/opt/openjdk@21"), "bin", "java")
+JAR = os.path.join(ROOT, "sidecar", "target", "sidecar.jar")
+
+
+class Sidecar:
+    def __init__(self):
+        t = time.time()
+        self.p = subprocess.Popen([JAVA, "-XX:+UseSerialGC", "-XX:TieredStopAtLevel=1", "-jar", JAR],
+                                  stdin=subprocess.PIPE, stdout=subprocess.PIPE,
+                                  stderr=subprocess.DEVNULL, text=True)
+        ready = json.loads(self.p.stdout.readline())
+        self.boot = time.time() - t
+        print(f"boot: {self.boot*1000:.0f}ms wall, cards loaded in {ready['boot-ms']}ms")
+        self.next_id = 0
+        self.timings = []
+        self.views = None
+
+    def send(self, **req):
+        self.next_id += 1
+        req["id"] = self.next_id
+        t = time.time()
+        self.p.stdin.write(json.dumps(req) + "\n")
+        self.p.stdin.flush()
+        line = self.p.stdout.readline()
+        rtt = (time.time() - t) * 1000
+        resp = json.loads(line)
+        if not resp["ok"]:
+            raise RuntimeError(resp["error"])
+        self.timings.append((req.get("command", req["op"]), resp["ms"], rtt, len(line)))
+        self.views = resp
+        return resp
+
+    def act(self, side, command, args=None):
+        return self.send(op="action", side=side, command=command, args=args or {})
+
+    def me(self, side):
+        return self.views[side][side]
+
+    def choose(self, side, value):
+        ps = self.me(side)["prompt-state"]
+        choice = next(c for c in ps["choices"] if c["value"] == value)
+        return self.act(side, "choice", {"choice": {"uuid": choice["uuid"]}, "eid": ps.get("eid")})
+
+    def card_ref(self, card):
+        return {k: card[k] for k in ("cid", "zone", "side", "type") if k in card}
+
+    def hand_card(self, side, pred):
+        return next((c for c in self.me(side)["hand"] if pred(c)), None)
+
+    def log_tail(self, side, n=3):
+        return [m["text"] for m in self.views[side]["log"][-n:]]
+
+
+def main():
+    s = Sidecar()
+    s.send(op="new-game")
+    s.choose("corp", "Keep")
+    s.choose("runner", "Keep")
+    s.act("corp", "start-turn")
+
+    corp = s.me("corp")
+    print("corp hand:", [c["title"] for c in corp["hand"]], "clicks", corp["click"], "credits", corp["credit"])
+
+    # Install a piece of ice on HQ if we have one, otherwise click for credit.
+    ice = s.hand_card("corp", lambda c: c["type"] == "ICE")
+    if ice:
+        s.act("corp", "play", {"card": s.card_ref(ice)})
+        s.choose("corp", "HQ")
+    else:
+        s.act("corp", "credit")
+    op = s.hand_card("corp", lambda c: c["type"] == "Operation" and c.get("cost", 99) <= s.me("corp")["credit"])
+    if op:
+        s.act("corp", "play", {"card": s.card_ref(op)})
+    while s.me("corp")["click"] > 0:
+        s.act("corp", "credit")
+    s.act("corp", "end-turn")
+    print("corp log:", s.log_tail("corp", 4))
+
+    s.act("runner", "start-turn")
+    s.act("runner", "credit")
+    s.act("runner", "draw")
+    s.act("runner", "run", {"server": "Archives"})
+    print("runner run state:", json.dumps(s.views["runner"].get("run"))[:200])
+    # Pass through the run: keep continuing / accepting prompts until it ends.
+    for _ in range(10):
+        if not s.views["runner"].get("run"):
+            break
+        ps = s.me("runner").get("prompt-state") or {}
+        if ps.get("choices"):
+            s.choose("runner", ps["choices"][0]["value"])
+        else:
+            cps = s.me("corp").get("prompt-state") or {}
+            if cps.get("prompt-type") == "run":
+                s.act("corp", "continue")
+            s.act("runner", "continue")
+    print("runner log:", s.log_tail("runner", 5))
+
+    # Hammer a cheap action to measure steady-state latency.
+    for _ in range(50):
+        s.send(op="state")
+
+    s.p.stdin.close()
+    s.p.wait()
+
+    actions = [t for t in s.timings if t[0] != "state"]
+    print(f"\n{'command':<14}{'engine ms':>10}{'rtt ms':>9}{'bytes':>8}")
+    for name, ms, rtt, size in actions:
+        print(f"{name:<14}{ms:>10.1f}{rtt:>9.1f}{size:>8}")
+    steady = [t[2] for t in s.timings if t[0] == "state"]
+    print(f"\nsteady-state 'state' rtt: median {statistics.median(steady):.2f}ms, max {max(steady):.2f}ms")
+
+
+if __name__ == "__main__":
+    sys.exit(main())

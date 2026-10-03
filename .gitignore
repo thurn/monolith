@@ -1,0 +1,7 @@
+/vendor/
+/sidecar/target/
+/sidecar/resources/raw_data.edn
+/sidecar/resources/en.ftl
+/client/.godot/
+/dist/
+.DS_Store
