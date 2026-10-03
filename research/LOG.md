@@ -52,3 +52,10 @@ Append-only lab notebook for the Netrunner AI project ([plan](../docs/ai-researc
 - R-NaD from scratch: 145k self-play games, 9k learner steps, ~6 h wall clock (part of it paused or reniced). Evaluation vs S1 (clean policy, threshold 0.05): 5 wins in ~1200 games, no trend; mean agenda points per game flat (Corp 0.2–0.4, Runner 0.6–0.8).
 - This is the plan's kill signal (does not beat S1, flat curve). Stopped at ~6 h instead of 24 h to give the CPU to S3/S4 work (relaxation, recorded). R-NaD moves to R3 as fine-tuning from an imitation policy.
 - A/B on S1 Runner run agenda-point value: 5 ≈ 7 (37.0% vs 37.3%); 10/14/20 monotonically worse (30/26/22%). Urgency multiplier 0.3: +2.0 points, p=0.43, not adopted.
+
+## 2026-10-03 — R1 complete (handoff)
+
+- R1 report: `research/rounds/R1/report.md`. Ranking: S3 > S1 > S2 > S4 >> S5. T0/T1 met; T2 not met (S3 +0.11/+0.31 side-rating over S1, need +0.85).
+- Surprise: S4's prior pruning hurts S3; the pure imitation policy is far weaker than S3, but it is the best search-free agent (S5 is the worst).
+- REPL hot-reload of `harness` broke the `NetAgent` protocol binding mid-tournament (400 "stalls" that were harness exceptions); removed and rerun. Run tournaments in fresh JVMs.
+- Next: O2 (profile inside S3), then R2 (S3 tuning first).
