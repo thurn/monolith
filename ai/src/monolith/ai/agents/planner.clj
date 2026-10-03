@@ -64,10 +64,10 @@
 
 (defn plan
   "Beam search from the current (determinized) sim state. Returns {:line [actions] :score x :apps n}."
-  [sm side {:keys [weights decks rng beam max-apps deadline]}]
+  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn]}]
   (let [root (sim/snapshot sm)
         score (fn [status] (let [s (sim/snapshot sm)
-                                 base (ev/for-side s side weights)]
+                                 base (+ (ev/for-side s side weights) (if value-fn (value-fn sm s) 0.0))]
                              (if (= status :run)
                                (+ base (run-utility sm {:weights weights :decks decks :rng rng}))
                                base)))
@@ -83,7 +83,8 @@
                (for [{:keys [line snap]} frontier
                      :let [_ (sim/restore! sm snap)
                            d (sim/decision sm)
-                           acts (when (and d (= side (:side d)) (= :turn (:kind d))) (sim/legal sm d))]
+                           acts (when (and d (= side (:side d)) (= :turn (:kind d))) (sim/legal sm d))
+                           acts (if (and filter-acts (seq acts)) (filter-acts sm d acts) acts)]
                      a acts
                      :while (and (<= @apps max-apps) (<= (System/currentTimeMillis) deadline))
                      :let [_ (sim/restore! sm snap)
@@ -106,7 +107,7 @@
                                                    {} by-score))))]
           (recur (vec keep) (into finals done) (inc depth)))))))
 
-(defrecord Planner [side weights beam max-apps budget-factor plan-state]
+(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn]
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
@@ -127,7 +128,9 @@
                   fresh-turn (not= made-turn (:turn o))
                   deadline (+ (System/currentTimeMillis) (long (* budget-ms (if fresh-turn budget-factor 2))))
                   result (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
-                                             :max-apps max-apps :deadline deadline})
+                                             :max-apps max-apps :deadline deadline
+                                             :filter-acts (when filter-acts (partial filter-acts decks))
+                                             :value-fn (when value-fn (partial value-fn decks))})
                               (finally (sim/end! sm)))
                   best (first (:line result))
                   idx (when best (first (keep-indexed (fn [i x] (when (= (action-key x) (action-key best)) i)) actions)))]
@@ -141,4 +144,4 @@
 (defn make
   ([] (make {}))
   ([{:keys [side weights beam max-apps budget-factor] :or {beam 6 max-apps 2500 budget-factor 8}}]
-   (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}))))
+   (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil nil)))

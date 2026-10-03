@@ -15,6 +15,7 @@
     :planner monolith.ai.agents.planner/make
     :ismcts monolith.ai.agents.ismcts/make
     :neural monolith.ai.agents.neural/make
+    :neural-policy monolith.ai.agents.neural/make-policy
     :rnad monolith.ai.agents.rnad/make
     :clairvoyant monolith.ai.agents.ismcts/make-clairvoyant})
 

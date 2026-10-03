@@ -13,3 +13,4 @@
 /research/rounds/*/rnad/shards/
 /research/rounds/*/rnad/ckpt.pt*
 /research/rounds/*/*/shards/
+/research/rounds/*/s4-data/
