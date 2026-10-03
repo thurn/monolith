@@ -45,15 +45,16 @@
               [{:how [:fire] :st (fire-subs st ice)}])]
     (apply max-key :u
            (for [{:keys [how st]} opts]
-             {:u (if (:ended st) (terminal st ctx false) (:u (walk ctx (inc i) st)))
-              :how how}))))
+             (if (:ended st)
+               {:u (terminal st ctx false) :p 0.0 :how how}
+               (let [r (walk ctx (inc i) st)] {:u (:u r) :p (:p r) :how how}))))))
 
 (defn- approach
   "Utility at the i-th ice (outermost = 0). st carries :corp-credits."
   [ctx i st]
   (let [ice (nth (:ices ctx) i)
         rez-bonus (:rez-bonus ctx 0)
-        jack-out (when (pos? i) {:u (terminal st ctx false) :how [:jack-out]})
+        jack-out (when (pos? i) {:u (terminal st ctx false) :p 0.0 :how [:jack-out]})
         best (fn [r] (if (and jack-out (> (:u jack-out) (:u r))) jack-out r))]
     (cond
       (:known ice)
@@ -69,21 +70,22 @@
         (if (zero? total)
           (best (walk ctx (inc i) st))
           (let [outcomes (for [[t n] affordable
-                               :let [m (cards/printed-ice-model t (:remote? ctx))]]
-                           [(/ n (double total))
-                            (:u (encounter ctx i (update st :corp-credits - (+ (:rez-cost m) rez-bonus)) m))])
-                worst (apply min (map second outcomes))
+                               :let [m (cards/printed-ice-model t (:remote? ctx))
+                                     r (encounter ctx i (update st :corp-credits - (+ (:rez-cost m) rez-bonus)) m)]]
+                           [(/ n (double total)) (:u r) (:p r)])
+                worst (apply min-key second outcomes)
                 ev (reduce + (map (fn [[p u]] (* p u)) outcomes))
-                u (if (= :worst (:mode ctx)) worst ev)]
-            (best {:u u :how [:unknown]})))))))
+                pv (reduce + (map (fn [[p _ q]] (* p q)) outcomes))
+                [u pr] (if (= :worst (:mode ctx)) [(second worst) (nth worst 2)] [ev pv])]
+            (best {:u u :p pr :how [:unknown]})))))))
 
 (defn walk [ctx i st]
   (if (>= i (count (:ices ctx)))
     ;; reached the server: pay any approach toll, then success
     (let [toll (:toll ctx 0)]
       (if (and (pos? toll) (< (:credits st) toll))
-        {:u (terminal st ctx false) :how [:toll-fail]}
-        {:u (terminal (update st :credits - toll) ctx true) :how [:success]}))
+        {:u (terminal st ctx false) :p 0.0 :how [:toll-fail]}
+        {:u (terminal (update st :credits - toll) ctx true) :p 1.0 :how [:success]}))
     (approach ctx i st)))
 
 (defn ice-entry

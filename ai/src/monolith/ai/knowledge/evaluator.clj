@@ -12,7 +12,16 @@
 (defn- capped-credits [c]
   (let [c (double (or c 0))] (if (<= c 10) c (+ 10 (* 0.5 (- c 10))))))
 
-(defn- hosted-credits [cards] (reduce + 0 (map #(get-in % [:counter :credit] 0) cards)))
+(defn- hosted-credits
+  "Credits loaded on cards, discounted by how fast they can be taken (parsed from card text):
+  a slow drip (e.g. 1 per turn) is worth far less than credits taken 3 per click."
+  [cards]
+  (reduce + 0.0 (for [c cards
+                      :let [n (get-in c [:counter :credit] 0)]
+                      :when (pos? n)
+                      :let [txt (str (:text (cards/printed (:title c))))
+                            drip (some-> (re-find #"(?i)when your turn begins, take (\d+)\[credit\]" txt) second parse-long)]]
+                  (* n (if drip (min 0.6 (* 0.18 drip)) 0.6)))))
 
 (defn- ice-value [obs breakers server-weight ices]
   (reduce + 0.0

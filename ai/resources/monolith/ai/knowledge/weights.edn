@@ -12,4 +12,11 @@
  :bluff-advance-p 0.5       ; chance to advance an installed ambush as a bluff when idle
  :max-remotes 3
  ;; S3/S2 evaluator feature weights (multipliers on the named features in knowledge/evaluator.clj)
- :eval {:agenda-points 1.5}}
+ ;; signs and rough scale from a logistic fit of S1 self-play outcomes (research/LOG.md, R1);
+ ;; :ice kept positive because its fitted negative weight is confounded by S1 over-icing when stuck
+ :eval {:agenda-points 2.5
+        :agendas-in-hq -1.0
+        :rig -1.5
+        :hands 1.0
+        :corp-assets 0.5
+        :runner-damage-exposure 2.0}}
