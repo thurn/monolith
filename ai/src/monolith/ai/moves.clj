@@ -142,6 +142,8 @@
           :when (and c (seq (:abilities c)) (not (:disabled c)))
           [i ab] (map-indexed vector (:abilities c))
           :when (and (not (:dynamic ab)) (not (:break ab)) (not (:pump ab))
+                     ;; UI settings such as "Toggle auto-resolve" are not game actions (livelock source)
+                     (not (re-find #"(?i)^toggle auto" (str (:label ab))))
                      (if clicks? true (not (:action ab)))
                      (:playable (ability-playable? ab i state side c)))]
       (act side "ability" {:card (card-ref c) :ability i}

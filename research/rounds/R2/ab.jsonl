@@ -6,3 +6,4 @@
 {"opponent":"heuristic","a-runner":0.44,"n":400,"stalls":0,"a-corp":0.56,"b-runner":0.44,"b-corp":0.56,"b":"heuristic","a-only":0,"b-only":0,"p":1.0,"a":"heuristic{:weights {:corp-rez-reserve 0}}"}
 {"opponent":"heuristic","a-runner":0.345,"n":200,"stalls":0,"a-corp":0.635,"b-runner":0.39,"b-corp":0.665,"b":"planner{:s1-margin 2.0}","a-only":72,"b-only":87,"p":0.26682526360037,"a":"planner"}
 {"opponent":"heuristic","a-runner":0.345,"n":200,"stalls":0,"a-corp":0.635,"b-runner":0.345,"b-corp":0.665,"b":"planner{:s1-margin 5.0}","a-only":76,"b-only":82,"p":0.6909249767026304,"a":"planner"}
+{"opponent":"heuristic","a-runner":0.345,"n":200,"stalls":0,"a-corp":0.635,"b-runner":0.365,"b-corp":0.69,"b":"planner{:rerank 3, :s1-margin 2.0}","a-only":64,"b-only":79,"p":0.24160419524512447,"a":"planner"}
