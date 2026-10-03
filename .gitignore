@@ -5,3 +5,6 @@
 /client/.godot/
 /dist/
 .DS_Store
+/ai/target/
+/ai/.cpcache/
+/research/rounds/*/games/

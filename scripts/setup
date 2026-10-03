@@ -10,8 +10,14 @@ mkdir -p vendor
 if [ ! -d vendor/netrunner/.git ]; then
   git clone https://github.com/mtgred/netrunner.git vendor/netrunner
 fi
-git -C vendor/netrunner fetch --quiet origin "$NETRUNNER_COMMIT" 2>/dev/null || true
-git -C vendor/netrunner checkout --quiet "$NETRUNNER_COMMIT"
+# vendor/netrunner is a local fork: `upstream` stays at the pin, `monolith` carries our engine commits.
+# Never re-clone it; the fork's history lives only in vendor/netrunner/.git.
+if ! git -C vendor/netrunner rev-parse --verify --quiet monolith >/dev/null; then
+  git -C vendor/netrunner fetch --quiet origin "$NETRUNNER_COMMIT" 2>/dev/null || true
+  git -C vendor/netrunner branch upstream "$NETRUNNER_COMMIT" 2>/dev/null || true
+  git -C vendor/netrunner branch monolith "$NETRUNNER_COMMIT"
+fi
+git -C vendor/netrunner checkout --quiet monolith
 
 if [ ! -f vendor/raw_data.edn ]; then
   curl -fsSL "$DATA_URL" -o vendor/raw_data.edn

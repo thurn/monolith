@@ -1,0 +1,20 @@
+#!/usr/bin/env python3
+"""Evaluates Clojure code (argv[1] or stdin) in the ai-repl socket REPL and prints the output."""
+import socket, sys
+code = sys.argv[1] if len(sys.argv) > 1 else sys.stdin.read()
+port = int(__import__("os").environ.get("AI_REPL_PORT", "5555"))
+s = socket.create_connection(("127.0.0.1", port))
+sentinel = ":ai-eval-done-7f3a"
+s.sendall((code + "\n" + sentinel + "\n").encode())
+buf = b""
+while True:
+    chunk = s.recv(65536)
+    if not chunk:
+        break
+    buf += chunk
+    if sentinel.encode() in buf:
+        break
+out = buf.decode(errors="replace")
+out = out.rsplit(sentinel, 1)[0]
+out = __import__("re").sub(r"[\w.\-]+=> ", "", out)
+sys.stdout.write(out.rstrip() + "\n")
