@@ -94,9 +94,10 @@ ai/                                  Leiningen project; source paths include the
     determinize.clj                  sample a full state consistent with an observation
     fork.clj                         snapshot/restore and cross-worker replay
     engine_patches.clj               alter-var-root overrides: RNG, IDs, logging, hotspots
-    agents/random.clj  heuristic.clj  ismcts.clj  planner.clj  neural.clj  llm.clj
+    agents/random.clj  heuristic.clj  ismcts.clj  planner.clj  neural.clj  rnad.clj
+    selfplay.clj                     actor pool for S4 and S5: trajectories out, weights in
     tourney.clj                      round-robin scheduler, results JSONL
-  py/                                uv project: NN training, analysis notebooks
+  py/                                uv project: S4 training, S5 R-NaD learner, analysis notebooks
 patches/engine/*.patch               source-level engine patches, applied by scripts/setup
 research/
   LOG.md                             running lab notebook (decisions, surprises, dead ends)
@@ -156,7 +157,7 @@ A rule-based player written by Claude from Netrunner strategy knowledge.
 - Includes a **run calculator**: can I get through this server with these breakers and credits, given known and unknown ice? It's a limited component used by every strategy.
 - **Why it might win:** fast, explainable, and cheap to improve by reading losses.
 - **Why it might lose:** brittle against specific cards, with combinatorial blind spots.
-- It doubles as the rollout policy for S2 and the default prompt resolver for S3 and S5. Its quality compounds.
+- It doubles as the rollout policy for S2 and the default prompt resolver for S3. It is also the first fixed opponent that S5's learning curve is measured against. Its quality compounds.
 
 ### S2. Information-set MCTS (`ismcts`)
 
@@ -181,27 +182,53 @@ Netrunner turns are short click sequences (Corp 3, Runner 4).
 
 ### S4. Learned policy/value network (`neural`)
 
+This is the **search-based** learning strategy. S5 is the search-free one.
+
 - **v1:** a value net trained on positions from S1–S3 tournament games, labeled by outcome. A policy head is trained to imitate the round's winner.
-- **v2:** self-play improvement. Pick PPO with action masking, or AlphaZero-lite over S2's search, based on round-2 data.
+- **v2:** AlphaZero-lite. S2's search produces visit-count policy targets and the net learns from them; S2 then uses the net as its prior and leaf eval.
 - Actions are variable, so the net scores `(state features, action features)` pairs.
 - Train in Python (PyTorch MPS or MLX). Run inference in the JVM via ONNX Runtime Java with batched calls. That's a limited non-Clojure component.
 - **Why it might win:** it can learn eval features we would never hand-write, and it plugs in as S2's leaf eval and S3's eval.
 - **Why it might lose:** data hunger. Self-play volume depends on engine speed, and featurizing card text is hard. v1 keeps to card-ID embeddings over a fixed deck pool.
 
-### S5. LLM planner (`llm`)
+### S5. Regularized Nash Dynamics (`rnad`)
 
-Claude picks a **turn plan** from a text rendering of the observation and the legal macro-actions. S1 resolves the low-level prompts within that plan.
+R-NaD is the model-free, game-theoretic self-play algorithm from DeepMind's DeepNash (Perolat et al., *Mastering the game of Stratego with model-free multiagent reinforcement learning*, Science 2022). It converges toward a Nash equilibrium in two-player zero-sum imperfect-information games without any search.
 
-- Uses `claude-sonnet-5-5` for play. `claude-opus-5-5` is reserved for log review and is never used as a player.
-- Load the `claude-api` skill before implementing.
-- **Why it might win:** real strategic knowledge of Netrunner, and the most "human-shaped" play.
-- **Why it might lose:** latency, cost, and arithmetic slips (for example, miscounting credits for a run).
-- It plays a **reduced schedule** (about 50–100 games per round) under a hard spend cap agreed with the user before round 1.
-- It also has offline uses: writing S1 rules from loss analysis, and labeling positions for S4.
+How it works, in brief:
+
+- **Reward transformation:** each player's reward is penalized by `η · log(π(a|o) / π_reg(a|o))`, which pulls the learned policy `π` toward a regularization policy `π_reg`. This turns the game into one where learning dynamics converge instead of cycling.
+- **Dynamics:** train `π` to the fixed point of that regularized game using NeuRD (Neural Replicator Dynamics) policy updates and a V-trace–style value estimator for off-policy correction.
+- **Update:** set `π_reg ← π` and repeat. The sequence of fixed points approaches a Nash equilibrium of the original game.
+- **Test-time cleanup:** as in DeepNash, drop actions below a probability threshold and discretize the rest, so the policy doesn't make rare low-probability blunders.
+
+Why it fits Netrunner:
+
+- Netrunner's skill is largely **bluffing and mixed strategy**:
+  - Corp: which face-down card is the agenda, advance-and-bluff remotes, and when to rez.
+  - Runner: which server to pressure and when to call a bluff.
+  - Explicit mixed decisions: psi games and trace bids.
+- Determinized search (S2, S3) is known to handle bluffing badly ("strategy fusion"). R-NaD learns mixed strategies directly and is hard to exploit by construction.
+- **It needs no forking and no determinizer.** Actors only play games forward, so it sidesteps the closure-in-state problem from section 3. Its only engine requirement is raw parallel throughput.
+
+Implementation plan:
+
+- **Actors** run in the JVM: engine games in self-play, policy inference through the same ONNX Runtime path and featurizer as S4. Each trajectory step records the observation features, legal-action features, chosen action, behavior-policy probabilities, and reward.
+- **Learner** runs in Python. Port DeepMind's reference implementation in OpenSpiel (`open_spiel/python/algorithms/rnad/`, JAX) to PyTorch/MLX, or run it on CPU JAX if that's fast enough.
+- Trajectories go from actors to learner as batched files or over a local socket. Weights go back to the actors every N learner steps.
+- **Netrunner is asymmetric**, so use either one network with a side input or two networks (Corp and Runner) trained together. Start with one shared trunk and two policy heads.
+- S4 and S5 share the featurizer and network architecture on purpose. That way a comparison between them tests the algorithm (search-based vs Nash self-play), not the network.
+
+Assessment:
+
+- **Why it might win:** the strongest theoretical fit for hidden information and bluffing, almost no inference cost at play time, and a stochastic policy that feels human rather than robotic.
+- **Why it might lose:** sample hunger. DeepNash trained at a scale far beyond one laptop. We bet that Netrunner on a fixed small deck pool is much smaller than Stratego in the parts that matter, and Stage A's decks are the test of that bet.
+- **Kill signal:** after a fixed training budget, it doesn't beat S1 more than 50% and the learning curve against S1 is flat. Then R-NaD is moved to R3 as a fine-tuning method over an S1- or S4-imitation policy instead of starting from scratch.
+- Training gets a fixed **wall-clock budget per round**, the same as S4, for example 24 hours of background self-play in R1. That keeps the comparison fair.
 
 ### Shared compute budget
 
-Agents are compared at **equal wall-clock per decision**. The default is 250 ms for tournament screening and 2 s for confirmation matches. S5 is exempt and judged separately on quality per dollar.
+Agents are compared at **equal wall-clock per decision**. The default is 250 ms for tournament screening and 2 s for confirmation matches. S5 uses far less than its budget, since inference is microseconds. Training compute for S4 and S5 is budgeted separately per round, in wall-clock hours.
 
 ## 6. Evaluation methodology
 
@@ -266,12 +293,15 @@ Each round ends with a written report in `research/rounds/<id>/report.md` and a 
 **R1: build all five, v1**
 
 - Implement S1–S5 in parallel, one worktree per strategy. Everything depends only on the shared `ai/` contract.
-- Run the full round-robin on Stage A at 250 ms. S5 plays a reduced schedule.
-- Output: first ratings, failure analysis per strategy, the clairvoyant gap, and puzzle scores.
+- S4 and S5 share the featurizer, ONNX inference path, and `selfplay.clj` actor pool. Build these first, in one worktree, before the two strategies split.
+- S5 starts its self-play training budget as soon as the actor pool works, so it trains while the other strategies are being written.
+- Run the full round-robin on Stage A at 250 ms.
+- Output: first ratings, failure analysis per strategy, the clairvoyant gap, puzzle scores, and S5's learning curve against S1.
 
 **O2: search-enabling speed**
 
 - Profile **inside S2 and S3**, not `random`. Search workloads hit different paths (restore, determinize, eval).
+- Profile the S5 actor pool too. It is pure forward play plus inference, so its bottlenecks are featurization, batching, and games/s per core.
 - Do the forkable atom, cheaper determinization, and the hotspots S2 exposes. See section 8.2.
 
 **R2: improve and cull**
@@ -292,7 +322,8 @@ Each round ends with a written report in `research/rounds/<id>/report.md` and a 
 - Combine the survivors. Likely combinations:
   - S4 net as S2's prior and leaf eval.
   - S3's eval inside S2.
-  - S5 as a high-level planner over S2 tactics.
+  - S5's policy as S2's prior, or as the opponent model inside S2 and S3. That replaces "opponent plays like S1" with a near-equilibrium opponent.
+  - R-NaD fine-tuning starting from an S4-imitation policy.
 - Run on Stage C at 2 s/decision.
 
 **Final: T3 evaluation**
@@ -338,9 +369,9 @@ All speed work is measured, not guessed. Profile with `clj-async-profiler` (flam
 - **Commit cadence:** commit immediately and often, with Conventional Commits (`feat(ai): …`, `perf(engine): …`, `docs(research): …`), per AGENTS.md. Every `perf` commit message includes its measured speedup.
 - **Long runs** (tournaments, CMA-ES, self-play) run as background jobs that write progress files. The session checks on them instead of blocking.
 - **Guardrails:**
-  - S5 spend is capped.
-  - Background jobs get wall-clock limits.
-  - There is no network access beyond the Claude API for S5.
+  - Background jobs, including S4 and S5 training, get wall-clock limits.
+  - Training runs checkpoint regularly, so a stopped run can resume.
+  - No AI game makes network calls. All play is local.
 
 ## 10. Risks
 
@@ -351,12 +382,13 @@ All speed work is measured, not guessed. Profile with `clj-async-profiler` (flam
 | Move gen misses legal actions | Agents are strictly weaker, invisibly | Compare against `playable?` highlights, and log "engine accepted an action we didn't generate" during human games |
 | Hidden-info leak via `:sim` | Inflated results | Anti-cheat review and clairvoyant-gap check every round |
 | Engine soft-locks on rare card interactions | Stalls, noisy results | Watchdog, stall bucketing, and excluding stalled games from ratings, reported separately |
-| S5 costs balloon | Budget | Turn-level calls, reduced schedule, hard cap |
+| R-NaD needs far more self-play than one machine can produce | S5 stays weak | Small Stage A pool, fixed training budget with a kill signal, fallback to R-NaD fine-tuning from an imitation policy in R3 |
+| JAX → PyTorch/MLX port of R-NaD introduces subtle bugs | S5 learns nothing, and we blame the algorithm | Check the port on a small OpenSpiel game (for example Leduc poker) against the reference implementation's exploitability before using it on Netrunner |
 | Overfitting to Stage A decks | Fails on Stage C | Stage gates; keep Stage C held out until R3 |
 
 ## 11. Open questions for the user
 
-1. **S5 budget:** what spend cap per round for Claude API play?
+1. **Training budget:** how many wall-clock hours of background self-play per round can the machine run for S4 and S5? The plan assumes about 24 hours in R1.
 2. **Stage C decks:** are the Worlds 2023 decks the right target, or is there a meta you'd rather play?
 3. **Human games:** are you willing to play about 20 games per finalist? That needs the `ai` sidecar op and a small client change.
 4. **Known decklists:** OK to let agents know the opponent's decklist (section 2)?
