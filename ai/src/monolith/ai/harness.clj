@@ -3,17 +3,22 @@
   that reproduces a game exactly."
   (:require
    [monolith.ai.engine :as engine]
-   [monolith.ai.moves :as moves]))
+   [monolith.ai.moves :as moves]
+   [monolith.ai.observe :as observe]))
 
 (defprotocol Agent
   (choose [agent ctx]
-    "ctx = {:side :corp :actions [...] :decision {...} :obs-fn (fn [] obs) :rng Random
-            :budget-ms n :game-view <restricted handle>}. Returns an index into :actions."))
+    "ctx = {:side :corp :actions [...] :decision {...} :obs (delay <redacted view>) :rng Random
+            :budget-ms n :decks {...} :sim <simulator handle or nil>}. Returns an index into :actions."))
 
 (defn opp-titles [g side]
   (keys (engine/decklist (if (= side :corp) (:runner-deck g) (:corp-deck g)))))
 
 (def ^:dynamic *on-step* nil)
+
+(def ^:dynamic *make-sim*
+  "fn [game side] -> simulator handle for search agents (bound by monolith.ai.sim)."
+  nil)
 
 (defn- result [g n stall t0 extra]
   (let [s @(:state g)]
@@ -64,7 +69,10 @@
                     (let [t1 (System/nanoTime)
                           idx (if replay
                                 (first replay)
-                                (choose (agents side) {:side side :actions actions :decision d :game g
+                                (choose (agents side) {:side side :actions actions :decision d
+                                                       :obs (delay (observe/observe @state side))
+                                                       :sim (when *make-sim* (*make-sim* g side))
+                                                       :decks {:corp corp-deck :runner runner-deck}
                                                        :rng (agent-rng side) :budget-ms budget-ms}))
                           _ (vswap! (think-ns side) + (- (System/nanoTime) t1))
                           _ (vswap! (decisions side) inc)

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Runs a tournament. Arg: EDN map, e.g. '{:mode :rr :agents [:random :heuristic] :seeds 200 :out "research/rounds/R1/results.jsonl"}'
+set -euo pipefail
+cd "$(dirname "$0")/.."
+ROOT="$(pwd)"
+cd ai
+exec ../scripts/lein trampoline run -m monolith.ai.tourney "$(echo "$1" | sed "s#:out \"#:out \"$ROOT/#")"

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Replays recorded seeded random games on the current engine fork and reports divergence.
+# Usage: scripts/engine-equiv [record N]   (record must run on the baseline engine commit)
+set -euo pipefail
+cd "$(dirname "$0")/../ai"
+FILE="$(cd .. && pwd)/research/equiv/baseline-500.edn"
+if [ "${1:-}" = record ]; then
+  exec ../scripts/lein trampoline run -m clojure.main -e "(require 'monolith.ai.equiv) (monolith.ai.equiv/record! \"$FILE\" ${2:-500}) (System/exit 0)"
+fi
+exec ../scripts/lein trampoline run -m clojure.main -e "(require 'monolith.ai.equiv) (println (monolith.ai.equiv/check! \"$FILE\")) (System/exit 0)"

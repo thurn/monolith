@@ -61,7 +61,7 @@
   "Runs body with the game's RNG and id counter bound."
   [g & body]
   `(let [g# ~g]
-     (binding [rng/*rng* (:rng g#) rng/*ids* (:ids g#)]
+     (binding [rng/*rng* (:rng g#) rng/*ids* (:ids g#) rng/*headless* true]
        ~@body)))
 
 (defn new-game

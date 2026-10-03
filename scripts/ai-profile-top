@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+"""Summarizes a collapsed-stack profile: top self frames and top inclusive frames matching a filter."""
+import sys, collections, re
+path = sys.argv[1]
+pat = re.compile(sys.argv[2]) if len(sys.argv) > 2 else None
+self_c = collections.Counter(); incl = collections.Counter(); total = 0
+for line in open(path):
+    stack, n = line.rsplit(" ", 1); n = int(n); total += n
+    frames = stack.split(";")
+    self_c[frames[-1]] += n
+    for f in set(frames):
+        if pat is None or pat.search(f): incl[f] += n
+print("total samples", total)
+print("--- top self")
+for f, n in self_c.most_common(25): print(f"{100*n/total:5.1f}% {f[:150]}")
+print("--- top inclusive")
+for f, n in incl.most_common(45): print(f"{100*n/total:5.1f}% {f[:150]}")

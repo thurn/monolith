@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+"""Attributes each sample to its deepest frame matching a prefix (default game/ or monolith/), i.e. 'self' time by Clojure fn."""
+import sys, collections, re
+path = sys.argv[1]
+pat = re.compile(sys.argv[2] if len(sys.argv) > 2 else r'^(game|monolith)/')
+c = collections.Counter(); total = 0
+for line in open(path):
+    stack, n = line.rsplit(" ", 1); n = int(n); total += n
+    fr = [f for f in stack.split(";") if pat.search(f)]
+    key = re.sub(r'\$fn__\d+.*|\.invoke.*|\$iter.*', '', fr[-1]) if fr else '<other>'
+    c[key] += n
+for f, n in c.most_common(int(sys.argv[3]) if len(sys.argv) > 3 else 40): print(f"{100*n/total:5.1f}% {f}")

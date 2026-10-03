@@ -7,4 +7,4 @@
   (choose [_ {:keys [actions ^java.util.Random rng]}]
     (.nextInt rng (count actions))))
 
-(defn make [] (->RandomAgent))
+(defn make ([] (->RandomAgent)) ([_opts] (->RandomAgent)))
