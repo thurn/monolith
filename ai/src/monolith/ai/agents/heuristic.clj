@@ -1,0 +1,573 @@
+(ns monolith.ai.agents.heuristic
+  "S1: rule-based expert in the Chiriboga tradition, rebuilt on shared knowledge modules.
+  A named priority cascade per side; every rule is (fn [env] action-or-nil). The last rule
+  that fired is kept in the agent's :trace atom for failure analysis."
+  (:require
+   [clojure.edn :as edn]
+   [clojure.java.io :as io]
+   [clojure.string :as str]
+   [monolith.ai.engine :as engine]
+   [monolith.ai.harness :as h]
+   [monolith.ai.knowledge.cards :as cards]
+   [monolith.ai.knowledge.runcalc :as runcalc]
+   [monolith.ai.knowledge.servers :as srv]
+   [monolith.ai.moves :as moves]))
+
+(def default-weights (edn/read-string (slurp (io/resource "monolith/ai/knowledge/weights.edn"))))
+
+;;; Helpers
+
+(defn acts [env type] (filter #(= type (:type %)) (:actions env)))
+(defn act [env type] (first (acts env type)))
+(defn act-where [env pred] (first (filter pred (:actions env))))
+(defn card-title [a] (get-in a [:args :card :title]))
+(defn ptype [title] (cards/ctype title))
+(defn me [env] (get (:obs env) (:side env)))
+(defn credits [env] (get-in (:obs env) [(:side env) :credit]))
+(defn clicks [env] (get-in (:obs env) [(:side env) :click]))
+(defn w [env k] (get-in env [:weights k]))
+(defn label-is [a re] (re-find re (str (:label a))))
+
+(defn adv-need [c]
+  (- (or (:current-advancement-requirement c) (:advancementcost c) (:advancementcost (cards/printed (:title c))) 99)
+     (or (:advance-counter c) 0)))
+
+(defn find-card [obs cid]
+  (some #(when (= cid (:cid %)) %) (srv/all-corp-installed obs)))
+
+(defn prompt [env] (moves/current-prompt (:obs env) (:side env)))
+
+(defn choice [env re]
+  (act-where env #(and (#{:choice :done} (:type %)) (label-is % re))))
+
+(defn econ-ability-value
+  "Credits a click ability yields now (0 if it is not an economy ability)."
+  [env a]
+  (let [obs (:obs env)
+        c (some #(when (= (get-in a [:args :card :cid]) (:cid %)) %) (concat (srv/runner-installed obs) (srv/all-corp-installed obs)))
+        hosted (get-in c [:counter :credit] 0)
+        lbl (str (:label a))]
+    (cond
+      (re-find #"(?i)take (\d+) \[credits\]" lbl) (min hosted (parse-long (second (re-find #"(?i)take (\d+)" lbl))))
+      (re-find #"(?i)take all hosted credits" lbl) (+ 1 hosted)
+      (re-find #"(?i)place 3 \[credits\]" lbl) 1.5
+      :else 0)))
+
+(defn best-econ-ability [env]
+  (let [cands (filter #(> (econ-ability-value env %) 1) (acts env :click-ability))]
+    (when (seq cands) (apply max-key #(econ-ability-value env %) cands))))
+
+;;; Corp
+
+(defn corp-decklist [env] (engine/decklist (get-in env [:decks :corp])))
+(defn runner-decklist [env] (engine/decklist (get-in env [:decks :runner])))
+
+(defn ice-install-cost [obs server]
+  (if (= server "New remote") 0 (count (srv/ices obs (srv/server-key server)))))
+
+(defn ice-score
+  "How good a piece of ice is to install (higher is better)."
+  [title]
+  (let [m (cards/printed-ice-model title false)]
+    (+ (if (cards/etr-ice? title) 3 0) (if (cards/damage-ice? title) 1.5 0) (* 0.3 (:strength m)))))
+
+(defn agenda-in-server? [obs k]
+  (some #(or (:hidden %) (#{"Agenda" "Asset"} (:type %))) (srv/content obs k)))
+
+(defn remote-safe?
+  "Runner can't profitably get into remote k next turn (from the Corp's knowledge)."
+  [env k value]
+  (let [obs (:obs env)
+        ev (srv/corp-server-safety obs k value (w env :corp-safety-extra))]
+    (and (seq (srv/ices obs k)) (<= (:u ev) 0.0))))
+
+(defn scoring-remotes
+  "Remotes with ice and no agenda/asset in them, safest first."
+  [env]
+  (let [obs (:obs env)]
+    (->> (srv/remotes obs)
+         (map key)
+         (filter #(and (seq (srv/ices obs %)) (empty? (srv/content obs %))))
+         (sort-by #(- (count (srv/ices obs %)))))))
+
+(defn c-score [env] (act env :score))
+
+(defn c-advance-to-score
+  "Advance an installed agenda that can be scored this turn."
+  [env]
+  (let [obs (:obs env)
+        cands (for [a (acts env :advance)
+                    :let [c (find-card obs (get-in a [:args :card :cid]))]
+                    :when (and c (= "Agenda" (:type c)))
+                    :let [need (adv-need c)]
+                    :when (and (<= need (clicks env)) (<= need (credits env)))]
+                [need a])]
+    (second (first (sort-by first cands)))))
+
+(defn c-seamless
+  "Seamless Launch onto an agenda (not installed this turn) when it makes scoring possible."
+  [env]
+  (when-let [a (act-where env #(and (= :play (:type %)) (= "Seamless Launch" (card-title %))))]
+    (let [obs (:obs env)
+          cands (for [[k _] (srv/remotes obs) c (srv/content obs k)
+                      :when (and (= "Agenda" (:type c)) (not (:new c)) (= true (:installed c)))
+                      :let [need (- (adv-need c) 2)]
+                      :when (and (<= need (dec (clicks env))) (<= (+ 1 (max 0 need)) (credits env)))]
+                  c)]
+      (when (seq cands) a))))
+
+(defn c-protect-centrals
+  "Ice an unprotected HQ/R&D."
+  [env]
+  (let [obs (:obs env)
+        installs (filter #(= "ICE" (ptype (card-title %))) (acts env :install))]
+    (first
+     (for [server ["HQ" "R&D"]
+           :when (empty? (srv/ices obs (srv/server-key server)))
+           a (sort-by #(- (ice-score (card-title %))) installs)
+           :when (= server (get-in a [:args :server]))]
+       a))))
+
+(defn c-install-agenda
+  "Install an agenda into a safe, empty, iced remote when it can be scored by next turn."
+  [env]
+  (let [obs (:obs env)
+        agendas (filter #(= "Agenda" (ptype (card-title %))) (acts env :install))]
+    (first
+     (for [a (sort-by #(- (srv/ap (card-title %))) agendas)
+           k (scoring-remotes env)
+           :when (= (srv/server-name k) (get-in a [:args :server]))
+           :let [req (or (:advancementcost (cards/printed (card-title a))) 9)
+                 after (dec (clicks env))
+                 now-adv (min after (credits env))
+                 next-need (- req now-adv)]
+           :when (and (<= next-need 3) (remote-safe? env k (* 5 (srv/ap (card-title a)))))]
+       a))))
+
+(defn c-advance-for-next-turn
+  "Advance an agenda installed in a remote so it is scorable next turn (never-advance otherwise)."
+  [env]
+  (let [obs (:obs env)]
+    (first
+     (for [a (acts env :advance)
+           :let [c (find-card obs (get-in a [:args :card :cid]))]
+           :when (and c (= "Agenda" (:type c)))
+           :let [need (adv-need c)]
+           :when (and (> need 3) (pos? (credits env)))]
+       a))))
+
+(defn c-build-scoring-remote
+  "Create an iced remote when holding an agenda and none exists."
+  [env]
+  (let [obs (:obs env)
+        hand (get-in obs [:corp :hand])]
+    (when (and (some #(= "Agenda" (:type %)) hand) (empty? (scoring-remotes env)))
+      (first (for [a (sort-by #(- (ice-score (card-title %))) (acts env :install))
+                   :when (and (= "ICE" (ptype (card-title a))) (= "New remote" (get-in a [:args :server])))]
+               a)))))
+
+(defn c-ice-scoring-remote
+  [env]
+  (let [obs (:obs env)
+        hand (get-in obs [:corp :hand])
+        k (first (scoring-remotes env))]
+    (when (and k (some #(= "Agenda" (:type %)) hand)
+               (or (< (count (srv/ices obs k)) (w env :corp-ice-scoring-remote))
+                   (and (< (count (srv/ices obs k)) 4) (not (remote-safe? env k 10.0)))))
+      (first (for [a (sort-by #(- (ice-score (card-title %))) (acts env :install))
+                   :when (and (= "ICE" (ptype (card-title a))) (= (srv/server-name k) (get-in a [:args :server]))
+                              (<= (ice-install-cost obs (srv/server-name k)) (- (credits env) 3)))]
+               a)))))
+
+(defn c-play-econ
+  [env]
+  (let [ops (filter #(pos? (cards/econ-gain (card-title %))) (acts env :play))]
+    (when (< (credits env) 12)
+      (first (sort-by #(- (cards/econ-gain (card-title %))) ops)))))
+
+(defn c-econ-asset-ability [env]
+  (when (< (credits env) 15) (best-econ-ability env)))
+
+(defn c-install-econ-asset
+  [env]
+  (let [obs (:obs env)
+        n-remotes (count (srv/remotes obs))]
+    (when (< n-remotes (w env :max-remotes))
+      (act-where env #(and (= :install (:type %)) (= "New remote" (get-in % [:args :server]))
+                           (= "Asset" (ptype (card-title %))) (cards/load-credits (card-title %)))))))
+
+(defn c-rez-econ
+  [env]
+  (act-where env #(and (= :rez (:type %)) (cards/load-credits (card-title %))
+                       (>= (credits env) (+ (cards/play-cost (card-title %)) 0)))))
+
+(defn c-install-ambush
+  "Install an ambush (advanceable trap) into a new remote as a decoy."
+  [env]
+  (let [obs (:obs env)]
+    (when (< (count (srv/remotes obs)) (w env :max-remotes))
+      (act-where env #(and (= :install (:type %)) (= "New remote" (get-in % [:args :server]))
+                           (srv/trap-damage (card-title %) 0))))))
+
+(defn c-bluff-advance
+  [env]
+  (let [obs (:obs env)]
+    (when (and (>= (credits env) 4) (< (.nextDouble ^java.util.Random (:rng env)) (w env :bluff-advance-p)))
+      (first (for [a (acts env :advance)
+                   :let [c (find-card obs (get-in a [:args :card :cid]))]
+                   :when (and c (srv/trap-damage (:title c) 0) (< (or (:advance-counter c) 0) 3))]
+               a)))))
+
+(defn c-more-ice
+  [env]
+  (let [obs (:obs env)
+        targets (concat ["HQ" "R&D"] (map srv/server-name (filter #(seq (srv/content obs %)) (map key (srv/remotes obs)))))
+        weakest (sort-by #(count (srv/ices obs (srv/server-key %))) targets)]
+    (first (for [server weakest
+                 :when (< (count (srv/ices obs (srv/server-key server))) (if (#{"HQ" "R&D"} server) (w env :corp-ice-per-central) 3))
+                 a (sort-by #(- (ice-score (card-title %))) (acts env :install))
+                 :when (and (= "ICE" (ptype (card-title a))) (= server (get-in a [:args :server]))
+                            (<= (ice-install-cost obs server) (- (credits env) 4)))]
+             a))))
+
+(defn c-draw [env]
+  (let [n (count (get-in (:obs env) [:corp :hand]))]
+    (when (or (< n 4) (and (>= (credits env) 10) (< n 6))) (act env :draw))))
+
+(defn c-credit [env] (act env :credit))
+
+(def corp-turn-rules
+  [[:score c-score]
+   [:advance-to-score c-advance-to-score]
+   [:seamless c-seamless]
+   [:protect-centrals c-protect-centrals]
+   [:install-agenda c-install-agenda]
+   [:advance-for-next-turn c-advance-for-next-turn]
+   [:build-scoring-remote c-build-scoring-remote]
+   [:econ-asset-ability c-econ-asset-ability]
+   [:play-econ c-play-econ]
+   [:ice-scoring-remote c-ice-scoring-remote]
+   [:install-econ-asset c-install-econ-asset]
+   [:rez-econ c-rez-econ]
+   [:more-ice c-more-ice]
+   [:install-ambush c-install-ambush]
+   [:bluff-advance c-bluff-advance]
+   [:draw c-draw]
+   [:credit c-credit]])
+
+(defn corp-run-decision [env]
+  (let [obs (:obs env)
+        run (:run obs)
+        target (first (:server run))]
+    (or
+     ;; rez the approached ice when affordable
+     (act-where env #(and (= :rez (:type %)) (= "ICE" (ptype (card-title %)))))
+     ;; rez upgrades in the attacked server just before the Runner approaches it
+     (when (and (= :movement (:phase run)) (zero? (:position run 0)))
+       (act-where env #(and (= :rez (:type %)) (= "Upgrade" (ptype (card-title %)))
+                            (= target (second (get-in % [:args :card :zone]))))))
+     (act env :fire)
+     (act env :continue))))
+
+(defn corp-end-turn [env]
+  (or (c-rez-econ env) (act env :end-turn)))
+
+;;; Prompts (shared and per side)
+
+(defn hand-card-value
+  "How much a player wants to keep a card in hand (higher = keep)."
+  [env c]
+  (let [t (:title c) typ (or (:type c) (ptype t))]
+    (case typ
+      "Agenda" 10
+      "ICE" (+ 4 (ice-score t))
+      "Operation" (if (pos? (cards/econ-gain t)) (if (<= (cards/play-cost t) (credits env)) 6 3) 2)
+      "Program" (if (cards/icebreaker? t)
+                  (if (some #(= t (:title %)) (get-in (:obs env) [:runner :rig :program])) 1 8)
+                  3)
+      "Event" (cond (pos? (cards/econ-gain t)) 5 (re-find #"(?i)\brun\b" (str (:text (cards/printed t)))) 4 :else 3)
+      3)))
+
+(defn select-best [env score]
+  (let [sels (acts env :select)
+        best (when (seq sels) (apply max-key #(score (get-in % [:args :card])) sels))]
+    (if (and best (pos? (score (get-in best [:args :card])))) best (act env :done))))
+
+(defn prompt-common [env]
+  (let [p (prompt env)
+        msg (str (:msg p))
+        obs (:obs env)]
+    (cond
+      (= :mulligan (:prompt-type p))
+      (let [hand (get-in obs [(:side env) :hand])
+            good (if (= :corp (:side env))
+                   (some #(= "ICE" (:type %)) hand)
+                   (some #(or (cards/icebreaker? (:title %)) (pos? (cards/econ-gain (:title %)))) hand))]
+        (choice env (if good #"^Keep" #"^Mulligan")))
+
+      (re-find #"(?i)^Discard down to" msg)
+      (let [sels (acts env :select)]
+        (when (seq sels) (apply min-key #(hand-card-value env (get-in % [:args :card])) sels)))
+
+      (re-find #"(?i)will now be trashed|^OK$" msg) (choice env #"OK")
+      (re-find #"(?i)choose a trigger to resolve" msg) (first (remove #(= :done (:type %)) (:actions env))))))
+
+(defn corp-prompt [env]
+  (let [p (prompt env)
+        msg (str (:msg p))
+        src (str (:title (:card p)))
+        obs (:obs env)]
+    (or
+     (prompt-common env)
+     (cond
+       (re-find #"(?i)advancement counters on" msg)
+       (select-best env (fn [c] (let [c (find-card obs (:cid c))]
+                                  (if (and c (= "Agenda" (:type c))) (- 10 (adv-need c)) 0))))
+       (re-find #"(?i)ice to install" msg)
+       (select-best env (fn [c] (if (= "ICE" (:type c)) (ice-score (:title c)) 0)))
+       (= "Send a Message" src)
+       (select-best env (fn [c] (if (= "ICE" (:type c)) (cards/play-cost (:title c)) 0)))
+       (re-find #"(?i)ability\?|draw \d+ cards\?" msg) (choice env #"^Yes")
+       :else nil)
+     (first (remove #(re-find #"(?i)cancel" (str (:label %))) (:actions env)))
+     (first (:actions env)))))
+
+;;; Runner
+
+(defn run-opts [env]
+  {:corp-decklist (corp-decklist env) :ap-value (w env :ap-value) :w-damage (w env :w-damage)
+   :hand (count (get-in (:obs env) [:runner :hand]))})
+
+(defn server-run-utility
+  "Expected utility of running server k now, with optional event modifiers."
+  [env k {:keys [credits-bonus rez-bonus extra-access mode hand-delta] :or {credits-bonus 0 rez-bonus 0 extra-access 0 hand-delta 0}}]
+  (let [obs (:obs env)
+        opts (update (run-opts env) :hand + hand-delta)
+        opts (assoc opts :extra-access (+ extra-access (if (and (= k :hq) (some #(= "Docklands Pass" (:title %)) (srv/runner-installed obs))) 1 0)))
+        value (srv/content-value obs k opts)
+        ev (srv/runner-run-eval obs k (assoc opts :value value :credits-bonus credits-bonus :rez-bonus rez-bonus :mode mode))]
+    (- (:u ev) (w env :click-value))))
+
+(defn runnable [env]
+  (for [a (acts env :run)] [(srv/server-key (get-in a [:args :server])) a]))
+
+(defn event-run-options
+  "Run events in hand, as [utility action server-key]."
+  [env]
+  (let [obs (:obs env)
+        servers (map first (runnable env))]
+    (for [a (acts env :play)
+          :let [t (card-title a) txt (str (:text (cards/printed t)))]
+          :when (re-find #"(?i)\brun\b" txt)
+          :let [hq-rd-only (re-find #"(?i)run HQ or R&D" txt)
+                cost (cards/play-cost t)
+                bonus-cr (or (some-> (re-find #"(?i)place (\d+)\[credit\] on this event" txt) second parse-long) 0)
+                rez-bonus (or (some-> (re-find #"(?i)rez cost of each piece of ice is increased by (\d+)" txt) second parse-long) 0)
+                extra (if (re-find #"(?i)access 1 additional card" txt) 1 0)
+                draw (if (re-find #"(?i)draw 1 card" txt) 0.5 0)]
+          k servers
+          :when (or (not hq-rd-only) (#{:hq :rd} k))]
+      [(+ draw (server-run-utility env k {:credits-bonus (- bonus-cr cost) :rez-bonus rez-bonus :extra-access extra :hand-delta -1})) a k])))
+
+(defn ability-run-options
+  "Click abilities that make a run on a central (e.g. Red Team), as [utility action server-key]."
+  [env]
+  (let [obs (:obs env)]
+    (for [a (acts env :click-ability)
+          :when (label-is a #"(?i)run on a central")
+          :let [c (some #(when (= (get-in a [:args :card :cid]) (:cid %)) %) (srv/runner-installed obs))
+                payout (min 3 (get-in c [:counter :credit] 0))
+                ran (set (get-in obs [:runner :register :made-run]))]
+          k [:hq :rd :archives]
+          :when (not (ran k))]
+      [(+ payout (server-run-utility env k {})) a k])))
+
+(defn r-run [env]
+  (let [obs (:obs env)
+        plain (for [[k a] (runnable env)] [(server-run-utility env k {}) a k])
+        all (concat plain (event-run-options env) (ability-run-options env))
+        [u a k] (when (seq all) (apply max-key first all))]
+    (when (and a (> u (w env :min-run-utility)))
+      (swap! (:mem env) assoc :run-target k)
+      a)))
+
+(defn have-breaker-for [obs subtype]
+  (some #(contains? (cards/breaker-types (:title %)) subtype) (get-in obs [:runner :rig :program])))
+
+(defn r-install-breaker [env]
+  (let [obs (:obs env)
+        needed (set (for [[_ srv] (srv/servers obs) c (:ices srv)
+                          :when (not (:hidden c))
+                          st (:subtypes (cards/printed (:title c)))
+                          :when (#{"Barrier" "Code Gate" "Sentry"} st)]
+                      st))
+        all-types #{"Barrier" "Code Gate" "Sentry"}
+        missing (remove #(have-breaker-for obs %) all-types)
+        score (fn [a] (let [types (cards/breaker-types (card-title a))
+                            fixes (filter (set missing) types)]
+                        (+ (* 3 (count (filter needed fixes))) (count fixes)
+                           (if (= #{"Barrier" "Code Gate" "Sentry"} types) -1.5 0))))]
+    (when (seq missing)
+      (let [cands (filter #(and (cards/icebreaker? (card-title %)) (pos? (score %))) (acts env :install))]
+        (when (seq cands)
+          (let [best (apply max-key score cands)]
+            (when (<= (+ (cards/play-cost (card-title best)) 0) (credits env)) best)))))))
+
+(defn r-econ [env]
+  (let [obs (:obs env)
+        cr (credits env)
+        cl (clicks env)]
+    (or
+     (best-econ-ability env)
+     (when (< cr 10) (act-where env #(and (= :play (:type %)) (pos? (cards/econ-gain (card-title %)))
+                                          (not (re-find #"(?i)if you have any \[click\] remaining" (str (:text (cards/printed (card-title %))))))
+                                          (>= cr (cards/play-cost (card-title %))))))
+     (when (or (and (< cr 10) (= 1 cl)) (< cr 4))
+       (act-where env #(and (= :play (:type %)) (pos? (cards/econ-gain (card-title %))))))
+     (when (< cr 12) (act-where env #(and (= :install (:type %)) (cards/load-credits (card-title %))
+                                          (> (cards/load-credits (card-title %)) (cards/play-cost (card-title %)))))))))
+
+(defn r-install-other [env]
+  (act-where env #(and (= :install (:type %))
+                       (#{"Docklands Pass" "Pennyshaver" "Verbal Plasticity"} (card-title %))
+                       (>= (credits env) (+ 2 (cards/play-cost (card-title %)))))))
+
+(defn r-draw [env]
+  (let [obs (:obs env)
+        hand (count (get-in obs [:runner :hand]))]
+    (when (or (< hand 3) (and (< hand 5) (>= (credits env) 6)))
+      (or (when (= 1 (clicks env)) (act-where env #(and (= :play (:type %)) (re-find #"(?i)draw \d+ cards" (str (:text (cards/printed (card-title %))))))))
+          (act env :draw)))))
+
+(defn r-safety-draw
+  "Keep at least 3 cards while the Corp may still have damage."
+  [env]
+  (let [obs (:obs env)]
+    (when (and (< (count (get-in obs [:runner :hand])) 3) (> (clicks env) 1))
+      (act env :draw))))
+
+(def runner-turn-rules
+  [[:safety-draw r-safety-draw]
+   [:econ-critical (fn [env] (when (< (credits env) (w env :runner-econ-floor)) (r-econ env)))]
+   [:install-breaker r-install-breaker]
+   [:run r-run]
+   [:econ r-econ]
+   [:install-other r-install-other]
+   [:draw r-draw]
+   [:credit (fn [env] (act env :credit))]])
+
+(defn current-position-ices
+  "Ice from the current position inward (state order: innermost first)."
+  [obs]
+  (let [run (:run obs)
+        k (first (:server run))
+        ices (srv/ices obs k)
+        pos (:position run 0)]
+    [k (subvec (vec ices) 0 (min pos (count ices)))]))
+
+(defn runner-encounter [env]
+  (let [obs (:obs env)
+        run (:run obs)
+        [k ices] (current-position-ices obs)
+        value (srv/content-value obs k (run-opts env))
+        ev (srv/runner-run-eval (assoc-in obs [:corp :servers k :ices] ices) k (assoc (run-opts env) :value value))
+        how (:how ev)
+        breaks (acts env :break)]
+    (cond
+      (= :break (first how))
+      (or (act-where env #(and (= :break (:type %)) (= (second how) (card-title %))))
+          (first breaks)
+          (act env :continue))
+      :else (act env :continue))))
+
+(defn runner-run-decision [env]
+  (let [obs (:obs env)
+        run (:run obs)]
+    (or
+     (when (and (= :movement (:phase run)) (act env :jack-out))
+       (let [[k ices] (current-position-ices obs)
+             value (srv/content-value obs k (run-opts env))
+             ev (srv/runner-run-eval (assoc-in obs [:corp :servers k :ices] ices) k (assoc (run-opts env) :value value))]
+         (when (neg? (:u ev)) (act env :jack-out))))
+     (act env :continue))))
+
+(defn trash-worth? [env c-title cost]
+  (let [obs (:obs env)
+        cr (credits env)
+        c (some #(when (= c-title (:title %)) %) (srv/all-corp-installed obs))
+        left (get-in c [:counter :credit] (or (cards/load-credits c-title) 0))]
+    (cond
+      (> cost cr) false
+      (cards/load-credits c-title) (or (and (:rezzed c) (>= left (* 2 cost)) (>= (- cr cost) 1))
+                                       (and (not (:rezzed c)) (>= (- cr cost) 3)))
+      (re-find #"(?i)approaches this server" (str (:text (cards/printed c-title)))) (>= (- cr cost) 2)
+      :else (>= (- cr cost) 8))))
+
+(defn runner-prompt [env]
+  (let [p (prompt env)
+        msg (str (:msg p))
+        src (str (:title (:card p)))
+        obs (:obs env)]
+    (or
+     (prompt-common env)
+     (cond
+       (choice env #"^Steal$") (choice env #"^Steal$")
+       (re-find #"(?i)^You accessed" msg)
+       (let [tr (choice env #"(?i)to trash")
+             cost (some-> (re-find #"Pay (\d+)" (str (:label tr))) second parse-long)]
+         (if (and tr cost (trash-worth? env src cost)) tr (or (choice env #"(?i)^No action") (first (:actions env)))))
+
+       (re-find #"(?i)^Choose a server" msg)
+       (let [target (:run-target @(:mem env))]
+         (or (when target (choice env (re-pattern (str "^" (java.util.regex.Pattern/quote (srv/server-name target)) "$"))))
+             (let [cs (remove #(re-find #"(?i)cancel" (:label %)) (acts env :choice))]
+               (when (seq cs) (apply max-key #(server-run-utility env (srv/server-key (:label %)) {}) cs)))))
+
+       (re-find #"(?i)Jack out\?" msg)
+       (choice env (if (<= (count (get-in obs [:runner :hand])) 2) #"^Yes" #"^No"))
+
+       (= "Manegarm Skunkworks" src)
+       (or (when (>= (credits env) 7) (choice env #"(?i)^Pay"))
+           (when (>= (clicks env) 2) (choice env #"(?i)^Spend"))
+           (choice env #"(?i)^End the run"))
+
+       (re-find #"(?i)Insufficient MU" msg)
+       (select-best env (fn [c] (if (= "Mayfly" (:title c)) 10 (if (cards/icebreaker? (:title c)) 1 2))))
+
+       (re-find #"(?i)credit providing card" msg)
+       (or (first (acts env :select)) (act env :done))
+
+       (re-find #"(?i)choose a card to access|click a card to access" msg)
+       (or (first (remove #(= :done (:type %)) (:actions env))))
+       :else nil)
+     (first (remove #(re-find #"(?i)cancel" (str (:label %))) (:actions env)))
+     (first (:actions env)))))
+
+;;; Agent
+
+(defn decide [env]
+  (let [{:keys [side decision]} env
+        kind (:kind decision)
+        rules (cond
+                (= kind :prompt) [[:prompt (if (= side :corp) corp-prompt runner-prompt)]]
+                (= kind :turn) (if (= side :corp) corp-turn-rules runner-turn-rules)
+                (= kind :run) [[:run (if (= side :corp) corp-run-decision runner-run-decision)]]
+                (= kind :encounter) [[:encounter (if (= side :corp) corp-run-decision runner-encounter)]]
+                (= kind :end-turn) [[:end-turn (if (= side :corp) corp-end-turn #(act % :end-turn))]]
+                :else [])]
+    (or (some (fn [[nm rule]] (when-let [a (rule env)] [nm a])) rules)
+        [:fallback (first (:actions env))])))
+
+(defrecord Heuristic [side weights mem trace]
+  h/Agent
+  (choose [_ ctx]
+    (let [env (assoc ctx :obs @(:obs ctx) :weights weights :mem mem)
+          [nm a] (decide env)
+          idx (or (first (keep-indexed (fn [i x] (when (identical? x a) i)) (:actions ctx))) 0)]
+      (reset! trace nm)
+      idx)))
+
+(defn make
+  ([] (make {}))
+  ([{:keys [side weights]}]
+   (->Heuristic side (merge default-weights weights) (atom {}) (atom nil))))

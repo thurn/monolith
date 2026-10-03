@@ -1,0 +1,13 @@
+;; Every tunable constant for the knowledge-driven agents (S1 rules, S3 evaluator features).
+{:ap-value 7.0              ; credits-equivalent of one agenda point for run decisions
+ :click-value 1.0           ; credits-equivalent of one click
+ :w-damage 2.0              ; credits-equivalent per net damage taken
+ :min-run-utility 0.5       ; run only if expected utility exceeds this
+ :runner-econ-floor 4       ; below this, prefer economy over running
+ :corp-econ-floor 5         ; Corp prefers economy below this many credits
+ :corp-rez-reserve 0        ; credits kept back when rezzing ice
+ :corp-safety-extra 4       ; assume the Runner has this many more credits next turn
+ :corp-ice-per-central 2    ; target ice count on HQ / R&D
+ :corp-ice-scoring-remote 2 ; target ice count on the scoring remote
+ :bluff-advance-p 0.5       ; chance to advance an installed ambush as a bluff when idle
+ :max-remotes 3}
