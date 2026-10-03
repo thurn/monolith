@@ -182,7 +182,7 @@
 (defn c-play-econ
   [env]
   (let [ops (filter #(pos? (cards/econ-gain (card-title %))) (acts env :play))]
-    (when (< (credits env) 12)
+    (when (< (credits env) (w env :corp-econ-cap))
       (first (sort-by #(- (cards/econ-gain (card-title %))) ops)))))
 
 (defn c-econ-asset-ability [env]
@@ -227,7 +227,7 @@
                  :when (< (count (srv/ices obs (srv/server-key server))) (if (#{"HQ" "R&D"} server) (w env :corp-ice-per-central) 3))
                  a (sort-by #(- (ice-score (card-title %))) (acts env :install))
                  :when (and (= "ICE" (ptype (card-title a))) (= server (get-in a [:args :server]))
-                            (<= (ice-install-cost obs server) (- (credits env) 4)))]
+                            (<= (ice-install-cost obs server) (- (credits env) (w env :corp-ice-reserve))))]
              a))))
 
 (defn c-draw [env]
@@ -427,7 +427,7 @@
         cl (clicks env)]
     (or
      (best-econ-ability env)
-     (when (< cr 10) (act-where env #(and (= :play (:type %)) (pos? (cards/econ-gain (card-title %)))
+     (when (< cr (w env :runner-econ-cap)) (act-where env #(and (= :play (:type %)) (pos? (cards/econ-gain (card-title %)))
                                           (not (re-find #"(?i)if you have any \[click\] remaining" (str (:text (cards/printed (card-title %))))))
                                           (>= cr (cards/play-cost (card-title %))))))
      (when (or (and (< cr 10) (= 1 cl)) (< cr 4))
@@ -443,7 +443,7 @@
 (defn r-draw [env]
   (let [obs (:obs env)
         hand (count (get-in obs [:runner :hand]))]
-    (when (or (< hand 3) (and (< hand 5) (>= (credits env) 6)))
+    (when (or (< hand (w env :runner-draw-below)) (and (< hand 5) (>= (credits env) 6)))
       (or (when (= 1 (clicks env)) (act-where env #(and (= :play (:type %)) (re-find #"(?i)draw \d+ cards" (str (:text (cards/printed (card-title %))))))))
           (act env :draw)))))
 
