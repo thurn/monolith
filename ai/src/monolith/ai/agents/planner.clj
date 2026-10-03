@@ -174,7 +174,7 @@
             (do (swap! plan-state update :line rest) follow)
             (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))
                   fresh-turn (not= made-turn (:turn o))
-                  deadline (+ (System/currentTimeMillis) (long (* budget-ms (if fresh-turn budget-factor 2))))
+                  deadline (+ (System/currentTimeMillis) (long (* budget-ms (if fresh-turn budget-factor 4))))
                   result (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
                                              :max-apps max-apps :deadline deadline :rerank rerank
                                              :filter-acts (when filter-acts (partial filter-acts decks))
@@ -191,5 +191,5 @@
 
 (defn make
   ([] (make {}))
-  ([{:keys [side weights beam max-apps budget-factor rerank] :or {beam 6 max-apps 2500 budget-factor 8 rerank 0}}]
+  ([{:keys [side weights beam max-apps budget-factor rerank] :or {beam 6 max-apps 2500 budget-factor 16 rerank 0}}]
    (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil nil rerank)))
