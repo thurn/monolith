@@ -335,8 +335,13 @@
 ;;; Runner
 
 (defn run-opts [env]
-  {:corp-decklist (corp-decklist env) :ap-value (w env :ap-value) :w-damage (w env :w-damage)
-   :hand (count (get-in (:obs env) [:runner :hand]))})
+  (let [corp-ap (get-in (:obs env) [:corp :agenda-point] 0)
+        ;; urgency: steals matter more as the Corp nears 7 points
+        urgency (+ 1.0 (* (or (w env :run-urgency) 0.0) (max 0 (- corp-ap 3))))]
+    {:corp-decklist (corp-decklist env)
+     :ap-value (* urgency (or (w env :run-ap-value) (w env :ap-value)))
+     :w-damage (w env :w-damage)
+     :hand (count (get-in (:obs env) [:runner :hand]))}))
 
 (defn server-run-utility
   "Expected utility of running server k now, with optional event modifiers."

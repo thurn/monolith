@@ -1,0 +1,1 @@
+{"opponent":"heuristic","a-runner":0.37333333333333335,"n":300,"stalls":0,"a-corp":0.6266666666666667,"b-runner":0.30333333333333334,"b-corp":0.6266666666666667,"b":"heuristic{:weights {:run-ap-value 10.0}}","a-only":59,"b-only":38,"p":0.041729321201287806,"a":"heuristic"}

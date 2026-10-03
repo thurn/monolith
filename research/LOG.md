@@ -37,3 +37,12 @@ Append-only lab notebook for the Netrunner AI project ([plan](../docs/ai-researc
 - S1 null rate after the fix: Corp 62.5% (40 games) vs 49% before.
 - S3 planner v1: solves 14/14 tactical puzzles after fixes (line must include free end-of-turn scoring; agenda EV must subtract remaining advancement cost), but loses to S1 in full games. Traces showed the Corp overwriting its own agendas by installing assets into occupied remotes, rezzing ambushes, then (after a fix) drawing itself out. Pruned overwrite-installs and trap rezzes from planner lines; evaluator weights to be fitted from data (next entry).
 - S2 v1: ~19 MCTS iterations per decision at 250 ms (S1 rollouts are ~30 ms each); deviating from S1 on noisy rollout means made it much worse (Corp 30%, Runner 13% vs S1). Now only deviates with ≥4 visits and a 0.15 tanh-margin.
+
+## 2026-10-03 — R1: evaluator fit, S3 fixes, first A/B
+
+- Logistic fit of S1 self-play outcomes on evaluator features (75k turn-start positions, `ai/py/monolith_ai/fit_eval.py`): accuracy 0.653, logloss 0.624 (base rate 0.570). Exposed a **sign bug**: the `:rig` feature (Runner breakers/installs) was counted as good for the Corp, so S3's Runner avoided building a rig. Fitted scale: 1 agenda point ≈ 23 credits; agendas in HQ are a liability (−7.7 credits per point); ice is fitted negative (−8.8), which is confounded by S1 over-icing when it is stuck, so ice stays positive by judgment.
+- S3's Runner then farmed Smartware Distributor's "place 3 credits" every click (hosted credits counted as liquid). Hosted credits are now discounted by their release rate parsed from card text (a 1-per-turn drip is worth 0.18 per credit).
+- After these fixes S3 beats S1 in both seats (40 games each): Corp 77.5% vs S1 null 62.5%; as Runner it holds S1's Corp to 50%.
+- T2 interpretation (pre-registered here): "≥70% vs S1 on both sides measured against null rates" means a Bradley-Terry side-rating gain of logit(0.7) = 0.85 over S1. With S1's Corp null at 62.5%, that is ≥80% Corp wins vs S1's Runner and ≥58% Runner wins vs S1's Corp.
+- A/B (300 paired seeds, both seats vs S1): S1 Runner with run agenda-point value 10 instead of 7 wins 30.3% vs 37.3% (McNemar p=0.04). More aggressive running hurts S1.
+- S5 actors reniced to +15 so data generation and A/B runs get the CPU; S5 keeps the idle cycles.
