@@ -46,3 +46,9 @@ Append-only lab notebook for the Netrunner AI project ([plan](../docs/ai-researc
 - T2 interpretation (pre-registered here): "≥70% vs S1 on both sides measured against null rates" means a Bradley-Terry side-rating gain of logit(0.7) = 0.85 over S1. With S1's Corp null at 62.5%, that is ≥80% Corp wins vs S1's Runner and ≥58% Runner wins vs S1's Corp.
 - A/B (300 paired seeds, both seats vs S1): S1 Runner with run agenda-point value 10 instead of 7 wins 30.3% vs 37.3% (McNemar p=0.04). More aggressive running hurts S1.
 - S5 actors reniced to +15 so data generation and A/B runs get the CPU; S5 keeps the idle cycles.
+
+## 2026-10-03 — S5 stopped early (kill signal)
+
+- R-NaD from scratch: 145k self-play games, 9k learner steps, ~6 h wall clock (part of it paused or reniced). Evaluation vs S1 (clean policy, threshold 0.05): 5 wins in ~1200 games, no trend; mean agenda points per game flat (Corp 0.2–0.4, Runner 0.6–0.8).
+- This is the plan's kill signal (does not beat S1, flat curve). Stopped at ~6 h instead of 24 h to give the CPU to S3/S4 work (relaxation, recorded). R-NaD moves to R3 as fine-tuning from an imitation policy.
+- A/B on S1 Runner run agenda-point value: 5 ≈ 7 (37.0% vs 37.3%); 10/14/20 monotonically worse (30/26/22%). Urgency multiplier 0.3: +2.0 points, p=0.43, not adopted.
