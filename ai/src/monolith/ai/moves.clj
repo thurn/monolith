@@ -265,6 +265,10 @@
       :start-turn [(act side "start-turn" {} "start turn" :start-turn)]
       :turn ((if (= side :corp) corp-turn-actions runner-turn-actions) state)
       :end-turn (concat [(act side "end-turn" {} "end turn" :end-turn)]
+                        (when (= side :corp)
+                          (for [c (all-installed state :corp)
+                                :when (and (agenda? c) (can-score? state :corp c))]
+                            (act :corp "score" {:card (card-ref c)} (str "score " (:title c)) :score)))
                         (when (= side :corp) (rez-actions state :corp (non-ice-unrezzed state)))
                         (ability-actions state side {:clicks? false}))
       nil []))))

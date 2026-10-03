@@ -270,7 +270,7 @@
      (act env :continue))))
 
 (defn corp-end-turn [env]
-  (or (c-rez-econ env) (act env :end-turn)))
+  (or (c-score env) (c-rez-econ env) (act env :end-turn)))
 
 ;;; Prompts (shared and per side)
 

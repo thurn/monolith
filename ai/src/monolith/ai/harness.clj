@@ -33,11 +33,11 @@
 (defn play-game
   "Plays one game. agents: {:corp agent :runner agent}. Returns a result map with :log, the
   list of chosen indices, enough to replay with `replay-game`."
-  [{:keys [seed corp-deck runner-deck agents max-actions max-turn-actions replay budget-ms]
+  [{:keys [seed corp-deck runner-deck agents max-actions max-turn-actions replay budget-ms game stop-fn]
     :or {corp-deck :gateway-beginner-corp runner-deck :gateway-beginner-runner
          max-actions 6000 max-turn-actions 400 budget-ms 250}}]
   (let [t0 (System/nanoTime)
-        g (engine/new-game {:seed seed :corp corp-deck :runner runner-deck})
+        g (or game (engine/new-game {:seed seed :corp corp-deck :runner runner-deck}))
         state (:state g)
         agent-rng {:corp (java.util.Random. (+ seed 1000003)) :runner (java.util.Random. (+ seed 2000003))}
         titles {:corp (opp-titles g :corp) :runner (opp-titles g :runner)}
@@ -51,6 +51,7 @@
             tk [(:turn s) (:active-player s)]
             turn-n (if (= tk turn-key) (inc turn-n) 0)]
         (cond
+          (and stop-fn (stop-fn s)) (result g n nil t0 {:log (persistent! log) :stopped true})
           (moves/game-over? s) (result g n nil t0 {:log (persistent! log) :noops @noops
                                                    :think-ms {:corp (quot @(think-ns :corp) 1000000) :runner (quot @(think-ns :runner) 1000000)}
                                                    :decisions {:corp @(decisions :corp) :runner @(decisions :runner)}})
