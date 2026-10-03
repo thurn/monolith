@@ -36,13 +36,22 @@
 (defmulti ice-subs-override :title)
 (defmethod ice-subs-override :default [_] nil)
 
+(defn- conditional-etr?
+  "Card text ends the run as a side effect of a damage subroutine (e.g. Diviner's odd-cost check),
+  which the subroutine label alone does not show. Treated as ETR (pessimistic)."
+  [title]
+  (re-find #"(?i)if you trash a card this way.*end the run" (str (:text (printed title)))))
+
 (defn ice-subs
   "Subroutine effects for a known ice card (state card or title)."
   [card]
   (let [card (if (string? card) {:title card} card)]
     (or (ice-subs-override card)
         (let [subs (or (seq (:subroutines card)) (:subroutines (card-def card)))]
-          (mapv (fn [s] (assoc (parse-sub (:label s)) :broken (:broken s))) subs)))))
+          (mapv (fn [s] (let [m (parse-sub (:label s))]
+                          (cond-> (assoc m :broken (:broken s))
+                            (and (:net m) (conditional-etr? (:title card))) (assoc :etr true))))
+                subs)))))
 
 (defn ice-model
   "Run-calculator view of a known ice."

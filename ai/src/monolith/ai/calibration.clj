@@ -23,11 +23,18 @@
                     (and run (nil? @cur))
                     (let [o (observe/observe s :runner)
                           k (first (:server run))
-                          ev (srv/runner-run-eval o k {:corp-decklist decklist :value 1.0})]
-                      (vreset! cur {:p (:p ev) :server k :n-ice (count (srv/ices o k)) :success false
-                                    :id (:run-id run)}))
-                    (and run @cur (:successful run)) (vswap! cur assoc :success true)
-                    (and (nil? run) @cur) (do (conj! runs (dissoc @cur :id)) (vreset! cur nil)))))]
+                          opts {:corp-decklist decklist :ap-value 7.0 :w-damage 2.0 :hand (count (get-in o [:runner :hand]))}
+                          ev (srv/runner-run-eval o k (assoc opts :value (srv/content-value o k opts)))]
+                      (vreset! cur {:p (:p ev) :server k :n-ice (count (srv/ices o k)) :success false :how (:how ev)
+                                    :ice (mapv (juxt :title :rezzed) (get-in s [:corp :servers k :ices]))
+                                    :credits (get-in s [:runner :credit]) :corp-credits (get-in s [:corp :credit])
+                                    :breakers (mapv :title (get-in s [:runner :rig :program]))
+                                    :id (:run-id run)
+                                    :succ0 (count (get-in s [:runner :register :successful-run]))}))
+                    (and (nil? run) @cur)
+                    (let [succ (> (count (get-in s [:runner :register :successful-run])) (:succ0 @cur))]
+                      (conj! runs (dissoc (assoc @cur :success succ) :id :succ0))
+                      (vreset! cur nil)))))]
       (tourney/play-one {:corp corp :runner runner :seed seed :corp-deck corp-deck :runner-deck runner-deck :budget-ms 250}))
     (persistent! runs)))
 
