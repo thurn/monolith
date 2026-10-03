@@ -97,12 +97,14 @@
    {:name "corp-win-by-scoring"
     :spec {:active :corp :corp {:credits 6 :hand ["Hedge Fund"] :scored ["Send a Message" "Offworld Office"]
                                 :install [{:t "Whitespace" :server "New remote" :rez true}
-                                          {:t "Superconducting Hub" :server "Server 1" :adv 1}]}}
+                                          {:t "Offworld Office" :server "Server 1" :adv 2}]}}
     :goal (fn [a b] (= :corp (:winner b)))}
-   {:name "corp-protect-hq-with-agendas"
-    :spec {:active :corp :corp {:credits 6 :hand ["Offworld Office" "Send a Message" "Palisade"]}
-           :runner {:install ["Cleaver"]}}
-    :goal (fn [a b] (seq (get-in b [:corp :servers :hq :ices])))}
+   {:name "corp-rez-to-stop-steal"
+    :agent-side :corp
+    :spec {:active :runner :corp {:credits 5 :install [{:t "Palisade" :server "New remote"}
+                                                       {:t "Send a Message" :server "Server 1" :adv 3}]}
+           :runner {:credits 5 :hand ["Sure Gamble" "VRcation" "Creative Commission"]}}
+    :goal (fn [a b] (some #(= "Send a Message" (:title %)) (get-in b [:corp :servers :remote1 :content])))}
    {:name "corp-no-naked-agenda"
     :spec {:active :corp :corp {:credits 3 :hand ["Offworld Office" "Hedge Fund" "Hedge Fund"]}
            :runner {:credits 8}}
@@ -150,13 +152,14 @@
 (defn solve
   "Plays the puzzle's acting side with agent-spec (opponent: S1) until that side's turn ends.
   Returns {:name :solved bool}."
-  [agent-spec {:keys [name spec goal]} seed]
+  [agent-spec {:keys [name spec goal agent-side]} seed]
   (let [g (build (assoc spec :seed seed))
         side (:active spec)
+        me (or agent-side side)
         start @(:state g)
         turn (:turn start)
-        agents {side (tourney/make-agent agent-spec side)
-                (if (= side :corp) :runner :corp) (tourney/make-agent :heuristic (if (= side :corp) :runner :corp))}
+        agents {me (tourney/make-agent agent-spec me)
+                (if (= me :corp) :runner :corp) (tourney/make-agent :heuristic (if (= me :corp) :runner :corp))}
         r (h/play-game {:seed seed :game g :agents agents :budget-ms 250
                         :stop-fn (fn [s] (or (not= side (:active-player s)) (:end-turn s) (not= turn (:turn s))))})
         end @(:state g)]

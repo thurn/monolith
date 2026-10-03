@@ -46,7 +46,13 @@
         (> n budget) {:status :cutoff :n n}
         (and (= side :runner) (:run s)) {:status :run :n n}
         (and (= (:side d) side) (= :turn (:kind d))) {:status :open :n n}
-        (and (= (:side d) side) (= :end-turn (:kind d))) {:status :end :n n}
+        ;; out of clicks: let S1 take free end-of-turn actions (score, rez economy) inside the line
+        (and (= (:side d) side) (= :end-turn (:kind d)))
+        (let [acts (sim/legal sm d)
+              a (s1-choose sm d acts weights decks rng)]
+          (if (and a (not= :end-turn (:type a)) (sim/apply! sm a))
+            (recur (inc n))
+            {:status :end :n n}))
         (#{:start-turn :end-turn :turn} (:kind d)) {:status :end :n n}
         :else
         (let [acts (sim/legal sm d)]
