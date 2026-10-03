@@ -59,3 +59,13 @@ Append-only lab notebook for the Netrunner AI project ([plan](../docs/ai-researc
 - Surprise: S4's prior pruning hurts S3; the pure imitation policy is far weaker than S3, but it is the best search-free agent (S5 is the worst).
 - REPL hot-reload of `harness` broke the `NetAgent` protocol binding mid-tournament (400 "stalls" that were harness exceptions); removed and rerun. Run tournaments in fresh JVMs.
 - Next: O2 (profile inside S3), then R2 (S3 tuning first).
+
+## 2026-10-03 — R2: S3 A/Bs (200 paired seeds × both seats vs S1)
+
+- S3 games are now deterministic replays (app cap binds, so baseline A rows are identical across A/Bs): baseline Corp 0.635, Runner 0.345.
+- rerank 3 (S1 rollouts through the opponent's turn): Corp 0.670, Runner 0.350, p=0.54. Not adopted yet.
+- beam 10 / 5,000 apps: 0.615 / 0.360, p=1.0. **More search does not help; the evaluator is the bottleneck.**
+- ice weight 0.5: Corp 0.535 (−10 points), p=0.13. Kept at 1.0.
+- agendas-in-hq −2.0: 0.655 / 0.345, p=0.60. Run urgency 0.3: no net effect.
+- S1 null after the Diviner fix: 0.583 Corp (400 games). Corp rez reserve 4 vs 0: identical games (never binds).
+- Implication: S3's Runner (0.345) is now below S1's Runner (0.417). Testing an S1-anchored planner (deviate from S1 only when the plan beats S1's best line by a margin).

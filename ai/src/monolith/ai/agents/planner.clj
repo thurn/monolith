@@ -124,7 +124,11 @@
                                   (assoc c :score (+ 10000.0 (rollout-score sm side weights decks rng 400)))))
                             all)
                     all)]
-          (assoc (if (seq all) (apply max-key :score all) {:line [] :score 0.0}) :apps @apps))
+          (assoc (if (seq all) (apply max-key :score all) {:line [] :score 0.0})
+                 :apps @apps
+                 :by-first (reduce (fn [m c] (let [k (action-key (first (:line c)))]
+                                               (assoc m k (max (get m k Double/NEGATIVE_INFINITY) (:score c)))))
+                                   {} all)))
         (let [children
               (vec
                (for [{:keys [line snap]} frontier
@@ -155,7 +159,7 @@
                                                    {} by-score))))]
           (recur (vec keep) (into finals done) (inc depth)))))))
 
-(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank]
+(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin]
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
@@ -181,6 +185,11 @@
                                              :value-fn (when value-fn (partial value-fn decks))})
                               (finally (sim/end! sm)))
                   best (first (:line result))
+                  ;; S1 anchoring: keep S1's choice unless the plan beats S1's best line by a margin
+                  s1a (when s1-margin (second (s1/decide (assoc ctx :obs o :weights weights :mem (atom {})))))
+                  s1-score (when s1a (get (:by-first result) (action-key s1a)))
+                  best (if (and s1a s1-score best (< (- (:score result) s1-score) s1-margin)) s1a best)
+                  result (if (and s1a (identical? best s1a)) (assoc result :line [s1a]) result)
                   idx (when best (first (keep-indexed (fn [i x] (when (= (action-key x) (action-key best)) i)) actions)))]
               (reset! plan-state {:line (rest (:line result)) :made-turn (:turn o) :score (:score result) :apps (:apps result)})
               (or idx
@@ -191,5 +200,5 @@
 
 (defn make
   ([] (make {}))
-  ([{:keys [side weights beam max-apps budget-factor rerank] :or {beam 6 max-apps 2500 budget-factor 16 rerank 0}}]
-   (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil nil rerank)))
+  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin] :or {beam 6 max-apps 2500 budget-factor 16 rerank 0}}]
+   (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil nil rerank s1-margin)))

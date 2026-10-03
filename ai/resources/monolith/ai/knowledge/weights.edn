@@ -5,7 +5,7 @@
  :min-run-utility 0.5       ; run only if expected utility exceeds this
  :runner-econ-floor 4       ; below this, prefer economy over running
  :corp-econ-floor 5         ; Corp prefers economy below this many credits
- :corp-rez-reserve 0        ; credits kept back when rezzing ice
+ :corp-rez-reserve 4        ; credits kept when rezzing ice on an empty remote / Archives
  :corp-safety-extra 4       ; assume the Runner has this many more credits next turn
  :corp-ice-per-central 2    ; target ice count on HQ / R&D
  :corp-ice-scoring-remote 2 ; target ice count on the scoring remote

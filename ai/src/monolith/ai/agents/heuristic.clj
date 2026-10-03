@@ -260,8 +260,11 @@
         run (:run obs)
         target (first (:server run))]
     (or
-     ;; rez the approached ice when affordable
-     (act-where env #(and (= :rez (:type %)) (= "ICE" (ptype (card-title %)))))
+     ;; rez the approached ice when affordable; on an empty, valueless remote keep a reserve
+     (act-where env #(and (= :rez (:type %)) (= "ICE" (ptype (card-title %)))
+                          (or (#{:hq :rd} target)
+                              (seq (srv/content obs target))
+                              (>= (- (credits env) (cards/play-cost (card-title %))) (w env :corp-rez-reserve)))))
      ;; rez upgrades in the attacked server just before the Runner approaches it
      (when (and (= :movement (:phase run)) (zero? (:position run 0)))
        (act-where env #(and (= :rez (:type %)) (= "Upgrade" (ptype (card-title %)))
