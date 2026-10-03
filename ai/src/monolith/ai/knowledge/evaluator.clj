@@ -30,12 +30,11 @@
   (let [ap (srv/ap (:title c))
         req (or (:current-advancement-requirement c) (:advancementcost (cards/printed (:title c))) 5)
         adv (or (:advance-counter c) 0)
-        progress (min 1.0 (/ adv (double req)))
+        remaining (max 0 (- req adv))
         u (:u (srv/corp-server-safety obs k (* ap-value ap) 4))
-        safe (if (<= u 0.0) 0.9 (/ 0.9 (+ 1.0 (/ u 4.0))))
-        p-score (* safe (+ 0.35 (* 0.65 progress)))
-        p-steal (- 1.0 safe)]
-    (* ap ap-value (- p-score p-steal))))
+        safe (if (<= u 0.0) 0.9 (/ 0.9 (+ 1.0 (/ u 4.0))))]
+    ;; worth its points if it survives, minus the clicks+credits still needed, minus the steal risk
+    (- (* safe ap ap-value) (* 2.0 remaining) (* (- 1.0 safe) ap ap-value))))
 
 (defn features
   "Named feature values (Corp perspective) of a full or determinized state map."
@@ -53,15 +52,17 @@
      :credits (- (capped-credits (get-in s [:corp :credit])) (capped-credits (get-in s [:runner :credit])))
      :hosted-credits (- (hosted-credits (filter :rezzed corp-installed)) (hosted-credits runner-installed))
      :hands (- (* 0.5 (count corp-hand)) (* 0.8 (min 6 (count (get-in s [:runner :hand])))))
-     :agendas-in-hq (- (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand))))
+     ;; agendas are the Corp's finite route to 7 points: in HQ they are future points at some
+     ;; steal risk; in Archives they are lost to the Corp and free for the Runner
+     :agendas-in-hq (* 0.25 ap-value (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand))))
+     :agendas-in-archives (* -0.8 ap-value (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) (get-in s [:corp :discard])))))
      :installed-agendas (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)
                                             :when (= "Agenda" (:type c))]
                                         (agenda-ev s k c w)))
      :ice (reduce + 0.0 (for [[k srv] (srv/servers s)
                               :let [wt (cond (#{:hq :rd} k) 1.0
                                              (= :archives k) 0.3
-                                             (seq (:content srv)) 1.0
-                                             :else 0.3)]]
+                                             :else 0.7)]]
                           (ice-value s breakers wt (:ices srv))))
      :rig (+ (* 4.0 (count covered))
              (* 1.5 (count (filter #(and (not (cards/icebreaker? (:title %))) (= "Program" (:type %))) runner-installed)))
@@ -69,7 +70,7 @@
              (* 1.0 (count (:resource rig))))
      :corp-assets (reduce + 0.0 (for [c corp-installed
                                       :when (= "Asset" (:type c))]
-                                  (cond (srv/trap-damage (:title c) 0) (+ 1.0 (* 0.3 (or (:advance-counter c) 0)))
+                                  (cond (srv/trap-damage (:title c) 0) (if (:rezzed c) -1.0 (+ 1.0 (* 0.3 (or (:advance-counter c) 0))))
                                         (and (not (:rezzed c)) (cards/load-credits (:title c))) 2.0
                                         :else 0.5)))
      :runner-damage-exposure (if (<= (count (get-in s [:runner :hand])) 2) 2.0 0.0)

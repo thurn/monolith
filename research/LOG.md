@@ -27,3 +27,13 @@ Append-only lab notebook for the Netrunner AI project ([plan](../docs/ai-researc
   5. "Advanced card in an unprotected remote" read as a trap tell (49% Corp; 32% of games end by Corp deck-out = stalemates).
 - T1 check, 300 games per side vs `random`: S1 Corp 99.7%, S1 Runner 98.7% (4 flatlines vs random ice). T1 essentially met; Runner 0.3 points short.
 - Known S1 weaknesses (for R2): Corp economy collapses in long games (rezzes everything), stalemates, single-ice scoring remotes, no Corp rez reserve.
+
+## 2026-10-03 — R1 steps 3–6: NN infra, S5 launch, S3, S2, S4 pipeline
+
+- NN infra: sparse featurizer over a 122-title vocabulary (every bundled deck incl. Stage C): 1118 state features, 191 action features. Inference is a hand-written Java MLP (`ai/java/monolith/Mlp.java`) instead of ONNX Runtime (relaxation: no native dependency, small nets are fast enough).
+- R-NaD port (`ai/py/monolith_ai/rnad.py`) follows OpenSpiel's structure (V-trace with η-regularized rewards, NeuRD with logit thresholding, EMA target). Check on asymmetric matching pennies (Nash P(H)=0.4) instead of Leduc (OpenSpiel not installed): with Adam β1=0.9 the policy cycled wildly; with β1=0 (as in the reference) and lr 1e-4 it settles into 0.31–0.45 around 0.40.
+- S5 training launched in the background (10 actor threads, MPS learner, 24 h).
+- **Major move-gen bug found by the puzzle suite:** `score` was only offered while the Corp had clicks, so an agenda advanced with the last click could only be scored next turn, giving the Runner a free turn to steal it. Every game before this fix was biased toward the Runner. S5 actors and S4 data generation were restarted on the fixed build.
+- S1 null rate after the fix: Corp 62.5% (40 games) vs 49% before.
+- S3 planner v1: solves 14/14 tactical puzzles after fixes (line must include free end-of-turn scoring; agenda EV must subtract remaining advancement cost), but loses to S1 in full games. Traces showed the Corp overwriting its own agendas by installing assets into occupied remotes, rezzing ambushes, then (after a fix) drawing itself out. Pruned overwrite-installs and trap rezzes from planner lines; evaluator weights to be fitted from data (next entry).
+- S2 v1: ~19 MCTS iterations per decision at 250 ms (S1 rollouts are ~30 ms each); deviating from S1 on noisy rollout means made it much worse (Corp 30%, Runner 13% vs S1). Now only deviates with ≥4 visits and a 0.15 tanh-margin.

@@ -6,7 +6,10 @@
   resolved by S1 for both sides (a cheap opponent model). A run ends a line and is scored with
   the run calculator. Everything outside its own click decisions is delegated to S1."
   (:require
+   [clojure.string :as str]
    [monolith.ai.agents.heuristic :as s1]
+   [monolith.ai.knowledge.cards :as cards]
+   [monolith.ai.knowledge.servers :as srv]
    [monolith.ai.harness :as h]
    [monolith.ai.knowledge.evaluator :as ev]
    [monolith.ai.moves :as moves]
@@ -61,6 +64,19 @@
             (let [a (s1-choose sm d acts weights decks rng)]
               (if (sim/apply! sm a) (recur (inc n)) {:status :stuck :n (inc n)}))))))))
 
+(defn sensible?
+  "Prunes actions no line should contain: installing over the Corp's own agenda/asset (which trashes
+  it) and rezzing an ambush (which only reveals it)."
+  [s a]
+  (let [title (get-in a [:args :card :title])
+        typ (some-> title cards/ctype)]
+    (not (or (and (= "play" (:command a)) (#{"Agenda" "Asset"} typ)
+                  (let [server (get-in a [:args :server])]
+                    (and server (str/starts-with? server "Server")
+                         (some #(#{"Agenda" "Asset"} (:type %))
+                               (get-in s [:corp :servers (srv/server-key server) :content])))))
+             (and (= "rez" (:command a)) title (srv/trap-damage title 0))))))
+
 (defn- signature [s side]
   (hash [(get-in s [side :click]) (get-in s [:corp :credit]) (get-in s [:runner :credit])
          (sort (map :cid (get-in s [side :hand])))
@@ -90,6 +106,7 @@
                      :let [_ (sim/restore! sm snap)
                            d (sim/decision sm)
                            acts (when (and d (= side (:side d)) (= :turn (:kind d))) (sim/legal sm d))
+                           acts (filter #(sensible? snap %) acts)
                            acts (if (and filter-acts (seq acts)) (filter-acts sm d acts) acts)]
                      a acts
                      :while (and (<= @apps max-apps) (<= (System/currentTimeMillis) deadline))
