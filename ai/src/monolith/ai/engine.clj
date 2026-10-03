@@ -41,12 +41,17 @@
    :gateway-beginner-runner precon/gateway-beginner-runner
    :gateway-intermediate-corp precon/gateway-intermediate-corp
    :gateway-intermediate-runner precon/gateway-intermediate-runner
-   :worlds-2023-sokka-corps precon/worlds-2023-sokka-corps
-   :worlds-2023-sokka-runs precon/worlds-2023-sokka-runs})
+   ;; Stage C: the two Worlds 2023 final games, each a complete Corp-vs-Runner pairing
+   :worlds-2023-a-corp (:corp precon/worlds-2023-sokka-corps)
+   :worlds-2023-a-runner (:runner precon/worlds-2023-sokka-corps)
+   :worlds-2023-b-corp (:corp precon/worlds-2023-sokka-runs)
+   :worlds-2023-b-runner (:runner precon/worlds-2023-sokka-runs)})
 
 (def stages
   {:A {:corp :gateway-beginner-corp :runner :gateway-beginner-runner}
-   :B {:corp :gateway-intermediate-corp :runner :gateway-intermediate-runner}})
+   :B {:corp :gateway-intermediate-corp :runner :gateway-intermediate-runner}
+   :C1 {:corp :worlds-2023-a-corp :runner :worlds-2023-a-runner}
+   :C2 {:corp :worlds-2023-b-corp :runner :worlds-2023-b-runner}})
 
 (defn resolve-deck [{:keys [identity cards]}]
   {:identity (server-card (:title identity))

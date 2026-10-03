@@ -2,6 +2,8 @@
   :description "Netrunner AI research harness running the Jinteki.net engine fork in-process."
   :source-paths ["src" "../vendor/netrunner/src/clj" "../vendor/netrunner/src/cljc"]
   :resource-paths ["resources" "../sidecar/resources"]
+  :java-source-paths ["java"]
+  :javac-options ["--release" "21"]
   :jvm-opts ["-XX:+UseParallelGC" "-Xmx24g" "-Xss8m" "-XX:-OmitStackTraceInFastThrow" "-Djdk.attach.allowAttachSelf" "-XX:+UnlockDiagnosticVMOptions" "-XX:+DebugNonSafepoints"
              "-Dclojure.server.repl={:port 5555 :accept clojure.core.server/repl}"]
   :dependencies [[org.clojure/clojure "1.12.5"]
