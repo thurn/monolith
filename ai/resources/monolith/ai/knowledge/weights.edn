@@ -1,3 +1,4 @@
+;; Corp keys tuned by ES in R2 (research/rounds/R2/es-corp.jsonl; +7.4 points vs S1, p=0.007).
 ;; Every tunable constant for the knowledge-driven agents (S1 rules, S3 evaluator features).
 {:ap-value 7.0              ; credits-equivalent of one agenda point for run decisions
  :click-value 1.0           ; credits-equivalent of one click
@@ -6,15 +7,15 @@
  :runner-econ-floor 4       ; below this, prefer economy over running
  :corp-econ-floor 5         ; Corp prefers economy below this many credits
  :corp-rez-reserve 4        ; credits kept when rezzing ice on an empty remote / Archives
- :corp-safety-extra 4       ; assume the Runner has this many more credits next turn
- :corp-ice-per-central 2    ; target ice count on HQ / R&D
- :corp-ice-scoring-remote 2 ; target ice count on the scoring remote
- :bluff-advance-p 0.5       ; chance to advance an installed ambush as a bluff when idle
+ :corp-safety-extra 1.4       ; assume the Runner has this many more credits next turn
+ :corp-ice-per-central 0    ; target ice count on HQ / R&D
+ :corp-ice-scoring-remote 3 ; target ice count on the scoring remote
+ :bluff-advance-p 0.2       ; chance to advance an installed ambush as a bluff when idle
  :max-remotes 3
  :runner-draw-below 3       ; Runner draws when its hand is below this
  :runner-econ-cap 10        ; Runner plays economy events below this many credits
- :corp-econ-cap 12          ; Corp plays economy operations below this many credits
- :corp-ice-reserve 4        ; credits the Corp keeps after installing extra ice
+ :corp-econ-cap 15          ; Corp plays economy operations below this many credits
+ :corp-ice-reserve 2        ; credits the Corp keeps after installing extra ice
  ;; S3/S2 evaluator feature weights (multipliers on the named features in knowledge/evaluator.clj)
  ;; signs and rough scale from a logistic fit of S1 self-play outcomes (research/LOG.md, R1);
  ;; :ice kept positive because its fitted negative weight is confounded by S1 over-icing when stuck

@@ -76,3 +76,4 @@ Append-only lab notebook for the Netrunner AI project ([plan](../docs/ai-researc
 - Stage B round robin (100 seeds; S5 culled): `stageB-summary.md`. The champion is clearly the best Runner (S1's Corp wins only 0.59 against it vs S1's null 0.74); its Corp is about S1's level (0.71).
 - Stage B livelock (7 games, S4 Runner): Conduit's "Toggle auto-resolve" UI ability was offered as a free action and the follow-up prompt toggled it back. Excluded `^Toggle auto` abilities from move gen.
 - ES tuning of S1 weights launched (Runner then Corp; 10 candidates × 200 shared seeds per generation).
+- ES results (`R2/es-*.jsonl`): Runner weights stayed flat within seed noise; Corp weights converged to safety-extra 1.4, no extra central ice, 3 ice on the scoring remote, bluff 0.2, econ cap 15, ice reserve 2. Validation on 500 fresh paired seeds: Corp 0.598 → 0.672 (p=0.007) **adopted**; Runner variant +2 points (p=0.45) not adopted.
