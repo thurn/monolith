@@ -483,7 +483,7 @@ Agents are compared at **equal wall-clock per decision**. The default is 250 ms 
 
 1. **Stage A:** `gateway-beginner-corp` vs `gateway-beginner-runner`. Small card pool, already used by the prototype, and fully covered by Chiriboga's card notes.
 2. **Stage B:** the System Gateway intermediate decks.
-3. **Stage C:** the Worlds 2023 decks (`worlds-2023-sokka-corps` vs `worlds-2023-sokka-runs`). These are the T3 target.
+3. **Stage C:** the two Worlds 2023 final matchups, `worlds-2023-sokka-corps` and `worlds-2023-sokka-runs`. Each of these is a complete Corp-vs-Runner pairing. These are the T3 target.
    - Stage C also runs a variant where the determinizer gets a format-pool prior instead of the exact decklist. That measures how much the known-decklist simplification is worth.
 
 A strategy moves to the next stage once it passes its tier gate on the current stage. Every card a stage adds needs move-gen coverage first, checked with `random` stall rates.
