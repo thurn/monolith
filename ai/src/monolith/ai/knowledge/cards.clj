@@ -138,3 +138,12 @@
 
 (defn etr-ice? [title] (some :etr (ice-subs title)))
 (defn damage-ice? [title] (some :net (ice-subs title)))
+
+;; Card-text parsing is pure per title; memoize the hot entry points (O2 profile: ~5% of S3 time).
+(alter-var-root #'parse-sub memoize)
+(alter-var-root #'printed-ice-model memoize)
+(alter-var-root #'breaker-types memoize)
+(alter-var-root #'econ-gain memoize)
+(alter-var-root #'load-credits memoize)
+(alter-var-root #'icebreaker? memoize)
+(alter-var-root #'conditional-etr? memoize)

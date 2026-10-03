@@ -167,3 +167,5 @@
     :value value
     :toll (approach-toll obs k)
     :mode :expected}))
+
+(alter-var-root #'trap-damage memoize)
