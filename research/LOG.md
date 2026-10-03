@@ -69,3 +69,10 @@ Append-only lab notebook for the Netrunner AI project ([plan](../docs/ai-researc
 - agendas-in-hq −2.0: 0.655 / 0.345, p=0.60. Run urgency 0.3: no net effect.
 - S1 null after the Diviner fix: 0.583 Corp (400 games). Corp rez reserve 4 vs 0: identical games (never binds).
 - Implication: S3's Runner (0.345) is now below S1's Runner (0.417). Testing an S1-anchored planner (deviate from S1 only when the plan beats S1's best line by a margin).
+
+## 2026-10-03 — R2: champion config, Stage B, livelock, ES tuning
+
+- S1-anchored planner: margin 2 → Corp 0.665 / Runner 0.390 (p=0.27); margin 5 → neutral. Combined champion `[:planner {:s1-margin 2.0 :rerank 3}]` on Stage A: Corp 0.690 (+5.5), Runner 0.365 (+2), p=0.24 vs plain S3.
+- Stage B round robin (100 seeds; S5 culled): `stageB-summary.md`. The champion is clearly the best Runner (S1's Corp wins only 0.59 against it vs S1's null 0.74); its Corp is about S1's level (0.71).
+- Stage B livelock (7 games, S4 Runner): Conduit's "Toggle auto-resolve" UI ability was offered as a free action and the follow-up prompt toggled it back. Excluded `^Toggle auto` abilities from move gen.
+- ES tuning of S1 weights launched (Runner then Corp; 10 candidates × 200 shared seeds per generation).
