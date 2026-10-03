@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Starts S5 (R-NaD) training in the background: Python learner + JVM actor pool.
+# Usage: scripts/ai-selfplay <dir> [hours] [actor-threads] [extra learner args...]
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+DIR="$(cd "$ROOT" && mkdir -p "$1" && cd "$1" && pwd)"
+HOURS="${2:-24}"
+THREADS="${3:-10}"
+shift $(( $# < 3 ? $# : 3 ))
+DIMS=$(cd "$ROOT" && ./scripts/ai-eval '(require (quote monolith.ai.features)) (println (str monolith.ai.features/state-dim " " monolith.ai.features/action-dim))' 2>/dev/null | tail -2 | head -1 || true)
+S=${DIMS% *}; D=${DIMS#* }
+[ -n "$S" ] || { S=1118; D=191; }
+cd "$ROOT/ai/py"
+PYTHONPATH=. nohup uv run python -m monolith_ai.rnad --dir "$DIR" --S "$S" --D "$D" --hours "$HOURS" "$@" > "$DIR/learner.log" 2>&1 &
+echo $! > "$DIR/learner.pid"
+until [ -f "$DIR/net/manifest.json" ]; do sleep 1; done
+cd "$ROOT/ai"
+nohup ../scripts/lein trampoline run -m monolith.ai.selfplay "{:dir \"$DIR\" :threads $THREADS :hours $HOURS}" > "$DIR/actors.log" 2>&1 &
+echo $! > "$DIR/actors.pid"
+echo "started learner $(cat "$DIR/learner.pid") actors $(cat "$DIR/actors.pid") in $DIR"

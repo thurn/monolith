@@ -220,7 +220,7 @@ def main():
             ent = -(pi * torch.log(pi.clamp(min=1e-9)) * bt["amask"]).sum(-1)
             m = dict(t=time.time(), step=step, version=version, games_seen=games_seen, buffer=len(buf),
                      v_loss=float(vl), pi_loss=float(pl), entropy=float((ent * valid.view(-1)).sum() / valid.sum()),
-                     T=T, A=A)
+                     T=bt["T"], A=bt["A"])
             metrics.write(json.dumps(m) + "\n"); metrics.flush()
         if time.time() - last_ckpt > 600:
             torch.save(dict(net=net.state_dict(), target=target.state_dict(), reg=reg.state_dict(), opt=opt.state_dict(),

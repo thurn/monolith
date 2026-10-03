@@ -1,0 +1,3 @@
+/Users/dthurn/monolith_prototype/ai/py/monolith_ai/rnad.py:222: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at /Users/runner/work/pytorch/pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:821.)
+  v_loss=float(vl), pi_loss=float(pl), entropy=float((ent * valid.view(-1)).sum() / valid.sum()),

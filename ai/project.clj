@@ -4,8 +4,7 @@
   :resource-paths ["resources" "../sidecar/resources"]
   :java-source-paths ["java"]
   :javac-options ["--release" "21"]
-  :jvm-opts ["-XX:+UseParallelGC" "-Xmx24g" "-Xss8m" "-XX:-OmitStackTraceInFastThrow" "-Djdk.attach.allowAttachSelf" "-XX:+UnlockDiagnosticVMOptions" "-XX:+DebugNonSafepoints"
-             "-Dclojure.server.repl={:port 5555 :accept clojure.core.server/repl}"]
+  :jvm-opts ["-XX:+UseParallelGC" "-Xmx24g" "-Xss8m" "-XX:-OmitStackTraceInFastThrow" "-Djdk.attach.allowAttachSelf" "-XX:+UnlockDiagnosticVMOptions" "-XX:+DebugNonSafepoints"]
   :dependencies [[org.clojure/clojure "1.12.5"]
                  [org.clojure/core.async "1.7.701"]
                  [com.taoensso/timbre "6.8.0"]

@@ -2,4 +2,5 @@
 # Starts a long-lived JVM for the ai/ project with a socket REPL on port 5555 (for development).
 set -euo pipefail
 cd "$(dirname "$0")/../ai"
+export JVM_OPTS="-Dclojure.server.repl={:port ${AI_REPL_PORT:-5555} :accept clojure.core.server/repl}"
 exec ../scripts/lein trampoline run -m clojure.main -e "(do (println :repl-ready) @(promise))"
