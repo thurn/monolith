@@ -84,9 +84,26 @@
          (map :cid (concat (get-in s [:runner :rig :program]) (get-in s [:runner :rig :hardware]) (get-in s [:runner :rig :resource])))
          (get-in s [:corp :agenda-point]) (get-in s [:runner :agenda-point]) (boolean (:run s))]))
 
+(defn- rollout-score
+  "Plays the line's end state forward with S1 for both sides until `side`'s next turn begins (or a
+  step cap), then evaluates. Gives the planner one opponent turn of foresight."
+  [sm side weights decks rng max-steps]
+  (let [s0 (sim/snapshot sm)
+        t0 (:turn s0)]
+    (loop [i 0]
+      (let [s (sim/snapshot sm)
+            d (sim/decision sm)]
+        (if (or (nil? d) (moves/game-over? s) (>= i max-steps)
+                (and (= side (:side d)) (= :turn (:kind d)) (> i 0) (not= [t0 (:active-player s0)] [(:turn s) (:active-player s)])))
+          (ev/for-side s side weights)
+          (let [acts (sim/legal sm d)]
+            (if (or (empty? acts) (not (sim/apply! sm (if (= 1 (count acts)) (first acts) (s1-choose sm d acts weights decks rng)))))
+              (ev/for-side s side weights)
+              (recur (inc i)))))))))
+
 (defn plan
   "Beam search from the current (determinized) sim state. Returns {:line [actions] :score x :apps n}."
-  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn]}]
+  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank]}]
   (let [root (sim/snapshot sm)
         score (fn [status] (let [s (sim/snapshot sm)
                                  base (+ (ev/for-side s side weights) (if value-fn (value-fn sm s) 0.0))]
@@ -98,7 +115,15 @@
            finals []
            depth 0]
       (if (or (empty? frontier) (> depth 6) (> @apps max-apps) (> (System/currentTimeMillis) deadline))
-        (let [all (concat finals (filter #(seq (:line %)) frontier))]
+        (let [all (concat finals (filter #(seq (:line %)) frontier))
+              top (take (or rerank 0) (sort-by (comp - :score) all))
+              all (if (seq top)
+                    (concat (for [c top]
+                              (do (sim/restore! sm (:snap c))
+                                  ;; rerank scores dominate their beam scores
+                                  (assoc c :score (+ 10000.0 (rollout-score sm side weights decks rng 400)))))
+                            all)
+                    all)]
           (assoc (if (seq all) (apply max-key :score all) {:line [] :score 0.0}) :apps @apps))
         (let [children
               (vec
@@ -130,7 +155,7 @@
                                                    {} by-score))))]
           (recur (vec keep) (into finals done) (inc depth)))))))
 
-(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn]
+(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank]
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
@@ -151,7 +176,7 @@
                   fresh-turn (not= made-turn (:turn o))
                   deadline (+ (System/currentTimeMillis) (long (* budget-ms (if fresh-turn budget-factor 2))))
                   result (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
-                                             :max-apps max-apps :deadline deadline
+                                             :max-apps max-apps :deadline deadline :rerank rerank
                                              :filter-acts (when filter-acts (partial filter-acts decks))
                                              :value-fn (when value-fn (partial value-fn decks))})
                               (finally (sim/end! sm)))
@@ -166,5 +191,5 @@
 
 (defn make
   ([] (make {}))
-  ([{:keys [side weights beam max-apps budget-factor] :or {beam 6 max-apps 2500 budget-factor 8}}]
-   (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil nil)))
+  ([{:keys [side weights beam max-apps budget-factor rerank] :or {beam 6 max-apps 2500 budget-factor 8 rerank 0}}]
+   (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil nil rerank)))

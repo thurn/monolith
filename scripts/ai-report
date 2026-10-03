@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Summarizes tournament JSONL files: win rates with Wilson CIs, null rates, Bradley-Terry ratings.
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+ARGS=()
+for p in "$@"; do ARGS+=("$(cd "$(dirname "$p")" && pwd)/$(basename "$p")"); done
+cd "$ROOT/ai/py"
+PYTHONPATH=. exec uv run python -m monolith_ai.report "${ARGS[@]}"
