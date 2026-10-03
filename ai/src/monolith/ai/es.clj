@@ -15,16 +15,16 @@
 
 (defn score
   "Win rate of `agent-key` with weights w playing `side` against `opponent` on seeds."
-  [agent-key w side opponent seeds threads decks]
+  [agent-key w side opponent seeds threads decks & [to-weights agent-opts]]
   (let [[cd rd] decks
-        me [agent-key {:weights w}]
+        me [agent-key (merge agent-opts {:weights ((or to-weights identity) w)})]
         games (for [s seeds] {:corp (if (= side :corp) me opponent) :runner (if (= side :runner) me opponent)
                               :seed s :corp-deck cd :runner-deck rd :budget-ms 250})
         rs (tourney/run-games games {:threads threads})]
     (/ (count (filter #(= side (:winner %)) rs)) (double (count rs)))))
 
 (defn run
-  [{:keys [agent side opponent params generations lambda mu seeds-per-gen threads log decks seed]
+  [{:keys [agent side opponent params generations lambda mu seeds-per-gen threads log decks seed to-weights agent-opts]
     :or {agent :heuristic opponent :heuristic generations 12 lambda 10 mu 3 seeds-per-gen 200 threads 16
          decks [:gateway-beginner-corp :gateway-beginner-runner] seed 1}}]
   (let [rng (java.util.Random. seed)
@@ -39,7 +39,7 @@
         (let [seeds (range (* 100000 (inc g)) (+ (* 100000 (inc g)) seeds-per-gen))
               cands (cons (into {} (for [[k v] mean] [k (if (ints k) (Math/round (double v)) v)]))
                           (repeatedly (dec lambda) #(sample rng mean sigma bounds ints)))
-              scored (vec (for [c cands] [(score agent c side opponent seeds threads decks) c]))
+              scored (vec (for [c cands] [(score agent c side opponent seeds threads decks to-weights agent-opts) c]))
               top (take mu (sort-by (comp - first) scored))
               new-mean (into {} (for [k (keys mean)] [k (/ (reduce + (map #(double (get (second %) k)) top)) mu)]))
               best (if (or (nil? best) (> (ffirst top) (first best))) (first top) best)]
