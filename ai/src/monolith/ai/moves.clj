@@ -171,6 +171,9 @@
                      ;; manual copies of start-of-turn triggers (Daily Quest, Commercial Bankers Group)
                      ;; are repeatable in the engine at any time: an infinite-credit exploit
                      (not (re-find #"(?i)\(start of turn\)" (str (:label ab))))
+                     ;; UI correction helpers ("manually place 1 virus counter"): free and repeatable
+                     (not (and (string? (:msg ab)) (re-find #"(?i)manually" (:msg ab))))
+                     (not (and (empty? (:cost ab)) (re-find #"(?i)^place 1 \w+ counter" (str (:label ab)))))
                      (if clicks? true (not (:action ab)))
                      (:playable (ability-playable? ab i state side c)))]
       (act side "ability" {:card (card-ref c) :ability i}
