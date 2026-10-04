@@ -17,6 +17,11 @@
   matchup s mod 40, so improvements must transfer across decks)."
   (vec (concat [:gateway-beginner :gateway-intermediate] dev-matchups)))
 
+(def corp-proxy
+  "Dev matchups whose Corps resemble the held-out ones (NEH/asset-spam), chosen from held-out deck
+  lists only: a dev signal for Corp transfer (R4)."
+  [:worlds-2018-a :worlds-2018-b :worlds-2020-b :worlds-2021-b :classique-2022-c :classique-2025-b :classique-2026-d :worlds-2016-a])
+
 (def holdout-mix [:worlds-2023-a :worlds-2023-b :worlds-2024-a :worlds-2024-b :worlds-2025-a :worlds-2025-b])
 
 (defn deck-keys [m] [(keyword (str (name m) "-corp")) (keyword (str (name m) "-runner"))])

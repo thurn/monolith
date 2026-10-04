@@ -11,14 +11,14 @@
 (defn run
   "opts: :agent spec, :opponent spec, :seeds, :matchups, :tag, :games-log, :threads, :null? (also
   play the opponent's self-play under tag \"null\")."
-  [{:keys [agent opponent seeds matchups tag games-log threads null?] :or {opponent :s1ref threads 14}}]
+  [{:keys [agent opponent seeds matchups tag games-log threads null? sides] :or {opponent :s1ref threads 14 sides [:corp :runner]}}]
   (let [decks-for (fn [s] (ab/matchup-decks (nth (vec matchups) (mod s (count matchups)))))
         meta (fn [tag side spec] {:tag tag :side (name side) :agent (tourney/spec-name spec)
                                   :opponent (tourney/spec-name opponent)})
         ;; seed-major order so partial logs hold complete seeds
         games (for [s seeds
                     :let [[cd rd] (decks-for s)]
-                    [t side] (concat [[tag :corp] [tag :runner]] (when null? [["null" :corp]]))]
+                    [t side] (concat (for [sd sides] [tag sd]) (when null? [["null" :corp]]))]
                 {:tag t :side side :seed s :corp-deck cd :runner-deck rd :budget-ms 250
                  :corp (if (and (= t tag) (= side :corp)) agent opponent)
                  :runner (if (and (= t tag) (= side :runner)) agent opponent)
