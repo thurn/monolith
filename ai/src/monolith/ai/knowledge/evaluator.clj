@@ -241,6 +241,13 @@
                                                :else 0.7)]]
                             (ice-value s breakers wt (:ices srv)))))
      :rig (+ (* 4.0 (count covered))
+             ;; with :grip-breakers, breakers in the grip for still-uncovered types count partly
+             (if (:grip-breakers w)
+               (* 1.5 (count (remove covered (set (for [c (get-in s [:runner :hand])
+                                                        :when (and (:title c) (cards/icebreaker? (:title c)))
+                                                        t (cards/breaker-types (:title c))]
+                                                    t)))))
+               0.0)
              (* 1.5 (count (filter #(and (not (cards/icebreaker? (:title %))) (= "Program" (:type %))) runner-installed)))
              (* 1.5 (count (:hardware rig)))
              (* 1.0 (count (:resource rig))))
