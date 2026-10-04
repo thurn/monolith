@@ -128,7 +128,8 @@
                  :apps @apps
                  :by-first (reduce (fn [m c] (let [k (action-key (first (:line c)))]
                                                (assoc m k (max (get m k Double/NEGATIVE_INFINITY) (:score c)))))
-                                   {} all)))
+                                   {} all)
+                 :first-acts (into {} (for [c all] [(action-key (first (:line c))) (first (:line c))]))))
         (let [children
               (vec
                (for [{:keys [line snap]} frontier
@@ -159,7 +160,23 @@
                                                    {} by-score))))]
           (recur (vec keep) (into finals done) (inc depth)))))))
 
-(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin]
+(defn vote
+  "Combines per-determinization plan results: the first action with the best mean best-line
+  score across determinizations (an action missing from one determinization counts that
+  determinization's worst line). Returns a result whose :line is just that action."
+  [results]
+  (let [ks (distinct (mapcat (comp keys :by-first) results))
+        mean (fn [k] (/ (reduce + (for [r results] (get (:by-first r) k (reduce min 0.0 (vals (:by-first r))))))
+                        (count results)))
+        best-k (when (seq ks) (apply max-key mean ks))
+        first-a (some #(get (:first-acts %) best-k) results)]
+    {:line (if first-a [first-a] [])
+     :score (if best-k (mean best-k) 0.0)
+     :by-first (into {} (for [k ks] [k (mean k)]))
+     :apps (reduce + (map :apps results))
+     :best-k best-k}))
+
+(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets]
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
@@ -176,14 +193,18 @@
                        (first (keep-indexed (fn [i x] (when (= (action-key x) (action-key nxt)) i)) actions)))]
           (if follow
             (do (swap! plan-state update :line rest) follow)
-            (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))
-                  fresh-turn (not= made-turn (:turn o))
-                  deadline (+ (System/currentTimeMillis) (long (* budget-ms (if fresh-turn budget-factor 4))))
-                  result (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
-                                             :max-apps max-apps :deadline deadline :rerank rerank
-                                             :filter-acts (when filter-acts (partial filter-acts decks))
-                                             :value-fn (when value-fn (partial value-fn decks))})
-                              (finally (sim/end! sm)))
+            (let [fresh-turn (not= made-turn (:turn o))
+                  deadline (+ (System/currentTimeMillis) (long (* budget-ms (if fresh-turn budget-factor 4) (max 1 (or dets 1)))))
+                  plan-once (fn []
+                              (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))]
+                                (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
+                                                    :max-apps max-apps :deadline deadline :rerank rerank
+                                                    :filter-acts (when filter-acts (partial filter-acts decks))
+                                                    :value-fn (when value-fn (partial value-fn decks))})
+                                     (finally (sim/end! sm)))))
+                  result (if (and dets (> dets 1))
+                           (vote (vec (repeatedly dets plan-once)))
+                           (plan-once))
                   best (first (:line result))
                   ;; S1 anchoring: keep S1's choice unless the plan beats S1's best line by a margin
                   s1a (when s1-margin (second (s1/decide (assoc ctx :obs o :weights weights :mem (atom {})))))
@@ -200,5 +221,5 @@
 
 (defn make
   ([] (make {}))
-  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin] :or {beam 6 max-apps 2500 budget-factor 16 rerank 0}}]
-   (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil nil rerank s1-margin)))
+  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets] :or {beam 6 max-apps 2500 budget-factor 16 rerank 0}}]
+   (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil nil rerank s1-margin dets)))

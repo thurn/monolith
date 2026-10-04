@@ -63,7 +63,13 @@
      :hands (- (* 0.5 (count corp-hand)) (* 0.8 (min 6 (count (get-in s [:runner :hand])))))
      ;; agendas are the Corp's finite route to 7 points: in HQ they are future points at some
      ;; steal risk; in Archives they are lost to the Corp and free for the Runner
-     :agendas-in-hq (* 0.25 ap-value (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand))))
+     ;; liability scales with how exposed HQ is: unprotected HQ loses agendas fast
+     :agendas-in-hq (let [hq-ap (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand)))
+                          eff (reduce + 0.0 (for [c (srv/ices s :hq)
+                                                  :let [m (cards/printed-ice-model (:title c) false)]]
+                                              (if (some #(cards/can-break-type? % m) breakers) 0.4 1.0)))
+                          exposure (/ 0.7 (+ 1.0 (* 1.5 eff)))]
+                      (- (* ap-value hq-ap (+ 0.25 exposure))))
      :agendas-in-archives (* -0.8 ap-value (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) (get-in s [:corp :discard])))))
      :installed-agendas (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)
                                             :when (= "Agenda" (:type c))]
