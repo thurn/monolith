@@ -13,7 +13,8 @@
    [clojure.java.io :as io]
    [monolith.ai.harness :as h]))
 
-(def ks [:rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls :tagged-ends])
+(def ks [:rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls :tagged-ends
+         :open-central-with-ice])
 
 (defn- agenda-count [s zone]
   (count (filter #(= "Agenda" (:type %)) (get-in s [:corp zone]))))
@@ -40,6 +41,11 @@
                             (when (empty? (filter #{:install :play :run :advance :score :draw :rez :click-ability
                                                     :trash-resource :purge :remove-tag} @turn-acts))
                               (bump! (:active-player p) :idle-turns 1))
+                            ;; Corp ending its turn with HQ or R&D unprotected while holding ice it could install
+                            (when (and (= :corp (:active-player p))
+                                       (some #(empty? (get-in s [:corp :servers % :ices])) [:hq :rd])
+                                       (some #(= "ICE" (:type %)) (get-in s [:corp :hand])))
+                              (bump! :corp :open-central-with-ice 1))
                             ;; Runner ending its turn tagged with a grip of 4 or fewer (kill-deck exposure)
                             (when (and (= :runner (:active-player p)) (pos? (get-in s [:runner :tag :base] 0))
                                        (<= (count (get-in s [:runner :hand])) 4))
