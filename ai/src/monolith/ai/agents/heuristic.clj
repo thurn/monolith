@@ -141,6 +141,22 @@
            :when (= server (get-in a [:args :server]))]
        a))))
 
+(defn c-react-centrals
+  "With :react-centrals, ice HQ or R&D (best ice first) when the Runner got into it last turn and it
+  has fewer than 2 ice: the human reaction to repeated central pressure."
+  [env]
+  (when (w env :react-centrals)
+    (let [obs (:obs env)
+          hit (set (get-in obs [:runner :register-last-turn :successful-run]))
+          installs (filter #(= "ICE" (ptype (card-title %))) (acts env :install))]
+      (first
+       (for [[server k] [["R&D" :rd] ["HQ" :hq]]
+             :when (and (hit k) (< (count (srv/ices obs k)) 2))
+             a (sort-by #(- (ice-score (card-title %))) installs)
+             :when (and (= server (get-in a [:args :server]))
+                        (<= (ice-install-cost obs server) (- (credits env) 2)))]
+         a)))))
+
 (defn c-install-agenda
   "Install an agenda into a safe, empty, iced remote when it can be scored by next turn."
   [env]
@@ -297,6 +313,7 @@
    [:advance-to-score c-advance-to-score]
    [:seamless c-seamless]
    [:protect-centrals c-protect-centrals]
+   [:react-centrals c-react-centrals]
    [:install-agenda c-install-agenda]
    [:advance-for-next-turn c-advance-for-next-turn]
    [:build-scoring-remote c-build-scoring-remote]
