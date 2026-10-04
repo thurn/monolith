@@ -1,11 +1,11 @@
 # Handoff: Netrunner AI research
 
-## Status 2026-10-04 06:35 (R4, autonomous phase)
+## Status 2026-10-04 11:15 (R4, autonomous phase)
 
-- **Best agent:** `:champion` (R3 config). New generic fixes since (breaker models for heap/X-credit breakers, steal costs, R&D known-top, Clone Chip no-op) plus opt-in evaluator options are being A/B'd on the dev mix (`rounds/R4/eval-dev.jsonl`, tags `champion`, `champ-b`, `v2nr`, `v4`, `v5`, `v6`; see LOG.md).
-- **Ladder:** T0/T1 met. T2 on the dev mix (partial, 149 seeds): champion g_c +1.55, g_r +1.04 over `:s1ref` (bar +0.85) — likely met off Stage A; Stage A itself still short (+0.2/+0.1 in R2). Held-out baseline running. T3: 20 dev + 13 held-out puzzles written and script-validated; champion+options solves 20/20 dev; blind-review generator ready, not yet run.
-- **Running:** `job-eval-champion` (dev baseline), `job-holdout-base` (held-out baseline, champion vs `:s1ref`).
-- **Next 3:** (1) variant ladder A/B on the dev mix; (2) dev-deck trial of the blind review to find human-likeness failures; (3) held-out confirmation runs for T2, then held-out puzzles and blind review for T3.
+- **Best agent:** `:champion` defaults on current code (R3 config + generic fixes listed in LOG.md R4 entries). Dev mix, `cb2` (code of 08:40): Corp 0.86, Runner 0.65 vs `:s1ref`; g_c +1.18 [+0.80, +1.75], g_r +1.72 [+1.44, +2.11]; 0 stalls / 600. Current S1 alone: g_c +0.28, g_r +0.52.
+- **Ladder:** T0/T1 met. T2 dev: met on point estimates. T2 held-out (R3 champion, before R4 fixes): Corp ≈ +0.13 (fails), Runner ≈ +1.17. Dev Corp-proxy decks (NEH/asset, like the held-out Corps): our Corp = `:s1ref`'s Corp (0.81 vs 0.81); about half of those losses were self-deck-outs, fixed since. T3: dev puzzles 0.90 (0.95–1.00 with rerank-anchor/scorable options); dev blind review 2: rating 3.0 (bar 3.5), blunders 0.5 (bar ≤1.0), above `:s1ref` (1.8).
+- **Running:** `scripts/ai-queue research/rounds/R4/queue.txt` keeps 2 `ai-job`s busy from frozen worktrees in `/home/dthurn/monolith-frozen/`. Now: B2 (`cb-pb`), C (`cbv15`). Queued: P (Corp-proxy single factors), D1, E, D2, F (single factors; see LOG.md).
+- **Next 3:** (1) assemble a release candidate from the single-factor winners (rerank stays; rerank-anchor, scorable, kill-threat, asset-econ, hq-flood, value model pending); (2) dev review 3 to check the T3 rating; (3) held-out confirmation per the pre-registered protocol (LOG.md 09:15).
 
 ## Earlier handoff (paused 2026-10-03, mid-R2/R3)
 
