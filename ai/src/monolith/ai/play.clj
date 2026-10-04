@@ -23,7 +23,7 @@
     (binding [h/*on-step*
               (fn [g d a]
                 (let [s @(:state g)
-                      tr (some-> (agents (:side d)) :trace deref)]
+                      tr (some-> (agents (:side d)) :inner :trace deref)]
                   (when (not= @last-turn [(:turn s) (:active-player s)])
                     (vreset! last-turn [(:turn s) (:active-player s)])
                     (println (str "\n== turn " (:turn s) " " (name (:active-player s)) " :: " (board s))))

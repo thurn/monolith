@@ -21,11 +21,45 @@
     :rnad monolith.ai.agents.rnad/make
     :clairvoyant monolith.ai.agents.ismcts/make-clairvoyant})
 
+(defn- fingerprint
+  "Position summary for loop detection (credits deliberately excluded, so free credit loops count
+  as no progress)."
+  [o]
+  (let [cards (for [[_ srv] (get-in o [:corp :servers]) c (concat (:ices srv) (:content srv))] c)
+        rig (get-in o [:runner :rig])
+        rcards (concat (:program rig) (:hardware rig) (:resource rig))]
+    (hash [(:turn o) (:active-player o)
+           (for [sd [:corp :runner]] [(get-in o [sd :click]) (count (get-in o [sd :hand])) (count (get-in o [sd :deck]))
+                                      (count (get-in o [sd :discard])) (count (get-in o [sd :scored]))
+                                      (some-> (get-in o [sd :prompt]) first :msg str)])
+           (count cards) (count (filter :rezzed cards)) (reduce + 0 (keep :advance-counter cards))
+           (count rcards) (reduce + 0 (for [c (concat cards rcards) [_ n] (:counter c)] (or n 0)))
+           (get-in o [:runner :tag :base]) (some-> (:run o) (select-keys [:server :position :phase]))])))
+
+(defrecord LoopGuard [inner counts]
+  h/Agent
+  (choose [_ {:keys [actions] :as ctx}]
+    ;; the same action chosen 5 times in the same position is a livelock (engine quirks: free
+    ;; repeatable abilities, re-offered access targets); withhold it while alternatives exist
+    (let [o @(:obs ctx)
+          fp (fingerprint o)
+          turn [(:turn o) (:active-player o)]
+          seen (get @counts turn {})
+          banned (set (for [[[f l] n] seen :when (and (= f fp) (>= n 5))] l))
+          keep (vec (keep-indexed (fn [i a] (when-not (banned (:label a)) i)) actions))
+          idx (if (and (seq banned) (seq keep) (< (count keep) (count actions)))
+                (keep (h/choose inner (assoc ctx :actions (mapv actions keep))))
+                (h/choose inner ctx))
+          l (:label (nth actions idx))]
+      (reset! counts {turn (update seen [fp l] (fnil inc 0))})
+      idx)))
+
 (defn make-agent
-  "spec is a keyword or [keyword opts]."
+  "spec is a keyword or [keyword opts]. Every agent runs behind a LoopGuard."
   [spec side]
-  (let [[k opts] (if (vector? spec) spec [spec {}])]
-    ((requiring-resolve (registry k)) (assoc opts :side side))))
+  (let [[k opts] (if (vector? spec) spec [spec {}])
+        a ((requiring-resolve (registry k)) (assoc opts :side side))]
+    (->LoopGuard a (atom {}))))
 
 (defn spec-name [spec]
   (if (vector? spec)
