@@ -70,6 +70,9 @@
       (settle-prompts! g)
       (engine/command! g :runner "start-turn" nil)
       (settle-prompts! g))
+    (when-let [n (:tags runner)]
+      (engine/with-game g (core/gain-tags state :corp (make-eid state) n))
+      (settle-prompts! g))
     (doseq [[side spec] [[:corp corp] [:runner runner]] :when (:credits spec)]
       (swap! state assoc-in [side :credit] (:credits spec)))
     (when-let [c (:clicks (if (= active :corp) corp runner))]
@@ -175,3 +178,132 @@
                {:name (:name p) :solved (> (count (filter :solved xs)) (/ (count seeds) 2))
                 :stalls (count (filter :stall xs))}))]
     {:agent agent-spec :score (/ (count (filter :solved rs)) (double (count rs))) :results (vec rs)}))
+
+;;; Reference solutions: every puzzle carries :solution, a script of label regexes for the acting
+;;; side that reaches the goal, and optionally :bad, a script that must not. `check` validates
+;;; puzzles with these scripts only, so held-out puzzles are proven well-posed without running
+;;; any candidate agent on them.
+
+(defrecord Scripted [side script fallback]
+  h/Agent
+  (choose [_ {:keys [actions decision] :as ctx}]
+    (let [re (first @script)
+          hit (when re (first (keep-indexed (fn [i a] (when (re-find re (str (:label a))) i)) actions)))]
+      (cond
+        hit (do (swap! script rest) hit)
+        (= :turn (:kind decision))
+        (if re
+          (throw (ex-info (str "script step not legal: " re) {:labels (mapv :label actions)}))
+          (or (first (keep-indexed (fn [i a] (when (= :credit (:type a)) i)) actions)) 0))
+        ;; mid-script, keep a run going (S1 might jack out) until the script's next step applies
+        (and re (#{:run :encounter} (:kind decision)) (some #(= :continue (:type %)) actions))
+        (first (keep-indexed (fn [i a] (when (= :continue (:type a)) i)) actions))
+        :else (h/choose fallback ctx)))))
+
+(defn run-script
+  "Plays the puzzle's acting side by `script` (S1 for steps the script does not cover and for the
+  opponent). Returns {:solved bool :stall ...}."
+  [{:keys [spec goal agent-side]} script seed]
+  (let [g (build (assoc spec :seed seed))
+        side (:active spec)
+        me (or agent-side side)
+        start @(:state g)
+        turn (:turn start)
+        opp (if (= me :corp) :runner :corp)
+        agents {me (->Scripted me (atom (map re-pattern script)) (tourney/make-agent :heuristic me))
+                opp (tourney/make-agent :heuristic opp)}
+        r (try (h/play-game {:seed seed :game g :agents agents :budget-ms 250
+                             :corp-deck (:corp-deck g) :runner-deck (:runner-deck g)
+                             :stop-fn (fn [s] (or (not= side (:active-player s)) (:end-turn s) (not= turn (:turn s))))})
+               (catch Exception e {:stall {:cause :script :error (ex-message e) :data (ex-data e)}}))]
+    {:solved (boolean (goal start @(:state g))) :stall (:stall r)}))
+
+(defn check
+  "Validates puzzles by their scripts on each seed: the solution must solve, :bad must not."
+  [puzzles & {:keys [seeds] :or {seeds [1 2 3]}}]
+  (vec (for [p puzzles]
+         (let [sol (for [s seeds] (run-script p (:solution p) s))
+               bad (when (:bad p) (for [s seeds] (run-script p (:bad p) s)))]
+           {:name (:name p)
+            :ok (and (every? :solved sol) (not-any? :solved bad))
+            :solution (mapv #(if (:stall %) (:stall %) (:solved %)) sol)
+            :bad (mapv #(if (:stall %) (:stall %) (:solved %)) bad)}))))
+
+(defn- ap-up [side] (fn [a b] (> (ap b side) (ap a side))))
+(defn- winner? [side] (fn [_ b] (= side (:winner b))))
+(defn- alive [_ b] (not= :corp (:winner b)))
+(defn- m [matchup] {:corp-deck (keyword (str (name matchup) "-corp")) :runner-deck (keyword (str (name matchup) "-runner"))})
+
+(def holdout-suite
+  "Held-out puzzles (pre-registered T3 rule, research/LOG.md 2026-10-03): built only from held-out
+  decks (Worlds 2023-2025), validated only by their scripts, never used for debugging. Run agents
+  on them only for the final T3 evaluation."
+  [{:name "h-eotl-lethal"
+    :spec (merge (m :worlds-2023-b) {:active :corp :corp {:credits 4 :hand ["End of the Line" "Hedge Fund"]}
+                                     :runner {:tags 1 :hand ["Sure Gamble" "Diesel" "Moshing"]}})
+    :goal (winner? :corp) :solution ["^play End of the Line"] :bad []}
+   {:name "h-mindscaping-damage-lethal"
+    :spec (merge (m :worlds-2024-a) {:active :corp :corp {:credits 4 :hand ["Mindscaping" "Sprint"]}
+                                     :runner {:tags 3 :hand ["Sure Gamble" "Diesel"]}})
+    :goal (winner? :corp) :solution ["^play Mindscaping" "(?i)net damage"] :bad []}
+   {:name "h-credit-then-advance-to-score"
+    :spec (merge (m :worlds-2025-b) {:active :corp :corp {:credits 1 :hand ["Bigger Picture"]
+                                                          :install [{:t "Ping" :server "New remote" :rez true}
+                                                                    {:t "Stoke the Embers" :server "Server 1" :adv 2}]}})
+    :goal (ap-up :corp) :solution ["^click for credit" "^advance Stoke" "^advance Stoke"] :bad []}
+   {:name "h-score-to-win"
+    :spec (merge (m :worlds-2024-b) {:active :corp :corp {:credits 2 :scored ["Fujii Asset Retrieval" "Fujii Asset Retrieval"]
+                                                          :install [{:t "Tatu-Bola" :server "New remote" :rez true}
+                                                                    {:t "House of Knives" :server "Server 1" :adv 1}]}})
+    :goal (winner? :corp) :solution ["^advance House" "^advance House"] :bad []}
+   {:name "h-no-naked-agenda"
+    :spec (merge (m :worlds-2023-a) {:active :corp :corp {:credits 3 :hand ["Send a Message" "Hedge Fund" "Government Subsidy"]}
+                                     :runner {:credits 8}})
+    :goal (fn [_ b] (not-any? (fn [[_ s]] (and (some #(= "Agenda" (:type %)) (:content s)) (empty? (:ices s))))
+                              (get-in b [:corp :servers])))
+    :solution [] :bad ["^install Send a Message in New remote"]}
+   {:name "h-rez-to-stop-steal"
+    :agent-side :corp
+    :spec (merge (m :worlds-2025-b) {:active :runner :corp {:credits 5 :install [{:t "Ping" :server "New remote"}
+                                                                                  {:t "Artificial Cryptocrash" :server "Server 1" :adv 3}]}
+                                     :runner {:credits 5 :hand ["Sure Gamble" "Strike Fund" "Wildcat Strike"]}})
+    :goal (fn [_ b] (some #(= "Artificial Cryptocrash" (:title %)) (get-in b [:corp :servers :remote1 :content])))
+    :solution ["^rez Ping"]}
+   {:name "h-runner-steal-to-win"
+    :spec (merge (m :worlds-2023-a) {:active :runner :corp {:credits 0 :install [{:t "Hortum" :server "New remote" :rez true}
+                                                                                  {:t "Send a Message" :server "Server 1" :adv 3}]}
+                                     :runner {:credits 6 :install ["Unity"] :scored ["Above the Law" "Send a Message"]
+                                              :hand ["Sure Gamble" "Dirty Laundry"]}})
+    :goal (winner? :runner) :solution ["^run Server 1" "^break Hortum" "^Steal"] :bad []}
+   {:name "h-credit-up-for-bellona"
+    :spec (merge (m :worlds-2023-b) {:active :runner :corp {:credits 0 :install [{:t "Ping" :server "New remote" :rez true}
+                                                                                  {:t "Bellona" :server "Server 1" :adv 3}]}
+                                     :runner {:credits 3 :install ["Cleaver"] :hand ["Steelskin Scarring" "Moshing"]}})
+    :goal (ap-up :runner)
+    :solution ["^click for credit" "^click for credit" "^click for credit" "^run Server 1" "^break Ping" "(?i)steal"]
+    :bad ["^run Server 1" "^break Ping"]}
+   {:name "h-trash-regolith"
+    :spec (merge (m :worlds-2024-a) {:active :runner :corp {:install [{:t "Regolith Mining License" :server "New remote" :rez true}]}
+                                     :runner {:credits 6 :hand ["Sure Gamble" "Gauss"]}})
+    :goal (fn [_ b] (some #(= "Regolith Mining License" (:title %)) (get-in b [:corp :discard])))
+    :solution ["^run Server 1" "(?i)pay.*trash"] :bad []}
+   {:name "h-install-breaker-then-steal"
+    :spec (merge (m :worlds-2024-a) {:active :runner :corp {:credits 0 :install [{:t "Ping" :server "New remote" :rez true}
+                                                                                  {:t "Project Beale" :server "Server 1" :adv 2}]}
+                                     :runner {:credits 3 :hand ["Gauss" "Diesel" "Deep Dive"]}})
+    :goal (ap-up :runner) :solution ["^play Gauss" "^run Server 1" "^break Ping" "^Steal"] :bad ["^run Server 1"]}
+   {:name "h-hq-when-corp-broke"
+    :spec (merge (m :worlds-2025-b) {:active :runner :corp {:credits 0 :hand ["Stoke the Embers" "Artificial Cryptocrash" "Freedom of Information" "Offworld Office"]
+                                                            :install [{:t "Ping" :server "HQ"}]}
+                                     :runner {:credits 3 :hand ["Sure Gamble" "Strike Fund" "Running Hot"]}})
+    :goal (ap-up :runner) :solution ["^run HQ" "(?i)steal"] :bad []}
+   {:name "h-no-facecheck-one-card"
+    :spec (merge (m :worlds-2025-a) {:active :runner :corp {:credits 5 :install [{:t "Fujii Asset Retrieval" :server "New remote"}]}
+                                     :runner {:credits 5 :hand ["Strike Fund"]}})
+    :goal alive :solution ["^draw" "^draw" "^draw"] :bad ["^run Server 1" "(?i)steal"]}
+   {:name "h-must-steal-before-corp-wins"
+    :spec (merge (m :worlds-2024-b) {:active :runner :corp {:credits 3 :scored ["Fujii Asset Retrieval" "Hybrid Release" "Regenesis"]
+                                                            :install [{:t "Tatu-Bola" :server "New remote" :rez true}
+                                                                      {:t "Fujii Asset Retrieval" :server "Server 1" :adv 4}]}
+                                     :runner {:credits 4 :install ["Paricia"] :hand ["Gauss" "Sure Gamble" "Diesel" "Spec Work"]}})
+    :goal (ap-up :runner) :solution ["^play Gauss" "^run Server 1" "^break Tatu" "^Steal"] :bad []}])
