@@ -128,6 +128,17 @@
                               (max 0.0 (- (* 0.5 (+ (get-in c [:counter :credit] 0) 3)) tc))
                               0.0)))))))))
 
+(defn extra-accesses
+  "Additional cards the Runner's installed cards let it access when breaching central k
+  (\"breach HQ, access 1 additional card\"), from card text."
+  [obs k]
+  (let [zone (case k :hq "HQ" :rd "R&D" nil)]
+    (if-not zone
+      0
+      (reduce + 0 (for [c (runner-installed obs)
+                        :when (re-find (re-pattern (str "(?i)breach " zone ", access (?:1|an) additional card")) (str (:text (cards/printed (:title c)))))]
+                    1)))))
+
 (defn approach-toll
   "Credits the Runner must pay when approaching server k (rezzed upgrades like Manegarm Skunkworks)."
   [obs k]

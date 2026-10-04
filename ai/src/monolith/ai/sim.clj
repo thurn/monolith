@@ -180,5 +180,5 @@
   (let [state (:state sg)
         before @state]
     (try (engine/command! sg (:side action) (:command action) (:args action))
-         (not (identical? before @state))
+         (not (moves/noop? before @state))
          (catch Throwable _ false))))

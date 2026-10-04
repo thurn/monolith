@@ -104,15 +104,24 @@
                 [need a])]
     (second (first (sort-by first cands)))))
 
+(defn place-advancements
+  "Advancement counters an operation places on an installed card, from its text (nil if none)."
+  [title]
+  (some-> (re-find #"(?i)place (\d+) advancement (?:counters|tokens) on (?:1|an|up to 1) installed card" (str (:text (cards/printed title))))
+          second parse-long))
+
 (defn c-seamless
-  "Seamless Launch onto an agenda (not installed this turn) when it makes scoring possible."
+  "Play an operation that places advancement counters onto an agenda (not installed this turn)
+  when that makes scoring it possible this turn."
   [env]
-  (when-let [a (act-where env #(and (= :play (:type %)) (= "Seamless Launch" (card-title %))))]
+  (when-let [a (act-where env #(and (= :play (:type %)) (place-advancements (card-title %))))]
     (let [obs (:obs env)
+          n (place-advancements (card-title a))
+          cost (cards/play-cost (card-title a))
           cands (for [[k _] (srv/remotes obs) c (srv/content obs k)
                       :when (and (= "Agenda" (:type c)) (not (:new c)) (= true (:installed c)))
-                      :let [need (- (adv-need c) 2)]
-                      :when (and (<= need (dec (clicks env))) (<= (+ 1 (max 0 need)) (credits env)))]
+                      :let [need (- (adv-need c) n)]
+                      :when (and (<= need (dec (clicks env))) (<= (+ cost (max 0 need)) (credits env)))]
                   c)]
       (when (seq cands) a))))
 
@@ -267,7 +276,7 @@
   [env]
   (when (>= (credits env) 6)
     (act-where env #(and (= :play (:type %)) (not (pos? (cards/econ-gain (card-title %))))
-                         (not= "Seamless Launch" (card-title %))
+                         (not (place-advancements (card-title %)))
                          (<= (cards/play-cost (card-title %)) (- (credits env) 3))))))
 
 (def corp-turn-rules
@@ -366,7 +375,7 @@
                                   (if (and c (= "Agenda" (:type c))) (- 10 (adv-need c)) 0))))
        (re-find #"(?i)ice to install" msg)
        (select-best env (fn [c] (if (= "ICE" (:type c)) (ice-score (:title c)) 0)))
-       (= "Send a Message" src)
+       (re-find #"(?i)rez 1 installed piece of ice, ignoring all costs" (str (:text (cards/printed src))))
        (select-best env (fn [c] (if (= "ICE" (:type c)) (cards/play-cost (:title c)) 0)))
        (re-find #"(?i)ability\?|draw \d+ cards\?" msg) (choice env #"^Yes")
        :else nil)
@@ -389,7 +398,7 @@
   [env k {:keys [credits-bonus rez-bonus extra-access mode hand-delta] :or {credits-bonus 0 rez-bonus 0 extra-access 0 hand-delta 0}}]
   (let [obs (:obs env)
         opts (update (run-opts env) :hand + hand-delta)
-        opts (assoc opts :extra-access (+ extra-access (if (and (= k :hq) (some #(= "Docklands Pass" (:title %)) (srv/runner-installed obs))) 1 0)))
+        opts (assoc opts :extra-access (+ extra-access (srv/extra-accesses obs k)))
         value (srv/content-value obs k opts)
         ev (srv/runner-run-eval obs k (assoc opts :value value :credits-bonus credits-bonus :rez-bonus rez-bonus :mode mode))]
     (- (:u ev) (w env :click-value))))
@@ -473,9 +482,17 @@
      (when (< cr 12) (act-where env #(and (= :install (:type %)) (cards/load-credits (card-title %))
                                           (> (cards/load-credits (card-title %)) (cards/play-cost (card-title %)))))))))
 
+(defn utility-permanent?
+  "Non-breaker installables whose text gives a steady edge: extra accesses, credits on
+  successful runs, or extra draws."
+  [title]
+  (let [t (str (:text (cards/printed title)))]
+    (and (not (cards/icebreaker? title))
+         (re-find #"(?i)access (?:1|an) additional card|whenever you make a successful run, (?:gain|place) \d+\[credit\]|instead draw 2 cards" t))))
+
 (defn r-install-other [env]
   (act-where env #(and (= :install (:type %))
-                       (#{"Docklands Pass" "Pennyshaver" "Verbal Plasticity"} (card-title %))
+                       (utility-permanent? (card-title %))
                        (>= (credits env) (+ 2 (cards/play-cost (card-title %)))))))
 
 (defn r-draw [env]
@@ -591,13 +608,16 @@
        (re-find #"(?i)Jack out\?" msg)
        (choice env (if (<= (count (get-in obs [:runner :hand])) 2) #"^Yes" #"^No"))
 
-       (= "Manegarm Skunkworks" src)
-       (or (when (>= (credits env) 7) (choice env #"(?i)^Pay"))
-           (when (>= (clicks env) 2) (choice env #"(?i)^Spend"))
-           (choice env #"(?i)^End the run"))
+       (and (choice env #"(?i)^Pay") (choice env #"(?i)^End the run"))
+       (let [toll (or (some-> (re-find #"(\d+)" (str (:label (choice env #"(?i)^Pay")))) second parse-long) 0)]
+         (or (when (>= (credits env) (+ toll 2)) (choice env #"(?i)^Pay"))
+             (when (>= (clicks env) 2) (choice env #"(?i)^Spend"))
+             (choice env #"(?i)^End the run")))
 
        (re-find #"(?i)Insufficient MU" msg)
-       (select-best env (fn [c] (if (= "Mayfly" (:title c)) 10 (if (cards/icebreaker? (:title c)) 1 2))))
+       (select-best env (fn [c] (cond (re-find #"(?i)trash this program" (str (:text (cards/printed (:title c))))) 10
+                                      (cards/icebreaker? (:title c)) 1
+                                      :else 2)))
 
        (re-find #"(?i)credit providing card" msg)
        (or (first (acts env :select)) (act env :done))

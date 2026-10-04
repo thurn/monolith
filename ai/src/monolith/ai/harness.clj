@@ -90,7 +90,7 @@
                                   (recur (into (subvec actions 0 idx) (subvec actions (inc idx))) replay)
                                   [{:cause :exception :action (dissoc action :args) :error (str err)
                                     :trace (mapv str (take 12 (.getStackTrace ^Throwable err)))} replay]))
-                        (identical? before @state)
+                        (moves/noop? before @state)
                         (do (vswap! noops inc)
                             (recur (into (subvec actions 0 idx) (subvec actions (inc idx))) replay))
                         :else [nil replay]))))]

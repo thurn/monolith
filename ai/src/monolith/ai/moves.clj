@@ -59,6 +59,19 @@
       (pos? (get-in s [active :click] 0)) {:side active :kind :turn}
       :else {:side active :kind :end-turn})))
 
+(defn- strip-bookkeeping [s]
+  (-> s
+      (dissoc :click-states :eid :turn-events :log :history)
+      (update :corp dissoc :toast :aid)
+      (update :runner dissoc :toast :aid)))
+
+(defn noop?
+  "The action changed nothing but bookkeeping: e.g. a blocked run or tag removal only adds a
+  toast. Such actions are removed and the agent re-asked (otherwise they livelock)."
+  [before after]
+  (or (identical? before after)
+      (= (strip-bookkeeping before) (strip-bookkeeping after))))
+
 (defn- act [side command args label type]
   {:side side :command command :args args :label label :type type})
 
