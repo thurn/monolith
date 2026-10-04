@@ -2,7 +2,68 @@
 
 Plan: [docs/ai-research-plan.md](../docs/ai-research-plan.md). Lab notebook: [LOG.md](LOG.md). Round reports: [R0](rounds/R0/report.md), [O1](rounds/O1/report.md), [R1](rounds/R1/report.md), [O2](rounds/O2/report.md), [R2 draft](rounds/R2/report.md).
 
-All background jobs are stopped. Nothing is running. `scripts/ci` passes.
+All background jobs were stopped and `scripts/ci` passed on the Mac at the pause. Code: `git@github.com:thurn/monolith.git` (`master`). Engine fork: `git@github.com:thurn/netrunner.git` (`master`, used locally as branch `monolith`).
+
+## Setting up on a new machine (do this first)
+
+You are resuming on a fresh machine; the user has given you this file and `monolith-local-files.zip`. Follow these steps in order. Each ends with a check; don't move on until it passes.
+
+**0. Environment.** Work inside **WSL2 Ubuntu** (every script is bash). If you are in native Windows (PowerShell/cmd), ask the user to run `wsl --install -d Ubuntu` in an admin PowerShell, reboot, and open Claude Code inside the Ubuntu shell. Keep the checkout in the Linux filesystem (e.g. `~/monolith`), not under `/mnt/c` (much slower). *Check:* `uname -a` mentions Linux.
+
+**1. Prerequisites.**
+```bash
+sudo apt-get update && sudo apt-get install -y git openjdk-21-jdk python3 curl zip unzip
+mkdir -p ~/bin && curl -fsSL https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein -o ~/bin/lein && chmod +x ~/bin/lein
+curl -LsSf https://astral.sh/uv/install.sh | sh
+echo 'export PATH="$HOME/bin:$HOME/.local/bin:$PATH"' >> ~/.bashrc
+echo 'export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64' >> ~/.bashrc
+source ~/.bashrc
+lein version        # first run self-installs into ~/.lein/self-installs, which scripts/lein links to
+```
+*Check:* `java -version` says 21, `lein version` and `uv --version` work. If the JDK directory differs (e.g. arm64), set `JAVA_HOME` to the actual path under `/usr/lib/jvm`.
+
+**2. GitHub access.** Both repos are cloned over SSH. *Check:* `ssh -T git@github.com` greets the user. If not, generate a key (`ssh-keygen -t ed25519`) and ask the user to add `~/.ssh/id_ed25519.pub` to their GitHub account.
+
+**3. Clone this repo and the engine fork.** The engine fork (seeded RNG, perf work) lives in a separate repo and must sit at `vendor/netrunner` on a local branch named **`monolith`**. If that branch is missing, `scripts/setup` silently creates an empty one at the upstream pin and the engine changes are lost.
+```bash
+git clone git@github.com:thurn/monolith.git ~/monolith
+cd ~/monolith
+git clone -b master git@github.com:thurn/netrunner.git vendor/netrunner
+git -C vendor/netrunner branch -m master monolith
+git -C vendor/netrunner branch upstream 25c256a3131e146198b444cd2ff9a1f02ea7cc1a
+```
+*Check:* `git -C vendor/netrunner log --oneline -5 monolith` shows `cf45e8b perf: eager flatten…` at the top and `25c256a Merge pull request #8748` below the four fork commits.
+
+**4. Unpack the local files.** From the repo root, `unzip <path>/monolith-local-files.zip`. If the user didn't say where the zip is, look in `/mnt/c/Users/*/Downloads/`. It holds:
+- `research/equiv/baseline-500.edn`: the engine-equivalence baseline;
+- `research/rounds/R1/s4-data/`: S4 imitation data;
+- `claude-memory/`: two Claude memory files (the user prefers sequential work, no parallel subagent fan-out; same rule as plan §10). Move them into this project's Claude memory directory, `~/.claude/projects/<repo path with every / replaced by ->/memory/`, then delete `claude-memory/` from the repo root.
+
+*Check:* `git status` is clean (the unpacked paths are gitignored).
+
+**5. Engine setup and Python deps.**
+```bash
+scripts/setup                  # downloads card data, builds the i18n file, keeps branch monolith
+(cd ai/py && uv sync)          # PyTorch; only needed for S4/S5 training
+```
+*Check:* `git -C vendor/netrunner branch --show-current` prints `monolith`.
+
+**6. Verify the engine and agents.** Both commands start a fresh JVM (first run downloads dependencies).
+```bash
+scripts/engine-equiv
+scripts/ai-tourney '{:mode :match :agents [:heuristic :random] :seeds 50 :threads 4}'
+```
+*Expect:*
+- `engine-equiv` prints `{:games 500, :diverged 23, …}`, and every listed divergence has `:step :final`. Those 23 are documented in `rounds/O1/report.md`. Any divergence at a numbered step means the fork is wrong; recheck step 3.
+- In the tourney, `heuristic` wins ≥97% in both seats, with 0 stalls.
+
+**7. Machine adjustments.**
+- Commands in this file use 16 threads; replace with `nproc` (or one less).
+- `scripts/ci` needs Godot (it smoke-tests the Godot client). On this machine run only its non-Godot parts: `scripts/build-dist` must succeed. The AI work never needs Godot.
+- Background jobs: `scripts/ai-job <log> '<clj expr>'` runs an expression in a detached JVM from `ai/`, so give it absolute paths (use `$PWD` from the repo root). Tournaments: `scripts/ai-tourney '<edn>'` (paths relative to the repo root). Interactive dev: `scripts/ai-repl &`, then `scripts/ai-eval '<clj>'`.
+- Results aren't comparable with the Mac's for time-budgeted agents (S2). S3/champion are capped by engine applications, so their results are deterministic and comparable.
+
+Once step 6 passes, continue with "What was in flight" and "Suggested next steps" below, and log progress in `LOG.md` as before.
 
 ## Where things stand
 
@@ -28,10 +89,10 @@ All background jobs are stopped. Nothing is running. `scripts/ci` passes.
 ## What was in flight when paused
 
 1. A/B `planner` vs `[:planner {:dets 3}]` (3-determinization voting), then `planner` vs `:champion`, on seeds 80000–80299, after the HQ-exposure evaluator fix. Re-run with:
+   ```bash
+   scripts/ai-job research/rounds/R2/job-r3ab.log "(require 'monolith.ai.ab 'monolith.ai.agents.champion) (println (monolith.ai.ab/run {:a :planner :b [:planner {:dets 3}] :seeds (range 80000 80300) :threads 16 :log \"$PWD/research/rounds/R2/ab.jsonl\"})) (println (monolith.ai.ab/run {:a :planner :b :champion :seeds (range 80000 80300) :threads 16 :log \"$PWD/research/rounds/R2/ab.jsonl\"}))"
    ```
-   scripts/ai-job research/rounds/R2/job-r3ab.log '(require (quote monolith.ai.ab) (quote monolith.ai.agents.champion)) (println (monolith.ai.ab/run {:a :planner :b [:planner {:dets 3}] :seeds (range 80000 80300) :threads 16 :log "<abs path>/research/rounds/R2/ab.jsonl"}))'
-   ```
-   Expect ~2 h at 16 threads. Fill the `DETS_CHAMP` placeholder in the R2 report with the result.
+   Run from the repo root; results append to `research/rounds/R2/ab.jsonl`. Expect ~2–3 h at 16 threads. Fill the `DETS_CHAMP` placeholder in the R2 report with the result.
 2. The champion has not been re-measured since the HQ-exposure evaluator change (S3 Corp vs S1: 0.663 with it, 0.503 without, on seeds 80000+).
 
 ## Suggested next steps (in order)
@@ -71,28 +132,3 @@ The planner itself (beam search, determinization, S1 anchoring, rerank) is deck-
 - The planner farms any overvalued feature (Smartware "place 3 credits", hoarding agendas in HQ). Check new features with traces before A/Bs.
 - Run long jobs with `scripts/ai-job` (detached JVM), not through the socket REPL (`scripts/ai-repl` + `scripts/ai-eval`). Client timeouts and hot reloads have broken runs (stale protocol records).
 - R-NaD from scratch learned nothing in 145k games. The imitation policy alone is weak too (S4 policy: 25% Corp vs S1), but it is far ahead of R-NaD.
-
-## How to resume
-
-```
-scripts/setup                 # keeps the vendor/netrunner fork (never re-clone it)
-scripts/ai-repl &             # dev REPL on port 5555; scripts/ai-eval '<clj>' to evaluate
-scripts/ai-tourney '{:mode :rr :agents [:heuristic :champion] :seeds 200 :threads 16 :out "research/rounds/R3/results.jsonl"}'
-scripts/ai-report research/rounds/R3/results.jsonl
-```
-Engine fork: `vendor/netrunner`, branch `monolith` (head `cf45e8b`), baseline branch `upstream`. Equivalence check: `scripts/engine-equiv`.
-
-## Moving to another machine (e.g. Windows)
-
-Run it under **WSL2 (Ubuntu)**: every script in `scripts/` is bash, and clj-async-profiler does not support native Windows.
-
-1. **The engine fork is not in this repo.** `vendor/` is gitignored, so its commits (seeded RNG, perf work: `7463dd9`, `75d01ec`, `c7bf430`, `cf45e8b` on branch `monolith`) live only in `vendor/netrunner/.git`. A fresh `scripts/setup` would create an empty `monolith` branch at the pin and silently lose them. Pick one way to carry them:
-   - **Done (2026-10-03):** the fork's `monolith` branch is pushed to `master` on `git@github.com:thurn/netrunner.git` (this repo is on `master` at `git@github.com:thurn/monolith.git`). On a new machine: `git clone -b master git@github.com:thurn/netrunner.git vendor/netrunner && git -C vendor/netrunner branch -m master monolith && git -C vendor/netrunner remote add upstream-origin https://github.com/mtgred/netrunner.git && git -C vendor/netrunner branch upstream 25c256a3`, then `scripts/setup`. The local clone was shallow and was unshallowed to push.
-   - **Private remote (alternative):** create an empty *private* GitHub repo (not GitHub's Fork button, since forks of public repos are public), then `git -C vendor/netrunner push <remote> monolith upstream`. On the new machine, clone it into `vendor/netrunner` before running `scripts/setup`.
-   - **Bundle in this repo:** `git -C vendor/netrunner bundle create ../../research/netrunner-monolith.bundle upstream..monolith` (a few KB). Commit it, run `scripts/setup` on the new machine, then `git -C vendor/netrunner fetch ../../research/netrunner-monolith.bundle monolith:monolith && git -C vendor/netrunner checkout monolith`. Refresh the bundle after every engine commit.
-2. Install JDK 21, Leiningen, `uv` and Python 3.11+. `scripts/lein` defaults `JAVA_HOME` to the Homebrew path; export `JAVA_HOME` to the new JDK.
-3. `scripts/setup` downloads `raw_data.edn` and builds the i18n file. Gitignored research artifacts are not carried over: `research/equiv/baseline-500.edn` (re-record with `scripts/engine-equiv record` on the `upstream`+seeding commits, or copy it), S4 data and nets, and the R-NaD checkpoint.
-4. Thread counts are pinned at 16 in tourneys and A/Bs; set `:threads` to the new machine's core count. S3/champion results stay comparable (their search is capped by engine applications). Time-budgeted agents (S2) are not comparable across machines. Results record repo and fork SHAs.
-5. The Python learners use Apple's MPS when available and fall back to CPU (only S4/S5 training).
-6. `scripts/ci` expects Godot at the macOS path (override with the `GODOT` env var). It is only needed for the Godot client smoke test, not for the AI work.
-7. Some commands in this file and in `LOG.md` use absolute `/Users/dthurn/...` paths; substitute the new repo root.
