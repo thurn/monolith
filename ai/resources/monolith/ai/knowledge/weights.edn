@@ -17,6 +17,7 @@
  :corp-econ-cap 15          ; Corp plays economy operations below this many credits
  :corp-ice-reserve 2        ; credits the Corp keeps after installing extra ice
  :potential-breakers false  ; server safety expects breakers from the Runner's hand (R4)
+ :perceived-safety false    ; agenda safety judged on the Runner's view of hidden cards (R4)
  ;; S3/S2 evaluator feature weights (multipliers on the named features in knowledge/evaluator.clj)
  ;; signs and rough scale from a logistic fit of S1 self-play outcomes (research/LOG.md, R1);
  ;; :ice kept positive because its fitted negative weight is confounded by S1 over-icing when stuck

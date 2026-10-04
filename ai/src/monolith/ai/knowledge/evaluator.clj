@@ -49,16 +49,40 @@
                (* server-weight base (if covered 0.6 1.0) (nth [1.0 0.7 0.5 0.4 0.3] (min i 4)))))
            ices)))
 
+(defn- runner-unseen-remote-pool
+  "Agenda/asset/upgrade titles among the Corp's cards that the Runner has not seen (hand, R&D,
+  facedown installed and facedown Archives), {title qty}: the Runner's prior for a hidden remote card."
+  [s]
+  (let [installed (srv/all-corp-installed s)
+        hidden (concat (get-in s [:corp :hand]) (get-in s [:corp :deck])
+                       (remove #(or (:rezzed %) (:seen %)) installed)
+                       (remove :seen (get-in s [:corp :discard])))]
+    (frequencies (filter #(#{"Agenda" "Asset" "Upgrade"} (cards/ctype %)) (keep :title hidden)))))
+
+(defn- perceived-value
+  "What running remote k is worth to a Runner who cannot see agenda c: the hidden-card value of
+  its advancement level over the Runner's unseen pool, other cards in the server at face value."
+  [s k c ap-value]
+  ;; n-ice at least 1: do not assume the Runner discounts agendas in open remotes (S1's prior)
+  (srv/hidden-content-value (runner-unseen-remote-pool s) (or (:advance-counter c) 0) (max 1 (count (srv/ices s k)))
+                            {:ap-value ap-value :hand (count (get-in s [:runner :hand])) :w-damage 2.0
+                             :runner-credits (get-in s [:runner :credit])}))
+
 (defn agenda-ev
-  "Expected Corp value of an installed agenda c in remote k: scoring minus stealing chance."
+  "Expected Corp value of an installed agenda c in remote k: scoring minus stealing chance.
+  With :perceived-safety, whether the Runner runs is judged on what the card is worth to it
+  unseen (less a click's worth), so agendas hidden among assets count as safer."
   [obs k c {:keys [ap-value] :as w}]
   (let [ap (srv/ap (:title c))
         req (or (:current-advancement-requirement c) (:advancementcost (cards/printed (:title c))) 5)
         adv (or (:advance-counter c) 0)
         remaining (max 0 (- req adv))
+        hidden? (and (:perceived-safety w) (not (:seen c)))
+        value (if hidden? (perceived-value obs k c ap-value) (* ap-value ap))
         u (:u (if (:potential-breakers w)
-                (srv/corp-server-safety* obs k (* ap-value ap) 4 (srv/runner-pool-from-state obs) (count (get-in obs [:runner :hand])))
-                (srv/corp-server-safety obs k (* ap-value ap) 4)))
+                (srv/corp-server-safety* obs k value 4 (srv/runner-pool-from-state obs) (count (get-in obs [:runner :hand])))
+                (srv/corp-server-safety obs k value 4)))
+        u (if hidden? (- u 1.5) u)
         safe (if (<= u 0.0) 0.9 (/ 0.9 (+ 1.0 (/ u 4.0))))]
     ;; worth its points if it survives, minus the clicks+credits still needed, minus the steal risk
     (- (* safe ap ap-value) (* 2.0 remaining) (* (- 1.0 safe) ap ap-value))))
