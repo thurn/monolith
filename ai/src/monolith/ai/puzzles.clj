@@ -262,6 +262,11 @@
     :goal (ap-up :runner)
     :solution ["^click for credit" "^click for credit" "^click for credit" "^run Server 1" "^break Enigma" "(?i)steal"]
     :bad ["^run Server 1" "^break Enigma"]}
+   {:name "d-clear-tag-vs-kill-deck"
+    :spec (merge (m :worlds-2012-b) {:active :runner :corp {:credits 8 :hand ["Scorched Earth" "Hedge Fund"]}
+                                     :runner {:credits 6 :tags 1 :hand ["Sure Gamble" "Diesel" "Easy Mark"]}})
+    :goal (fn [_ b] (or (zero? (get-in b [:runner :tag :base] 0)) (>= (count (get-in b [:runner :hand])) 5)))
+    :solution ["^remove tag"] :bad ["^click for credit" "^click for credit" "^click for credit" "^click for credit"]}
    {:name "d-must-steal-before-corp-wins"
     :spec (merge (m :worlds-2021-b) {:active :runner :corp {:credits 3 :scored ["Project Atlas" "Above the Law" "Offworld Office"]
                                                             :install [{:t "Border Control" :server "New remote" :rez true}
