@@ -102,3 +102,14 @@ Goal for this phase (user, 2026-10-03): clear T2 and T3 on decks the agent was n
   1. *Puzzles:* ≥30 puzzles, of which ≥10 are held-out puzzles built from held-out-deck positions and never used for debugging. Pass: ≥90% of dev puzzles and ≥80% of held-out puzzles solved, and strictly more than S1 on held-out puzzles.
   2. *Blind log review:* 20 full-game logs on held-out matchups (10 candidate, 10 `:s1ref`; each game's candidate side balanced 5 Corp / 5 Runner; opponent is the other agent), labels removed and order shuffled by a fixed seed. One fresh reviewer agent (claude-opus-5-5) scores each log for the side under review against the §7.5 rubric (counts of wasted clicks, reasonless facechecks, unprotected agendas, missed lethal/scores, economy collapse) plus a 1–5 rating of "plays like a competent casual human". Pass: candidate mean rating ≥ 3.5, candidate mean serious-blunder count (missed lethal/score, agenda left unprotected and stolen) ≤ 1.0 per game, and candidate rated above `:s1ref` on mean.
   3. T2 must also hold on the held-out pool.
+
+## 2026-10-03 — Wider deck pool: move-gen coverage
+
+- Random-vs-random sweep, 20 seeds × 46 matchups (`R3/sweep-random.jsonl`): **90/920 stalls (9.8%)** before fixes. Causes:
+  - 58 StackOverflowErrors: upstream engine bug in `pick-credit-providing-cards` (the retry call shifted its arguments, dropping the bad-publicity budget, so `pay-rest` recursed forever when the pool couldn't cover a payment). Fork fix `2ae5bf346`.
+  - 23 dead-end selects: `:all` select prompts with no valid target (Corporate Troubleshooter with no rezzed ice, Marcus Batty, Trope with 0 targets) offer only "Hide", which re-shows the prompt forever. Move gen now offers `monolith-cancel-select`, which resolves the select with no targets.
+  - 4 harness exceptions: an engine card req throws while the engine's lazy `:selectable` seq is realized; move gen now realizes it under try.
+  - 6 engine schema exceptions on single actions: the harness now drops an action that throws (`command!` already restores the state) and only stalls if every action throws; each game records `:errors`.
+  - Bad-publicity payment (`bad-pub-choice`) is now offered in select prompts that allow it.
+- After fixes (`sweep-random2.jsonl`): 5/880 stalls, 4 of them the lazy-selectable bug fixed after that run started, 1 livelock (worlds-2016-b, random only).
+- Traces on a dev deck (Worlds 2019 a, champion vs S1) show **S1's Runner is helpless off Stage A**: with 4 credits and Sure Gamble/Liberated Account in hand it ran HQ or the same remote 4 times a turn for 20+ turns, never drawing or clicking for credits (run rule outranks economy; HQ access value 2.7 vs 1.0 click cost). S1's Corp clicked for credits for many turns holding agendas. The champion's Runner played the economy well but let Hagen's subroutines fire four runs in a row. Next: measure before fixing.
