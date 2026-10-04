@@ -43,7 +43,8 @@
   (reduce + 0.0
           (map-indexed
            (fn [i c]
-             (let [m (cards/printed-ice-model (:title c) false)
+             ;; rezzed ice at its current strength (advanced Tree Line, Pharos, ...)
+             (let [m (if (and (:rezzed c) (:current-strength c)) (cards/ice-model c) (cards/printed-ice-model (:title c) false))
                    base (min 3.0 (+ 1.0 (* 0.3 (:strength m)) (if (some :etr (:subs m)) 0.8 0.0)))
                    covered (some #(cards/can-break-type? % m) breakers)]
                (* server-weight base (if covered 0.6 1.0) (nth [1.0 0.7 0.5 0.4 0.3] (min i 4)))))
