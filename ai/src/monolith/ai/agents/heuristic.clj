@@ -398,11 +398,12 @@
         grip (count (get-in obs [:runner :hand]))
         tags (+ (get-in obs [:runner :tag :base] 0) (get-in obs [:runner :tag :additional] 0))]
     (first (for [a (acts env :choice)
-                 :let [[_ n] (re-find #"(?i)do (\d+|X) (?:net|meat|core|brain) damage" (str (:label a)))
-                       dmg (cond (nil? n) nil
-                                 (re-find #"\d" n) (parse-long n)
-                                 (re-find #"(?i)tag" (str (:label a))) (min 3 tags)
-                                 :else nil)]
+                 :let [l (str (:label a))
+                       [_ n] (re-find #"(?i)do (\d+|X) (?:net|meat|core|brain) damage" l)
+                       cap (or (some-> (re-find #"(?i)up to (\d+)" l) second parse-long) 99)
+                       per-tag (re-find #"(?i)per tag|for each tag|number of tags" l)
+                       base (cond (nil? n) nil (re-find #"\d" n) (parse-long n) :else 1)
+                       dmg (when base (if per-tag (* base (min tags cap)) base))]
                  :when (and dmg (> dmg grip))]
              a))))
 
