@@ -119,3 +119,13 @@ Goal for this phase (user, 2026-10-03): clear T2 and T3 on decks the agent was n
 - At 22:12 the VM ran out of memory with three `-Xmx24g` JVMs live (held-out A/B ~21 GB incl. swap, S1-gen A/B ~7 GB, REPL ~6 GB). The kernel killed the held-out JVM; systemd then killed the whole tmux scope (Claude and the other JVMs), since `nohup` jobs shared its cgroup.
 - Survived: held-out Stage B, `heuristic` vs `champion`, 300 seeds: S1 Corp 0.757 / Runner 0.243, champion Corp 0.807 / Runner 0.623 (p≈3e-16). C1/C2 legs and the S1-gen A/B were lost.
 - Fix: heap cap is now `AI_HEAP` (default 8g); `ai-job`/`ai-repl` run each JVM in its own systemd user scope. 8g suffices: champion vs S1 at 14 threads peaks ~9 GB RSS, and a full GC leaves the old generation 1–5% full. Budget rules in `HANDOFF.md`.
+
+## 2026-10-04 — R4 begins: autonomous push for T2/T3 on held-out decks
+
+- Machine: 20 cores, 27 GB VM. Layout: two 8g jobs + a 6g REPL (25 GB budget).
+- `ab/run` and `evalset/run` now stream one JSONL line per game (seed-major order, replay `:log` kept), so killed jobs lose only in-flight games and partial logs hold complete seeds.
+- Launched (results in `rounds/R4/`):
+  1. Dev-mix baseline, 300 seeds (100000–100299) over the 40 dev matchups: `:heuristic` (current S1) vs `:s1ref`, then `:champion` vs `:s1ref`, opponent `:s1ref`. This is the first broad measurement of where the champion stands against the frozen T2 reference.
+  2. Held-out baseline (the one sanctioned held-out run before tuning), 300 seeds (90000–90299) over the 6 held-out matchups: `:champion` vs `:s1ref`.
+- Context from the existing S1 self-play sweep (`R3/sweep-s1.jsonl`, 20 seeds × 40 dev matchups): S1's Corp null averages ≈0.80 and is ≥0.9 on 17 matchups; it is Runner-favoured on six (classique-2023-b, worlds-2017-b, 2019-a/b, 2020-a). So the Corp side needs ≈0.90 average to clear +0.85 logit; the Runner side ≈0.37.
+- Plan for R4: (a) read the baselines per matchup and side; (b) trace the champion's losses on dev decks only and fix generic weaknesses (Corp side first, it gained least on Stage A/B); (c) grow the puzzle suite to ≥30 with ≥10 held-out puzzles (pre-registered T3 rule); (d) build the blind-review pipeline.
