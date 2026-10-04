@@ -85,25 +85,28 @@
          (get-in s [:corp :agenda-point]) (get-in s [:runner :agenda-point]) (boolean (:run s))]))
 
 (defn- rollout-score
-  "Plays the line's end state forward with S1 for both sides until `side`'s next turn begins (or a
-  step cap), then evaluates. Gives the planner one opponent turn of foresight."
-  [sm side weights decks rng max-steps]
+  "Plays the line's end state forward with S1 for both sides, then evaluates. turns 1: until
+  `side`'s next turn begins (one opponent turn of foresight); turns 2: also through `side`'s
+  next turn, until the opponent's following turn begins. Capped at max-steps actions."
+  [sm side weights decks rng max-steps turns]
   (let [s0 (sim/snapshot sm)
-        t0 (:turn s0)]
-    (loop [i 0]
+        stop-at (if (= 2 turns) 3 2)]
+    (loop [i 0 prev (:active-player s0) changes 0]
       (let [s (sim/snapshot sm)
-            d (sim/decision sm)]
+            d (sim/decision sm)
+            active (:active-player s)
+            changes (if (not= active prev) (inc changes) changes)]
         (if (or (nil? d) (moves/game-over? s) (>= i max-steps)
-                (and (= side (:side d)) (= :turn (:kind d)) (> i 0) (not= [t0 (:active-player s0)] [(:turn s) (:active-player s)])))
+                (and (>= changes stop-at) (= :turn (:kind d))))
           (ev/for-side s side weights)
           (let [acts (sim/legal sm d)]
             (if (or (empty? acts) (not (sim/apply! sm (if (= 1 (count acts)) (first acts) (s1-choose sm d acts weights decks rng)))))
               (ev/for-side s side weights)
-              (recur (inc i)))))))))
+              (recur (inc i) active changes))))))))
 
 (defn plan
   "Beam search from the current (determinized) sim state. Returns {:line [actions] :score x :apps n}."
-  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs]}]
+  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs rerank-turns]}]
   (let [root (sim/snapshot sm)
         score (fn [status] (let [s (sim/snapshot sm)
                                  base (+ (ev/for-side s side weights) (if value-fn (value-fn sm s) 0.0))]
@@ -121,7 +124,7 @@
                     (concat (for [c top]
                               (do (sim/restore! sm (:snap c))
                                   ;; rerank scores dominate their beam scores
-                                  (assoc c :score (+ 10000.0 (rollout-score sm side weights decks rng 400)))))
+                                  (assoc c :score (+ 10000.0 (rollout-score sm side weights decks rng (* 400 (or rerank-turns 1)) (or rerank-turns 1))))))
                             all)
                     all)]
           (assoc (if (seq all) (apply max-key :score all) {:line [] :score 0.0})
@@ -176,7 +179,7 @@
      :apps (reduce + (map :apps results))
      :best-k best-k}))
 
-(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs]
+(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs rerank-turns]
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
@@ -198,7 +201,7 @@
                   plan-once (fn []
                               (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))]
                                 (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
-                                                    :max-apps max-apps :deadline deadline :rerank rerank :sim-runs sim-runs
+                                                    :max-apps max-apps :deadline deadline :rerank rerank :sim-runs sim-runs :rerank-turns rerank-turns
                                                     :filter-acts (when filter-acts (partial filter-acts decks))
                                                     :value-fn (when value-fn (partial value-fn decks))})
                                      (finally (sim/end! sm)))))
@@ -221,10 +224,10 @@
 
 (defn make
   ([] (make {}))
-  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight sim-runs]
+  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight sim-runs rerank-turns]
       :or {beam 6 max-apps 2500 budget-factor 16 rerank 0 value-weight 20.0}}]
    (let [vf (when value-net
               (let [n ((requiring-resolve 'monolith.ai.knowledge.valuenet/net) value-net)
                     cv (requiring-resolve 'monolith.ai.knowledge.valuenet/corp-value)]
                 (fn [decks _sm s] (* value-weight (if (= side :runner) -1.0 1.0) (cv n s (:corp decks))))))]
-     (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs))))
+     (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs rerank-turns))))
