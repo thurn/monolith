@@ -17,6 +17,18 @@
 
 (def ^:dynamic *on-step* nil)
 
+(defn- remember-access!
+  "The engine forgets that the Runner saw an accessed installed card (it stays facedown and
+  unseen). A human remembers, so the card is tagged :monolith-known for observe and the sim."
+  [state]
+  (let [p (moves/current-prompt @state :runner)
+        c (:card p)]
+    (when (and c (= :servers (first (:zone c))) (re-find #"^You accessed" (str (:msg p))))
+      (swap! state update-in [:corp :servers]
+             (fn [servers]
+               (into {} (for [[k srv] servers]
+                          [k (update srv :content (fn [cs] (mapv #(if (= (:cid %) (:cid c)) (assoc % :monolith-known true) %) cs)))])))))))
+
 (defn- result [g n stall t0 extra]
   (let [s @(:state g)]
     (merge
@@ -81,6 +93,7 @@
                           err (try (engine/command! g side (:command action) (:args action)) nil
                                    (catch Throwable t t))]
                       (conj! log idx)
+                      (when-not err (remember-access! state))
                       (when *on-step* (*on-step* g d action))
                       (cond
                         ;; command! restored the state: drop the throwing action and re-ask (stall

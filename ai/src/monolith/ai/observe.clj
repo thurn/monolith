@@ -10,7 +10,7 @@
 (defn stub [c] (-> (select-keys c stub-keys) (assoc :hidden true)))
 
 (defn- corp-card-visible-to-runner? [c]
-  (or (rezzed? c) (:seen c) (and (= :discard (first (:zone c))) (not (:facedown c)) (:seen c))
+  (or (rezzed? c) (:seen c) (:monolith-known c) (and (= :discard (first (:zone c))) (not (:facedown c)) (:seen c))
       (#{:scored :current :play-area :rfg} (first (:zone c)))))
 
 (defn- redact-corp-installed [c]

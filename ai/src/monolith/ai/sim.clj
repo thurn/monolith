@@ -62,7 +62,7 @@
   (for [[k srv] (get-in s [:corp :servers])
         [zk kind] [[:ices :ice] [:content (if (srv/remote? k) :remote :root)]]
         [i c] (map-indexed vector (get srv zk))
-        :when (not (or (:rezzed c) (:seen c)))]
+        :when (not (or (:rezzed c) (:seen c) (:monolith-known c)))]
     [[:corp :servers k zk i] c kind]))
 
 (defn determinize!
