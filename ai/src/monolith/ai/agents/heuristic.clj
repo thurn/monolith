@@ -279,14 +279,22 @@
 (defn meat-damage [title]
   (some-> (re-find #"(?i)do (\d+) meat damage" (card-text title)) second parse-long))
 
+(defn- op-damage
+  "Meat damage of operation t now (per-tag texts like High-Profile Target scale with tags)."
+  [obs t]
+  (when-let [d (meat-damage t)]
+    (if (re-find #"(?i)meat damage for each tag" (card-text t))
+      (* d (+ (get-in obs [:runner :tag :base] 0) (get-in obs [:runner :tag :additional] 0)))
+      d)))
+
 (defn c-kill
   "Meat-damage operations when they flatline the Runner (whole hand plus one)."
   [env]
   (let [obs (:obs env)
         hand (count (get-in obs [:runner :hand]))
-        ops (filter #(meat-damage (card-title %)) (acts env :play))]
-    (when (and (seq ops) (>= (reduce + (map #(meat-damage (card-title %)) ops)) (inc hand)))
-      (apply max-key #(meat-damage (card-title %)) ops))))
+        ops (filter #(op-damage obs (card-title %)) (acts env :play))]
+    (when (and (seq ops) (>= (reduce + (map #(op-damage obs (card-title %)) ops)) (inc hand)))
+      (apply max-key #(op-damage obs (card-title %)) ops))))
 
 (defn c-trash-resource
   "When the Runner is tagged, trash their best resource."
