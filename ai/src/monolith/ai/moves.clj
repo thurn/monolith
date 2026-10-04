@@ -90,9 +90,11 @@
                               :else true)
                         (catch Exception _ false))))
         by-cid (into {} (map (juxt :cid identity)) (get-all-cards state))
-        cards (->> (:selectable p)
+        ;; :selectable is a lazy engine seq whose card reqs can throw when realized
+        cards (->> (try (doall (:selectable p)) (catch Exception _ nil))
                    (keep by-cid)
-                   (filter ok?))
+                   (filter #(try (ok? %) (catch Exception _ false)))
+                   doall)
         ;; identical cards (same title, same zone, both unselected) are interchangeable
         cards (vals (into (sorted-map) (map (fn [c] [[(str (:title c)) (str (:zone c)) (if (installed? c) (:cid c) "")] c]) cards)))
         done (->> (:choices p) (filter #(= "Done" (:value %))) first)]

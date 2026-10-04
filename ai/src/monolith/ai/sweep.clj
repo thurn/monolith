@@ -12,6 +12,13 @@
 
 (def dev-matchups (sort (remove holdout precon/all-matchups)))
 
+(def dev-mix
+  "A/B matchup mix: Stage A, Stage B and every dev Worlds/Classique matchup (seed s plays
+  matchup s mod 40, so improvements must transfer across decks)."
+  (vec (concat [:gateway-beginner :gateway-intermediate] dev-matchups)))
+
+(def holdout-mix [:worlds-2023-a :worlds-2023-b :worlds-2024-a :worlds-2024-b :worlds-2025-a :worlds-2025-b])
+
 (defn deck-keys [m] [(keyword (str (name m) "-corp")) (keyword (str (name m) "-runner"))])
 
 (defn run

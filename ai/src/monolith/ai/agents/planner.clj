@@ -40,14 +40,14 @@
 (defn- advance!
   "After applying a line action, resolves prompts (S1, both sides) until `side` has its next click
   decision, the turn ends, a run starts, or the game ends. Returns {:status kw :n applications}."
-  [sm side weights decks rng budget]
+  [sm side weights decks rng budget sim-runs]
   (loop [n 0]
     (let [s (sim/snapshot sm)
           d (sim/decision sm)]
       (cond
         (or (nil? d) (moves/game-over? s)) {:status :game-over :n n}
         (> n budget) {:status :cutoff :n n}
-        (and (= side :runner) (:run s)) {:status :run :n n}
+        (and (= side :runner) (:run s) (not sim-runs)) {:status :run :n n}
         (and (= (:side d) side) (= :turn (:kind d))) {:status :open :n n}
         ;; out of clicks: let S1 take free end-of-turn actions (score, rez economy) inside the line
         (and (= (:side d) side) (= :end-turn (:kind d)))
@@ -103,7 +103,7 @@
 
 (defn plan
   "Beam search from the current (determinized) sim state. Returns {:line [actions] :score x :apps n}."
-  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank]}]
+  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs]}]
   (let [root (sim/snapshot sm)
         score (fn [status] (let [s (sim/snapshot sm)
                                  base (+ (ev/for-side s side weights) (if value-fn (value-fn sm s) 0.0))]
@@ -142,7 +142,7 @@
                      :while (and (<= @apps max-apps) (<= (System/currentTimeMillis) deadline))
                      :let [_ (sim/restore! sm snap)
                            ok (sim/apply! sm a)
-                           {:keys [status n]} (if ok (advance! sm side weights decks rng 60) {:status :bad :n 0})
+                           {:keys [status n]} (if ok (advance! sm side weights decks rng (if sim-runs 200 60) sim-runs) {:status :bad :n 0})
                            _ (vswap! apps + 1 n)]
                      :when (not= status :bad)
                      :let [s (sim/snapshot sm)]]
@@ -176,7 +176,7 @@
      :apps (reduce + (map :apps results))
      :best-k best-k}))
 
-(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets]
+(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs]
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
@@ -198,7 +198,7 @@
                   plan-once (fn []
                               (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))]
                                 (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
-                                                    :max-apps max-apps :deadline deadline :rerank rerank
+                                                    :max-apps max-apps :deadline deadline :rerank rerank :sim-runs sim-runs
                                                     :filter-acts (when filter-acts (partial filter-acts decks))
                                                     :value-fn (when value-fn (partial value-fn decks))})
                                      (finally (sim/end! sm)))))
@@ -221,10 +221,10 @@
 
 (defn make
   ([] (make {}))
-  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight]
+  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight sim-runs]
       :or {beam 6 max-apps 2500 budget-factor 16 rerank 0 value-weight 20.0}}]
    (let [vf (when value-net
               (let [n ((requiring-resolve 'monolith.ai.knowledge.valuenet/net) value-net)
                     cv (requiring-resolve 'monolith.ai.knowledge.valuenet/corp-value)]
                 (fn [decks _sm s] (* value-weight (if (= side :runner) -1.0 1.0) (cv n s (:corp decks))))))]
-     (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets))))
+     (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs))))

@@ -15,7 +15,9 @@
 (defn make
   ([] (make {}))
   ([{:keys [side s1-margin rerank] :or {s1-margin 2.0 rerank 3} :as opts}]
-   (planner/make (merge {:beam 6 :max-apps 2500}
+   ;; budget-factor 200: the deadline (budget-ms x 200) practically never binds, so the 2,500
+   ;; application cap does and games replay deterministically on any machine
+   (planner/make (merge {:beam 6 :max-apps 2500 :budget-factor 200}
                         (dissoc opts :side)
                         {:side side :s1-margin s1-margin :rerank rerank
                          :weights {:eval (eval-weights (or side :corp))}}))))

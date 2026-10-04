@@ -1,0 +1,44 @@
+classique-2022-a     n= 20 stalls= 0 corp=0.25 turns=20.0 {"runner/Agenda" 12, "runner/Decked" 3, "corp/Flatline" 4, "corp/Agenda" 1} 
+classique-2022-b     n= 20 stalls= 0 corp=0.15 turns=15.4 {"runner/Agenda" 13, "runner/Decked" 4, "corp/Flatline" 3} 
+classique-2022-c     n= 20 stalls= 0 corp=0.15 turns=12.4 {"runner/Decked" 6, "runner/Agenda" 11, "corp/Flatline" 3} 
+classique-2022-d     n= 20 stalls= 0 corp=0.60 turns=12.7 {"corp/Flatline" 12, "runner/Agenda" 8} 
+classique-2023-a     n= 20 stalls= 0 corp=0.55 turns=10.0 {"runner/Agenda" 9, "corp/Flatline" 11} 
+classique-2023-b     n= 20 stalls= 0 corp=0.00 turns=14.6 {"runner/Agenda" 12, "runner/Decked" 8} 
+classique-2023-c     n= 20 stalls= 0 corp=0.10 turns=18.3 {"runner/Agenda" 13, "runner/Decked" 5, "corp/Flatline" 1, "corp/Agenda" 1} 
+classique-2023-d     n= 20 stalls= 0 corp=0.60 turns=12.7 {"corp/Flatline" 12, "runner/Agenda" 8} 
+classique-2025-a     n= 20 stalls= 0 corp=0.85 turns= 8.4 {"runner/Agenda" 3, "corp/Flatline" 17} 
+classique-2025-b     n= 20 stalls= 0 corp=0.15 turns=12.4 {"runner/Decked" 6, "runner/Agenda" 11, "corp/Flatline" 3} 
+classique-2025-c     n= 20 stalls= 0 corp=0.00 turns= 9.9 {"runner/Agenda" 20} 
+classique-2025-d     n= 20 stalls= 0 corp=0.70 turns=11.3 {"corp/Flatline" 14, "runner/Agenda" 5, "runner/Decked" 1} 
+classique-2026-a     n= 20 stalls= 0 corp=0.05 turns=14.0 {"runner/Agenda" 16, "corp/Flatline" 1, "runner/Decked" 3} 
+classique-2026-b     n= 20 stalls= 0 corp=0.10 turns=15.4 {"runner/Decked" 2, "runner/Agenda" 16, "corp/Flatline" 2} 
+classique-2026-c     n= 20 stalls= 0 corp=0.50 turns=16.3 {"corp/Flatline" 10, "runner/Agenda" 8, "runner/Decked" 2} 
+classique-2026-d     n= 20 stalls= 0 corp=0.10 turns=12.6 {"runner/Decked" 4, "runner/Agenda" 14, "corp/Flatline" 2} 
+worlds-2012-a        n= 20 stalls= 0 corp=0.45 turns=13.0 {"runner/Agenda" 11, "corp/Flatline" 9} 
+worlds-2012-b        n= 20 stalls= 0 corp=0.15 turns=18.0 {"runner/Agenda" 16, "corp/Flatline" 3, "runner/Decked" 1} 
+worlds-2013-a        n= 20 stalls= 0 corp=0.10 turns=16.7 {"runner/Agenda" 16, "runner/Decked" 2, "corp/Flatline" 2} 
+worlds-2013-b        n= 20 stalls= 0 corp=0.00 turns=20.6 {"runner/Agenda" 16, "runner/Decked" 4} 
+worlds-2014-a        n= 20 stalls= 0 corp=0.75 turns=18.2 {"corp/Flatline" 15, "runner/Agenda" 4, "runner/Decked" 1} 
+worlds-2014-b        n= 20 stalls= 0 corp=0.90 turns= 6.1 {"corp/Flatline" 18, "runner/Agenda" 2} 
+worlds-2015-a        n= 20 stalls= 0 corp=0.25 turns=20.5 {"runner/Decked" 3, "corp/Flatline" 5, "runner/Agenda" 12} 
+worlds-2015-b        n= 20 stalls= 0 corp=0.15 turns=10.7 {"runner/Agenda" 17, "corp/Flatline" 3} 
+worlds-2016-a        n= 20 stalls= 0 corp=0.05 turns=12.7 {"runner/Agenda" 15, "runner/Decked" 4, "corp/Flatline" 1} 
+worlds-2016-b        n= 20 stalls= 1 corp=0.11 turns=21.8 {"runner/Agenda" 13, "corp/Flatline" 2, "runner/Decked" 4} {:livelock 1}
+worlds-2017-a        n= 20 stalls= 0 corp=0.05 turns=11.4 {"runner/Agenda" 19, "corp/Flatline" 1} 
+worlds-2017-b        n= 20 stalls= 3 corp=0.00 turns=14.4 {"runner/Decked" 4, "runner/Agenda" 13} {:harness-exception 3}
+worlds-2018-a        n= 20 stalls= 0 corp=0.05 turns=14.0 {"runner/Agenda" 16, "runner/Decked" 3, "corp/Flatline" 1} 
+worlds-2018-b        n= 20 stalls= 0 corp=0.00 turns=16.1 {"runner/Agenda" 20} 
+worlds-2019-a        n= 20 stalls= 1 corp=0.00 turns=12.2 {"runner/Agenda" 16, "runner/Decked" 3} {:harness-exception 1}
+worlds-2019-b        n= 20 stalls= 0 corp=0.35 turns=15.0 {"runner/Decked" 2, "runner/Agenda" 11, "corp/Flatline" 7} 
+worlds-2020-a        n= 20 stalls= 0 corp=0.25 turns=12.7 {"runner/Agenda" 15, "corp/Flatline" 5} 
+worlds-2020-b        n= 20 stalls= 0 corp=0.05 turns=23.1 {"runner/Decked" 12, "runner/Agenda" 7, "corp/Flatline" 1} 
+worlds-2021-a        n= 20 stalls= 0 corp=0.05 turns=14.0 {"runner/Agenda" 15, "runner/Decked" 4, "corp/Flatline" 1} 
+worlds-2021-b        n= 20 stalls= 0 corp=0.20 turns=13.0 {"runner/Agenda" 15, "corp/Flatline" 4, "runner/Decked" 1} 
+worlds-2022-a        n= 20 stalls= 0 corp=0.00 turns=12.0 {"runner/Agenda" 20} 
+worlds-2022-b        n= 20 stalls= 0 corp=0.85 turns=10.3 {"corp/Flatline" 17, "runner/Agenda" 3} 
+worlds-2023-a        n= 20 stalls= 0 corp=0.05 turns=22.0 {"runner/Agenda" 12, "runner/Decked" 7, "corp/Flatline" 1} 
+worlds-2023-b        n= 20 stalls= 0 corp=0.25 turns=12.4 {"runner/Decked" 4, "runner/Agenda" 11, "corp/Flatline" 5} 
+worlds-2024-a        n= 20 stalls= 0 corp=0.40 turns= 9.4 {"runner/Agenda" 12, "corp/Flatline" 8} 
+worlds-2024-b        n= 20 stalls= 0 corp=0.90 turns= 6.3 {"corp/Flatline" 18, "runner/Agenda" 2} 
+worlds-2025-a        n= 20 stalls= 0 corp=0.35 turns= 7.8 {"runner/Decked" 2, "runner/Agenda" 11, "corp/Flatline" 7} 
+worlds-2025-b        n= 20 stalls= 0 corp=0.10 turns=12.2 {"runner/Decked" 1, "corp/Flatline" 2, "runner/Agenda" 17} 
