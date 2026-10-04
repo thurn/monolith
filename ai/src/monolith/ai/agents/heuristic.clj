@@ -236,8 +236,43 @@
 
 (defn c-credit [env] (act env :credit))
 
+(defn- card-text [title] (str (:text (cards/printed title))))
+(defn- runner-tagged? [obs] (pos? (or (get-in obs [:runner :tag :base]) 0)))
+
+(defn meat-damage [title]
+  (some-> (re-find #"(?i)do (\d+) meat damage" (card-text title)) second parse-long))
+
+(defn c-kill
+  "Meat-damage operations when they flatline the Runner (whole hand plus one)."
+  [env]
+  (let [obs (:obs env)
+        hand (count (get-in obs [:runner :hand]))
+        ops (filter #(meat-damage (card-title %)) (acts env :play))]
+    (when (and (seq ops) (>= (reduce + (map #(meat-damage (card-title %)) ops)) (inc hand)))
+      (apply max-key #(meat-damage (card-title %)) ops))))
+
+(defn c-trash-resource
+  "When the Runner is tagged, trash their best resource."
+  [env]
+  (when (runner-tagged? (:obs env)) (act env :trash-resource)))
+
+(defn c-tag-op
+  "Operations that give the Runner tags (only legal when their conditions hold)."
+  [env]
+  (when (>= (credits env) 3)
+    (act-where env #(and (= :play (:type %)) (re-find #"(?i)give the runner \d+ tag|gains? \d+ tag" (card-text (card-title %)))))))
+
+(defn c-other-op
+  "Any other affordable operation that is not pure economy (cheap generic use of the deck)."
+  [env]
+  (when (>= (credits env) 6)
+    (act-where env #(and (= :play (:type %)) (not (pos? (cards/econ-gain (card-title %))))
+                         (not= "Seamless Launch" (card-title %))
+                         (<= (cards/play-cost (card-title %)) (- (credits env) 3))))))
+
 (def corp-turn-rules
-  [[:score c-score]
+  [[:kill c-kill]
+   [:score c-score]
    [:advance-to-score c-advance-to-score]
    [:seamless c-seamless]
    [:protect-centrals c-protect-centrals]
@@ -252,6 +287,9 @@
    [:more-ice c-more-ice]
    [:install-ambush c-install-ambush]
    [:bluff-advance c-bluff-advance]
+   [:trash-resource c-trash-resource]
+   [:tag-op c-tag-op]
+   [:other-op c-other-op]
    [:draw c-draw]
    [:credit c-credit]])
 
@@ -454,13 +492,32 @@
     (when (and (< (count (get-in obs [:runner :hand])) 3) (> (clicks env) 1))
       (act env :draw))))
 
+(defn r-remove-tag
+  "Clear tags while the Corp could punish them (its decklist trashes resources or does meat damage)."
+  [env]
+  (let [obs (:obs env)]
+    (when (and (runner-tagged? obs) (act env :remove-tag)
+               (or (seq (filter #(:rezzed %) (srv/all-corp-installed obs)))
+                   (some #(meat-damage %) (keys (corp-decklist env)))
+                   true))
+      (act env :remove-tag))))
+
+(defn r-install-generic
+  "Install other affordable hardware/programs/resources while keeping a small reserve."
+  [env]
+  (when (w env :runner-install-generic)
+  (act-where env #(and (= :install (:type %)) (not (cards/icebreaker? (card-title %)))
+                       (<= (cards/play-cost (card-title %)) (- (credits env) 3))))))
+
 (def runner-turn-rules
-  [[:safety-draw r-safety-draw]
+  [[:remove-tag r-remove-tag]
+   [:safety-draw r-safety-draw]
    [:econ-critical (fn [env] (when (< (credits env) (w env :runner-econ-floor)) (r-econ env)))]
    [:install-breaker r-install-breaker]
    [:run r-run]
    [:econ r-econ]
    [:install-other r-install-other]
+   [:install-generic r-install-generic]
    [:draw r-draw]
    [:credit (fn [env] (act env :credit))]])
 
