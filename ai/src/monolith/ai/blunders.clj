@@ -45,9 +45,11 @@
                           (when (= sd (:active-player s)) (swap! turn-acts conj (:type a)))
                           ;; installing a card title this side already installed earlier (Eater bounced
                           ;; by Archangel every turn, heap breakers re-bought): only Runner permanents
-                          (when (and (= :install (:type a)) (= sd :runner))
-                            (let [t (get-in a [:args :card :title])]
-                              (when (contains? (get @installed sd) t) (bump! sd :reinstalls 1))
+                          (when (and p (= :install (:type a)) (= sd :runner))
+                            (let [t (get-in a [:args :card :title])
+                                  rig (get-in p [:runner :rig])
+                                  in-play (some #(= t (:title %)) (concat (:program rig) (:hardware rig) (:resource rig)))]
+                              (when (and (contains? (get @installed sd) t) (not in-play)) (bump! sd :reinstalls 1))
                               (swap! installed update sd conj t)))
                           (when (and p (= :credit (:type a)) (>= (or (get-in p [sd :credit]) 0) 15)) (bump! sd :rich-credit-clicks 1))
                           (when (and (= :run (:type a)) (@failed (get-in a [:args :server]))) (bump! :runner :repeat-failed-runs 1))
