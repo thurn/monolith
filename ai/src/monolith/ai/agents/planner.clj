@@ -113,7 +113,7 @@
 
 (defn plan
   "Beam search from the current (determinized) sim state. Returns {:line [actions] :score x :apps n}."
-  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs rerank-turns branch-prompts leaf-fn rerank-samples]}]
+  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs rerank-turns branch-prompts leaf-fn rerank-samples anchor-key]}]
   (let [root (sim/snapshot sm)
         score (fn [status] (let [s (sim/snapshot sm)
                                  base (+ (if leaf-fn (leaf-fn s side) (ev/for-side s side weights)) (if value-fn (value-fn sm s) 0.0))]
@@ -127,6 +127,11 @@
       (if (or (empty? frontier) (> depth 6) (> @apps max-apps) (> (System/currentTimeMillis) deadline))
         (let [all (concat finals (filter #(seq (:line %)) frontier))
               top (take (or rerank 0) (sort-by (comp - :score) all))
+              ;; :anchor-key: also rerank the best line starting with the anchor (S1's) action, so
+              ;; the anchor margin compares rollout scores with rollout scores
+              top (if (and (seq top) anchor-key (not-any? #(= anchor-key (action-key (first (:line %)))) top))
+                    (concat top (take 1 (sort-by (comp - :score) (filter #(= anchor-key (action-key (first (:line %)))) all))))
+                    top)
               all (if (seq top)
                     (concat (for [c top]
                               ;; rerank scores dominate their beam scores; :rerank-samples averages
@@ -195,7 +200,7 @@
      :apps (reduce + (map :apps results))
      :best-k best-k}))
 
-(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs rerank-turns branch-prompts leaf-fn rerank-samples]
+(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs rerank-turns branch-prompts leaf-fn rerank-samples rerank-anchor]
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
@@ -220,11 +225,13 @@
             (do (swap! plan-state update :line rest) follow)
             (let [fresh-turn (not= made-turn (:turn o))
                   deadline (+ (System/currentTimeMillis) (long (* budget-ms (if fresh-turn budget-factor 4) (max 1 (or dets 1)))))
+                  s1a (when s1-margin (second (s1/decide (assoc ctx :obs o :weights weights :mem (atom {})))))
                   plan-once (fn []
                               (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))]
                                 (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
                                                     :max-apps max-apps :deadline deadline :rerank rerank :sim-runs sim-runs :rerank-turns rerank-turns
                                                     :branch-prompts branch-prompts :leaf-fn leaf-fn :rerank-samples rerank-samples
+                                                    :anchor-key (when (and rerank-anchor s1a) (action-key s1a))
                                                     :filter-acts (when filter-acts (partial filter-acts decks))
                                                     :value-fn (when value-fn (partial value-fn decks))})
                                      (finally (sim/end! sm)))))
@@ -233,7 +240,6 @@
                            (plan-once))
                   best (first (:line result))
                   ;; S1 anchoring: keep S1's choice unless the plan beats S1's best line by a margin
-                  s1a (when s1-margin (second (s1/decide (assoc ctx :obs o :weights weights :mem (atom {})))))
                   s1-score (when s1a (get (:by-first result) (action-key s1a)))
                   best (if (and s1a s1-score best (< (- (:score result) s1-score) s1-margin)) s1a best)
                   result (if (and s1a (identical? best s1a)) (assoc result :line [s1a]) result)
@@ -248,7 +254,7 @@
 (defn make
   ([] (make {}))
   ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight sim-runs rerank-turns branch-prompts
-             vmodel vweight vblend rerank-samples]
+             vmodel vweight vblend rerank-samples rerank-anchor]
       :or {beam 6 max-apps 2500 budget-factor 16 rerank 0 value-weight 20.0 vweight 15.0 vblend 0.0}}]
    (let [vf (when value-net
               (let [n ((requiring-resolve 'monolith.ai.knowledge.valuenet/net) value-net)
@@ -265,4 +271,4 @@
                         (ev/for-side s sd w)
                         (+ (* vweight (lg m s) (if (= sd :corp) 1.0 -1.0))
                            (if (pos? vblend) (* vblend (ev/for-side s sd w)) 0.0))))))]
-       (->Planner side w beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs rerank-turns branch-prompts leaf rerank-samples)))))
+       (->Planner side w beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs rerank-turns branch-prompts leaf rerank-samples rerank-anchor)))))
