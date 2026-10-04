@@ -15,7 +15,7 @@ All A/Bs are paired (same seeds, both seats) against S1 and use McNemar's test o
 | ES-tuned evaluator (Corp) | 0.590 (vs 0.657) | | | **rejected: failed validation** (100-seed generations selected noise) |
 | HQ-agenda liability scaled by HQ exposure | 0.663 (vs 0.503 with the term off) | | | adopted |
 
-DETS_CHAMP
+Pending: the A/Bs of 3-determinization voting and of the champion after the HQ-exposure fix were stopped at the handoff (see `../../HANDOFF.md`).
 
 ## S1 (rank 2)
 

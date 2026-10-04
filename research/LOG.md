@@ -80,3 +80,7 @@ Append-only lab notebook for the Netrunner AI project ([plan](../docs/ai-researc
 - S3 evaluator ES (Corp side, 10 gens × 8 candidates × 100 seeds): converged to agenda-points 3.5, installed-agendas 1.5, clicks 1.4, credits 0.8, damage exposure 2.1. **Failed validation** on 300 fresh paired seeds: Corp 0.657 → 0.590. With 100 seeds per generation the ES selected noise. Runner-side ES cancelled; S3 keeps the hand-set weights. (S1 ES worked because S1 games are 20× cheaper and validation used 500 seeds.)
 - S1 generic rules for Stage C (meat-damage kill, trash resource when tagged, tag operations, other operations, remove tags): neutral on Stage A. Generic Runner installs are gated off: they drop S1's Stage A Runner from 0.35 to 0.17 (p≈3e-12).
 - Stage C S1 self-play (60 games): C1 Corp 0.88; C2 Corp 0.22 with 47 Corp deck-outs. NEH's tag-and-flatline plan needs card-specific play S1 lacks.
+
+## 2026-10-03 — Paused for handoff
+
+- Stopped mid-A/B (planner vs 3-determinization voting; planner vs champion) to free the machine. All jobs killed; `scripts/ci` passes. State and next steps: `research/HANDOFF.md`.
