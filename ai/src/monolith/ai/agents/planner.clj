@@ -221,5 +221,10 @@
 
 (defn make
   ([] (make {}))
-  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets] :or {beam 6 max-apps 2500 budget-factor 16 rerank 0}}]
-   (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil nil rerank s1-margin dets)))
+  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight]
+      :or {beam 6 max-apps 2500 budget-factor 16 rerank 0 value-weight 20.0}}]
+   (let [vf (when value-net
+              (let [n ((requiring-resolve 'monolith.ai.knowledge.valuenet/net) value-net)
+                    cv (requiring-resolve 'monolith.ai.knowledge.valuenet/corp-value)]
+                (fn [decks _sm s] (* value-weight (if (= side :runner) -1.0 1.0) (cv n s (:corp decks))))))]
+     (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets))))
