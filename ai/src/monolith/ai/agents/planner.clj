@@ -40,7 +40,7 @@
 (defn- advance!
   "After applying a line action, resolves prompts (S1, both sides) until `side` has its next click
   decision, the turn ends, a run starts, or the game ends. Returns {:status kw :n applications}."
-  [sm side weights decks rng budget sim-runs]
+  [sm side weights decks rng budget sim-runs branch-prompts]
   (loop [n 0]
     (let [s (sim/snapshot sm)
           d (sim/decision sm)]
@@ -49,6 +49,10 @@
         (> n budget) {:status :cutoff :n n}
         (and (= side :runner) (:run s) (not sim-runs)) {:status :run :n n}
         (and (= (:side d) side) (= :turn (:kind d))) {:status :open :n n}
+        ;; own prompts with a few options are branch points of the search
+        (and branch-prompts (= (:side d) side) (= :prompt (:kind d)) (= side (:active-player s))
+             (<= 2 (count (sim/legal sm d)) 6))
+        {:status :open :n n}
         ;; out of clicks: let S1 take free end-of-turn actions (score, rez economy) inside the line
         (and (= (:side d) side) (= :end-turn (:kind d)))
         (let [acts (sim/legal sm d)
@@ -108,7 +112,7 @@
 
 (defn plan
   "Beam search from the current (determinized) sim state. Returns {:line [actions] :score x :apps n}."
-  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs rerank-turns]}]
+  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs rerank-turns branch-prompts]}]
   (let [root (sim/snapshot sm)
         score (fn [status] (let [s (sim/snapshot sm)
                                  base (+ (ev/for-side s side weights) (if value-fn (value-fn sm s) 0.0))]
@@ -140,14 +144,15 @@
                (for [{:keys [line snap]} frontier
                      :let [_ (sim/restore! sm snap)
                            d (sim/decision sm)
-                           acts (when (and d (= side (:side d)) (= :turn (:kind d))) (sim/legal sm d))
+                           acts (when (and d (= side (:side d)) (or (= :turn (:kind d)) (and branch-prompts (= :prompt (:kind d)))))
+                                  (sim/legal sm d))
                            acts (filter #(sensible? snap %) acts)
                            acts (if (and filter-acts (seq acts)) (filter-acts sm d acts) acts)]
                      a acts
                      :while (and (<= @apps max-apps) (<= (System/currentTimeMillis) deadline))
                      :let [_ (sim/restore! sm snap)
                            ok (sim/apply! sm a)
-                           {:keys [status n]} (if ok (advance! sm side weights decks rng (if sim-runs 200 60) sim-runs) {:status :bad :n 0})
+                           {:keys [status n]} (if ok (advance! sm side weights decks rng (if sim-runs 200 60) sim-runs branch-prompts) {:status :bad :n 0})
                            _ (vswap! apps + 1 n)]
                      :when (not= status :bad)
                      :let [s (sim/snapshot sm)]]
@@ -185,16 +190,22 @@
      :apps (reduce + (map :apps results))
      :best-k best-k}))
 
-(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs rerank-turns]
+(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs rerank-turns branch-prompts]
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
           o @obs]
       (if (or (not= :turn (:kind decision)) (= 1 (count actions)))
-        ;; delegate prompts, runs, encounters, turn starts/ends to S1
-        (let [env (assoc ctx :obs o :weights weights :mem (atom {}))
-              [_ a] (s1/decide env)]
-          (or (first (keep-indexed (fn [i x] (when (identical? x a) i)) actions)) 0))
+        ;; delegate prompts, runs, encounters, turn starts/ends to S1 (unless the plan chose this prompt)
+        (let [{:keys [line made-turn]} @plan-state
+              nxt (first line)
+              planned (when (and branch-prompts nxt (= :prompt (:kind decision)) (= made-turn (:turn o)))
+                        (first (keep-indexed (fn [i x] (when (= (action-key x) (action-key nxt)) i)) actions)))]
+          (if planned
+            (do (swap! plan-state update :line rest) planned)
+            (let [env (assoc ctx :obs o :weights weights :mem (atom {}))
+                  [_ a] (s1/decide env)]
+              (or (first (keep-indexed (fn [i x] (when (identical? x a) i)) actions)) 0))))
         (let [turn-key [(:turn o) (get-in o [side :click])]
               {:keys [line made-turn]} @plan-state
               nxt (first line)
@@ -208,6 +219,7 @@
                               (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))]
                                 (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
                                                     :max-apps max-apps :deadline deadline :rerank rerank :sim-runs sim-runs :rerank-turns rerank-turns
+                                                    :branch-prompts branch-prompts
                                                     :filter-acts (when filter-acts (partial filter-acts decks))
                                                     :value-fn (when value-fn (partial value-fn decks))})
                                      (finally (sim/end! sm)))))
@@ -230,10 +242,10 @@
 
 (defn make
   ([] (make {}))
-  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight sim-runs rerank-turns]
+  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight sim-runs rerank-turns branch-prompts]
       :or {beam 6 max-apps 2500 budget-factor 16 rerank 0 value-weight 20.0}}]
    (let [vf (when value-net
               (let [n ((requiring-resolve 'monolith.ai.knowledge.valuenet/net) value-net)
                     cv (requiring-resolve 'monolith.ai.knowledge.valuenet/corp-value)]
                 (fn [decks _sm s] (* value-weight (if (= side :runner) -1.0 1.0) (cv n s (:corp decks))))))]
-     (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs rerank-turns))))
+     (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs rerank-turns branch-prompts))))
