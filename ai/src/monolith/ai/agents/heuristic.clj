@@ -157,6 +157,20 @@
                         (<= (ice-install-cost obs server) (- (credits env) 2)))]
          a)))))
 
+(defn c-dig-ice
+  "With :dig-ice, a Corp with an unprotected HQ or R&D and no ice in hand digs for ice: a draw
+  operation if it has one (e.g. Violet Level Clearance), else a basic draw."
+  [env]
+  (when (w env :dig-ice)
+    (let [obs (:obs env)
+          hand (get-in obs [:corp :hand])]
+      (when (and (some #(empty? (srv/ices obs %)) [:hq :rd])
+                 (not-any? #(= "ICE" (:type %)) hand)
+                 (> (count (get-in obs [:corp :deck])) 5))
+        (or (act-where env #(and (= :play (:type %)) (re-find #"(?i)draw \d+ cards" (str (:text (cards/printed (card-title %)))))
+                                 (<= (cards/play-cost (card-title %)) (credits env))))
+            (act env :draw))))))
+
 (defn c-install-agenda
   "Install an agenda into a safe, empty, iced remote when it can be scored by next turn."
   [env]
@@ -337,6 +351,7 @@
    [:seamless c-seamless]
    [:protect-centrals c-protect-centrals]
    [:react-centrals c-react-centrals]
+   [:dig-ice c-dig-ice]
    [:install-agenda c-install-agenda]
    [:advance-for-next-turn c-advance-for-next-turn]
    [:build-scoring-remote c-build-scoring-remote]
