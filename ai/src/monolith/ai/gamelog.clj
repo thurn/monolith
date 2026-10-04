@@ -41,7 +41,7 @@
   with the reviewed side alternating Corp/Runner so each agent is reviewed equally often on each
   side. Writes <dir>/log-XX.txt (shuffled by a fixed seed, no agent names) and <dir>/key.edn
   (the sealed mapping; do not show it to the reviewer). Returns the key."
-  [{:keys [candidate ref matchups seeds dir shuffle-seed] :or {ref :s1ref shuffle-seed 20261004}}]
+  [{:keys [candidate ref matchups seeds dir shuffle-seed threads] :or {ref :s1ref shuffle-seed 20261004 threads 3}}]
   (let [games (for [[i s] (map-indexed vector seeds)
                     :let [m (nth matchups (mod i (count matchups)))
                           reviewed (if (even? i) :candidate :ref)
@@ -52,10 +52,15 @@
                 {:seed s :matchup m :reviewed reviewed :side side
                  :corp (if (= side :corp) me other) :runner (if (= side :corp) other me)})
         order (vec (sim-shuffle (vec games) shuffle-seed))
+        pool (java.util.concurrent.Executors/newFixedThreadPool threads)
+        played (try (mapv deref (doall (for [g order]
+                                         (.submit pool ^Callable
+                                                  (fn [] (play-and-render {:corp (:corp g) :runner (:runner g) :seed (:seed g)
+                                                                           :corp-deck (keyword (str (name (:matchup g)) "-corp"))
+                                                                           :runner-deck (keyword (str (name (:matchup g)) "-runner"))}))))))
+                    (finally (.shutdown pool)))
         key (vec (for [[j g] (map-indexed vector order)
-                       :let [{:keys [result log]} (play-and-render {:corp (:corp g) :runner (:runner g) :seed (:seed g)
-                                                                    :corp-deck (keyword (str (name (:matchup g)) "-corp"))
-                                                                    :runner-deck (keyword (str (name (:matchup g)) "-runner"))})
+                       :let [{:keys [result log]} (played j)
                              f (format "log-%02d.txt" (inc j))]]
                    (do (spit (str dir "/" f)
                              (str "Review the " (if (= :corp (:side g)) "CORP" "RUNNER") "'s play in this game.\n"
