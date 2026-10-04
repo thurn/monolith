@@ -26,11 +26,11 @@
                   (and (:etr-if-credits<= sub) (<= (:credits st) (:etr-if-credits<= sub))) (assoc :ended true))))
           st (remove :broken (:subs ice))))
 
-(defn- terminal [{:keys [credits damage ended tags]} {:keys [credits0 hand value w-damage w-tag]} success?]
+(defn- terminal [{:keys [credits damage ended tags no-access]} {:keys [credits0 hand value w-damage w-tag replacement]} success?]
   (let [spent (- credits0 credits)]
     (if (> damage (dec (max 1 hand)))
       (if (> damage hand) flatline-utility (- (* 3 w-damage damage)))
-      (- (if success? value 0.0) spent (* w-damage damage) (* w-tag (or tags 0))))))
+      (- (if (and success? (or (not no-access) replacement)) value 0.0) spent (* w-damage damage) (* w-tag (or tags 0))))))
 
 (declare walk)
 
@@ -41,7 +41,7 @@
               (for [b (:breakers ctx)
                     :let [c (cards/break-cost b ice)]
                     :when (and c (<= c (:credits st)))]
-                {:how [:break (:title b) c] :st (update st :credits - c)})
+                {:how [:break (:title b) c] :st (cond-> (update st :credits - c) (:no-access b) (assoc :no-access true))})
               [{:how [:fire] :st (fire-subs st ice)}])]
     (apply max-key :u
            (for [{:keys [how st]} opts]

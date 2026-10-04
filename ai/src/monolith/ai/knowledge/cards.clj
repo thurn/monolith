@@ -142,6 +142,8 @@
          :pump-cost (when pmp (credit-cost (:cost pmp)))
          ;; counter-paid activations (Yusuf, Revolver, Propeller pumps): limited by counters
          :break-counter bk :pump-counter pk
+         ;; Eater: breaking with it forfeits all accesses this run
+         :no-access (boolean (re-find #"(?i)you cannot access cards for the remainder of this run" (str (:text (printed (:title card))))))
          :counters (into {} (for [k (distinct (remove nil? [bk pk]))] [k (counters-available card k)]))
          :strength strength
          :temporary (boolean (:additional-ability brk))})

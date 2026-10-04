@@ -183,6 +183,7 @@
     :rez-bonus rez-bonus
     :toll (approach-toll obs k)
     :mode (or mode :expected)
+    :replacement (:replacement opts)
     :w-damage (:w-damage opts 2.0)}))
 
 (defn corp-server-safety

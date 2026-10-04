@@ -401,14 +401,15 @@
 
 (defn server-run-utility
   "Expected utility of running server k now, with optional event modifiers."
-  [env k {:keys [credits-bonus rez-bonus extra-access mode hand-delta] :or {credits-bonus 0 rez-bonus 0 extra-access 0 hand-delta 0}}]
+  [env k {:keys [credits-bonus rez-bonus extra-access mode hand-delta replacement-value] :or {credits-bonus 0 rez-bonus 0 extra-access 0 hand-delta 0}}]
   (let [obs (:obs env)
         opts (update (run-opts env) :hand + hand-delta)
         opts (assoc opts :extra-access (+ extra-access (srv/extra-accesses obs k)))
         ;; a server already run unsuccessfully this turn: the same wall stops a re-run
         failed (some #{k} (get-in obs [:runner :register :unsuccessful-run]))
-        value (if failed 0.0 (srv/content-value obs k opts))
-        ev (srv/runner-run-eval obs k (assoc opts :value value :credits-bonus credits-bonus :rez-bonus rez-bonus :mode mode))]
+        value (cond failed 0.0 replacement-value replacement-value :else (srv/content-value obs k opts))
+        ev (srv/runner-run-eval obs k (assoc opts :value value :credits-bonus credits-bonus :rez-bonus rez-bonus :mode mode
+                                             :replacement (some? replacement-value)))]
     (- (:u ev) (w env :click-value))))
 
 (defn runnable [env]
@@ -427,10 +428,16 @@
                 bonus-cr (or (some-> (re-find #"(?i)place (\d+)\[credit\] on this event" txt) second parse-long) 0)
                 rez-bonus (or (some-> (re-find #"(?i)rez cost of each piece of ice is increased by (\d+)" txt) second parse-long) 0)
                 extra (if (re-find #"(?i)access 1 additional card" txt) 1 0)
-                draw (if (re-find #"(?i)draw 1 card" txt) 0.5 0)]
+                draw (if (re-find #"(?i)draw 1 card" txt) 0.5 0)
+                ;; Account Siphon: "instead of breaching, ... lose up to N, you gain M for each credit lost and take T tags"
+                siphon (when-let [[_ n m] (re-find #"(?i)instead of breaching .*lose up to (\d+)\[credit\], then you gain (\d+)\[credit\] for each credit lost" txt)]
+                         (let [lost (min (parse-long n) (get-in obs [:corp :credit] 0))
+                               tags (or (some-> (re-find #"(?i)take (\d+) tags" txt) second parse-long) 0)]
+                           (- (+ (* (parse-long m) lost) lost) (* 2.5 tags))))]
           k servers
           :when (or (not hq-rd-only) (#{:hq :rd} k))]
-      [(+ draw (server-run-utility env k {:credits-bonus (- bonus-cr cost) :rez-bonus rez-bonus :extra-access extra :hand-delta -1})) a k])))
+      [(+ draw (server-run-utility env k (cond-> {:credits-bonus (- bonus-cr cost) :rez-bonus rez-bonus :extra-access extra :hand-delta -1}
+                                            siphon (assoc :replacement-value siphon)))) a k])))
 
 (defn ability-run-options
   "Click abilities that make a run on a central (e.g. Red Team), as [utility action server-key]."
