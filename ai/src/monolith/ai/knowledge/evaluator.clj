@@ -75,6 +75,41 @@
          (<= r (get-in s [:corp :click] 0))
          (<= r (get-in s [:corp :credit] 0)))))
 
+(defn- meat-op
+  "{:dmg n :per-tag bool :min-tags k :cost c} for an operation that does meat damage, from text."
+  [title]
+  (let [p (cards/printed title)
+        t (str (:text p))]
+    (when (= "Operation" (:type p))
+      (when-let [[_ n per] (re-find #"(?i)do (\d+) meat damage( for each tag)?" t)]
+        {:dmg (parse-long n) :per-tag (boolean per)
+         :min-tags (cond (re-find #"(?i)at least 2 tags" t) 2
+                         (re-find #"(?i)tagged|remove 1 tag" t) 1
+                         :else 0)
+         :cost (or (:cost p) 0)}))))
+
+(def ^:private meat-op* (memoize meat-op))
+
+(defn- kill-threat
+  "Probability that the Corp holds a meat-damage operation that flatlines the Runner next turn
+  (tags and grip as now, Corp credits + 3), over the Corp's unseen cards (hand + R&D):
+  1 - (1 - c/N)^(h+1)."
+  [s]
+  (let [tags (+ (get-in s [:runner :tag :base] 0) (get-in s [:runner :tag :additional] 0))]
+    (if (zero? tags)
+      0.0
+      (let [grip (count (get-in s [:runner :hand]))
+            cr (+ 3 (get-in s [:corp :credit] 0))
+            pool (keep :title (concat (get-in s [:corp :hand]) (get-in s [:corp :deck])))
+            kills (count (filter (fn [t] (when-let [{:keys [dmg per-tag min-tags cost]} (meat-op* t)]
+                                           (and (>= tags min-tags) (<= cost cr)
+                                                (> (if per-tag (* dmg tags) dmg) grip))))
+                                 pool))
+            n (count pool)
+            h (inc (count (get-in s [:corp :hand])))]
+        (if (or (zero? kills) (zero? n)) 0.0
+            (- 1.0 (Math/pow (- 1.0 (/ kills (double n))) h)))))))
+
 (defn- central-threat
   "Runner's expected gain next turn from running HQ and R&D, as the Corp knows them (its own HQ
   agendas, its deck's agenda density), by the run calculator; only positive values count."
@@ -121,6 +156,8 @@
      ;; in agenda-ev), so holding an agenda is not cheaper than installing it
      :hq-agenda-cost (- (* 2.0 (reduce + 0 (for [c corp-hand :when (= "Agenda" (:type c))]
                                               (or (:advancementcost (cards/printed (:title c))) 5)))))
+     ;; tagged Runner with a small grip against a deck that kills (credits-equivalent of ~0.1 win per 1.0 probability)
+     :kill-threat (if (pos? (get-in w [:eval :kill-threat] 0.0)) (* 100.0 (kill-threat s)) 0.0)
      :central-threat (if (pos? (get-in w [:eval :central-threat] 0.0)) (central-threat s w) 0.0)
      :agendas-in-archives (* -0.8 ap-value (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) (get-in s [:corp :discard])))))
      :installed-agendas (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)
