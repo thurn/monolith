@@ -78,7 +78,11 @@
   "Runner can't profitably get into remote k next turn (from the Corp's knowledge)."
   [env k value]
   (let [obs (:obs env)
-        ev (srv/corp-server-safety obs k value (w env :corp-safety-extra))]
+        ev (if (w env :potential-breakers)
+             (srv/corp-server-safety* obs k value (w env :corp-safety-extra)
+                                      (srv/runner-pool-from-obs obs (runner-decklist env))
+                                      (count (get-in obs [:runner :hand])))
+             (srv/corp-server-safety obs k value (w env :corp-safety-extra)))]
     (and (seq (srv/ices obs k)) (<= (:u ev) 0.0))))
 
 (defn scoring-remotes

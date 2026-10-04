@@ -35,15 +35,33 @@
 
 (defn agenda-ev
   "Expected Corp value of an installed agenda c in remote k: scoring minus stealing chance."
-  [obs k c {:keys [ap-value]}]
+  [obs k c {:keys [ap-value] :as w}]
   (let [ap (srv/ap (:title c))
         req (or (:current-advancement-requirement c) (:advancementcost (cards/printed (:title c))) 5)
         adv (or (:advance-counter c) 0)
         remaining (max 0 (- req adv))
-        u (:u (srv/corp-server-safety obs k (* ap-value ap) 4))
+        u (:u (if (:potential-breakers w)
+                (srv/corp-server-safety* obs k (* ap-value ap) 4 (srv/runner-pool-from-state obs) (count (get-in obs [:runner :hand])))
+                (srv/corp-server-safety obs k (* ap-value ap) 4)))
         safe (if (<= u 0.0) 0.9 (/ 0.9 (+ 1.0 (/ u 4.0))))]
     ;; worth its points if it survives, minus the clicks+credits still needed, minus the steal risk
     (- (* safe ap ap-value) (* 2.0 remaining) (* (- 1.0 safe) ap ap-value))))
+
+(defn- central-threat
+  "Runner's expected gain next turn from running HQ and R&D, as the Corp knows them (its own HQ
+  agendas, its deck's agenda density), by the run calculator; only positive values count."
+  [s w]
+  (let [apv (:ap-value w)
+        hand (get-in s [:corp :hand])
+        deck (get-in s [:corp :deck])
+        hq-v (if (seq hand) (* apv (/ (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) hand))) (double (count hand)))) 0.0)
+        rd-v (if (seq deck) (* apv (/ (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) deck))) (double (count deck)))) 0.0)
+        pool (when (:potential-breakers w) (srv/runner-pool-from-state s))
+        hs (count (get-in s [:runner :hand]))
+        u (fn [k v] (if (pos? v)
+                      (max 0.0 (:u (if pool (srv/corp-server-safety* s k v 2 pool hs) (srv/corp-server-safety s k v 2))))
+                      0.0))]
+    (- (+ (u :hq hq-v) (u :rd rd-v)))))
 
 (defn features
   "Named feature values (Corp perspective) of a full or determinized state map."
@@ -64,12 +82,17 @@
      ;; agendas are the Corp's finite route to 7 points: in HQ they are future points at some
      ;; steal risk; in Archives they are lost to the Corp and free for the Runner
      ;; liability scales with how exposed HQ is: unprotected HQ loses agendas fast
-     :agendas-in-hq (let [hq-ap (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand)))
-                          eff (reduce + 0.0 (for [c (srv/ices s :hq)
-                                                  :let [m (cards/printed-ice-model (:title c) false)]]
-                                              (if (some #(cards/can-break-type? % m) breakers) 0.4 1.0)))
-                          exposure (/ 0.7 (+ 1.0 (* 1.5 eff)))]
-                      (- (* ap-value hq-ap (+ 0.25 exposure))))
+     :agendas-in-hq (- (* ap-value 0.25 (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand)))))
+     :hq-exposure (let [hq-ap (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand)))
+                        eff (reduce + 0.0 (for [c (srv/ices s :hq)
+                                                :let [m (cards/printed-ice-model (:title c) false)]]
+                                            (if (some #(cards/can-break-type? % m) breakers) 0.4 1.0)))]
+                    (- (* ap-value hq-ap (/ 0.7 (+ 1.0 (* 1.5 eff))))))
+     ;; agendas in HQ still need their full advancement (installed ones pay only what remains,
+     ;; in agenda-ev), so holding an agenda is not cheaper than installing it
+     :hq-agenda-cost (- (* 2.0 (reduce + 0 (for [c corp-hand :when (= "Agenda" (:type c))]
+                                              (or (:advancementcost (cards/printed (:title c))) 5)))))
+     :central-threat (if (pos? (get-in w [:eval :central-threat] 0.0)) (central-threat s w) 0.0)
      :agendas-in-archives (* -0.8 ap-value (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) (get-in s [:corp :discard])))))
      :installed-agendas (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)
                                             :when (= "Agenda" (:type c))]

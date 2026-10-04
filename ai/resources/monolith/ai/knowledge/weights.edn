@@ -16,6 +16,7 @@
  :runner-econ-cap 10        ; Runner plays economy events below this many credits
  :corp-econ-cap 15          ; Corp plays economy operations below this many credits
  :corp-ice-reserve 2        ; credits the Corp keeps after installing extra ice
+ :potential-breakers false  ; server safety expects breakers from the Runner's hand (R4)
  ;; S3/S2 evaluator feature weights (multipliers on the named features in knowledge/evaluator.clj)
  ;; signs and rough scale from a logistic fit of S1 self-play outcomes (research/LOG.md, R1);
  ;; :ice kept positive because its fitted negative weight is confounded by S1 over-icing when stuck
@@ -24,4 +25,7 @@
         :rig -1.5
         :hands 1.0
         :corp-assets 0.5
-        :runner-damage-exposure 2.0}}
+        :runner-damage-exposure 2.0
+        ;; R4 candidates, off by default
+        :central-threat 0.0
+        :hq-agenda-cost 0.0}}

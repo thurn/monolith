@@ -14,10 +14,11 @@
 
 (defn make
   ([] (make {}))
-  ([{:keys [side s1-margin rerank] :or {s1-margin 2.0 rerank 3} :as opts}]
+  ;; :w overrides top-level weights (e.g. {:potential-breakers true}); :eval overrides evaluator weights
+  ([{:keys [side s1-margin rerank w eval] :or {s1-margin 2.0 rerank 3} :as opts}]
    ;; budget-factor 200: the deadline (budget-ms x 200) practically never binds, so the 2,500
    ;; application cap does and games replay deterministically on any machine
    (planner/make (merge {:beam 6 :max-apps 2500 :budget-factor 200}
-                        (dissoc opts :side)
+                        (dissoc opts :side :w :eval)
                         {:side side :s1-margin s1-margin :rerank rerank
-                         :weights {:eval (eval-weights (or side :corp))}}))))
+                         :weights (merge w {:eval (merge (eval-weights (or side :corp)) eval)})}))))

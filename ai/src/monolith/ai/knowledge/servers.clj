@@ -180,3 +180,50 @@
     :mode :expected}))
 
 (alter-var-root #'trap-damage memoize)
+
+(defn runner-pool-from-state
+  "Unseen Runner cards {title qty} in a full or determinized state (hand + stack)."
+  [s]
+  (frequencies (keep :title (concat (get-in s [:runner :hand]) (get-in s [:runner :deck])))))
+
+(defn runner-pool-from-obs
+  "Runner decklist minus every Runner card the observation shows (installed, heap, scored, removed)."
+  [obs runner-decklist]
+  (let [rig (get-in obs [:runner :rig])
+        seen (frequencies (keep #(when-not (:hidden %) (:title %))
+                                (concat (:program rig) (:hardware rig) (:resource rig)
+                                        (get-in obs [:runner :discard]) (get-in obs [:runner :rfg])
+                                        (get-in obs [:runner :play-area]))))]
+    (into {} (for [[t q] runner-decklist :let [left (- q (get seen t 0))] :when (pos? left)] [t left]))))
+
+(defn corp-server-safety*
+  "corp-server-safety that also expects the Runner to install a breaker from hand: for each
+  icebreaker title in the unseen pool that would raise the Runner's utility (after paying its
+  install cost), the best such utility is mixed in with the probability that the hand holds at
+  least one useful copy, 1 - (1 - c/N)^h. Opponent decklists are public, so this uses no hidden
+  information beyond what a determinization already samples."
+  [obs k value extra runner-pool hand-size]
+  (let [base (corp-server-safety obs k value extra)]
+    (if (or (empty? runner-pool) (zero? (or hand-size 0)) (empty? (ices obs k)))
+      base
+      (let [installed (set (map :title (get-in obs [:runner :rig :program])))
+            bs (icebreakers obs)
+            ice (mapv #(assoc % :hidden false) (ices obs k))
+            opts {:ices ice :remote? (remote? k) :hand (count (get-in obs [:runner :hand]))
+                  :corp-credits (get-in obs [:corp :credit]) :pool {} :value value
+                  :toll (approach-toll obs k) :mode :expected}
+            cands (for [[t q] runner-pool
+                        :when (and (not (installed t)) (cards/icebreaker? t))
+                        :let [m (cards/breaker-model {:title t} (inc (count bs)))
+                              cr (- (+ (get-in obs [:runner :credit]) extra) (cards/play-cost t))]
+                        :when (and m (>= cr 0))
+                        :let [u (:u (runcalc/evaluate (assoc opts :breakers (conj (vec bs) m) :credits cr)))]
+                        :when (> u (:u base))]
+                    [u q])]
+        (if (empty? cands)
+          base
+          (let [n (reduce + (vals runner-pool))
+                c (reduce + (map second cands))
+                p (- 1.0 (Math/pow (- 1.0 (min 1.0 (/ c (double n)))) hand-size))
+                u-best (reduce max (map first cands))]
+            (assoc base :u (+ (* p u-best) (* (- 1.0 p) (:u base))) :p-breaker p)))))))

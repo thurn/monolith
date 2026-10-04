@@ -33,8 +33,9 @@
   "spec: {:active :corp|:runner
           :corp {:hand [t] :credits n :install [{:t title :server \"Server 1\" :adv n :rez bool}] :discard [t] :scored [t]}
           :runner {:hand [t] :credits n :install [t] :scored [t]}}"
-  [{:keys [active corp runner seed] :or {seed 1}}]
-  (let [g (engine/new-game {:seed seed})
+  [{:keys [active corp runner seed corp-deck runner-deck]
+    :or {seed 1 corp-deck :gateway-beginner-corp runner-deck :gateway-beginner-runner}}]
+  (let [g (engine/new-game {:seed seed :corp corp-deck :runner runner-deck})
         state (:state g)]
     (engine/with-game g
       (core/keep-hand state :corp nil)
@@ -161,6 +162,7 @@
         agents {me (tourney/make-agent agent-spec me)
                 (if (= me :corp) :runner :corp) (tourney/make-agent :heuristic (if (= me :corp) :runner :corp))}
         r (h/play-game {:seed seed :game g :agents agents :budget-ms 250
+                        :corp-deck (:corp-deck g) :runner-deck (:runner-deck g)
                         :stop-fn (fn [s] (or (not= side (:active-player s)) (:end-turn s) (not= turn (:turn s))))})
         end @(:state g)]
     {:name name :solved (boolean (goal start end)) :stall (:stall r)}))
