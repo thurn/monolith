@@ -271,6 +271,21 @@
         mx (or (get-in (:obs env) [:corp :hand-size :total]) 5)]
     (when (and (< n mx) (> (count (get-in (:obs env) [:corp :deck])) 5) (or (< n 4) (>= (credits env) 10))) (act env :draw))))
 
+(defn c-unclog
+  "With :unclog, a Corp at its maximum hand size installs an asset (economy first) into a new
+  remote rather than click for credit and discard at end of turn."
+  [env]
+  (when (w env :unclog)
+    (let [obs (:obs env)
+          n (count (get-in obs [:corp :hand]))
+          mx (or (get-in obs [:corp :hand-size :total]) 5)]
+      (when (>= n mx)
+        (let [assets (filter #(and (= :install (:type %)) (= "New remote" (get-in % [:args :server]))
+                                   (= "Asset" (ptype (card-title %))))
+                             (:actions env))]
+          (when (seq assets)
+            (or (first (filter #(econ-asset? (card-title %)) assets)) (first assets))))))))
+
 (defn c-credit [env] (act env :credit))
 
 (defn- card-text [title] (str (:text (cards/printed title))))
@@ -337,6 +352,7 @@
    [:tag-op c-tag-op]
    [:other-op c-other-op]
    [:draw c-draw]
+   [:unclog c-unclog]
    [:credit c-credit]])
 
 (defn corp-run-decision [env]
