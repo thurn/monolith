@@ -159,15 +159,18 @@
 
 (defn- ability-actions
   "Non-dynamic, non-break/pump abilities of side's active cards that are playable now."
-  [state side {:keys [clicks?]}]
+  [state side {:keys [clicks? phase-12?]}]
   (let [s @state]
     (for [c (all-active state side)
           :let [c (get-card state c)]
           :when (and c (seq (:abilities c)) (not (:disabled c)))
           [i ab] (map-indexed vector (:abilities c))
-          :when (and (not (:dynamic ab)) (not (:break ab)) (not (:pump ab))
+          :when (and (not (:dynamic ab)) (not (:break ab)) (not (:pump ab)) (not (:heap-breaker-break ab))
                      ;; UI settings such as "Toggle auto-resolve" are not game actions (livelock source)
                      (not (re-find #"(?i)^toggle auto" (str (:label ab))))
+                     ;; manual copies of start-of-turn triggers (Daily Quest, Commercial Bankers Group)
+                     ;; are repeatable in the engine at any time: an infinite-credit exploit
+                     (not (re-find #"(?i)\(start of turn\)" (str (:label ab))))
                      (if clicks? true (not (:action ab)))
                      (:playable (ability-playable? ab i state side c)))]
       (act side "ability" {:card (card-ref c) :ability i}
@@ -287,7 +290,7 @@
       :encounter (encounter-actions state side)
       :run (run-actions state side)
       :phase-12 (concat [(act side "end-phase-12" {} "end phase 1.2" :pass)]
-                        (ability-actions state side {:clicks? false}))
+                        (ability-actions state side {:clicks? false :phase-12? true}))
       :start-turn [(act side "start-turn" {} "start turn" :start-turn)]
       :turn ((if (= side :corp) corp-turn-actions runner-turn-actions) state)
       :end-turn (concat [(act side "end-turn" {} "end turn" :end-turn)]
