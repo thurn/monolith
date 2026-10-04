@@ -61,7 +61,7 @@
 
 (defn- strip-bookkeeping [s]
   (-> s
-      (dissoc :click-states :eid :turn-events :log :history)
+      (dissoc :click-states :eid :turn-events :log :history :paid-ability-state)
       (update :corp dissoc :toast :aid)
       (update :runner dissoc :toast :aid)))
 

@@ -124,7 +124,11 @@
   (let [pool (unseen-pool obs corp-decklist)
         dens (agenda-density pool)]
     (case k
-      :rd (* ap-value dens (+ 1 extra-access) (if (seq (get-in obs [:corp :deck])) 1.0 0.0))
+      ;; after a successful R&D run this turn that stole nothing, the top card is known and
+      ;; still there: another single-access run only sees it again
+      :rd (let [reg (get-in obs [:runner :register])
+                top-known (and (some #{:rd} (:successful-run reg)) (not (:stole-agenda reg)) (zero? extra-access))]
+            (if top-known 0.0 (* ap-value dens (+ 1 extra-access) (if (seq (get-in obs [:corp :deck])) 1.0 0.0))))
       :hq (let [n (count (get-in obs [:corp :hand]))]
             (if (zero? n) 0.0 (* ap-value dens (min n (+ 1 extra-access)))))
       :archives (+ (* ap-value (reduce + 0 (map (comp ap :title) (remove :hidden (get-in obs [:corp :discard])))))
