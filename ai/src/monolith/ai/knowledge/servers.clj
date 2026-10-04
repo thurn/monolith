@@ -127,6 +127,20 @@
                                dmg (if (>= dmg hand) runcalc/flatline-utility (- (* w-damage dmg)))
                                :else 0.5))))))))
 
+(defn worth-trashing?
+  "Whether the Runner should pay cost to trash installed Corp card c (title t) on access; shared by
+  run valuation and the access prompt so they never disagree (which made Runners re-run servers)."
+  [obs c cost]
+  (let [cr (get-in obs [:runner :credit] 0)
+        t (:title c)
+        left (get-in c [:counter :credit] (or (cards/load-credits t) 0))]
+    (cond
+      (or (nil? cost) (> cost cr)) false
+      (cards/load-credits t) (or (and (:rezzed c) (>= left (* 2 cost)) (>= (- cr cost) 1))
+                                 (and (not (:rezzed c)) (>= (- cr cost) 3)))
+      (re-find #"(?i)approaches this server" (str (:text (cards/printed t)))) (>= (- cr cost) 2)
+      :else (>= (- cr cost) 8))))
+
 (declare content-value*)
 
 (defn content-value
@@ -162,12 +176,15 @@
                   (cond
                     (:hidden c) (hidden-content-value rpool (+ (or (:advance-counter c) 0)) (count (ices obs k)) opts)
                     (= "Agenda" (:type c)) (agenda-access-value (:title c) ap-value cr)
-                    :else (let [tc (cards/trash-cost (:title c))]
-                            ;; trashing a rezzed economy card denies the Corp its remaining credits,
-                            ;; only worth anything if the Runner can afford the trash cost
-                            (if (and tc (>= (get-in obs [:runner :credit]) (+ tc 1)))
-                              (max 0.0 (- (* 0.5 (+ (get-in c [:counter :credit] 0) 3)) tc))
-                              0.0)))))))))
+                    :else (let [tc (cards/trash-cost (:title c))
+                                dmg (when-not (:rezzed c) (trap-damage (:title c) (or (:advance-counter c) 0)))]
+                            (cond
+                              ;; a known, still-armed ambush (Urtica Cipher): accessing it again hurts
+                              dmg (if (>= dmg (or hand 5)) runcalc/flatline-utility (- (* (or w-damage 2.0) dmg)))
+                              ;; trashing an economy card denies the Corp its credits, but only if the
+                              ;; access decision will actually trash it
+                              (worth-trashing? obs c tc) (max 0.5 (- (* 0.5 (+ (get-in c [:counter :credit] 0) 3)) tc))
+                              :else 0.0)))))))))
 
 (defn extra-accesses
   "Additional cards the Runner's installed cards let it access when breaching central k

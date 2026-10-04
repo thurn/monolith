@@ -596,15 +596,8 @@
 
 (defn trash-worth? [env c-title cost]
   (let [obs (:obs env)
-        cr (credits env)
-        c (some #(when (= c-title (:title %)) %) (srv/all-corp-installed obs))
-        left (get-in c [:counter :credit] (or (cards/load-credits c-title) 0))]
-    (cond
-      (> cost cr) false
-      (cards/load-credits c-title) (or (and (:rezzed c) (>= left (* 2 cost)) (>= (- cr cost) 1))
-                                       (and (not (:rezzed c)) (>= (- cr cost) 3)))
-      (re-find #"(?i)approaches this server" (str (:text (cards/printed c-title)))) (>= (- cr cost) 2)
-      :else (>= (- cr cost) 8))))
+        c (some #(when (= c-title (:title %)) %) (srv/all-corp-installed obs))]
+    (srv/worth-trashing? obs (or c {:title c-title}) cost)))
 
 (defn runner-prompt [env]
   (let [p (prompt env)
