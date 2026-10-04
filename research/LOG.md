@@ -243,3 +243,9 @@ Held-out matchups: `sweep/holdout-mix` (Worlds 2023 a/b = Stage C, 2024 a/b, 202
   2. Anansi's "if the Runner did not fully break it, do 3 net damage" ignored; ice models now carry `:unbroken-damage`.
   3. Eli: the run was started on the breach value *with* R&D Interface's extra access (6.6) but the encounter decision valued the breach without it (3.3), so paying 4 to break looked bad and the Runner let it fire, every turn. Mid-run encounter and jack-out decisions now use the same extra accesses. Same seed: bounces off Eli 18 → 2 (initial facechecks), Runner wins on turn ~12.
   Also: a planner run line no longer gets its click refunded when the run calculator gives it no chance of success.
+
+### 2026-10-04 17:00 — dev review 5; stale REPL caveat
+
+- **Dev review 5** (champion + rerank-anchor + s1-strong-margin 8 + scorable-agendas, code to 16:40, mixed dev/proxy matchups, seeds 200400–200419): candidate **3.00** (Corp 3.0, Runner 3.0), blunders 0.50, wasted clicks **6.0** (lowest yet); `:s1ref` 1.10. Rating series 2.0 → 3.0 → 2.7 → 2.9 → 3.0; the bar is 3.5.
+- Caveat: review games 2–5 were generated in the long-lived dev REPL, which never reloaded `harness`, so they ran without the Runner access memory (the "known Urtica re-run" complaints in reviews 3–5 come from that; a fresh-JVM check confirms the card is tagged known). From now on review games are generated in fresh JVMs via `ai-job`.
+- Remaining candidate complaints (review 5): Corp leaves R&D unprotected under repeated runs while rich (rated 1), sits on credits without advancing (3s); Runner builds economy passively, clears tags at the cost of its economy, re-runs (stale-REPL) known traps.
