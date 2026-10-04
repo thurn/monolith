@@ -135,6 +135,31 @@
         (if (or (zero? kills) (zero? n)) 0.0
             (- 1.0 (Math/pow (- 1.0 (/ kills (double n))) h)))))))
 
+(defn- econ-potential
+  "Credits an economy asset is worth over the next few turns, from its text: per-turn gains
+  (PAD Campaign: 4 turns' worth) or credits loaded on rez (Adonis, Marilyn: 0.6 each)."
+  [title]
+  (let [t (str (:text (cards/printed title)))
+        drip (some-> (re-find #"(?i)when your turn begins, gain (\d+)\[credit\]" t) second parse-long)
+        load (some-> (re-find #"(?i)(?:load|put|place) (\d+)\[credit\]" t) second parse-long)]
+    (cond drip (* 4.0 drip)
+          load (* 0.6 load)
+          :else nil)))
+
+(def ^:private econ-potential* (memoize econ-potential))
+
+(defn- asset-econ
+  "Corp economy assets: rezzed per-turn gainers at their potential (loaded credits on rezzed cards
+  are already in :hosted-credits); unrezzed ones at 0.8 x (potential - rez cost)."
+  [corp-installed]
+  (reduce + 0.0 (for [c corp-installed
+                      :when (= "Asset" (:type c))
+                      :let [pot (econ-potential* (:title c))]
+                      :when pot]
+                  (if (:rezzed c)
+                    (if (re-find #"(?i)when your turn begins, gain" (str (:text (cards/printed (:title c))))) pot 0.0)
+                    (* 0.8 (max 0.0 (- pot (cards/play-cost (:title c)))))))))
+
 (defn- central-threat
   "Runner's expected gain next turn from running HQ and R&D, as the Corp knows them (its own HQ
   agendas, its deck's agenda density), by the run calculator; only positive values count."
@@ -184,6 +209,7 @@
      ;; in agenda-ev), so holding an agenda is not cheaper than installing it
      :hq-agenda-cost (- (* 2.0 (reduce + 0 (for [c corp-hand :when (= "Agenda" (:type c))]
                                               (or (:advancementcost (cards/printed (:title c))) 5)))))
+     :asset-econ (if (pos? (get-in w [:eval :asset-econ] 0.0)) (asset-econ corp-installed) 0.0)
      ;; tagged Runner with a small grip against a deck that kills (credits-equivalent of ~0.1 win per 1.0 probability)
      :kill-threat (if (pos? (get-in w [:eval :kill-threat] 0.0)) (* 100.0 (kill-threat s)) 0.0)
      :central-threat (if (pos? (get-in w [:eval :central-threat] 0.0)) (central-threat s w) 0.0)
