@@ -235,7 +235,7 @@ Held-out matchups: `sweep/holdout-mix` (Worlds 2023 a/b = Stage C, 2024 a/b, 202
 - **Reviewer noise:** a second fresh Opus reviewer scored the same 20 review-3 logs. Per-log ratings identical in 15/20, ±1 otherwise; means candidate 2.70 vs 2.90, `:s1ref` 1.50 vs 1.80; serious blunders noisier (candidate 1.10 vs 0.70). So one reviewer's mean rating is good to ~±0.2; game sampling (10 candidate games) is the larger noise. The serious-blunder bar (≤1.0) sits inside the reviewer noise for our current agent.
 - New S1 option `:unclog` (at max hand size, install an asset into a new remote instead of clicking for credit and discarding): from a proxy trace where three Commercial Bankers Groups clogged HQ all game while the Corp clicked for credits at 30–50.
 
-### 2026-10-04 14:50 — dev review 4; three run-model bugs behind "running into known ice"
+### 2026-10-04 14:25 — dev review 4; three run-model bugs behind "running into known ice"
 
 - **Dev review 4** (champion + rerank-anchor, code to 13:00, matchups weighted to the Corp-proxy decks, seeds 200300–200319): candidate **2.90** (Corp **3.4**, Runner 2.4), blunders **0.40**, wasted 11.9; `:s1ref` 1.90. The Corp clears the rating bar on held-out-like decks; the Runner is the weak side here.
 - Runner complaints: ran into a known IP Block "for 30+ turns"; bumped into a rezzed Eli 1.0 turn after turn with Corroder and credits; ran into a known Anansi; hoarded credits. Causes found:
