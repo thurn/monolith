@@ -172,8 +172,8 @@
 
 (defn run-suite
   "Fraction of puzzles solved (each tried on `seeds` deck orders; solved if solved on a majority)."
-  [agent-spec & {:keys [seeds] :or {seeds [1 2 3]}}]
-  (let [rs (for [p suite]
+  [agent-spec & {:keys [seeds puzzles] :or {seeds [1 2 3]}}]
+  (let [rs (for [p (or puzzles suite)]
              (let [xs (for [s seeds] (solve agent-spec p s))]
                {:name (:name p) :solved (> (count (filter :solved xs)) (/ (count seeds) 2))
                 :stalls (count (filter :stall xs))}))]
@@ -233,6 +233,41 @@
 (defn- winner? [side] (fn [_ b] (= side (:winner b))))
 (defn- alive [_ b] (not= :corp (:winner b)))
 (defn- m [matchup] {:corp-deck (keyword (str (name matchup) "-corp")) :runner-deck (keyword (str (name matchup) "-runner"))})
+
+(def dev-suite
+  "Dev-pool puzzles beyond Stage A (Worlds 2012-2022 decks); free to debug against."
+  [{:name "d-scorched-lethal"
+    :spec (merge (m :worlds-2012-b) {:active :corp :corp {:credits 3 :hand ["Scorched Earth"]}
+                                     :runner {:tags 1 :hand ["Diesel" "Sure Gamble" "Easy Mark"]}})
+    :goal (winner? :corp) :solution ["^play Scorched Earth"] :bad []}
+   {:name "d-hpt-per-tag-lethal"
+    :spec (merge (m :worlds-2021-b) {:active :corp :corp {:credits 4 :hand ["High-Profile Target" "Magnet"]}
+                                     :runner {:tags 3 :hand ["Sure Gamble" "Dirty Laundry" "Overclock" "Moshing" "Mad Dash"]}})
+    :goal (winner? :corp) :solution ["^play High-Profile Target"] :bad []}
+   {:name "d-credit-then-advance-to-score"
+    :spec (merge (m :worlds-2021-a) {:active :corp :corp {:credits 1 :hand ["Magnet"]
+                                                          :install [{:t "Border Control" :server "New remote" :rez true}
+                                                                    {:t "Offworld Office" :server "Server 1" :adv 2}]}})
+    :goal (ap-up :corp) :solution ["^click for credit" "^advance Offworld" "^advance Offworld"] :bad []}
+   {:name "d-psychographics-to-score"
+    :spec (merge (m :worlds-2018-a) {:active :corp :corp {:credits 3 :hand ["Psychographics"]
+                                                          :install [{:t "Resistor" :server "New remote" :rez true}
+                                                                    {:t "Project Beale" :server "Server 1" :adv 0}]}
+                                     :runner {:tags 3}})
+    :goal (ap-up :corp) :solution ["^play Psychographics" "^3$" "(?i)Project Beale"] :bad []}
+   {:name "d-credit-up-for-bellona"
+    :spec (merge (m :worlds-2020-b) {:active :runner :corp {:credits 0 :install [{:t "Enigma" :server "New remote" :rez true}
+                                                                                  {:t "Bellona" :server "Server 1" :adv 3}]}
+                                     :runner {:credits 5 :install ["Black Orchestra"] :hand ["Stimhack" "Imp"]}})
+    :goal (ap-up :runner)
+    :solution ["^click for credit" "^click for credit" "^click for credit" "^run Server 1" "^break Enigma" "(?i)steal"]
+    :bad ["^run Server 1" "^break Enigma"]}
+   {:name "d-must-steal-before-corp-wins"
+    :spec (merge (m :worlds-2021-b) {:active :runner :corp {:credits 3 :scored ["Project Atlas" "Above the Law" "Offworld Office"]
+                                                            :install [{:t "Border Control" :server "New remote" :rez true}
+                                                                      {:t "Hostile Takeover" :server "Server 1" :adv 1}]}
+                                     :runner {:credits 4 :install ["Paperclip"] :hand ["Sure Gamble" "Dirty Laundry" "Moshing"]}})
+    :goal (ap-up :runner) :solution ["^run Server 1" "^break Border" "^Steal"] :bad []}])
 
 (def holdout-suite
   "Held-out puzzles (pre-registered T3 rule, research/LOG.md 2026-10-03): built only from held-out

@@ -104,6 +104,8 @@
               (ev/for-side s side weights)
               (recur (inc i) active changes))))))))
 
+(def ^:dynamic *debug* nil)
+
 (defn plan
   "Beam search from the current (determinized) sim state. Returns {:line [actions] :score x :apps n}."
   [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs rerank-turns]}]
@@ -161,6 +163,10 @@
                                      (vals (reduce (fn [m c] (let [k (action-key (first (:line c)))]
                                                                (if (and (m k) (>= (:score (m k)) (:score c))) m (assoc m k c))))
                                                    {} by-score))))]
+          (when *debug*
+            (println "depth" depth "children" (count children) "keep" (count keep) "done" (count done))
+            (doseq [c (take 12 (sort-by (comp - :score) (concat keep done)))]
+              (println "   " (format "%.2f" (:score c)) (:status c) (mapv :label (:line c)))))
           (recur (vec keep) (into finals done) (inc depth)))))))
 
 (defn vote

@@ -47,6 +47,18 @@
     ;; worth its points if it survives, minus the clicks+credits still needed, minus the steal risk
     (- (* safe ap ap-value) (* 2.0 remaining) (* (- 1.0 safe) ap ap-value))))
 
+(defn- remaining-adv [c]
+  (let [req (or (:current-advancement-requirement c) (:advancementcost (cards/printed (:title c))) 5)]
+    (max 0 (- req (or (:advance-counter c) 0)))))
+
+(defn- in-reach?
+  "On the Corp's turn: agenda c can be advanced to its requirement with the clicks and credits left."
+  [s c]
+  (let [r (remaining-adv c)]
+    (and (= :corp (:active-player s))
+         (<= r (get-in s [:corp :click] 0))
+         (<= r (get-in s [:corp :credit] 0)))))
+
 (defn- central-threat
   "Runner's expected gain next turn from running HQ and R&D, as the Corp knows them (its own HQ
   agendas, its deck's agenda density), by the run calculator; only positive values count."
@@ -67,6 +79,7 @@
   "Named feature values (Corp perspective) of a full or determinized state map."
   [s w]
   (let [ap-value (:ap-value w)
+        scorable? (pos? (get-in w [:eval :scorable-agendas] 0.0))
         breakers (srv/icebreakers s)
         rig (get-in s [:runner :rig])
         runner-installed (concat (:program rig) (:hardware rig) (:resource rig))
@@ -95,8 +108,15 @@
      :central-threat (if (pos? (get-in w [:eval :central-threat] 0.0)) (central-threat s w) 0.0)
      :agendas-in-archives (* -0.8 ap-value (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) (get-in s [:corp :discard])))))
      :installed-agendas (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)
-                                            :when (= "Agenda" (:type c))]
+                                            :when (and (= "Agenda" (:type c)) (not (and scorable? (in-reach? s c))))]
                                         (agenda-ev s k c w)))
+     ;; an agenda the Corp can finish advancing this turn with its clicks and credits is worth
+     ;; nearly its points (weighted like :agenda-points), so beam search keeps advance chains
+     :scorable-agendas (if scorable?
+                         (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)
+                                             :when (and (= "Agenda" (:type c)) (in-reach? s c))]
+                                         (- (* ap-value (srv/ap (:title c))) (* 0.5 (remaining-adv c)))))
+                         0.0)
      :ice (reduce + 0.0 (for [[k srv] (srv/servers s)
                               :let [wt (cond (#{:hq :rd} k) 1.0
                                              (= :archives k) 0.3

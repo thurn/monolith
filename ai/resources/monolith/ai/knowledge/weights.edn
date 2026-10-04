@@ -28,4 +28,5 @@
         :runner-damage-exposure 2.0
         ;; R4 candidates, off by default
         :central-threat 0.0
-        :hq-agenda-cost 0.0}}
+        :hq-agenda-cost 0.0
+        :scorable-agendas 0.0}}

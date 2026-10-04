@@ -82,14 +82,34 @@
 (defn- credit-cost [costs]
   (reduce + 0 (keep #(when (= :credit (:cost/type %)) (:cost/amount %)) costs)))
 
+(defn- subtype-breaks
+  "Ice types a breaker interfaces with, from its subtypes (for defs without a :breaks key)."
+  [title]
+  (let [st (subtypes title)]
+    (cond (st "AI") :all
+          :else (not-empty (set (keep {"Fracter" "Barrier" "Decoder" "Code Gate" "Killer" "Sentry"} st))))))
+
+(defn- x-credit-cost? [costs] (some #(= :x-credits (:cost/type %)) costs))
+
 (defn breaker-model
   "Break/pump model of an installed icebreaker. icebreakers = number of installed icebreakers
-  (for Unity-style X pumps)."
+  (for Unity-style X pumps). Heap breakers (Paperclip, Black Orchestra) pump and break with one
+  payment: :combined {:cost c-or-:x :pump p-or-:x :break b-or-:x}."
   [card icebreakers]
   (let [abs (:abilities (card-def card))
         brk (first (filter :breaks abs))
-        pmp (first (filter :pump abs))]
-    (when brk
+        heap (first (filter :heap-breaker-break abs))
+        xbrk (when-not (or brk heap) (first (filter #(x-credit-cost? (:break-cost %)) abs)))
+        pmp (first (filter :pump abs))
+        strength (or (:current-strength card) (:strength card) (:strength (printed (:title card))) 0)]
+    (cond
+      heap
+      (when-let [types (subtype-breaks (:title card))]
+        {:title (:title card) :cid (:cid card) :breaks types :n 1 :break-cost 0 :pump nil :pump-cost nil
+         :strength strength :temporary false
+         :combined {:cost (if (x-credit-cost? (:cost heap)) :x (credit-cost (:cost heap)))
+                    :pump (:heap-breaker-pump heap) :break (:heap-breaker-break heap)}})
+      brk
       {:title (:title card)
        :cid (:cid card)
        :breaks (let [b (:breaks brk)] (if (contains? b "All") :all b))
@@ -97,8 +117,14 @@
        :break-cost (credit-cost (:break-cost brk))
        :pump (when pmp (let [p (or (:pump pmp) 0)] (if (and (zero? p) (:pump-bonus pmp)) (max 1 icebreakers) p)))
        :pump-cost (when pmp (credit-cost (:cost pmp)))
-       :strength (or (:current-strength card) (:strength card) (:strength (printed (:title card))) 0)
-       :temporary (boolean (:additional-ability brk))})))
+       :strength strength
+       :temporary (boolean (:additional-ability brk))}
+      ;; X-credit breakers (Matryoshka): 1 credit per subroutine
+      xbrk
+      (when-let [types (subtype-breaks (:title card))]
+        {:title (:title card) :cid (:cid card) :breaks types :n 1 :break-cost 1
+         :pump (when pmp (or (:pump pmp) 1)) :pump-cost (when pmp (credit-cost (:cost pmp)))
+         :strength strength :temporary false}))))
 
 (defn can-break-type? [breaker ice]
   (or (= :all (:breaks breaker))
@@ -109,11 +135,17 @@
   [breaker ice]
   (when (can-break-type? breaker ice)
     (let [gap (max 0 (- (:strength ice) (:strength breaker)))
-          pumps (if (pos? gap) (when (and (:pump breaker) (pos? (:pump breaker))) (long (Math/ceil (/ gap (double (:pump breaker)))))) 0)
           nsubs (count (remove :broken (:subs ice)))]
-      (when pumps
-        (+ (* pumps (or (:pump-cost breaker) 0))
-           (* (long (Math/ceil (/ nsubs (double (:n breaker))))) (:break-cost breaker)))))))
+      (if-let [{:keys [cost pump break]} (:combined breaker)]
+        (if (= :x cost)
+          (max gap nsubs 1)
+          (let [k (max 1 (if (pos? gap) (long (Math/ceil (/ gap (double pump)))) 0)
+                       (long (Math/ceil (/ nsubs (double break)))))]
+            (* k cost)))
+        (let [pumps (if (pos? gap) (when (and (:pump breaker) (pos? (:pump breaker))) (long (Math/ceil (/ gap (double (:pump breaker)))))) 0)]
+          (when pumps
+            (+ (* pumps (or (:pump-cost breaker) 0))
+               (* (long (Math/ceil (/ nsubs (double (:n breaker))))) (:break-cost breaker)))))))))
 
 ;;; Generic card facts
 
@@ -133,7 +165,8 @@
 (defn icebreaker? [title] (contains? (subtypes title) "Icebreaker"))
 
 (defn breaker-types [title]
-  (let [b (:breaks (first (filter :breaks (:abilities (card-def {:title title})))))]
+  (let [b (:breaks (first (filter :breaks (:abilities (card-def {:title title})))))
+        b (or b (when (icebreaker? title) (let [t (subtype-breaks title)] (if (= :all t) #{"All"} t))))]
     (cond (nil? b) #{} (contains? b "All") #{"Barrier" "Code Gate" "Sentry"} :else b)))
 
 (defn etr-ice? [title] (some :etr (ice-subs title)))

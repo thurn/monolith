@@ -78,10 +78,25 @@
             per (when (re-find #"(?i)plus 1 net damage for each hosted advancement" t) 1)]
         (when base (+ base (* (or per 0) adv)))))))
 
+(defn steal-cost
+  "Credits the Runner must pay as an additional cost to steal agenda t (Bellona), from its text."
+  [t]
+  (some-> (re-find #"(?i)additional cost to steal this agenda, the Runner must pay (\d+)\[credit\]" (str (:text (cards/printed t))))
+          second parse-long))
+
+(defn agenda-access-value
+  "Runner value of accessing agenda t: its points, less any steal cost, or nothing if the Runner
+  cannot pay that cost (credits = the Runner's credits before the run)."
+  [t ap-value credits]
+  (let [c (steal-cost t)]
+    (cond (nil? c) (* ap-value (ap t))
+          (and credits (< credits c)) 0.0
+          :else (max 0.0 (- (* ap-value (ap t)) c)))))
+
 (defn hidden-content-value
   "Runner value (credits) of accessing one unknown remote card with adv counters in a server
   protected by n-ice pieces of ice (agendas are rarely left unprotected)."
-  [pool adv n-ice {:keys [ap-value hand w-damage]}]
+  [pool adv n-ice {:keys [ap-value hand w-damage runner-credits]}]
   (let [n (reduce + 0 (vals pool))]
     (if (zero? n) 0.0
         (let [weights (for [[t q] pool
@@ -99,7 +114,7 @@
                   (for [[t w] weights
                         :let [p (/ w tot)
                               dmg (trap-damage t adv)]]
-                    (* p (cond (= "Agenda" (cards/ctype t)) (* ap-value (ap t))
+                    (* p (cond (= "Agenda" (cards/ctype t)) (agenda-access-value t ap-value runner-credits)
                                dmg (if (>= dmg hand) runcalc/flatline-utility (- (* w-damage dmg)))
                                :else 0.5))))))))
 
@@ -115,12 +130,14 @@
       :archives (+ (* ap-value (reduce + 0 (map (comp ap :title) (remove :hidden (get-in obs [:corp :discard])))))
                    (* 0.3 ap-value dens (count (filter :hidden (get-in obs [:corp :discard])))))
       ;; remote
-      (let [rpool (remote-card-pool obs corp-decklist)]
+      (let [rpool (remote-card-pool obs corp-decklist)
+            cr (get-in obs [:runner :credit])
+            opts (assoc opts :runner-credits cr)]
         (reduce + 0.0
                 (for [c (content obs k)]
                   (cond
                     (:hidden c) (hidden-content-value rpool (+ (or (:advance-counter c) 0)) (count (ices obs k)) opts)
-                    (= "Agenda" (:type c)) (* ap-value (ap (:title c)))
+                    (= "Agenda" (:type c)) (agenda-access-value (:title c) ap-value cr)
                     :else (let [tc (cards/trash-cost (:title c))]
                             ;; trashing a rezzed economy card denies the Corp its remaining credits,
                             ;; only worth anything if the Runner can afford the trash cost

@@ -598,6 +598,8 @@
      (prompt-common env)
      (cond
        (choice env #"^Steal$") (choice env #"^Steal$")
+       ;; additional steal costs (pay credits, trash a program, ...): stealing is almost always right
+       (choice env #"(?i)^pay to steal") (choice env #"(?i)^pay to steal")
        (re-find #"(?i)^You accessed" msg)
        (let [tr (choice env #"(?i)to trash")
              cost (some-> (re-find #"Pay (\d+)" (str (:label tr))) second parse-long)]
