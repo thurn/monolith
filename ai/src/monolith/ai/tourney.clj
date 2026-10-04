@@ -45,7 +45,7 @@
             w (/ (* z (Math/sqrt (+ (/ (* p (- 1 p)) n) (/ (* z z) (* 4 n n))))) d)]
         [(- c w) (+ c w)])))
 
-(defn play-one [{:keys [corp runner seed corp-deck runner-deck budget-ms max-actions]}]
+(defn play-one [{:keys [corp runner seed corp-deck runner-deck budget-ms max-actions meta]}]
   (let [r (try
             (h/play-game {:seed seed :corp-deck corp-deck :runner-deck runner-deck :budget-ms budget-ms
                           :max-actions (or max-actions 6000)
@@ -55,6 +55,7 @@
                                   :trace (mapv str (take 12 (.getStackTrace t)))}}))]
     (merge {:corp (spec-name corp) :runner (spec-name runner) :corp-deck corp-deck :runner-deck runner-deck
             :budget-ms budget-ms}
+           meta
            r)))
 
 (defn run-games

@@ -24,20 +24,19 @@
   [{:keys [a b opponent seeds threads decks matchups log games-log tag]
     :or {opponent :heuristic threads 8 decks [:gateway-beginner-corp :gateway-beginner-runner]}}]
   (let [decks-for (fn [s] (if (seq matchups) (matchup-decks (nth (vec matchups) (mod s (count matchups)))) decks))
-        games (for [v [:a :b] side [:corp :runner] s seeds
+        games (for [s seeds v [:a :b] side [:corp :runner]
                     :let [[cd rd] (decks-for s)]]
                 {:corp-deck cd :runner-deck rd :budget-ms 250
                  :variant v :side side :seed s
                  :corp (if (= side :corp) ({:a a :b b} v) opponent)
-                 :runner (if (= side :runner) ({:a a :b b} v) opponent)})
+                 :runner (if (= side :runner) ({:a a :b b} v) opponent)
+                 :meta {:variant (name v) :side (name side)
+                        :agent (tourney/spec-name ({:a a :b b} v))
+                        :opponent (tourney/spec-name opponent)}})
+        ;; one line per finished game, so a killed job loses only games in flight
         write (when games-log (tourney/write-jsonl-fn games-log (assoc (tourney/shas) :tag tag)))
-        results (tourney/run-games games {:threads threads})
-        _ (when write
-            (doseq [[g r] (map vector games results)]
-              (write (merge (dissoc r :log :error-sample)
-                            {:variant (name (:variant g)) :side (name (:side g))
-                             :agent (tourney/spec-name ({:a a :b b} (:variant g)))
-                             :opponent (tourney/spec-name opponent)}))))
+        results (tourney/run-games games {:threads threads
+                                          :on-result (fn [r] (when write (write (dissoc r :error-sample))))})
         won (fn [g r] (= (:side g) (:winner r)))
         by (into {} (map (fn [g r] [[(:variant g) (:side g) (:seed g)] (won g r)]) games results))
         pairs (for [side [:corp :runner] s seeds] [(by [:a side s]) (by [:b side s])])
