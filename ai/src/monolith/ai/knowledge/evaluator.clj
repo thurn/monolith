@@ -9,8 +9,24 @@
 
 (def win-value 1000.0)
 
-(defn- capped-credits [c]
-  (let [c (double (or c 0))] (if (<= c 10) c (+ 10 (* 0.5 (- c 10))))))
+(defn- capped-credits
+  "Credits with diminishing value: 1 each up to 10, 0.5 up to knee2 (default: no second knee),
+  0.1 beyond."
+  ([c] (capped-credits c nil))
+  ([c knee2]
+   (let [c (double (or c 0))
+         k2 (double (or knee2 1e9))]
+     (cond (<= c 10) c
+           (<= c k2) (+ 10 (* 0.5 (- c 10)))
+           :else (+ 10 (* 0.5 (- k2 10)) (* 0.1 (- c k2)))))))
+
+(defn- corp-hand-value
+  "Corp hand: with :corp-hand-curve, the first 3 cards are worth 1 each, the next 2 0.5, more 0;
+  otherwise 0.5 per card."
+  [n curve?]
+  (if curve?
+    (+ (min n 3) (* 0.5 (max 0 (- (min n 5) 3))))
+    (* 0.5 n)))
 
 (defn- hosted-credits
   "Credits loaded on cards, discounted by how fast they can be taken (parsed from card text):
@@ -89,9 +105,9 @@
                            :when (some #(contains? (cards/breaker-types (:title %)) t) (:program rig))]
                        t))]
     {:agenda-points (* ap-value (- (get-in s [:corp :agenda-point] 0) (get-in s [:runner :agenda-point] 0)))
-     :credits (- (capped-credits (get-in s [:corp :credit])) (capped-credits (get-in s [:runner :credit])))
+     :credits (- (capped-credits (get-in s [:corp :credit]) (:credit-knee2 w)) (capped-credits (get-in s [:runner :credit]) (:credit-knee2 w)))
      :hosted-credits (- (hosted-credits (filter :rezzed corp-installed)) (hosted-credits runner-installed))
-     :hands (- (* 0.5 (count corp-hand)) (* 0.8 (min 6 (count (get-in s [:runner :hand])))))
+     :hands (- (corp-hand-value (count corp-hand) (:corp-hand-curve w)) (* 0.8 (min 6 (count (get-in s [:runner :hand])))))
      ;; agendas are the Corp's finite route to 7 points: in HQ they are future points at some
      ;; steal risk; in Archives they are lost to the Corp and free for the Runner
      ;; liability scales with how exposed HQ is: unprotected HQ loses agendas fast

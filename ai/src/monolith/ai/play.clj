@@ -32,7 +32,8 @@
                   (when log-lines
                     (let [logs (:log s)]
                       (doseq [l (drop @last-log logs)]
-                        (println "        |" (if (string? (:text l)) (:text l) (pr-str (:text l)))))
+                        (when-let [t ((requiring-resolve 'monolith.ai.gamelog/entry-text) l)]
+                          (println "        |" t)))
                       (vreset! last-log (count logs))))))]
       (let [r (h/play-game {:seed seed :corp-deck corp-deck :runner-deck runner-deck :agents agents})]
         (println "\nRESULT" (dissoc r :log))

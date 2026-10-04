@@ -6,7 +6,7 @@
    [monolith.ai.harness :as h]
    [monolith.ai.tourney :as tourney]))
 
-(defn- entry-text [e]
+(defn entry-text [e]
   (let [t (or (:text (:public e)) (:text e))]
     (cond
       (string? t) t
