@@ -628,8 +628,9 @@
        (re-find #"(?i)credit providing card" msg)
        (or (first (acts env :select)) (act env :done))
 
+       ;; "Everything else" first: the engine can keep offering an already-accessed upgrade (livelock)
        (re-find #"(?i)choose a card to access|click a card to access" msg)
-       (or (first (remove #(= :done (:type %)) (:actions env))))
+       (or (choice env #"(?i)^Everything else") (first (remove #(= :done (:type %)) (:actions env))))
        :else nil)
      (first (remove #(re-find #"(?i)cancel" (str (:label %))) (:actions env)))
      (first (:actions env)))))
