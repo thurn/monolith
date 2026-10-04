@@ -92,7 +92,7 @@ Once step 6 passes, continue with "What was in flight" and "Suggested next steps
    ```bash
    scripts/ai-job research/rounds/R2/job-r3ab.log "(require 'monolith.ai.ab 'monolith.ai.agents.champion) (println (monolith.ai.ab/run {:a :planner :b [:planner {:dets 3}] :seeds (range 80000 80300) :threads 16 :log \"$PWD/research/rounds/R2/ab.jsonl\"})) (println (monolith.ai.ab/run {:a :planner :b :champion :seeds (range 80000 80300) :threads 16 :log \"$PWD/research/rounds/R2/ab.jsonl\"}))"
    ```
-   Run from the repo root; results append to `research/rounds/R2/ab.jsonl`. Expect ~2–3 h at 16 threads. Fill the `DETS_CHAMP` placeholder in the R2 report with the result.
+   Run from the repo root; results append to `research/rounds/R2/ab.jsonl`. Expect ~2–3 h at 16 threads. Replace the "Pending" line in `rounds/R2/report.md` with the results.
 2. The champion has not been re-measured since the HQ-exposure evaluator change (S3 Corp vs S1: 0.663 with it, 0.503 without, on seeds 80000+).
 
 ## Suggested next steps (in order)
