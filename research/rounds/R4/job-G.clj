@@ -1,0 +1,35 @@
+(require 'monolith.ai.evalset 'monolith.ai.sweep)
+(let [dev (fn [tag spec & [null?]] {:agent spec :tag tag :seeds (range 100000 100300) :matchups monolith.ai.sweep/dev-mix
+                                    :games-log "/home/dthurn/monolith/research/rounds/R4/eval-G.jsonl" :null? (boolean null?)})
+      prx (fn [tag spec & [null?]] {:agent spec :tag tag :seeds (range 300000 300300) :matchups monolith.ai.sweep/corp-proxy
+                                    :sides [:corp] :games-log "/home/dthurn/monolith/research/rounds/R4/proxy-G.jsonl" :null? (boolean null?)})]
+  (println (monolith.ai.evalset/run-many
+            {:threads 16
+             :experiments
+             [(dev "g0" :champion true)
+              (prx "p0" :champion true)
+              (dev "g-ra" [:champion {:rerank-anchor true}])
+              (dev "g-sc" [:champion {:eval {:scorable-agendas 2.5}}])
+              (dev "g-kt" [:champion {:eval {:kill-threat 1.0}}])
+              (dev "g-ae" [:champion {:eval {:asset-econ 1.0}}])
+              (dev "g-hf" [:champion {:eval {:hq-flood 1.0}}])
+              (dev "g-eri" [:champion {:w {:empty-remote-ice true}}])
+              (dev "g-gb" [:champion {:w {:grip-breakers true}}])
+              (dev "g-k12" [:champion {:w {:credit-knee2 12}}])
+              (dev "g-te" [:champion {:w {:tag-exposure true}}])
+              (dev "g-pb" [:champion {:w {:potential-breakers true}}])
+              (dev "g-1k" [:champion {:max-apps 1000}])
+              (dev "g-rr6" [:champion {:rerank 6}])
+              (dev "g-rs2" [:champion {:rerank-samples 2}])
+              (dev "g-rt2" [:champion {:rerank-turns 2}])
+              (dev "g-bp" [:champion {:branch-prompts true}])
+              (dev "g-ram1" [:champion {:rerank-anchor true :s1-margin 1.0}])
+              (prx "p-ra" [:champion {:rerank-anchor true}])
+              (prx "p-sc" [:champion {:eval {:scorable-agendas 2.5}}])
+              (prx "p-ps" [:champion {:w {:perceived-safety true}}])
+              (prx "p-ae" [:champion {:eval {:asset-econ 1.0}}])
+              (prx "p-hf" [:champion {:eval {:hq-flood 1.0}}])
+              (prx "p-m0" [:champion {:s1-margin nil}])
+              (prx "p-h" :heuristic)
+              (prx "p-vm" [:champion {:vmodel "/home/dthurn/monolith/research/rounds/R4/vm2.json" :vweight 15.0 :vblend 1.0}])]}))
+  (flush))
