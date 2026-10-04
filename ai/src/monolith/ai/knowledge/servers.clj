@@ -82,7 +82,13 @@
 (defn steal-cost
   "Credits the Runner must pay as an additional cost to steal agenda t (Bellona), from its text."
   [t]
-  (some-> (re-find #"(?i)additional cost to steal this agenda, the Runner must pay (\d+)\[credit\]" (str (:text (cards/printed t))))
+  (some-> (re-find #"(?i)additional cost to steal [^,]+, the Runner must pay (\d+)\[credit\]" (str (:text (cards/printed t))))
+          second parse-long))
+
+(defn steal-damage
+  "Net damage the Runner must suffer as an additional cost to steal agenda t (Obokata Protocol)."
+  [t]
+  (some-> (re-find #"(?i)additional cost to steal [^,]+, the Runner must suffer (\d+) net damage" (str (:text (cards/printed t))))
           second parse-long))
 
 (def ^:dynamic *runner-points*
@@ -92,13 +98,17 @@
 
 (def winning-steal-value 50.0)
 
+(def ^:dynamic *runner-grip* "The Runner's grip size for the access being valued." 5)
+
 (defn agenda-access-value
   "Runner value of accessing agenda t: its points (a win if they reach 7), less any steal cost, or
   nothing if the Runner cannot pay that cost (credits = the Runner's credits before the run)."
   [t ap-value credits]
   (let [c (steal-cost t)
-        v (if (>= (+ *runner-points* (ap t)) 7) winning-steal-value (* ap-value (ap t)))]
-    (cond (nil? c) v
+        d (steal-damage t)
+        v (if (>= (+ *runner-points* (ap t)) 7) winning-steal-value (* ap-value (ap t)))
+        v (if d (if (>= d (or *runner-grip* 5)) 0.0 (- v (* 2.0 d))) v)]
+    (cond (nil? c) (max 0.0 v)
           (and credits (< credits c)) 0.0
           :else (max 0.0 (- v c)))))
 
@@ -146,7 +156,8 @@
 (defn content-value
   "Runner value of breaching server k (credits-equivalent), excluding run costs."
   [obs k {:keys [corp-decklist ap-value hand w-damage extra-access] :or {extra-access 0} :as opts}]
-  (binding [*runner-points* (or (get-in obs [:runner :agenda-point]) 0)]
+  (binding [*runner-points* (or (get-in obs [:runner :agenda-point]) 0)
+            *runner-grip* (count (get-in obs [:runner :hand]))]
     (content-value* obs k opts)))
 
 (defn- content-value*

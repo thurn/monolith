@@ -694,8 +694,13 @@
      (prompt-common env)
      (cond
        (choice env #"^Steal$") (choice env #"^Steal$")
-       ;; additional steal costs (pay credits, trash a program, ...): stealing is almost always right
-       (choice env #"(?i)^pay to steal") (choice env #"(?i)^pay to steal")
+       ;; additional steal costs (pay credits, trash a program, ...): stealing is almost always right,
+       ;; unless the cost is net damage that would flatline (Obokata Protocol)
+       (choice env #"(?i)^pay to steal")
+       (let [d (srv/steal-damage src)]
+         (if (and d (>= d (count (get-in obs [:runner :hand]))))
+           (or (choice env #"(?i)^No action") (choice env #"(?i)^pay to steal"))
+           (choice env #"(?i)^pay to steal")))
        (re-find #"(?i)^You accessed" msg)
        (let [tr (choice env #"(?i)to trash")
              cost (some-> (re-find #"Pay (\d+)" (str (:label tr))) second parse-long)]
