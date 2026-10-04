@@ -37,7 +37,9 @@
                       :when (pos? n)
                       :let [txt (str (:text (cards/printed (:title c))))
                             drip (some-> (re-find #"(?i)when your turn begins, take (\d+)\[credit\]" txt) second parse-long)]]
-                  (* n (if drip (min 0.6 (* 0.18 drip)) 0.6)))))
+                  ;; click-to-take reserves (Liberated Account: 2 per click) at 0.4 each, so taking
+                  ;; them (+2 liquid) beats a basic credit click (+1)
+                  (* n (if drip (min 0.6 (* 0.18 drip)) 0.4)))))
 
 (defn- ice-value [obs breakers server-weight ices]
   (reduce + 0.0
