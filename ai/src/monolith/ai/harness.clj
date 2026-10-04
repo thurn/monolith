@@ -43,6 +43,7 @@
         titles {:corp (opp-titles g :corp) :runner (opp-titles g :runner)}
         log (transient [])
         noops (volatile! 0)
+        errors (volatile! [])
         think-ns {:corp (volatile! 0) :runner (volatile! 0)}
         decisions {:corp (volatile! 0) :runner (volatile! 0)}]
     (loop [n 0 replay (seq replay) turn-key nil turn-n 0]
@@ -52,7 +53,7 @@
             turn-n (if (= tk turn-key) (inc turn-n) 0)]
         (cond
           (and stop-fn (stop-fn s)) (result g n nil t0 {:log (persistent! log) :stopped true})
-          (moves/game-over? s) (result g n nil t0 {:log (persistent! log) :noops @noops
+          (moves/game-over? s) (result g n nil t0 {:log (persistent! log) :noops @noops :errors (count @errors) :error-sample (first @errors)
                                                    :think-ms {:corp (quot @(think-ns :corp) 1000000) :runner (quot @(think-ns :runner) 1000000)}
                                                    :decisions {:corp @(decisions :corp) :runner @(decisions :runner)}})
           (nil? d) (result g n {:cause :no-decision} t0 {:log (persistent! log) :noops @noops})
@@ -82,8 +83,13 @@
                       (conj! log idx)
                       (when *on-step* (*on-step* g d action))
                       (cond
-                        err [{:cause :exception :action (dissoc action :args) :error (str err)
-                              :trace (mapv str (take 12 (.getStackTrace ^Throwable err)))} replay]
+                        ;; command! restored the state: drop the throwing action and re-ask (stall
+                        ;; only if every action throws); the last error is kept for diagnosis
+                        err (do (vswap! errors conj {:action (dissoc action :args) :error (str err)})
+                                (if (> (count actions) 1)
+                                  (recur (into (subvec actions 0 idx) (subvec actions (inc idx))) replay)
+                                  [{:cause :exception :action (dissoc action :args) :error (str err)
+                                    :trace (mapv str (take 12 (.getStackTrace ^Throwable err)))} replay]))
                         (identical? before @state)
                         (do (vswap! noops inc)
                             (recur (into (subvec actions 0 idx) (subvec actions (inc idx))) replay))

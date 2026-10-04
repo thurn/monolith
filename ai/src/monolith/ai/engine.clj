@@ -17,6 +17,8 @@
    [game.cards.upgrades]
    [game.core :as core]
    [game.core.say]
+   [game.core.eid :as eid]
+   [game.core.prompt-state :as prompt-state]
    [game.main :as main]
    [game.rng :as rng]
    [game.utils :refer [server-card]]
@@ -94,6 +96,15 @@
                :players [{:side "Corp" :user {:username "Corp"} :deck (resolve-deck (decks corp))}
                          {:side "Runner" :user {:username "Runner"} :deck (resolve-deck (decks runner))}]})))))
 
+(defn- cancel-select!
+  "Resolves the current select prompt with no targets, like \"Done\" on a non-:all select."
+  [state side]
+  (let [sel (first (get-in @state [side :selected]))
+        p (first (get-in @state [side :prompt]))]
+    (swap! state update-in [side :selected] #(vec (rest %)))
+    (when p (prompt-state/remove-from-prompt-queue state side p))
+    (eid/effect-completed state side (:eid (:ability sel)))))
+
 (defn command!
   "Applies one engine command for side. On exception the state is restored and the throwable rethrown."
   [g side command args]
@@ -101,7 +112,9 @@
     (let [state (:state g)
           old @state]
       (try
-        (main/handle-action state side command args)
+        (if (= command "monolith-cancel-select")
+          (cancel-select! state side)
+          (main/handle-action state side command args))
         (catch Throwable t
           (reset! state old)
           (throw t))))))

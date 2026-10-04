@@ -7,6 +7,7 @@
   and number prompts are discretized."
   (:require
    [clojure.string :as str]
+   [game.core.bad-publicity :refer [bad-publicity-available]]
    [game.core.board :refer [all-active all-active-installed all-installed get-all-cards installable-servers]]
    [game.core.card :refer [agenda? asset? corp? event? get-card hardware? ice? in-hand? installed?
                            operation? program? resource? rezzed? upgrade? get-counters]]
@@ -83,9 +84,11 @@
                    ;; never pick the opponent's hidden hand or deck cards
                    (not (and (not= own (:side target)) (#{:hand :deck} (first (:zone target)))))
                    (not (chosen (:cid target)))
-                   (cond (:card sel) ((:card sel) target)
-                         (:req sel) ((:req sel) state side (:eid ability) src [target])
-                         :else true)))
+                   ;; some card reqs throw on targets they don't expect (e.g. nil costs): not selectable
+                   (try (cond (:card sel) ((:card sel) target)
+                              (:req sel) ((:req sel) state side (:eid ability) src [target])
+                              :else true)
+                        (catch Exception _ false))))
         by-cid (into {} (map (juxt :cid identity)) (get-all-cards state))
         cards (->> (:selectable p)
                    (keep by-cid)
@@ -97,7 +100,13 @@
      (for [c cards]
        (act side "select" {:card (card-ref c) :eid (:eid p)} (str "select " (:title c)) :select))
      (when done
-       [(act side "choice" {:choice {:uuid (:uuid done)} :eid (:eid p)} "Done" :done)]))))
+       [(act side "choice" {:choice {:uuid (:uuid done)} :eid (:eid p)} "Done" :done)])
+     (when (and (:offer-bad-pub? p) (pos? (bad-publicity-available state side)))
+       [(act side "bad-pub-choice" {:eid (:eid p)} "pay with bad publicity" :select)])
+     ;; an "all" select with no legal target only offers "Hide", which re-shows it forever
+     ;; (e.g. Corporate Troubleshooter with no rezzed ice): resolve it with no targets
+     (when (and (empty? cards) (not done))
+       [(act side "monolith-cancel-select" {:eid (:eid p)} "Done (no targets)" :done)]))))
 
 (defn- number-actions [state side p]
   (let [s @state
