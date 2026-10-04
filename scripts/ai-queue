@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# Keeps up to N (default 2) ai-job JVMs busy: pops "<log>|<clojure expr>" lines from a queue
+# file whenever fewer than N ai-job scopes are running. Run it in the background; edit the queue
+# file to add work. Usage: scripts/ai-queue <queue-file> [N]
+set -uo pipefail
+Q="$1"; N="${2:-2}"
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+while true; do
+  running=$(systemctl --user list-units 'ai-job-*' --no-legend --state=running 2>/dev/null | wc -l)
+  if [ "$running" -lt "$N" ] && [ -s "$Q" ]; then
+    line=$(head -n1 "$Q"); sed -i '1d' "$Q"
+    log="${line%%|*}"; expr="${line#*|}"
+    echo "$(date '+%F %T') launch $log" >> "$Q.history"
+    "$ROOT/scripts/ai-job" "$log" "$expr" > /dev/null
+    sleep 60
+  fi
+  sleep 30
+done

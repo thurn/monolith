@@ -20,7 +20,7 @@ def load(paths):
 
 def main():
     args = sys.argv[1:]
-    opt = {"--hidden": 64, "--epochs": 30, "--val-matchups": 8, "--l2": 1e-4}
+    opt = {"--hidden": 64, "--epochs": 30, "--val-matchups": 8, "--l2": 1e-4, "--dropout": 0.3}
     for k in list(opt):
         if k in args:
             i = args.index(k); opt[k] = type(opt[k])(args[i + 1]); del args[i:i + 2]
@@ -49,17 +49,20 @@ def main():
     def fit(hidden):
         torch.manual_seed(0)
         d = X.shape[1]
-        net = nn.Sequential(nn.Linear(d, hidden), nn.ReLU(), nn.Linear(hidden, 1)) if hidden else nn.Sequential(nn.Linear(d, 1))
+        net = (nn.Sequential(nn.Linear(d, hidden), nn.ReLU(), nn.Dropout(opt["--dropout"]), nn.Linear(hidden, 1))
+               if hidden else nn.Sequential(nn.Linear(d, 1)))
         bias = nn.Embedding(len(ms), 1); nn.init.zeros_(bias.weight)
         optm = torch.optim.Adam(list(net.parameters()) + list(bias.parameters()), lr=1e-3, weight_decay=opt["--l2"])
         lossf = nn.BCEWithLogitsLoss()
         best, best_state = 1e9, None
         for ep in range(opt["--epochs"]):
+            net.train()
             perm = torch.randperm(len(yt))
             for i in range(0, len(yt), 512):
                 idx = perm[i:i + 512]
                 optm.zero_grad()
                 l = lossf(net(Zt[idx]).squeeze(1) + bias(mt[idx]).squeeze(1), yt[idx]); l.backward(); optm.step()
+            net.eval()
             with torch.no_grad():
                 lt = lossf(net(Zt).squeeze(1) + bias(mt).squeeze(1), yt).item()
                 zv = net(Zv).squeeze(1)
