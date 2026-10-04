@@ -391,6 +391,21 @@
       (re-find #"(?i)will now be trashed|^OK$" msg) (choice env #"OK")
       (re-find #"(?i)choose a trigger to resolve" msg) (first (remove #(= :done (:type %)) (:actions env))))))
 
+(defn lethal-damage-choice
+  "A mode choice that flatlines the Runner (\"Do X net damage\", X from tags up to 3), if any."
+  [env]
+  (let [obs (:obs env)
+        grip (count (get-in obs [:runner :hand]))
+        tags (+ (get-in obs [:runner :tag :base] 0) (get-in obs [:runner :tag :additional] 0))]
+    (first (for [a (acts env :choice)
+                 :let [[_ n] (re-find #"(?i)do (\d+|X) (?:net|meat|core|brain) damage" (str (:label a)))
+                       dmg (cond (nil? n) nil
+                                 (re-find #"\d" n) (parse-long n)
+                                 (re-find #"(?i)tag" (str (:label a))) (min 3 tags)
+                                 :else nil)]
+                 :when (and dmg (> dmg grip))]
+             a))))
+
 (defn corp-prompt [env]
   (let [p (prompt env)
         msg (str (:msg p))
@@ -398,6 +413,7 @@
         obs (:obs env)]
     (or
      (prompt-common env)
+     (lethal-damage-choice env)
      (cond
        (re-find #"(?i)advancement counters on" msg)
        (select-best env (fn [c] (let [c (find-card obs (:cid c))]
