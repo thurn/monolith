@@ -80,7 +80,27 @@
 ;;; Breakers
 
 (defn- credit-cost [costs]
-  (reduce + 0 (keep #(when (= :credit (:cost/type %)) (:cost/amount %)) costs)))
+  (reduce + 0 (keep #(when (= :credit (:cost/type %)) (:cost/amount %)) (flatten (seq costs)))))
+
+(defn- counter-type
+  "The counter a cost spends per activation: :virus, :power or :self (trash this program), else nil.
+  Trashing cards from the grip (Faust) is treated as free."
+  [costs]
+  (some #(case (:cost/type %) (:virus :any-virus-counter) :virus :power :power :trash-can :self nil)
+        (flatten (seq costs))))
+
+(defn- counters-available
+  "Activations the card can still pay with counters of kind k (installed: counters on it;
+  not installed: what its text places on install)."
+  [card k]
+  (let [placed (fn [kind] (some-> (re-find (re-pattern (str "(?i)place (\\d+) " kind " counters on (?:it|this program)"))
+                                           (str (:text (printed (:title card)))))
+                                  second parse-long))]
+    (case k
+      :self 1
+      :virus (or (get-in card [:counter :virus]) (when-not (:cid card) (placed "virus")) 0)
+      :power (or (get-in card [:counter :power]) (when-not (:cid card) (placed "power")) 0)
+      nil)))
 
 (defn- subtype-breaks
   "Ice types a breaker interfaces with, from its subtypes (for defs without a :breaks key)."
@@ -110,15 +130,20 @@
          :combined {:cost (if (x-credit-cost? (:cost heap)) :x (credit-cost (:cost heap)))
                     :pump (:heap-breaker-pump heap) :break (:heap-breaker-break heap)}})
       brk
-      {:title (:title card)
-       :cid (:cid card)
-       :breaks (let [b (:breaks brk)] (if (contains? b "All") :all b))
-       :n (max 1 (or (:break brk) 1))
-       :break-cost (credit-cost (:break-cost brk))
-       :pump (when pmp (let [p (or (:pump pmp) 0)] (if (and (zero? p) (:pump-bonus pmp)) (max 1 icebreakers) p)))
-       :pump-cost (when pmp (credit-cost (:cost pmp)))
-       :strength strength
-       :temporary (boolean (:additional-ability brk))}
+      (let [bk (counter-type (:break-cost brk))
+            pk (when pmp (counter-type (:cost pmp)))]
+        {:title (:title card)
+         :cid (:cid card)
+         :breaks (let [b (:breaks brk)] (if (contains? b "All") :all b))
+         :n (max 1 (or (:break brk) 1))
+         :break-cost (credit-cost (:break-cost brk))
+         :pump (when pmp (let [p (or (:pump pmp) 0)] (if (and (zero? p) (:pump-bonus pmp)) (max 1 icebreakers) p)))
+         :pump-cost (when pmp (credit-cost (:cost pmp)))
+         ;; counter-paid activations (Yusuf, Revolver, Propeller pumps): limited by counters
+         :break-counter bk :pump-counter pk
+         :counters (into {} (for [k (distinct (remove nil? [bk pk]))] [k (counters-available card k)]))
+         :strength strength
+         :temporary (boolean (:additional-ability brk))})
       ;; X-credit breakers (Matryoshka): 1 credit per subroutine
       xbrk
       (when-let [types (subtype-breaks (:title card))]
@@ -142,10 +167,14 @@
           (let [k (max 1 (if (pos? gap) (long (Math/ceil (/ gap (double pump)))) 0)
                        (long (Math/ceil (/ nsubs (double break)))))]
             (* k cost)))
-        (let [pumps (if (pos? gap) (when (and (:pump breaker) (pos? (:pump breaker))) (long (Math/ceil (/ gap (double (:pump breaker)))))) 0)]
-          (when pumps
+        (let [pumps (if (pos? gap) (when (and (:pump breaker) (pos? (:pump breaker))) (long (Math/ceil (/ gap (double (:pump breaker)))))) 0)
+              breaks (long (Math/ceil (/ nsubs (double (:n breaker)))))
+              {:keys [break-counter pump-counter counters]} breaker
+              need (merge-with + (if (and break-counter (pos? breaks)) {break-counter breaks} {})
+                               (if (and pump-counter pumps (pos? pumps)) {pump-counter pumps} {}))]
+          (when (and pumps (every? (fn [[k n]] (<= n (get counters k 0))) need))
             (+ (* pumps (or (:pump-cost breaker) 0))
-               (* (long (Math/ceil (/ nsubs (double (:n breaker))))) (:break-cost breaker)))))))))
+               (* breaks (:break-cost breaker)))))))))
 
 ;;; Generic card facts
 
