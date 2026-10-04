@@ -83,10 +83,10 @@
   (reduce + 0 (keep #(when (= :credit (:cost/type %)) (:cost/amount %)) (flatten (seq costs)))))
 
 (defn- counter-type
-  "The counter a cost spends per activation: :virus, :power or :self (trash this program), else nil.
-  Trashing cards from the grip (Faust) is treated as free."
+  "The counter a cost spends per activation: :virus, :power, :self (trash this program) or :grip
+  (trash a card from the grip, Faust), else nil."
   [costs]
-  (some #(case (:cost/type %) (:virus :any-virus-counter) :virus :power :power :trash-can :self nil)
+  (some #(case (:cost/type %) (:virus :any-virus-counter) :virus :power :power :trash-can :self :trash-from-hand :grip nil)
         (flatten (seq costs))))
 
 (defn- counters-available
@@ -98,6 +98,8 @@
                                   second parse-long))]
     (case k
       :self 1
+      ;; the engine offers no auto-pump-and-break for grip-paid breakers (Faust), our only way to break
+      :grip 0
       :virus (or (get-in card [:counter :virus]) (when-not (:cid card) (placed "virus")) 0)
       :power (or (get-in card [:counter :power]) (when-not (:cid card) (placed "power")) 0)
       nil)))

@@ -30,8 +30,9 @@
 
 (defn icebreakers [obs]
   (let [bs (filter #(cards/icebreaker? (:title %)) (:program (get-in obs [:runner :rig])))
-        n (count bs)]
-    (keep #(cards/breaker-model % n) bs)))
+        n (count bs)
+        grip (count (get-in obs [:runner :hand]))]
+    (keep #(cards/breaker-model (assoc % :monolith-grip grip) n) bs)))
 
 (defn visible-corp-titles
   "Corp card titles whose identity this observation shows (any zone)."
@@ -235,7 +236,7 @@
                   :toll (approach-toll obs k) :mode :expected}
             cands (for [[t q] runner-pool
                         :when (and (not (installed t)) (cards/icebreaker? t))
-                        :let [m (cards/breaker-model {:title t} (inc (count bs)))
+                        :let [m (cards/breaker-model {:title t :monolith-grip (max 0 (dec (count (get-in obs [:runner :hand]))))} (inc (count bs)))
                               cr (- (+ (get-in obs [:runner :credit]) extra) (cards/play-cost t))]
                         :when (and m (>= cr 0))
                         :let [u (:u (runcalc/evaluate (assoc opts :breakers (conj (vec bs) m) :credits cr)))]

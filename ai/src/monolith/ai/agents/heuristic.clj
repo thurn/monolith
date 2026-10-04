@@ -405,7 +405,9 @@
   (let [obs (:obs env)
         opts (update (run-opts env) :hand + hand-delta)
         opts (assoc opts :extra-access (+ extra-access (srv/extra-accesses obs k)))
-        value (srv/content-value obs k opts)
+        ;; a server already run unsuccessfully this turn: the same wall stops a re-run
+        failed (some #{k} (get-in obs [:runner :register :unsuccessful-run]))
+        value (if failed 0.0 (srv/content-value obs k opts))
         ev (srv/runner-run-eval obs k (assoc opts :value value :credits-bonus credits-bonus :rez-bonus rez-bonus :mode mode))]
     (- (:u ev) (w env :click-value))))
 
