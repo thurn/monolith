@@ -34,11 +34,24 @@ def main():
     mu, sd = X[tr].mean(0), X[tr].std(0) + 1e-6
     Z = (X - mu) / sd
     Zt, yt, Zv, yv = map(torch.tensor, (Z[tr], y[tr], Z[~tr], y[~tr]))
+    mi = {mm: i for i, mm in enumerate(ms)}
+    mt = torch.tensor([mi[mm] for mm in m[tr]]); mv = torch.tensor([mi[mm] for mm in m[~tr]])
+    def refit_bias(z, yy, mm):
+        """Per-matchup intercepts on held-out matchups (1-D Newton), so validation scores the
+        state-dependent part only: matchup strength is invisible to card-agnostic features."""
+        b = torch.zeros(len(ms))
+        for _ in range(25):
+            p = torch.sigmoid(z + b[mm])
+            g = torch.zeros(len(ms)).index_add_(0, mm, yy - p)
+            h = torch.zeros(len(ms)).index_add_(0, mm, p * (1 - p)) + 1e-3
+            b = b + g / h
+        return b
     def fit(hidden):
         torch.manual_seed(0)
         d = X.shape[1]
         net = nn.Sequential(nn.Linear(d, hidden), nn.ReLU(), nn.Linear(hidden, 1)) if hidden else nn.Sequential(nn.Linear(d, 1))
-        optm = torch.optim.Adam(net.parameters(), lr=1e-3, weight_decay=opt["--l2"])
+        bias = nn.Embedding(len(ms), 1); nn.init.zeros_(bias.weight)
+        optm = torch.optim.Adam(list(net.parameters()) + list(bias.parameters()), lr=1e-3, weight_decay=opt["--l2"])
         lossf = nn.BCEWithLogitsLoss()
         best, best_state = 1e9, None
         for ep in range(opt["--epochs"]):
@@ -46,18 +59,22 @@ def main():
             for i in range(0, len(yt), 512):
                 idx = perm[i:i + 512]
                 optm.zero_grad()
-                l = lossf(net(Zt[idx]).squeeze(1), yt[idx]); l.backward(); optm.step()
+                l = lossf(net(Zt[idx]).squeeze(1) + bias(mt[idx]).squeeze(1), yt[idx]); l.backward(); optm.step()
             with torch.no_grad():
-                lt = lossf(net(Zt).squeeze(1), yt).item()
-                lv = lossf(net(Zv).squeeze(1), yv).item()
-                av = ((net(Zv).squeeze(1) > 0).float() == yv).float().mean().item()
+                lt = lossf(net(Zt).squeeze(1) + bias(mt).squeeze(1), yt).item()
+                zv = net(Zv).squeeze(1)
+                bv = refit_bias(zv, yv, mv)
+                lv = lossf(zv + bv[mv], yv).item()
+                av = (((zv + bv[mv]) > 0).float() == yv).float().mean().item()
             if lv < best: best, best_state = lv, {k: v.clone() for k, v in net.state_dict().items()}
             if ep % 5 == 4 or ep == opt["--epochs"] - 1:
                 print(f"  h={hidden} ep {ep+1}: train {lt:.4f}  val {lv:.4f}  val-acc {av:.3f}")
         net.load_state_dict(best_state)
         return net, best
-    base = -(yv.mean() * math.log(yt.mean()) + (1 - yv.mean()) * math.log(1 - yt.mean())).item()
-    print(f"  base-rate val logloss {base:.4f}")
+    with torch.no_grad():
+        bv = refit_bias(torch.zeros(len(yv)), yv, mv)
+        base = nn.BCEWithLogitsLoss()(bv[mv], yv).item()
+    print(f"  matchup-intercept-only val logloss {base:.4f}")
     lin, lv_lin = fit(0)
     mlp, lv_mlp = fit(opt["--hidden"])
     net, kind = (mlp, "mlp") if lv_mlp < lv_lin - 0.002 else (lin, "linear")
