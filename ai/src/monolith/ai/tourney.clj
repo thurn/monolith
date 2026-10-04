@@ -12,6 +12,7 @@
 (def registry
   '{:random monolith.ai.agents.random/make
     :heuristic monolith.ai.agents.heuristic/make
+    :s1ref monolith.ai.ref.heuristic/make
     :planner monolith.ai.agents.planner/make
     :champion monolith.ai.agents.champion/make
     :ismcts monolith.ai.agents.ismcts/make

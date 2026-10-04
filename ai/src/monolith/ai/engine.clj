@@ -36,7 +36,7 @@
 
 (defn load! [] @loaded)
 
-(def decks
+(def base-decks
   {:gateway-beginner-corp precon/gateway-beginner-corp
    :gateway-beginner-runner precon/gateway-beginner-runner
    :gateway-intermediate-corp precon/gateway-intermediate-corp
@@ -46,6 +46,13 @@
    :worlds-2023-a-runner (:runner precon/worlds-2023-sokka-corps)
    :worlds-2023-b-corp (:corp precon/worlds-2023-sokka-runs)
    :worlds-2023-b-runner (:runner precon/worlds-2023-sokka-runs)})
+
+(def decks
+  "Every bundled deck: base-decks (the NN vocabulary is pinned to these) plus each Worlds and
+  Classique matchup as :<matchup>-corp / :<matchup>-runner."
+  (into base-decks
+        (for [m precon/all-matchups side [:corp :runner]]
+          [(keyword (str (name m) "-" (name side))) (side (precon/matchup-by-key m))])))
 
 (def stages
   {:A {:corp :gateway-beginner-corp :runner :gateway-beginner-runner}

@@ -8,7 +8,7 @@
    [monolith.ai.knowledge.servers :as srv]))
 
 (def vocab
-  (let [titles (sort (distinct (for [[_ d] engine/decks t (cons (get-in d [:identity :title]) (map :card (:cards d)))] t)))]
+  (let [titles (sort (distinct (for [[_ d] engine/base-decks t (cons (get-in d [:identity :title]) (map :card (:cards d)))] t)))]
     (into {} (map-indexed (fn [i t] [t i]) titles))))
 
 (def V (count vocab))
