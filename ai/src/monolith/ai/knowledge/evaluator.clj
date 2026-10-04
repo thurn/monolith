@@ -227,11 +227,17 @@
                                              :when (and (= "Agenda" (:type c)) (in-reach? s c))]
                                          (- (* ap-value (srv/ap (:title c))) (* 0.5 (remaining-adv c)))))
                          0.0)
-     :ice (reduce + 0.0 (for [[k srv] (srv/servers s)
-                              :let [wt (cond (#{:hq :rd} k) 1.0
-                                             (= :archives k) 0.3
-                                             :else 0.7)]]
-                          (ice-value s breakers wt (:ices srv))))
+     :ice (let [;; with :empty-remote-ice, only the best-iced empty remote (a scoring server in waiting)
+                ;; counts fully; ice on further empty remotes is mostly wasted
+                empties (when (:empty-remote-ice w)
+                          (->> (srv/remotes s) (filter #(empty? (:content (val %)))) (sort-by #(- (count (:ices (val %))))) (map key)))
+                spare (set (rest empties))]
+            (reduce + 0.0 (for [[k srv] (srv/servers s)
+                                :let [wt (cond (#{:hq :rd} k) 1.0
+                                               (= :archives k) 0.3
+                                               (spare k) 0.15
+                                               :else 0.7)]]
+                            (ice-value s breakers wt (:ices srv)))))
      :rig (+ (* 4.0 (count covered))
              (* 1.5 (count (filter #(and (not (cards/icebreaker? (:title %))) (= "Program" (:type %))) runner-installed)))
              (* 1.5 (count (:hardware rig)))

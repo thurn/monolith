@@ -50,6 +50,10 @@
                             (when-let [k (first (get-in p [:run :server]))] (swap! failed conj (server-label k))))
                           (when (and p (= :corp (:active-player s)) (> (agenda-count s :discard) (agenda-count p :discard)))
                             (bump! :corp :agendas-to-archives (- (agenda-count s :discard) (agenda-count p :discard))))
+                          (let [empty-iced (count (for [[k srv] (get-in s [:corp :servers])
+                                                        :when (and (.startsWith (name k) "remote") (seq (:ices srv)) (empty? (:content srv)))]
+                                                    k))]
+                            (swap! m update-in [:corp :max-empty-iced-remotes] (fnil max 0) empty-iced))
                           (reset! prev s)))]
               (h/replay-game {:seed (:seed row) :corp-deck (keyword (:corp-deck row))
                               :runner-deck (keyword (:runner-deck row)) :log (:log row)}))
@@ -69,7 +73,7 @@
         ms (pmap (fn [r] (assoc (try (game-metrics r) (catch Throwable _ {:faithful false})) :tag (:tag r) :side (keyword (:side r)))) rows)
         ms (filter :faithful ms)
         mean (fn [xs] (into {:n (count xs)}
-                            (for [k (concat ks [:flatlined :decked])
+                            (for [k (concat ks [:flatlined :decked :max-empty-iced-remotes])
                                   :let [vs (keep k xs)] :when (seq vs)]
                               [k (/ (Math/round (* 100.0 (/ (reduce + 0.0 vs) (count vs)))) 100.0)])))]
     (for [[t xs] (sort-by key (group-by :tag ms))
