@@ -85,14 +85,22 @@
   (some-> (re-find #"(?i)additional cost to steal this agenda, the Runner must pay (\d+)\[credit\]" (str (:text (cards/printed t))))
           second parse-long))
 
+(def ^:dynamic *runner-points*
+  "The Runner's agenda points for the access being valued (bound by content-value): a steal that
+  reaches 7 is worth a win, not its points."
+  0)
+
+(def winning-steal-value 50.0)
+
 (defn agenda-access-value
-  "Runner value of accessing agenda t: its points, less any steal cost, or nothing if the Runner
-  cannot pay that cost (credits = the Runner's credits before the run)."
+  "Runner value of accessing agenda t: its points (a win if they reach 7), less any steal cost, or
+  nothing if the Runner cannot pay that cost (credits = the Runner's credits before the run)."
   [t ap-value credits]
-  (let [c (steal-cost t)]
-    (cond (nil? c) (* ap-value (ap t))
+  (let [c (steal-cost t)
+        v (if (>= (+ *runner-points* (ap t)) 7) winning-steal-value (* ap-value (ap t)))]
+    (cond (nil? c) v
           (and credits (< credits c)) 0.0
-          :else (max 0.0 (- (* ap-value (ap t)) c)))))
+          :else (max 0.0 (- v c)))))
 
 (defn hidden-content-value
   "Runner value (credits) of accessing one unknown remote card with adv counters in a server
@@ -119,11 +127,22 @@
                                dmg (if (>= dmg hand) runcalc/flatline-utility (- (* w-damage dmg)))
                                :else 0.5))))))))
 
+(declare content-value*)
+
 (defn content-value
   "Runner value of breaching server k (credits-equivalent), excluding run costs."
   [obs k {:keys [corp-decklist ap-value hand w-damage extra-access] :or {extra-access 0} :as opts}]
+  (binding [*runner-points* (or (get-in obs [:runner :agenda-point]) 0)]
+    (content-value* obs k opts)))
+
+(defn- content-value*
+  [obs k {:keys [corp-decklist ap-value hand w-damage extra-access] :or {extra-access 0} :as opts}]
   (let [pool (unseen-pool obs corp-decklist)
-        dens (agenda-density pool)]
+        need (- 7 *runner-points*)
+        n-pool (reduce + 0 (vals pool))
+        win-frac (if (pos? n-pool) (/ (reduce + 0 (for [[t q] pool :when (>= (ap t) need)] q)) (double n-pool)) 0.0)
+        ;; per-access value: agenda points, or a win when any steal of enough points ends the game
+        dens (max (agenda-density pool) (/ (* win-frac winning-steal-value) (max ap-value 1e-9)))]
     (case k
       ;; after a successful R&D run this turn that stole nothing, the top card is known and
       ;; still there: another single-access run only sees it again

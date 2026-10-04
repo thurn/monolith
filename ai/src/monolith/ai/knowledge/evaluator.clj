@@ -194,7 +194,7 @@
      :hosted-credits (- (hosted-credits (filter :rezzed corp-installed)) (hosted-credits runner-installed))
      ;; capped at the maximum hand sizes: lines are scored before the end-of-turn discard, so
      ;; cards beyond the limit would be counted and then thrown away (draw-into-discard)
-     :hands (- (corp-hand-value (min (count corp-hand) (or (get-in s [:corp :hand-size :total]) 5)) (:corp-hand-curve w))
+     :hands (- (corp-hand-value (min (count corp-hand) (or (get-in s [:corp :hand-size :total]) 5) 7) (:corp-hand-curve w))
                (* 0.8 (min (count (get-in s [:runner :hand])) (or (get-in s [:runner :hand-size :total]) 5))))
      ;; agendas are the Corp's finite route to 7 points: in HQ they are future points at some
      ;; steal risk; in Archives they are lost to the Corp and free for the Runner
@@ -209,6 +209,8 @@
      ;; in agenda-ev), so holding an agenda is not cheaper than installing it
      :hq-agenda-cost (- (* 2.0 (reduce + 0 (for [c corp-hand :when (= "Agenda" (:type c))]
                                               (or (:advancementcost (cards/printed (:title c))) 5)))))
+     ;; the Corp loses when it must draw from an empty R&D: drawing it down is costly
+     :corp-deck-out (let [d (count (get-in s [:corp :deck]))] (- (* 0.5 (Math/pow (max 0 (- 10 d)) 2))))
      ;; agendas piling up in HQ (beyond 2 points) are a liability the static terms underrate:
      ;; they are not progressing and leak to HQ runs and hand-size discards
      :hq-flood (- (* 0.5 ap-value (max 0 (- (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand))) 2))))
