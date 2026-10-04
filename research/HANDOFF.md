@@ -2,7 +2,9 @@
 
 Plan: [docs/ai-research-plan.md](../docs/ai-research-plan.md). Lab notebook: [LOG.md](LOG.md). Round reports: [R0](rounds/R0/report.md), [O1](rounds/O1/report.md), [R1](rounds/R1/report.md), [O2](rounds/O2/report.md), [R2 draft](rounds/R2/report.md).
 
-All background jobs were stopped and `scripts/ci` passed on the Mac at the pause. Code: `git@github.com:thurn/monolith.git` (`master`). Engine fork: `git@github.com:thurn/netrunner.git` (`master`, used locally as branch `monolith`).
+All background jobs were stopped and `scripts/ci` passed on the Mac at the pause. **Resuming on the Windows/WSL2 machine (2026-10-04):** setup is done; skip to "Memory and background jobs" below, then "Overnight run lost to OOM", then continue from the latest entries in `LOG.md`.
+
+Code: `git@github.com:thurn/monolith.git` (`master`). Engine fork: `git@github.com:thurn/netrunner.git` (`master`, used locally as branch `monolith`).
 
 ## Setting up on a new machine (do this first)
 
@@ -60,12 +62,32 @@ scripts/ai-tourney '{:mode :match :agents [:heuristic :random] :seeds 50 :thread
 
 **7. Machine adjustments.**
 - Commands in this file use 16 threads; replace with `nproc` (or one less).
-- WSL2 gets half the host RAM by default, but `ai/project.clj` runs the JVM with `-Xmx24g`. Raise it in `%UserProfile%\.wslconfig` (`[wsl2]` / `memory=28GB` on a 32 GB host), then `wsl --shutdown`. *Check:* `free -g` in WSL.
+- WSL2 gets half the host RAM by default. Raise it in `%UserProfile%\.wslconfig` (`[wsl2]` / `memory=28GB` on a 32 GB host), then `wsl --shutdown`. *Check:* `free -g` in WSL.
 - `scripts/ci` needs Godot (it smoke-tests the Godot client). On this machine run only its non-Godot parts: `scripts/build-dist` must succeed. The AI work never needs Godot.
-- Background jobs: `scripts/ai-job <log> '<clj expr>'` runs an expression in a detached JVM from `ai/`, so give it absolute paths (use `$PWD` from the repo root). Tournaments: `scripts/ai-tourney '<edn>'` (paths relative to the repo root). Interactive dev: `scripts/ai-repl &`, then `scripts/ai-eval '<clj>'`.
+- Background jobs: `scripts/ai-job <log> '<clj expr>'` runs an expression in a detached JVM from `ai/`, so give it absolute paths (use `$PWD` from the repo root). Tournaments: `scripts/ai-tourney '<edn>'` (paths relative to the repo root). Interactive dev: `scripts/ai-repl &`, then `scripts/ai-eval '<clj>'`. Read "Memory and background jobs" before launching anything.
 - Results aren't comparable with the Mac's for time-budgeted agents (S2). S3/champion are capped by engine applications, so their results are deterministic and comparable.
 
 Once step 6 passes, continue with "What was in flight" and "Suggested next steps" below, and log progress in `LOG.md` as before.
+
+## Memory and background jobs (read before launching anything)
+
+The WSL VM has 28 GB RAM + 8 GB swap. If it runs out, the kernel OOM killer fires, and anything sharing a systemd scope with the victim (the tmux pane, Claude Code, every job started from it) is SIGKILLed. That is what ended the 2026-10-03 overnight run.
+
+- **Heap:** every ai/ JVM's heap cap is `AI_HEAP` (default `8g`, set in `ai/project.clj`). ParallelGC grows the heap to its cap whatever the live data, so assume each JVM's RSS reaches `AI_HEAP` + 1 GB. Measured: champion vs S1, 14 threads, peaks at ~9 GB RSS with 8g, and a full GC leaves the old generation 1–5% full, so 8g is plenty for champion and S1 A/Bs.
+- **Budget:** the sum of (`AI_HEAP` + 1 GB) over all live JVMs must stay ≤ 26 GB. Typical layouts: one job at `AI_HEAP=16g` + REPL at 6g; or two jobs at 8g + REPL at 6g. Before launching, check `pgrep -c java` and `free -g`, and kill an idle REPL (`systemctl --user stop 'ai-repl-*'`) rather than overcommitting.
+- **Isolation:** `scripts/ai-job` and `scripts/ai-repl` start each JVM in its own systemd user scope (`ai-job-*`, `ai-repl-*`), so an OOM kill takes out one JVM, not tmux or Claude. List them with `systemctl --user list-units 'ai-*'`. Don't start JVMs another way (`lein run …`, `nohup … &`) for anything long; `scripts/ai-tourney` runs in the foreground in your own scope, so use it only for short runs, or wrap it in `ai-job`.
+- **Check for a dead job:** a log that stops growing without the final result line means the job died. `journalctl --since today | grep -i oom` shows OOM kills.
+- **Make results resumable:** prefer runners that append one line per game (`:games-log` in `ab/run`, `evalset`) over ones that print only a summary at the end, so a killed job loses minutes rather than hours.
+
+## Overnight run lost to OOM (2026-10-03 22:12)
+
+Three JVMs at the old `-Xmx24g` were live: the held-out A/B job (~21 GB counting swap), the S1-generalization A/B job (~7 GB) and the dev REPL (~6 GB). The kernel killed the held-out JVM, and systemd then killed the whole tmux scope, including Claude and the other JVMs. Nothing survived to morning; the PC sleeping later was unrelated. All code was committed (`dc4ed3e`).
+- **Survived:** held-out Stage B, `heuristic` vs `champion`, 300 seeds (90000–90299), in `rounds/R3/ab-heldout.jsonl`: S1 Corp 0.757 / Runner 0.243; champion Corp 0.807 / Runner 0.623; p≈3e-16.
+- **Lost; rerun these** from the repo root (`ai-job` returns at once, so both run together; at the 8g default they fit alongside one REPL):
+  ```bash
+  scripts/ai-job research/rounds/R3/job-heldout-c.log "(require 'monolith.ai.ab 'monolith.ai.engine) (doseq [st [:C1 :C2]] (let [{:keys [corp runner]} (monolith.ai.engine/stages st)] (println st (monolith.ai.ab/run {:a :heuristic :b :champion :seeds (range 90000 90300) :threads 14 :decks [corp runner] :log \"$PWD/research/rounds/R3/ab-heldout.jsonl\"})) (flush)))"
+  scripts/ai-job research/rounds/R3/job-ab-s1gen.log "(require 'monolith.ai.ab 'monolith.ai.sweep) (println (monolith.ai.ab/run {:a :s1ref :b :heuristic :opponent :s1ref :seeds (range 100000 100500) :threads 5 :matchups monolith.ai.sweep/dev-mix :tag \"s1gen\" :log \"$PWD/research/rounds/R3/ab.jsonl\" :games-log \"$PWD/research/rounds/R3/ab-games.jsonl\"}))"
+  ```
 
 ## Where things stand
 
@@ -132,5 +154,6 @@ The planner itself (beam search, determinization, S1 anchoring, rerank) is deck-
 - **The puzzle suite found the most damaging bug:** `score` wasn't offered at 0 clicks, which gave the Runner a free turn in every game.
 - **The logistic fit found an evaluator sign bug** (Runner rig counted for the Corp). Fitted weights themselves are confounded; use them for signs and scale only.
 - The planner farms any overvalued feature (Smartware "place 3 credits", hoarding agendas in HQ). Check new features with traces before A/Bs.
+- Budget memory before launching a JVM (see "Memory and background jobs"). Three 24 GB-heap JVMs on a 28 GB VM OOM-killed the whole session overnight on 2026-10-03, losing every running job.
 - Run long jobs with `scripts/ai-job` (detached JVM), not through the socket REPL (`scripts/ai-repl` + `scripts/ai-eval`). Client timeouts and hot reloads have broken runs (stale protocol records).
 - R-NaD from scratch learned nothing in 145k games. The imitation policy alone is weak too (S4 policy: 25% Corp vs S1), but it is far ahead of R-NaD.

@@ -113,3 +113,9 @@ Goal for this phase (user, 2026-10-03): clear T2 and T3 on decks the agent was n
   - Bad-publicity payment (`bad-pub-choice`) is now offered in select prompts that allow it.
 - After fixes (`sweep-random2.jsonl`): 5/880 stalls, 4 of them the lazy-selectable bug fixed after that run started, 1 livelock (worlds-2016-b, random only).
 - Traces on a dev deck (Worlds 2019 a, champion vs S1) show **S1's Runner is helpless off Stage A**: with 4 credits and Sure Gamble/Liberated Account in hand it ran HQ or the same remote 4 times a turn for 20+ turns, never drawing or clicking for credits (run rule outranks economy; HQ access value 2.7 vs 1.0 click cost). S1's Corp clicked for credits for many turns holding agendas. The champion's Runner played the economy well but let Hagen's subroutines fire four runs in a row. Next: measure before fixing.
+
+## 2026-10-04 — Overnight run lost to OOM
+
+- At 22:12 the VM ran out of memory with three `-Xmx24g` JVMs live (held-out A/B ~21 GB incl. swap, S1-gen A/B ~7 GB, REPL ~6 GB). The kernel killed the held-out JVM; systemd then killed the whole tmux scope (Claude and the other JVMs), since `nohup` jobs shared its cgroup.
+- Survived: held-out Stage B, `heuristic` vs `champion`, 300 seeds: S1 Corp 0.757 / Runner 0.243, champion Corp 0.807 / Runner 0.623 (p≈3e-16). C1/C2 legs and the S1-gen A/B were lost.
+- Fix: heap cap is now `AI_HEAP` (default 8g); `ai-job`/`ai-repl` run each JVM in its own systemd user scope. 8g suffices: champion vs S1 at 14 threads peaks ~9 GB RSS, and a full GC leaves the old generation 1–5% full. Budget rules in `HANDOFF.md`.
