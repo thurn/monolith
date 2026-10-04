@@ -209,6 +209,9 @@
      ;; in agenda-ev), so holding an agenda is not cheaper than installing it
      :hq-agenda-cost (- (* 2.0 (reduce + 0 (for [c corp-hand :when (= "Agenda" (:type c))]
                                               (or (:advancementcost (cards/printed (:title c))) 5)))))
+     ;; agendas piling up in HQ (beyond 2 points) are a liability the static terms underrate:
+     ;; they are not progressing and leak to HQ runs and hand-size discards
+     :hq-flood (- (* 0.5 ap-value (max 0 (- (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand))) 2))))
      :asset-econ (if (pos? (get-in w [:eval :asset-econ] 0.0)) (asset-econ corp-installed) 0.0)
      ;; tagged Runner with a small grip against a deck that kills (credits-equivalent of ~0.1 win per 1.0 probability)
      :kill-threat (if (pos? (get-in w [:eval :kill-threat] 0.0)) (* 100.0 (kill-threat s)) 0.0)
