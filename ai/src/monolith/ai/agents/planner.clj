@@ -113,7 +113,7 @@
 
 (defn plan
   "Beam search from the current (determinized) sim state. Returns {:line [actions] :score x :apps n}."
-  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs rerank-turns branch-prompts leaf-fn]}]
+  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs rerank-turns branch-prompts leaf-fn rerank-samples]}]
   (let [root (sim/snapshot sm)
         score (fn [status] (let [s (sim/snapshot sm)
                                  base (+ (if leaf-fn (leaf-fn s side) (ev/for-side s side weights)) (if value-fn (value-fn sm s) 0.0))]
@@ -129,9 +129,13 @@
               top (take (or rerank 0) (sort-by (comp - :score) all))
               all (if (seq top)
                     (concat (for [c top]
-                              (do (sim/restore! sm (:snap c))
-                                  ;; rerank scores dominate their beam scores
-                                  (assoc c :score (+ 10000.0 (rollout-score sm side weights decks rng (* 400 (or rerank-turns 1)) (or rerank-turns 1) leaf-fn)))))
+                              ;; rerank scores dominate their beam scores; :rerank-samples averages
+                              ;; several rollouts per line (each from the line's end state)
+                              (let [n (max 1 (or rerank-samples 1))
+                                    xs (for [_ (range n)]
+                                         (do (sim/restore! sm (:snap c))
+                                             (rollout-score sm side weights decks rng (* 400 (or rerank-turns 1)) (or rerank-turns 1) leaf-fn)))]
+                                (assoc c :score (+ 10000.0 (/ (reduce + 0.0 xs) n)))))
                             all)
                     all)]
           (assoc (if (seq all) (apply max-key :score all) {:line [] :score 0.0})
@@ -191,7 +195,7 @@
      :apps (reduce + (map :apps results))
      :best-k best-k}))
 
-(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs rerank-turns branch-prompts leaf-fn]
+(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs rerank-turns branch-prompts leaf-fn rerank-samples]
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
@@ -220,7 +224,7 @@
                               (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))]
                                 (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
                                                     :max-apps max-apps :deadline deadline :rerank rerank :sim-runs sim-runs :rerank-turns rerank-turns
-                                                    :branch-prompts branch-prompts :leaf-fn leaf-fn
+                                                    :branch-prompts branch-prompts :leaf-fn leaf-fn :rerank-samples rerank-samples
                                                     :filter-acts (when filter-acts (partial filter-acts decks))
                                                     :value-fn (when value-fn (partial value-fn decks))})
                                      (finally (sim/end! sm)))))
@@ -244,7 +248,7 @@
 (defn make
   ([] (make {}))
   ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight sim-runs rerank-turns branch-prompts
-             vmodel vweight vblend]
+             vmodel vweight vblend rerank-samples]
       :or {beam 6 max-apps 2500 budget-factor 16 rerank 0 value-weight 20.0 vweight 15.0 vblend 0.0}}]
    (let [vf (when value-net
               (let [n ((requiring-resolve 'monolith.ai.knowledge.valuenet/net) value-net)
@@ -261,4 +265,4 @@
                         (ev/for-side s sd w)
                         (+ (* vweight (lg m s) (if (= sd :corp) 1.0 -1.0))
                            (if (pos? vblend) (* vblend (ev/for-side s sd w)) 0.0))))))]
-       (->Planner side w beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs rerank-turns branch-prompts leaf)))))
+       (->Planner side w beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs rerank-turns branch-prompts leaf rerank-samples)))))
