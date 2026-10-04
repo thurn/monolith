@@ -7,6 +7,16 @@
 - **Running:** `scripts/ai-queue research/rounds/R4/queue.txt` keeps 2 `ai-job`s busy from frozen worktrees in `/home/dthurn/monolith-frozen/`. Now: B2 (`cb-pb`), C (`cbv15`). Queued: P (Corp-proxy single factors), D1, E, D2, F (single factors; see LOG.md).
 - **Next 3:** (1) assemble a release candidate from the single-factor winners (rerank stays; rerank-anchor, scorable, kill-threat, asset-econ, hq-flood, value model pending); (2) dev review 3 to check the T3 rating; (3) held-out confirmation per the pre-registered protocol (LOG.md 09:15).
 
+## R4 tooling (how experiments run now)
+
+- **Experiments:** `monolith.ai.evalset/run-many` runs many `{:agent :tag :seeds :matchups :sides :games-log :null?}` experiments in one thread pool (seed-major, no idle tail); write the job as a `.clj` file (see `rounds/R4/job-I.clj`, `job-RC-template.clj`) and launch it with `scripts/ai-job <log> '(load-file "<abs path>")'`.
+- **Frozen code per experiment:** `git worktree add /home/dthurn/monolith-frozen/<name> HEAD`, then symlink `vendor/` and `sidecar/resources/{raw_data.edn,en.ftl}` into it, and launch with that worktree's `scripts/ai-job`. Later code changes cannot confound the experiment's shared baseline. Before launching, compile in a fresh JVM (`cd ai && ../scripts/lein trampoline run -m clojure.main -e "(do (require 'monolith.ai.agents.champion) (System/exit 0))"`).
+- **Analysis:** `research/summary.py <games.jsonl> <baseline-tag>` (all tags vs baseline: rates, discordant pairs, McNemar p per side, side-ratings); `research/cmp.py` (one comparison, bootstrap CIs); `research/permatchup.py`; T3 proxies with `(monolith.ai.blunders/summarize path #{tags})` in the REPL. Draw conclusions only from complete 300-seed runs.
+- **Matchup sets** (`monolith.ai.sweep`): `dev-mix` (40 dev matchups), `corp-proxy` (8 dev matchups with NEH/asset Corps like the held-out ones), `holdout-mix` (6; confirmation only).
+- **T3:** puzzles in `monolith.ai.puzzles` (`suite` 14 Stage A, `dev-suite` 7, `holdout-suite` 13; `check` validates by scripts); blind review: `gamelog/review-set` + `research/review-rubric.md` + one fresh Opus reviewer subagent; held-out confirmation: `monolith.ai.confirm/run`.
+- **Value model:** `vfeat` (features) → `vdata` (positions, also from replayed game logs) → `ai/py/monolith_ai/vtrain.py` → `vmodel` (planner `:vmodel` option). So far neutral as a correction term.
+- `scripts/ai-queue <file>` keeps 2 jobs busy from a queue file (lines `ROOT=<worktree> <log>|<expr>`); restart it after editing the script (a running copy keeps the old code).
+
 ## Earlier handoff (paused 2026-10-03, mid-R2/R3)
 
 Plan: [docs/ai-research-plan.md](../docs/ai-research-plan.md). Lab notebook: [LOG.md](LOG.md). Round reports: [R0](rounds/R0/report.md), [O1](rounds/O1/report.md), [R1](rounds/R1/report.md), [O2](rounds/O2/report.md), [R2 draft](rounds/R2/report.md).
