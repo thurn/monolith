@@ -234,3 +234,12 @@ Held-out matchups: `sweep/holdout-mix` (Worlds 2023 a/b = Stage C, 2024 a/b, 202
 - Dev puzzles: champion defaults 18/21; champion + rerank-anchor + scorable-agendas 21/21; `:s1ref` 14/21.
 - **Reviewer noise:** a second fresh Opus reviewer scored the same 20 review-3 logs. Per-log ratings identical in 15/20, ±1 otherwise; means candidate 2.70 vs 2.90, `:s1ref` 1.50 vs 1.80; serious blunders noisier (candidate 1.10 vs 0.70). So one reviewer's mean rating is good to ~±0.2; game sampling (10 candidate games) is the larger noise. The serious-blunder bar (≤1.0) sits inside the reviewer noise for our current agent.
 - New S1 option `:unclog` (at max hand size, install an asset into a new remote instead of clicking for credit and discarding): from a proxy trace where three Commercial Bankers Groups clogged HQ all game while the Corp clicked for credits at 30–50.
+
+### 2026-10-04 14:50 — dev review 4; three run-model bugs behind "running into known ice"
+
+- **Dev review 4** (champion + rerank-anchor, code to 13:00, matchups weighted to the Corp-proxy decks, seeds 200300–200319): candidate **2.90** (Corp **3.4**, Runner 2.4), blunders **0.40**, wasted 11.9; `:s1ref` 1.90. The Corp clears the rating bar on held-out-like decks; the Runner is the weak side here.
+- Runner complaints: ran into a known IP Block "for 30+ turns"; bumped into a rezzed Eli 1.0 turn after turn with Corroder and credits; ran into a known Anansi; hoarded credits. Causes found:
+  1. IP Block's "End the run if the Runner is tagged" parsed as nothing; now `:etr-if-tagged` (fires if a tag sub fired earlier in the encounter or the Runner is already tagged).
+  2. Anansi's "if the Runner did not fully break it, do 3 net damage" ignored; ice models now carry `:unbroken-damage`.
+  3. Eli: the run was started on the breach value *with* R&D Interface's extra access (6.6) but the encounter decision valued the breach without it (3.3), so paying 4 to break looked bad and the Runner let it fire, every turn. Mid-run encounter and jack-out decisions now use the same extra accesses. Same seed: bounces off Eli 18 → 2 (initial facechecks), Runner wins on turn ~12.
+  Also: a planner run line no longer gets its click refunded when the run calculator gives it no chance of success.
