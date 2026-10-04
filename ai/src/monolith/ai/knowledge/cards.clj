@@ -98,8 +98,7 @@
                                   second parse-long))]
     (case k
       :self 1
-      ;; the engine offers no auto-pump-and-break for grip-paid breakers (Faust), our only way to break
-      :grip 0
+      :grip (or (:monolith-grip card) 0)
       :virus (or (get-in card [:counter :virus]) (when-not (:cid card) (placed "virus")) 0)
       :power (or (get-in card [:counter :power]) (when-not (:cid card) (placed "power")) 0)
       nil)))
