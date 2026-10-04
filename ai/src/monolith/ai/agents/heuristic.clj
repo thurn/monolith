@@ -622,6 +622,15 @@
              (let [cs (remove #(re-find #"(?i)cancel" (:label %)) (acts env :choice))]
                (when (seq cs) (apply max-key #(server-run-utility env (srv/server-key (:label %)) {}) cs)))))
 
+       ;; heap breakers (Paperclip, Black Orchestra): only if install + breaking this ice is affordable
+       (re-find #"(?i)^Install (.+) from the heap\?" msg)
+       (let [t (second (re-find #"(?i)^Install (.+) from the heap\?" msg))
+             [_ ices] (current-position-ices obs)
+             ice (last ices)
+             m (cards/breaker-model {:title t} (inc (count (srv/icebreakers obs))))
+             bc (when (and m ice (not (:hidden ice))) (cards/break-cost m (cards/ice-model ice)))]
+         (choice env (if (and bc (<= (+ (cards/play-cost t) bc) (credits env))) #"(?i)^Yes" #"(?i)^No")))
+
        (re-find #"(?i)Jack out\?" msg)
        (choice env (if (<= (count (get-in obs [:runner :hand])) 2) #"^Yes" #"^No"))
 
