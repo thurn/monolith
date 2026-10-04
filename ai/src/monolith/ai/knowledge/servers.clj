@@ -220,6 +220,7 @@
     :toll (approach-toll obs k)
     :mode (or mode :expected)
     :replacement (:replacement opts)
+    :tagged (+ (get-in obs [:runner :tag :base] 0) (get-in obs [:runner :tag :additional] 0))
     :w-damage (:w-damage opts 2.0)}))
 
 (defn corp-server-safety
@@ -236,6 +237,7 @@
     :pool {}
     :value value
     :toll (approach-toll obs k)
+    :tagged (+ (get-in obs [:runner :tag :base] 0) (get-in obs [:runner :tag :additional] 0))
     :mode :expected}))
 
 (alter-var-root #'trap-damage memoize)

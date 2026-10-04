@@ -478,8 +478,15 @@
      :w-damage (w env :w-damage)
      :hand (count (get-in (:obs env) [:runner :hand]))}))
 
+(declare server-run-eval)
+
 (defn server-run-utility
   "Expected utility of running server k now, with optional event modifiers."
+  [env k opts]
+  (- (:u (server-run-eval env k opts)) (w env :click-value)))
+
+(defn server-run-eval
+  "Run-calculator result (:u, :p success probability, :how) for running server k now."
   [env k {:keys [credits-bonus rez-bonus extra-access mode hand-delta replacement-value] :or {credits-bonus 0 rez-bonus 0 extra-access 0 hand-delta 0}}]
   (let [obs (:obs env)
         opts (update (run-opts env) :hand + hand-delta)
@@ -489,7 +496,7 @@
         value (cond failed 0.0 replacement-value replacement-value :else (srv/content-value obs k opts))
         ev (srv/runner-run-eval obs k (assoc opts :value value :credits-bonus credits-bonus :rez-bonus rez-bonus :mode mode
                                              :replacement (some? replacement-value)))]
-    (- (:u ev) (w env :click-value))))
+    ev))
 
 (defn runnable [env]
   (for [a (acts env :run)] [(srv/server-key (get-in a [:args :server])) a]))
@@ -641,12 +648,18 @@
         pos (:position run 0)]
     [k (subvec (vec ices) 0 (min pos (count ices)))]))
 
+(defn- breach-opts
+  "Run options for valuing the breach of k mid-run, including installed extra accesses
+  (R&D Interface): the same value the run was started on."
+  [env k]
+  (assoc (run-opts env) :extra-access (srv/extra-accesses (:obs env) k)))
+
 (defn runner-encounter [env]
   (let [obs (:obs env)
         run (:run obs)
         [k ices] (current-position-ices obs)
-        value (srv/content-value obs k (run-opts env))
-        ev (srv/runner-run-eval (assoc-in obs [:corp :servers k :ices] ices) k (assoc (run-opts env) :value value))
+        value (srv/content-value obs k (breach-opts env k))
+        ev (srv/runner-run-eval (assoc-in obs [:corp :servers k :ices] ices) k (assoc (breach-opts env k) :value value))
         how (:how ev)
         breaks (acts env :break)]
     (cond
@@ -662,8 +675,8 @@
     (or
      (when (and (= :movement (:phase run)) (act env :jack-out))
        (let [[k ices] (current-position-ices obs)
-             value (srv/content-value obs k (run-opts env))
-             ev (srv/runner-run-eval (assoc-in obs [:corp :servers k :ices] ices) k (assoc (run-opts env) :value value))]
+             value (srv/content-value obs k (breach-opts env k))
+             ev (srv/runner-run-eval (assoc-in obs [:corp :servers k :ices] ices) k (assoc (breach-opts env k) :value value))]
          (when (neg? (:u ev)) (act env :jack-out))))
      (act env :continue))))
 

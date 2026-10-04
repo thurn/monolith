@@ -23,8 +23,11 @@
                   (:lose-credits sub) (update :credits #(max 0 (- % (:lose-credits sub))))
                   (:tag sub) (update :tags (fnil inc 0))
                   (:etr sub) (assoc :ended true)
+                  (and (:etr-if-tagged sub) (pos? (+ (or (:tags st) 0) (or (:tagged st) 0)))) (assoc :ended true)
                   (and (:etr-if-credits<= sub) (<= (:credits st) (:etr-if-credits<= sub))) (assoc :ended true))))
-          st (remove :broken (:subs ice))))
+          ;; encounter-end damage when not fully broken (Anansi)
+          (if-let [d (:unbroken-damage ice)] (update st :damage + d) st)
+          (remove :broken (:subs ice))))
 
 (defn- terminal [{:keys [credits damage ended tags no-access]} {:keys [credits0 hand value w-damage w-tag replacement]} success?]
   (let [spent (- credits0 credits)]
@@ -105,7 +108,7 @@
   (let [entries (mapv #(ice-entry % remote?) (reverse ices))
         ctx (merge {:w-damage 2.0 :w-tag 1.0 :mode :expected :value 0.0} opts
                    {:ices entries :credits0 credits})
-        st {:credits credits :damage 0 :corp-credits (:corp-credits opts 0)}]
+        st {:credits credits :damage 0 :corp-credits (:corp-credits opts 0) :tagged (:tagged opts 0)}]
     (walk ctx 0 st)))
 
 (defn run-utility

@@ -23,6 +23,7 @@
         n (fn [re] (some-> (re-find re l) second parse-long))]
     (cond-> {}
       (re-find #"end the run if the runner has (\d+)" l) (assoc :etr-if-credits<= (n #"has (\d+)"))
+      (re-find #"end the run if the runner is tagged" l) (assoc :etr-if-tagged true)
       (and (re-find #"end the run" l) (not (re-find #"end the run if" l))) (assoc :etr true)
       (re-find #"(\d+) net damage" l) (assoc :net (n #"(\d+) net damage"))
       (re-find #"(\d+) meat damage" l) (assoc :meat (n #"(\d+) meat damage"))
@@ -53,6 +54,12 @@
                             (and (:net m) (conditional-etr? (:title card))) (assoc :etr true))))
                 subs)))))
 
+(defn unbroken-damage
+  "Net damage an ice does when its encounter ends without it being fully broken (Anansi), from text."
+  [title]
+  (some-> (re-find #"(?i)if the runner did not fully break it, do (\d+) net damage" (str (:text (printed title))))
+          second parse-long))
+
 (defn ice-model
   "Run-calculator view of a known ice."
   [card]
@@ -61,6 +68,7 @@
      :strength (or (:current-strength card) (:strength card) (:strength p) 0)
      :subtypes (set (or (:subtypes card) (:subtypes p)))
      :subs (ice-subs card)
+     :unbroken-damage (unbroken-damage (:title card))
      :rez-cost (or (:cost p) 0)
      :rezzed (boolean (:rezzed card))}))
 
@@ -75,6 +83,7 @@
      :strength (+ (or (:strength p) 0) bonus)
      :subtypes (set (:subtypes p))
      :subs (ice-subs title)
+     :unbroken-damage (unbroken-damage title)
      :rez-cost (or (:cost p) 0)}))
 
 ;;; Breakers

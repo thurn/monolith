@@ -33,8 +33,12 @@
   (let [o (sim/obs sm :runner)
         k (first (get-in o [:run :server]))]
     (if k
-      (let [env (assoc env-base :obs o :side :runner)]
-        (+ (s1/server-run-utility env k {}) (:click-value (:weights env-base))))
+      (let [env (assoc env-base :obs o :side :runner)
+            ev (s1/server-run-eval env k {})
+            cv (:click-value (:weights env-base))]
+        ;; the line already paid the run's click; refund it only if the run can get in (a run the
+        ;; calculator says cannot succeed is a wasted click, e.g. bouncing off known ice again)
+        (if (< (or (:p ev) 0.0) 0.05) (- (:u ev) cv) (:u ev)))
       0.0)))
 
 (defn- advance!
