@@ -13,7 +13,7 @@
    [clojure.java.io :as io]
    [monolith.ai.harness :as h]))
 
-(def ks [:rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls])
+(def ks [:rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls :tagged-ends])
 
 (defn- agenda-count [s zone]
   (count (filter #(= "Agenda" (:type %)) (get-in s [:corp zone]))))
@@ -40,6 +40,10 @@
                             (when (empty? (filter #{:install :play :run :advance :score :draw :rez :click-ability
                                                     :trash-resource :purge :remove-tag} @turn-acts))
                               (bump! (:active-player p) :idle-turns 1))
+                            ;; Runner ending its turn tagged with a grip of 4 or fewer (kill-deck exposure)
+                            (when (and (= :runner (:active-player p)) (pos? (get-in s [:runner :tag :base] 0))
+                                       (<= (count (get-in s [:runner :hand])) 4))
+                              (bump! :runner :tagged-ends 1))
                             (reset! turn-acts #{})
                             (reset! failed #{}))
                           (when (= sd (:active-player s)) (swap! turn-acts conj (:type a)))
