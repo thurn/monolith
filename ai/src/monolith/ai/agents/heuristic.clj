@@ -201,17 +201,23 @@
 (defn c-econ-asset-ability [env]
   (when (< (credits env) 15) (best-econ-ability env)))
 
+(defn econ-asset?
+  "Assets that pay out credits: loaded on rez (Adonis) or gained each turn (PAD Campaign)."
+  [title]
+  (or (cards/load-credits title)
+      (re-find #"(?i)when your turn begins, gain \d+\[credit\]" (str (:text (cards/printed title))))))
+
 (defn c-install-econ-asset
   [env]
   (let [obs (:obs env)
         n-remotes (count (srv/remotes obs))]
     (when (< n-remotes (w env :max-remotes))
       (act-where env #(and (= :install (:type %)) (= "New remote" (get-in % [:args :server]))
-                           (= "Asset" (ptype (card-title %))) (cards/load-credits (card-title %)))))))
+                           (= "Asset" (ptype (card-title %))) (econ-asset? (card-title %)))))))
 
 (defn c-rez-econ
   [env]
-  (act-where env #(and (= :rez (:type %)) (cards/load-credits (card-title %))
+  (act-where env #(and (= :rez (:type %)) (econ-asset? (card-title %))
                        (>= (credits env) (+ (cards/play-cost (card-title %)) 0)))))
 
 (defn c-install-ambush
