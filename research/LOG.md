@@ -84,3 +84,9 @@ Append-only lab notebook for the Netrunner AI project ([plan](../docs/ai-researc
 ## 2026-10-03 — Paused for handoff
 
 - Stopped mid-A/B (planner vs 3-determinization voting; planner vs champion) to free the machine. All jobs killed; `scripts/ci` passes. State and next steps: `research/HANDOFF.md`.
+
+## 2026-10-03 — New machine (Windows 11, WSL2 Ubuntu 24.04, i7-12700F)
+
+- The O1 equivalence baseline no longer replays on `master`: R1's move-gen fixes (score at 0 clicks, auto-resolve toggles) changed the legal action lists, so recorded indices go out of range. Against the pre-R1 harness (`509b387`) all 500 games are per-action identical to the Mac recording, so the engine reproduces across machines.
+- Final-state hashes were JVM-dependent (84, then 95 of 500 differing on two runs of the same code; never within one JVM). Cause: `resolve-trash-prevention` took its `set/difference` branch for every multi-card trash (a lazy `keep` result is always truthy), and a set of cards iterates in identity-hash order because cards hold fns. Net damage and similar multi-trashes put cards in the heap in a per-JVM order. This was O1's "heap ordering" note. Fork fix `5ce8aa5`: filter `targets` in order (upstream suite: 3,747 tests, 0 failures). Re-recorded baseline on `master` + fixed fork: 0/500 diverged in two fresh-JVM checks.
+- Throughput here (Stage A random self-play, warm): 633 µs/action single thread (Mac: 265); 23.5 / 35.8 / 41.2 / 42.9 / 42.7 games/s at 4 / 8 / 12 / 16 / 20 threads. Use 12–16 threads.

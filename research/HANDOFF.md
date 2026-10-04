@@ -32,10 +32,10 @@ git clone -b master git@github.com:thurn/netrunner.git vendor/netrunner
 git -C vendor/netrunner branch -m master monolith
 git -C vendor/netrunner branch upstream 25c256a3131e146198b444cd2ff9a1f02ea7cc1a
 ```
-*Check:* `git -C vendor/netrunner log --oneline -5 monolith` shows `cf45e8b perf: eager flatten…` at the top and `25c256a Merge pull request #8748` below the four fork commits.
+*Check:* `git -C vendor/netrunner log --oneline -6 monolith` shows `5ce8aa5 fix: keep target order when resolving trash prevention` at the top and `25c256a Merge pull request #8748` below the five fork commits.
 
 **4. Unpack the local files.** From the repo root, `unzip <path>/monolith-local-files.zip`. If the user didn't say where the zip is, look in `/mnt/c/Users/*/Downloads/`. It holds:
-- `research/equiv/baseline-500.edn`: the engine-equivalence baseline;
+- `research/equiv/baseline-500.edn`: the engine-equivalence baseline from O1. It predates R1's move-gen changes (score at 0 clicks, auto-resolve toggles), so it no longer replays on `master`; step 6 re-records it;
 - `research/rounds/R1/s4-data/`: S4 imitation data;
 - `claude-memory/`: two Claude memory files (the user prefers sequential work, no parallel subagent fan-out; same rule as plan §10). Move them into this project's Claude memory directory, `~/.claude/projects/<repo path with every / replaced by ->/memory/`, then delete `claude-memory/` from the repo root.
 
@@ -50,15 +50,17 @@ scripts/setup                  # downloads card data, builds the i18n file, keep
 
 **6. Verify the engine and agents.** Both commands start a fresh JVM (first run downloads dependencies).
 ```bash
+scripts/engine-equiv record 500   # replaces the zip's stale baseline (see step 4)
 scripts/engine-equiv
 scripts/ai-tourney '{:mode :match :agents [:heuristic :random] :seeds 50 :threads 4}'
 ```
 *Expect:*
-- `engine-equiv` prints `{:games 500, :diverged 23, …}`, and every listed divergence has `:step :final`. Those 23 are documented in `rounds/O1/report.md`. Any divergence at a numbered step means the fork is wrong; recheck step 3.
+- `engine-equiv` prints `{:games 500, :diverged 0, …}`. The check runs in a fresh JVM, so this confirms seeded games reproduce across JVMs; step 3's commit check confirms the fork itself. (The O1 notes' "heap ordering" final-state diffs were JVM-dependent discard order, fixed in the fork; see `LOG.md`.)
 - In the tourney, `heuristic` wins ≥97% in both seats, with 0 stalls.
 
 **7. Machine adjustments.**
 - Commands in this file use 16 threads; replace with `nproc` (or one less).
+- WSL2 gets half the host RAM by default, but `ai/project.clj` runs the JVM with `-Xmx24g`. Raise it in `%UserProfile%\.wslconfig` (`[wsl2]` / `memory=28GB` on a 32 GB host), then `wsl --shutdown`. *Check:* `free -g` in WSL.
 - `scripts/ci` needs Godot (it smoke-tests the Godot client). On this machine run only its non-Godot parts: `scripts/build-dist` must succeed. The AI work never needs Godot.
 - Background jobs: `scripts/ai-job <log> '<clj expr>'` runs an expression in a detached JVM from `ai/`, so give it absolute paths (use `$PWD` from the repo root). Tournaments: `scripts/ai-tourney '<edn>'` (paths relative to the repo root). Interactive dev: `scripts/ai-repl &`, then `scripts/ai-eval '<clj>'`.
 - Results aren't comparable with the Mac's for time-budgeted agents (S2). S3/champion are capped by engine applications, so their results are deterministic and comparable.

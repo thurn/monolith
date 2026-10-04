@@ -24,6 +24,8 @@ if [ ! -f vendor/raw_data.edn ]; then
 fi
 
 # The engine needs an i18n dictionary for log messages; bundle English only.
+# sidecar/resources holds only gitignored files, so a fresh clone lacks it.
+mkdir -p sidecar/resources
 find vendor/netrunner/resources/public/i18n/en -name '*.ftl' | sort | xargs cat > sidecar/resources/en.ftl
 cp vendor/raw_data.edn sidecar/resources/raw_data.edn
 echo "setup complete"
