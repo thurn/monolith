@@ -86,9 +86,14 @@
                 (srv/corp-server-safety* obs k value 4 (srv/runner-pool-from-state obs) (count (get-in obs [:runner :hand])))
                 (srv/corp-server-safety obs k value 4)))
         u (if hidden? (- u 1.5) u)
-        safe (if (<= u 0.0) 0.9 (/ 0.9 (+ 1.0 (/ u 4.0))))]
+        safe (if (<= u 0.0) 0.9 (/ 0.9 (+ 1.0 (/ u 4.0))))
+        ;; a score that reaches 7 wins the game, a steal that reaches 7 loses it: worth far more
+        ;; than the points (otherwise a Corp on 6 sits on agendas forever)
+        win srv/winning-steal-value
+        score-v (if (>= (+ (get-in obs [:corp :agenda-point] 0) ap) 7) win (* ap ap-value))
+        steal-v (if (>= (+ (get-in obs [:runner :agenda-point] 0) ap) 7) win (* ap ap-value))]
     ;; worth its points if it survives, minus the clicks+credits still needed, minus the steal risk
-    (- (* safe ap ap-value) (* 2.0 remaining) (* (- 1.0 safe) ap ap-value))))
+    (- (* safe score-v) (* 2.0 remaining) (* (- 1.0 safe) steal-v))))
 
 (defn- remaining-adv [c]
   (let [req (or (:current-advancement-requirement c) (:advancementcost (cards/printed (:title c))) 5)]
