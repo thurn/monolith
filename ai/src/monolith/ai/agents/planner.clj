@@ -36,9 +36,10 @@
       (let [env (assoc env-base :obs o :side :runner)
             ev (s1/server-run-eval env k {})
             cv (:click-value (:weights env-base))]
-        ;; the line already paid the run's click; refund it only if the run can get in (a run the
-        ;; calculator says cannot succeed is a wasted click, e.g. bouncing off known ice again)
-        (if (< (or (:p ev) 0.0) 0.05) (- (:u ev) cv) (:u ev)))
+        ;; the line already paid the run's click; refund it only if the run is worth something (a
+        ;; run that cannot succeed, e.g. bouncing off known ice, or gains nothing, e.g. an empty
+        ;; Archives, is a wasted click)
+        (if (or (< (or (:p ev) 0.0) 0.05) (<= (:u ev) 0.0)) (- (:u ev) cv) (:u ev)))
       0.0)))
 
 (defn- advance!
