@@ -13,7 +13,7 @@
    [clojure.java.io :as io]
    [monolith.ai.harness :as h]))
 
-(def ks [:rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns])
+(def ks [:rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls])
 
 (defn- agenda-count [s zone]
   (count (filter #(= "Agenda" (:type %)) (get-in s [:corp zone]))))
@@ -28,6 +28,7 @@
         m (atom {:corp zero :runner zero})
         turn-acts (atom #{})
         failed (atom #{})
+        installed (atom {:corp #{} :runner #{}})
         prev (atom nil)
         bump! (fn [sd k n] (swap! m update-in [sd k] + n))
         res (binding [h/*on-step*
@@ -42,6 +43,12 @@
                             (reset! turn-acts #{})
                             (reset! failed #{}))
                           (when (= sd (:active-player s)) (swap! turn-acts conj (:type a)))
+                          ;; installing a card title this side already installed earlier (Eater bounced
+                          ;; by Archangel every turn, heap breakers re-bought): only Runner permanents
+                          (when (and (= :install (:type a)) (= sd :runner))
+                            (let [t (get-in a [:args :card :title])]
+                              (when (contains? (get @installed sd) t) (bump! sd :reinstalls 1))
+                              (swap! installed update sd conj t)))
                           (when (and p (= :credit (:type a)) (>= (or (get-in p [sd :credit]) 0) 15)) (bump! sd :rich-credit-clicks 1))
                           (when (and (= :run (:type a)) (@failed (get-in a [:args :server]))) (bump! :runner :repeat-failed-runs 1))
                           (when (and p (= :prompt (:kind d)) (re-find #"(?i)^discard down" (str (some-> (get-in p [sd :prompt]) first :msg))))
