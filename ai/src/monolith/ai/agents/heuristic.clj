@@ -244,8 +244,10 @@
              a))))
 
 (defn c-draw [env]
-  (let [n (count (get-in (:obs env) [:corp :hand]))]
-    (when (or (< n 4) (and (>= (credits env) 10) (< n 6))) (act env :draw))))
+  ;; never draw past the maximum hand size (the extra card is discarded at end of turn)
+  (let [n (count (get-in (:obs env) [:corp :hand]))
+        mx (or (get-in (:obs env) [:corp :hand-size :total]) 5)]
+    (when (and (< n mx) (or (< n 4) (>= (credits env) 10))) (act env :draw))))
 
 (defn c-credit [env] (act env :credit))
 
