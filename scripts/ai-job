@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Runs a Clojure expression in a fresh ai/ JVM, detached (survives the calling shell).
+# Usage: scripts/ai-job <logfile> '<clojure expr>'
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+LOG="$(cd "$(dirname "$1")" && pwd)/$(basename "$1")"
+cd "$ROOT/ai"
+nohup ../scripts/lein trampoline run -m clojure.main -e "(do $2 (shutdown-agents) (System/exit 0))" > "$LOG" 2>&1 &
+echo $!
