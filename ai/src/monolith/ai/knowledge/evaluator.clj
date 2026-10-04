@@ -166,7 +166,10 @@
     {:agenda-points (* ap-value (- (get-in s [:corp :agenda-point] 0) (get-in s [:runner :agenda-point] 0)))
      :credits (- (capped-credits (get-in s [:corp :credit]) (:credit-knee2 w)) (capped-credits (get-in s [:runner :credit]) (:credit-knee2 w)))
      :hosted-credits (- (hosted-credits (filter :rezzed corp-installed)) (hosted-credits runner-installed))
-     :hands (- (corp-hand-value (count corp-hand) (:corp-hand-curve w)) (* 0.8 (min 6 (count (get-in s [:runner :hand])))))
+     ;; capped at the maximum hand sizes: lines are scored before the end-of-turn discard, so
+     ;; cards beyond the limit would be counted and then thrown away (draw-into-discard)
+     :hands (- (corp-hand-value (min (count corp-hand) (or (get-in s [:corp :hand-size :total]) 5)) (:corp-hand-curve w))
+               (* 0.8 (min (count (get-in s [:runner :hand])) (or (get-in s [:runner :hand-size :total]) 5))))
      ;; agendas are the Corp's finite route to 7 points: in HQ they are future points at some
      ;; steal risk; in Archives they are lost to the Corp and free for the Runner
      ;; liability scales with how exposed HQ is: unprotected HQ loses agendas fast
