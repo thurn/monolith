@@ -1,4 +1,13 @@
-# Handoff: Netrunner AI research (paused 2026-10-03, mid-R2/R3)
+# Handoff: Netrunner AI research
+
+## Status 2026-10-04 06:35 (R4, autonomous phase)
+
+- **Best agent:** `:champion` (R3 config). New generic fixes since (breaker models for heap/X-credit breakers, steal costs, R&D known-top, Clone Chip no-op) plus opt-in evaluator options are being A/B'd on the dev mix (`rounds/R4/eval-dev.jsonl`, tags `champion`, `champ-b`, `v2nr`, `v4`, `v5`, `v6`; see LOG.md).
+- **Ladder:** T0/T1 met. T2 on the dev mix (partial, 149 seeds): champion g_c +1.55, g_r +1.04 over `:s1ref` (bar +0.85) — likely met off Stage A; Stage A itself still short (+0.2/+0.1 in R2). Held-out baseline running. T3: 20 dev + 13 held-out puzzles written and script-validated; champion+options solves 20/20 dev; blind-review generator ready, not yet run.
+- **Running:** `job-eval-champion` (dev baseline), `job-holdout-base` (held-out baseline, champion vs `:s1ref`).
+- **Next 3:** (1) variant ladder A/B on the dev mix; (2) dev-deck trial of the blind review to find human-likeness failures; (3) held-out confirmation runs for T2, then held-out puzzles and blind review for T3.
+
+## Earlier handoff (paused 2026-10-03, mid-R2/R3)
 
 Plan: [docs/ai-research-plan.md](../docs/ai-research-plan.md). Lab notebook: [LOG.md](LOG.md). Round reports: [R0](rounds/R0/report.md), [O1](rounds/O1/report.md), [R1](rounds/R1/report.md), [O2](rounds/O2/report.md), [R2 draft](rounds/R2/report.md).
 
