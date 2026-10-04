@@ -39,8 +39,8 @@
   "Blind-review material (pre-registered T3 rule, research/LOG.md 2026-10-03). Plays n games of
   candidate vs ref over matchups; game i reviews one side: candidate's in even i, ref's in odd i,
   with the reviewed side alternating Corp/Runner so each agent is reviewed equally often on each
-  side. Writes <dir>/log-XX.txt (shuffled by a fixed seed, no agent names) and <dir>/key.edn
-  (the sealed mapping; do not show it to the reviewer). Returns the key."
+  side. Writes <dir>/log-XX.txt (shuffled by a fixed seed, no agent names) and
+  beside it as <dir>-key.edn (the sealed mapping; never in the reviewer's directory). Returns the key."
   [{:keys [candidate ref matchups seeds dir shuffle-seed threads] :or {ref :s1ref shuffle-seed 20261004 threads 3}}]
   (let [games (for [[i s] (map-indexed vector seeds)
                     :let [m (nth matchups (mod i (count matchups)))
@@ -67,5 +67,5 @@
                                   "Winner: " (some-> (:winner result) name) " (" (:reason result) "), turn " (:turn result) "\n\n"
                                   log "\n"))
                        (merge (dissoc g :corp :runner) {:file f :winner (:winner result) :turn (:turn result)}))))]
-    (spit (str dir "/key.edn") (pr-str key))
+    (spit (str dir "-key.edn") (pr-str key))
     key))
