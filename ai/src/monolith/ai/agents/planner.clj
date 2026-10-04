@@ -92,8 +92,9 @@
   "Plays the line's end state forward with S1 for both sides, then evaluates. turns 1: until
   `side`'s next turn begins (one opponent turn of foresight); turns 2: also through `side`'s
   next turn, until the opponent's following turn begins. Capped at max-steps actions."
-  [sm side weights decks rng max-steps turns]
+  [sm side weights decks rng max-steps turns leaf-fn]
   (let [s0 (sim/snapshot sm)
+        evalf (or leaf-fn (fn [s sd] (ev/for-side s sd weights)))
         stop-at (if (= 2 turns) 3 2)]
     (loop [i 0 prev (:active-player s0) changes 0]
       (let [s (sim/snapshot sm)
@@ -102,10 +103,10 @@
             changes (if (not= active prev) (inc changes) changes)]
         (if (or (nil? d) (moves/game-over? s) (>= i max-steps)
                 (and (>= changes stop-at) (= :turn (:kind d))))
-          (ev/for-side s side weights)
+          (evalf s side)
           (let [acts (sim/legal sm d)]
             (if (or (empty? acts) (not (sim/apply! sm (if (= 1 (count acts)) (first acts) (s1-choose sm d acts weights decks rng)))))
-              (ev/for-side s side weights)
+              (evalf s side)
               (recur (inc i) active changes))))))))
 
 (def ^:dynamic *debug* nil)
@@ -130,7 +131,7 @@
                     (concat (for [c top]
                               (do (sim/restore! sm (:snap c))
                                   ;; rerank scores dominate their beam scores
-                                  (assoc c :score (+ 10000.0 (rollout-score sm side weights decks rng (* 400 (or rerank-turns 1)) (or rerank-turns 1))))))
+                                  (assoc c :score (+ 10000.0 (rollout-score sm side weights decks rng (* 400 (or rerank-turns 1)) (or rerank-turns 1) leaf-fn)))))
                             all)
                     all)]
           (assoc (if (seq all) (apply max-key :score all) {:line [] :score 0.0})
