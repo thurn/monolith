@@ -26,7 +26,9 @@
                       tr (some-> (agents (:side d)) :inner :trace deref)]
                   (when (not= @last-turn [(:turn s) (:active-player s)])
                     (vreset! last-turn [(:turn s) (:active-player s)])
-                    (println (str "\n== turn " (:turn s) " " (name (:active-player s)) " :: " (board s))))
+                    (println (str "\n== turn " (:turn s) " " (name (:active-player s)) " :: " (board s)))
+                    (println (str "   HQ: " (str/join ", " (map :title (get-in s [:corp :hand])))
+                                  " | grip: " (str/join ", " (map :title (get-in s [:runner :hand]))))))
                   (when-not (quiet-kinds (:kind d))
                     (println (format "  %-6s %-10s %-22s %s" (name (:side d)) (name (:kind d)) (str tr) (:label a))))
                   (when log-lines

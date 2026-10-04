@@ -112,10 +112,10 @@
 
 (defn plan
   "Beam search from the current (determinized) sim state. Returns {:line [actions] :score x :apps n}."
-  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs rerank-turns branch-prompts]}]
+  [sm side {:keys [weights decks rng beam max-apps deadline filter-acts value-fn rerank sim-runs rerank-turns branch-prompts leaf-fn]}]
   (let [root (sim/snapshot sm)
         score (fn [status] (let [s (sim/snapshot sm)
-                                 base (+ (ev/for-side s side weights) (if value-fn (value-fn sm s) 0.0))]
+                                 base (+ (if leaf-fn (leaf-fn s side) (ev/for-side s side weights)) (if value-fn (value-fn sm s) 0.0))]
                              (if (= status :run)
                                (+ base (run-utility sm {:weights weights :decks decks :rng rng}))
                                base)))
@@ -190,7 +190,7 @@
      :apps (reduce + (map :apps results))
      :best-k best-k}))
 
-(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs rerank-turns branch-prompts]
+(defrecord Planner [side weights beam max-apps budget-factor plan-state filter-acts value-fn rerank s1-margin dets sim-runs rerank-turns branch-prompts leaf-fn]
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
@@ -219,7 +219,7 @@
                               (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))]
                                 (try (plan sm side {:weights weights :decks decks :rng rng :beam beam
                                                     :max-apps max-apps :deadline deadline :rerank rerank :sim-runs sim-runs :rerank-turns rerank-turns
-                                                    :branch-prompts branch-prompts
+                                                    :branch-prompts branch-prompts :leaf-fn leaf-fn
                                                     :filter-acts (when filter-acts (partial filter-acts decks))
                                                     :value-fn (when value-fn (partial value-fn decks))})
                                      (finally (sim/end! sm)))))
@@ -242,10 +242,22 @@
 
 (defn make
   ([] (make {}))
-  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight sim-runs rerank-turns branch-prompts]
-      :or {beam 6 max-apps 2500 budget-factor 16 rerank 0 value-weight 20.0}}]
+  ([{:keys [side weights beam max-apps budget-factor rerank s1-margin dets value-net value-weight sim-runs rerank-turns branch-prompts
+             vmodel vweight vblend]
+      :or {beam 6 max-apps 2500 budget-factor 16 rerank 0 value-weight 20.0 vweight 15.0 vblend 0.0}}]
    (let [vf (when value-net
               (let [n ((requiring-resolve 'monolith.ai.knowledge.valuenet/net) value-net)
                     cv (requiring-resolve 'monolith.ai.knowledge.valuenet/corp-value)]
                 (fn [decks _sm s] (* value-weight (if (= side :runner) -1.0 1.0) (cv n s (:corp decks))))))]
-     (->Planner side (merge s1/default-weights weights) beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs rerank-turns branch-prompts))))
+     ;; :vmodel (path): leaf score = vweight x learned Corp-win logit (side-signed), plus vblend x
+     ;; the linear evaluator; terminal states keep +-win-value
+     (let [w (merge s1/default-weights weights)
+           leaf (when vmodel
+                  (let [m ((requiring-resolve 'monolith.ai.knowledge.vmodel/load-model) vmodel)
+                        lg (requiring-resolve 'monolith.ai.knowledge.vmodel/logit)]
+                    (fn [s sd]
+                      (if (:winner s)
+                        (ev/for-side s sd w)
+                        (+ (* vweight (lg m s) (if (= sd :corp) 1.0 -1.0))
+                           (if (pos? vblend) (* vblend (ev/for-side s sd w)) 0.0))))))]
+       (->Planner side w beam max-apps budget-factor (atom {}) nil vf rerank s1-margin dets sim-runs rerank-turns branch-prompts leaf)))))
