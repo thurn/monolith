@@ -1,11 +1,11 @@
 # Handoff: Netrunner AI research
 
-## Status 2026-10-04 11:15 (R4, autonomous phase)
+## Status 2026-10-04 16:10 (R4, autonomous phase)
 
-- **Best agent:** `:champion` defaults on current code (R3 config + generic fixes listed in LOG.md R4 entries). Dev mix, `cb2` (code of 08:40): Corp 0.86, Runner 0.65 vs `:s1ref`; g_c +1.18 [+0.80, +1.75], g_r +1.72 [+1.44, +2.11]; 0 stalls / 600. Current S1 alone: g_c +0.28, g_r +0.52.
-- **Ladder:** T0/T1 met. T2 dev: met on point estimates. T2 held-out (R3 champion, before R4 fixes): Corp ≈ +0.13 (fails), Runner ≈ +1.17. Dev Corp-proxy decks (NEH/asset, like the held-out Corps): our Corp = `:s1ref`'s Corp (0.81 vs 0.81); about half of those losses were self-deck-outs, fixed since. T3: dev puzzles 0.90 (0.95–1.00 with rerank-anchor/scorable options); dev blind review 2: rating 3.0 (bar 3.5), blunders 0.5 (bar ≤1.0), above `:s1ref` (1.8).
-- **Running:** `scripts/ai-queue research/rounds/R4/queue.txt` keeps 2 `ai-job`s busy from frozen worktrees in `/home/dthurn/monolith-frozen/`. Now: B2 (`cb-pb`), C (`cbv15`). Queued: P (Corp-proxy single factors), D1, E, D2, F (single factors; see LOG.md).
-- **Next 3:** (1) assemble a release candidate from the single-factor winners (rerank stays; rerank-anchor, scorable, kill-threat, asset-econ, hq-flood, value model pending); (2) dev review 3 to check the T3 rating; (3) held-out confirmation per the pre-registered protocol (LOG.md 09:15).
+- **Best agent:** `:champion` on current code (many generic fixes since morning; see LOG.md). Likely release options: `:rerank-anchor true` (+ maybe `:s1-strong-margin 8`, `:scorable-agendas 2.5`), pending job I. Dev puzzles 21/21 with those options.
+- **Ladder:** T0 met (0 stalls/600 on recent code). T2 dev mix (cb2, 08:40 code): g_c +1.18, g_r +1.72 vs `:s1ref` (bar +0.85). T2 held-out: only the R3-champion run so far (Corp ≈ +0.13 fail, Runner ≈ +1.17); dev Corp-proxy decks showed Corp = `:s1ref` before the deck-out and winning-score fixes. T3 dev blind reviews: 2.0 → 3.0 → 2.7 → 2.9 (bar 3.5; Corp 3.4 in review 4), blunders 0.4–1.1 (bar ≤1.0), always above `:s1ref` (1.5–1.9).
+- **Running:** job I (`rounds/R4/job-I.clj`, frozen `/home/dthurn/monolith-frozen/i`): 13 single factors on the dev mix + 6 on Corp proxies, ~21:20 done.
+- **Next 3:** (1) pick options from I; build the release candidate on current code; (2) job J: RC vs new base on dev, Corp proxies, strong-margin/dig/unclog/central-threat single factors, and the pre-registered held-out T2 run; (3) held-out puzzles and held-out blind review for the RC (`monolith.ai.confirm`).
 
 ## R4 tooling (how experiments run now)
 
