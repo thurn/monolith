@@ -249,3 +249,29 @@ Held-out matchups: `sweep/holdout-mix` (Worlds 2023 a/b = Stage C, 2024 a/b, 202
 - **Dev review 5** (champion + rerank-anchor + s1-strong-margin 8 + scorable-agendas, code to 16:40, mixed dev/proxy matchups, seeds 200400–200419): candidate **3.00** (Corp 3.0, Runner 3.0), blunders 0.50, wasted clicks **6.0** (lowest yet); `:s1ref` 1.10. Rating series 2.0 → 3.0 → 2.7 → 2.9 → 3.0; the bar is 3.5.
 - Caveat: review games 2–5 were generated in the long-lived dev REPL, which never reloaded `harness`, so they ran without the Runner access memory (the "known Urtica re-run" complaints in reviews 3–5 come from that; a fresh-JVM check confirms the card is tagged known). From now on review games are generated in fresh JVMs via `ai-job`.
 - Remaining candidate complaints (review 5): Corp leaves R&D unprotected under repeated runs while rich (rated 1), sits on credits without advancing (3s); Runner builds economy passively, clears tags at the cost of its economy, re-runs (stale-REPL) known traps.
+
+### 2026-10-04 20:45 — job I results; release candidate RC1; job J
+
+Job I (frozen `i`, 299/300 seeds, all vs baseline `i0` on the same seeds; dev mix both sides, Corp proxies Corp side). Discordant pairs (+variant wins / −baseline wins), McNemar p:
+
+| factor | Corp | Runner | proxies (Corp) |
+|---|---|---|---|
+| kill-threat | +6/−5 | **+13/−1 (p=0.002)** | |
+| S1 corp-safety-extra 3 | +4/−3 | **+18/−6 (p=0.02)** | +5/−6 |
+| rerank 6 | +28/−17 (0.14) | +41/−31 | |
+| rerank-anchor | +25/−16 (0.21) | +43/−37 | +25/−17 |
+| rerank-turns 2 | +20/−22 | +43/−26 (0.05) | |
+| S1 react-centrals | +6/−4 | +29/−17 (0.10) | |
+| credit knee 12 | +18/−15 | +32/−20 (0.13) | |
+| scorable-agendas | +19/−13 | +3/−1 | +17/−11 |
+| asset-econ | +14/−7 (0.19) | +6/−5 | +17/−18 |
+| hq-flood | +9/−6 | +12/−6 | **+22/−8 (p=0.016)** |
+| empty-remote-ice | +11/−9 | +5/−1 | |
+| S1 ice-per-central 1 | +4/−2 | +3/−3 | |
+| vm3 value model (w15) | +31/−43 | +54/−36 (0.07) | **+24/−51 (p=0.002)** |
+
+No factor is significantly harmful except the value model for the Corp. Several Runner gains come from options that only change S1's *Corp* behaviour (safety-extra, react-centrals): they act through the S1 opponent model in the Runner's rollouts. Proxy Corp baseline `p0` 0.849 vs null (g_c +0.15) — up from 0.81 before the deck-out fix, still far from the bar.
+
+**RC1** = champion + `{:rerank-anchor true :rerank 6 :s1-strong-margin 8 :w {:credit-knee2 12 :corp-safety-extra 3 :react-centrals true} :eval {:kill-threat 1 :hq-flood 1 :scorable-agendas 2.5 :asset-econ 1}}` on code `b809ef2` (all fixes to 18:20). Dev puzzles 21/21. Rejected: value model (Corp harm), rerank-turns 2 (Corp neutral, double rollout cost), empty-remote-ice and ice-per-central 1 (neutral).
+
+**Job J** (frozen `j`, 19 threads, `rounds/R4/job-J.clj`): RC1's pre-registered held-out T2 run (seeds 900000–900299 + null); dev mix `j0` (base) vs `j-rc1`, ablations `j-rc1-nosm` (no strong margin), `j-rc1-vmR` (Runner-only value model), `j-rc1-dig` (dig-ice); Corp proxies `pj0`, `pj-rc1`, `pj-rc1-nosm`, `pj-rc1-dig`.
