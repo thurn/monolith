@@ -551,7 +551,8 @@
                 extra (if (re-find #"(?i)access 1 additional card" txt) 1 0)
                 draw (if (re-find #"(?i)draw 1 card" txt) 0.5 0)
                 ;; core damage after the run (Stimhack) permanently costs a card and hand size
-                core (* 4.0 (or (some-> (re-find #"(?i)suffer (\d+) core damage" txt) second parse-long) 0))
+                core-n (or (some-> (re-find #"(?i)suffer (\d+) core damage" txt) second parse-long) 0)
+                core (* 4.0 core-n)
                 ;; Account Siphon: "instead of breaching, ... lose up to N, you gain M for each credit lost and take T tags"
                 siphon (when-let [[_ n m] (re-find #"(?i)instead of breaching .*lose up to (\d+)\[credit\], then you gain (\d+)\[credit\] for each credit lost" txt)]
                          (let [lost (min (parse-long n) (get-in obs [:corp :credit] 0))
@@ -559,7 +560,7 @@
                            (- (+ (* (parse-long m) lost) lost) (* 2.5 tags))))]
           k servers
           :when (or (not hq-rd-only) (#{:hq :rd} k))]
-      [(+ draw (- core) (server-run-utility env k (cond-> {:credits-bonus (- bonus-cr cost) :rez-bonus rez-bonus :extra-access extra :hand-delta -1}
+      [(+ draw (- core) (server-run-utility env k (cond-> {:credits-bonus (- bonus-cr cost) :rez-bonus rez-bonus :extra-access extra :hand-delta (- -1 core-n)}
                                             siphon (assoc :replacement-value siphon)))) a k])))
 
 (defn ability-run-options
@@ -827,7 +828,10 @@
              breach (choice env #"(?i)^Breach ")
              repl-value (fn [a] (let [t (str/replace (str (:label a)) #"\s*\[[^\]]*\]$" "")
                                       c (some #(when (= t (:title %)) %) (srv/runner-installed obs))]
-                                  (cond (= "Event" (ptype t)) 100.0
+                                  ;; money replacements (Account Siphon) beat a breach; deck
+                                  ;; manipulation (Indexing) does not, without a follow-up plan
+                                  (cond (and (= "Event" (ptype t)) (re-find #"(?i)gain" (card-text t))) 100.0
+                                        (= "Event" (ptype t)) 0.0
                                         c (double (get-in c [:counter :credit] 0))
                                         :else 1.0)))
              best (when (seq (acts env :choice))
