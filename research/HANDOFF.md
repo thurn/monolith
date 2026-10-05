@@ -1,5 +1,12 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-05 13:20 (R4, autonomous phase)
+
+- **Best agent (behaviour):** RC3 = `[:champion {:rerank-anchor true :rerank 6 :s1-strong-margin 8 :w {:credit-knee2 12 :corp-safety-extra 3 :react-centrals true :dig-ice true :empty-remote-ice true :dig-breakers true :rich-credit 20 :prune-runs true :w-program 6 :remote-ice-prior 1 :hq-memory true :no-naked-agendas true} :eval {:kill-threat 1 :hq-flood 1 :scorable-agendas 2.5 :asset-econ 1}}]` (`job-K3.clj`). Win rate vs `:s1ref` on the dev mix ≈ RC1's (all new parts neutral at 300 seeds); dev blind reviews: 2.90 / 2.90 / 3.20 / 3.20 (reviews 6–9).
+- **Ladder:** T2 met on held-out decks (RC1, 02:05). T3 puzzles met (RC1). T3 blind review not met (RC1 held-out 2.80; bar 3.5). Gate before spending the next held-out review: a dev review ≥ 3.3.
+- **Running:** job R (RC3 vs rich-credit 15), then job S (`job-S-template.clj`: dev review 10 with RC4 = RC3 + review-9 fixes, and a bigger-search A/B).
+- **Next 3:** (1) dev review 10 → if ≥ 3.3, RC4 held-out confirmation (copy `job-K3.clj`); (2) keep fixing review findings via exact replays (`review-*-key.edn` carry action logs; see the scratch `rundiag.clj` pattern in LOG 07:30); (3) if reviews plateau near 3.2, test bigger search / two-turn rollouts for review quality.
+
 ## Status 2026-10-05 02:20 (R4, autonomous phase)
 
 - **Best agent: RC1** = `[:champion {:rerank-anchor true :rerank 6 :s1-strong-margin 8 :w {:credit-knee2 12 :corp-safety-extra 3 :react-centrals true} :eval {:kill-threat 1 :hq-flood 1 :scorable-agendas 2.5 :asset-econ 1}}]` on code `b809ef2`.
