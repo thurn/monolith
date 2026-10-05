@@ -360,3 +360,9 @@ No factor is significantly harmful except the value model for the Corp. Several 
 
 - **Job Q** (300 paired seeds, dev mix, frozen `q`): base (RC2 + prune + w-program) Corp 0.913 / Runner 0.713. RC3 Corp +14/−17 (p=0.72), Runner **+26/−18 (p=0.29)**, Runner 0.740; vs RC3: without hq-memory Corp +4/−5, Runner +16/−20; without no-naked-agendas Corp +14/−15, Runner +5/−5. All neutral on win rate; RC3's behavioural parts stay (dev review 9: 3.20, Runner 3.4).
 - The machine sat idle 11:30–12:50 (usage-limit pause). Job R (frozen `r`): RC3 vs RC3 with rich-credit 15 (review 9: Corp credit clicks at 13–17 credits).
+
+### 2026-10-05 13:45 — Job R; review-9 fixes; job S
+
+- **Job R** (300 paired seeds, dev mix, frozen `r`): RC3 Corp 0.906 / Runner 0.740; rich-credit 15 instead of 20 Corp +11/−8, Runner +10/−7 (p≈0.64). Neutral-positive → RC4 uses 15.
+- Review-9 fixes via exact replays (`f085d5c`, `391bbb1`): (1) repeated R&D runs to the same top card happened after an HQ steal because the register's `:stole-agenda` is turn-wide; with access memory (`:hq-memory`) the accessed R&D card is now remembered (observe shows it, sim keeps it, pools exclude it) and R&D is valued by its known top card — on the replay the repeat runs drop to value 0, so prune-runs removes them; (2) Patron: its replacement is mandatory, and the Runner targeted R&D/Server 1 and then ran them; it now targets Archives when Archives is worth ≤ 1, else no server; (3) Archangel's paid forced encounter only against a non-empty rig; (4) never forfeit Posted Bounty for a tag; (5) Blue Sun never bounces ice guarding agendas or centrals.
+- **Job S** (frozen `s`): dev review 10 with RC4 (RC3 + rich-credit 15 on the fixed code), then RC4 vs RC4 with a bigger search (max-apps 6000, beam 8).
