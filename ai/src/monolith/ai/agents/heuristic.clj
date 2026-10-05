@@ -615,7 +615,9 @@
   the Runner has resources to lose (clear if it keeps at least 3 credits)."
   [env]
   (let [obs (:obs env)
-        kill-deck (some #(meat-damage %) (keys (corp-decklist env)))
+        kill-deck (some #(or (meat-damage %)
+                             (re-find #"(?i)damage (?:for each|per) tag|tagged[^.]*damage" (str (:text (cards/printed %)))))
+                        (keys (corp-decklist env)))
         resources (seq (get-in obs [:runner :rig :resource]))]
     (when (and (runner-tagged? obs) (act env :remove-tag)
                (or kill-deck
