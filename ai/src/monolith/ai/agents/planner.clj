@@ -87,6 +87,21 @@
              (and (= "rez" (:command a)) title (srv/trap-damage title 0))
              (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))))))
 
+(defn- naked-agenda-install?
+  "With :no-naked-agendas: installing an agenda into a server with no ice that cannot be scored
+  this turn (the S1 Runner model almost never checks naked remotes, so rollouts reward this
+  exploit; humans punish it — dev review 8)."
+  [s a]
+  (let [title (get-in a [:args :card :title])]
+    (boolean
+     (when (and (= "play" (:command a)) title (= "Agenda" (cards/ctype title)))
+       (let [server (get-in a [:args :server])
+             k (when (and server (not= server "New remote")) (srv/server-key server))
+             ice (if k (count (get-in s [:corp :servers k :ices])) 0)
+             req (or (:advancementcost (cards/printed title)) 5)
+             clicks (dec (or (get-in s [:corp :click]) 0))]
+         (and (zero? ice) (not (and (<= req clicks) (<= req (or (get-in s [:corp :credit]) 0))))))))))
+
 (defn- remove-pointless-runs
   "With :prune-runs, drops plain runs S1's run calculator sees as pointless: nothing to gain on
   success, or certain failure at known ice (dev review 7: a rich Runner ran an empty Archives
@@ -178,6 +193,9 @@
                            acts (when (and d (= side (:side d)) (or (= :turn (:kind d)) (and branch-prompts (= :prompt (:kind d)))))
                                   (sim/legal sm d))
                            acts (filter #(sensible? snap %) acts)
+                           acts (if (and (:no-naked-agendas weights) (= side :corp))
+                                  (remove #(naked-agenda-install? snap %) acts)
+                                  acts)
                            acts (if (and (:prune-runs weights) (= side :runner) (some #(= :run (:type %)) acts))
                                   (remove-pointless-runs snap acts weights decks)
                                   acts)
