@@ -611,13 +611,15 @@
       (act env :draw))))
 
 (defn r-remove-tag
-  "Clear tags while the Corp could punish them (its decklist trashes resources or does meat damage)."
+  "Clear tags while the Corp could punish them: its decklist does meat damage (always clear), or
+  the Runner has resources to lose (clear if it keeps at least 3 credits)."
   [env]
-  (let [obs (:obs env)]
+  (let [obs (:obs env)
+        kill-deck (some #(meat-damage %) (keys (corp-decklist env)))
+        resources (seq (get-in obs [:runner :rig :resource]))]
     (when (and (runner-tagged? obs) (act env :remove-tag)
-               (or (seq (filter #(:rezzed %) (srv/all-corp-installed obs)))
-                   (some #(meat-damage %) (keys (corp-decklist env)))
-                   true))
+               (or kill-deck
+                   (and resources (>= (credits env) 5))))
       (act env :remove-tag))))
 
 (defn r-install-generic
