@@ -317,3 +317,5 @@ No factor is significantly harmful except the value model for the Corp. Several 
 
 - At 196 paired seeds: `:rd-agendas` Corp **+3/−16 (p=0.004)**, with rich-credit +3/−17 (p=0.003); Runner unchanged. `:rich-credit 20` alone Corp +4/−2, Runner +6/−4 (neutral-positive). Likely mechanism for the harm: an R&D steal now also removes the R&D agenda cost, so the Corp's evaluator counts R&D steals ~40% cheaper and defends R&D less. Not pursuing it further now.
 - Per the pre-stated rule RC2 = RC2 base + `:rich-credit 20` (no rd-agendas). Job O (T3 proxies on N's games, dev review 7 with this RC2, Runner remote-ice-prior A/B) starts when N finishes.
+- **Job N final** (300 paired seeds, dev mix, frozen `n`): RC2 base Corp 0.927 / Runner 0.713 (g +2.11/+2.13). rd-agendas **+7/−25 (p=0.002)** Corp, +30/−30 Runner; both +6/−27 (p<0.001), +36/−33; rich-credit **+8/−3 (p=0.23)**, +9/−7. Corp proxies (Corp side): base 278/300, both 280/300. Rule applied: RC2 = base + rich-credit 20. rd-agendas stays off.
+- Job O launched (frozen `o` = `d21f911`).
