@@ -1,2 +1,3 @@
 Compiling 1 source files to /home/dthurn/monolith-frozen/q/ai/target/classes
 20
+{[q-rc3-nohq runner true] 218, [q-rc3 runner false] 78, [q-base runner true] 214, [q-base corp false] 26, [q-rc3-nohq runner false] 82, [q-rc3 runner true] 222, [q-rc3 corp true] 271, [q-rc3-nohq corp false] 30, [null corp false] 83, [q-base corp true] 274, [q-rc3-naked corp true] 270, [null corp true] 217, [q-rc3-naked runner true] 222, [q-base runner false] 86, [q-rc3-naked runner false] 78, [q-rc3-naked corp false] 30, [q-rc3 corp false] 29, [q-rc3-nohq corp true] 270}
