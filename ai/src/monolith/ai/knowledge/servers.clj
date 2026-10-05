@@ -179,8 +179,17 @@
       :rd (let [reg (get-in obs [:runner :register])
                 top-known (and (some #{:rd} (:successful-run reg)) (not (:stole-agenda reg)) (zero? extra-access))]
             (if top-known 0.0 (* ap-value dens (+ 1 extra-access) (if (seq (get-in obs [:corp :deck])) 1.0 0.0))))
-      :hq (let [n (count (get-in obs [:corp :hand]))]
-            (if (zero? n) 0.0 (* ap-value dens (min n (+ 1 extra-access)))))
+      ;; HQ cards the Runner accessed earlier are visible (harness :hq-memory): they count at
+      ;; their own value, the rest at the unseen density (accesses are random across HQ)
+      :hq (let [hand (get-in obs [:corp :hand])
+                n (count hand)
+                known (remove :hidden hand)
+                per-card (if (zero? n) 0.0
+                             (/ (+ (* ap-value dens (- n (count known)))
+                                   (reduce + 0.0 (for [c known :when (= "Agenda" (cards/ctype (:title c)))]
+                                                   (agenda-access-value (:title c) ap-value (get-in obs [:runner :credit])))))
+                                n))]
+            (* per-card (min n (+ 1 extra-access))))
       :archives (+ (* ap-value (reduce + 0 (map (comp ap :title) (remove :hidden (get-in obs [:corp :discard])))))
                    (* 0.3 ap-value dens (count (filter :hidden (get-in obs [:corp :discard])))))
       ;; remote

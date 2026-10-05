@@ -36,7 +36,7 @@
   (let [s (apply dissoc s drop-keys)]
     (if (= side :runner)
       (-> s
-          (update-in [:corp :hand] #(mapv stub %))
+          (update-in [:corp :hand] #(mapv (fn [c] (if (:monolith-known c) c (stub c))) %))
           (update-in [:corp :deck] #(mapv stub %))
           (update-in [:runner :deck] #(mapv stub %))
           (update-in [:corp :discard] #(mapv (fn [c] (if (or (:seen c) (faceup? c) (:monolith-known c)) c (stub c))) %))

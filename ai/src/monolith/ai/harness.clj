@@ -16,6 +16,9 @@
   (keys (engine/decklist (if (= side :corp) (:runner-deck g) (:corp-deck g)))))
 
 (def ^:dynamic *on-step* nil)
+(def ^:dynamic *hq-memory*
+  "When true the Runner remembers accessed HQ cards (observe shows them while they stay in HQ)."
+  false)
 
 (defn- remember-access!
   "The engine forgets that the Runner saw an accessed installed card (it stays facedown and
@@ -23,6 +26,9 @@
   [state]
   (let [p (moves/current-prompt @state :runner)
         c (:card p)]
+    ;; HQ cards the Runner accessed are known to it while they stay in HQ (with :hq-memory)
+    (when (and c *hq-memory* (= :hand (first (:zone c))) (re-find #"^You accessed" (str (:msg p))))
+      (swap! state update-in [:corp :hand] (fn [cs] (mapv #(if (= (:cid %) (:cid c)) (assoc % :monolith-known true) %) cs))))
     ;; facedown Archives cards the Runner accessed stay facedown in the engine but are known
     (when (and c (= :discard (first (:zone c))) (re-find #"^You accessed" (str (:msg p))))
       (swap! state update-in [:corp :discard] (fn [cs] (mapv #(if (= (:cid %) (:cid c)) (assoc % :monolith-known true) %) cs))))

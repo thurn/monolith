@@ -97,12 +97,12 @@
                             s slots)
                   ;; facedown archives
                   s (reduce (fn [s [i c]]
-                              (if (or (:seen c) (empty? pl)) s
+                              (if (or (:seen c) (:monolith-known c) (empty? pl)) s
                                   (put s [:corp :discard i] c (.remove pl (int 0)))))
                             s (map-indexed vector (get-in s [:corp :discard])))
                   ;; HQ then R&D get the rest in random order
                   s (reduce (fn [s [i c]]
-                              (if (empty? pl) s (put s [:corp :hand i] c (.remove pl (int 0)))))
+                              (if (or (:monolith-known c) (empty? pl)) s (put s [:corp :hand i] c (.remove pl (int 0)))))
                             s (map-indexed vector (get-in s [:corp :hand])))
                   s (reduce (fn [s [i c]]
                               (if (empty? pl) s (put s [:corp :deck i] c (.remove pl (int 0)))))

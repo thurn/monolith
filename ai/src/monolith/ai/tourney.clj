@@ -80,10 +80,13 @@
         [(- c w) (+ c w)])))
 
 (defn play-one [{:keys [corp runner seed corp-deck runner-deck budget-ms max-actions meta]}]
-  (let [r (try
-            (h/play-game {:seed seed :corp-deck corp-deck :runner-deck runner-deck :budget-ms budget-ms
+  (let [;; a Runner spec with [:w :hq-memory] remembers accessed HQ cards (harness-level memory)
+        hq-mem (boolean (and (vector? runner) (get-in (second runner) [:w :hq-memory])))
+        r (try
+            (binding [h/*hq-memory* hq-mem]
+             (h/play-game {:seed seed :corp-deck corp-deck :runner-deck runner-deck :budget-ms budget-ms
                           :max-actions (or max-actions 6000)
-                          :agents {:corp (make-agent corp :corp) :runner (make-agent runner :runner)}})
+                          :agents {:corp (make-agent corp :corp) :runner (make-agent runner :runner)}}))
             (catch Throwable t
               {:seed seed :stall {:cause :harness-exception :error (str t)
                                   :trace (mapv str (take 12 (.getStackTrace t)))}}))]
