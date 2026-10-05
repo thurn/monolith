@@ -1,11 +1,11 @@
 # Handoff: Netrunner AI research
 
-## Status 2026-10-04 16:10 (R4, autonomous phase)
+## Status 2026-10-05 02:20 (R4, autonomous phase)
 
-- **Best agent:** `:champion` on current code (many generic fixes since morning; see LOG.md). Likely release options: `:rerank-anchor true` (+ maybe `:s1-strong-margin 8`, `:scorable-agendas 2.5`), pending job I. Dev puzzles 21/21 with those options.
-- **Ladder:** T0 met (0 stalls/600 on recent code). T2 dev mix (cb2, 08:40 code): g_c +1.18, g_r +1.72 vs `:s1ref` (bar +0.85). T2 held-out: only the R3-champion run so far (Corp ≈ +0.13 fail, Runner ≈ +1.17); dev Corp-proxy decks showed Corp = `:s1ref` before the deck-out and winning-score fixes. T3 dev blind reviews: 2.0 → 3.0 → 2.7 → 2.9 (bar 3.5; Corp 3.4 in review 4), blunders 0.4–1.1 (bar ≤1.0), always above `:s1ref` (1.5–1.9).
-- **Running:** job I (`rounds/R4/job-I.clj`, frozen `/home/dthurn/monolith-frozen/i`): 13 single factors on the dev mix + 6 on Corp proxies, ~21:20 done.
-- **Next 3:** (1) pick options from I; build the release candidate on current code; (2) job J: RC vs new base on dev, Corp proxies, strong-margin/dig/unclog/central-threat single factors, and the pre-registered held-out T2 run; (3) held-out puzzles and held-out blind review for the RC (`monolith.ai.confirm`).
+- **Best agent: RC1** = `[:champion {:rerank-anchor true :rerank 6 :s1-strong-margin 8 :w {:credit-knee2 12 :corp-safety-extra 3 :react-centrals true} :eval {:kill-threat 1 :hq-flood 1 :scorable-agendas 2.5 :asset-econ 1}}]` on code `b809ef2`.
+- **Ladder (pre-registered protocol, LOG.md 2026-10-04 09:15):** T0/T1 met. **T2 met on held-out decks** (RC1: g_c +1.07 [+0.74, +1.46], g_r +1.52 [+1.15, +1.87]; bar +0.85 point estimate). Dev mix: g_c +1.87, g_r +1.91. **T3 puzzles met** (dev 21/21, held-out 11/13 vs `:s1ref` 9/13). **T3 blind review not met**: rating 2.80 (bar 3.5; Corp 3.4, Runner 2.2), blunders 0.5 (≤1.0 ok), above `:s1ref` 1.4 (ok).
+- **Running:** job L (Runner-side tests on big-ice dev Corps), job M (dev mix: RC1 on current code vs + dig-breakers / + grip-breakers). Both ~04:45.
+- **Next 3:** (1) RC2 = RC1 + dig-ice + empty-remote-ice + Runner fixes since 18:20 (+ dig-breakers if L/M agree); (2) RC2's pre-registered held-out runs (`job-K2-template.clj`: T2, puzzles, review set + one fresh Opus reviewer); (3) if the Runner rating is still short, more dev Runner diagnostics (review-runner style) on big-ice decks.
 
 ## R4 tooling (how experiments run now)
 
