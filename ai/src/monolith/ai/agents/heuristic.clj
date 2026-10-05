@@ -569,6 +569,30 @@
           (let [best (apply max-key score cands)]
             (when (<= (+ (cards/play-cost (card-title best)) 0) (credits env)) best)))))))
 
+(defn r-dig-breakers
+  "With :dig-breakers: when rezzed Corp ice has types the rig cannot break and the grip holds no
+  breaker for them, dig (a draw event if affordable, else a basic draw) while the stack has cards."
+  [env]
+  (when (w env :dig-breakers)
+    (let [obs (:obs env)
+          rezzed-types (set (for [[_ srv] (srv/servers obs) c (:ices srv)
+                                  :when (:rezzed c)
+                                  st (:subtypes (cards/printed (:title c)))
+                                  :when (#{"Barrier" "Code Gate" "Sentry"} st)]
+                              st))
+          missing (remove #(have-breaker-for obs %) rezzed-types)
+          grip-types (set (for [c (get-in obs [:runner :hand]) :when (cards/icebreaker? (:title c))
+                                t (cards/breaker-types (:title c))]
+                            t))
+          need (remove grip-types missing)
+          hand (count (get-in obs [:runner :hand]))
+          mx (or (get-in obs [:runner :hand-size :total]) 5)]
+      (when (and (seq need) (seq (get-in obs [:runner :deck])) (< hand mx))
+        (or (act-where env #(and (= :play (:type %))
+                                 (re-find #"(?i)draw \d+ cards" (str (:text (cards/printed (card-title %)))))
+                                 (<= (cards/play-cost (card-title %)) (credits env))))
+            (act env :draw))))))
+
 (defn r-econ [env]
   (let [obs (:obs env)
         cr (credits env)
@@ -636,6 +660,7 @@
    [:safety-draw r-safety-draw]
    [:econ-critical (fn [env] (when (< (credits env) (w env :runner-econ-floor)) (r-econ env)))]
    [:install-breaker r-install-breaker]
+   [:dig-breakers r-dig-breakers]
    [:run r-run]
    [:econ r-econ]
    [:install-other r-install-other]

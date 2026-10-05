@@ -234,7 +234,7 @@
                   ;; S1's safety rules (ice an open central, clear tags, keep cards, take a kill or a score)
                   ;; can demand a larger margin before the plan overrides them
                   margin (if (and s1-strong-margin (#{:protect-centrals :react-centrals :remove-tag :safety-draw :kill
-                                                       :score :advance-to-score :seamless} s1-rule))
+                                                       :score :advance-to-score :seamless :dig-breakers :dig-ice} s1-rule))
                            s1-strong-margin
                            s1-margin)
                   plan-once (fn []
