@@ -325,7 +325,7 @@ No factor is significantly harmful except the value model for the Corp. Several 
 - Per game, tested agent (n=300 per side), base → rich-credit: Corp rich credit clicks 2.70 → 1.06, idle turns 0.89 → 0.61, forced discards 3.04 → 2.63; Runner rich credit clicks 2.63 → 0.89, idle turns 1.44 → 1.32, repeat failed runs 0.08 → 0.33 (small new cost). rd-agendas raised forced discards (3.04 → 3.92) as well as losing games. Remaining rich clicks come from S1 rollouts/anchor when the hand is full.
 - Dev review 7 (seeds 200520–200539, RC2 = base + rich-credit, frozen `o`) generated; one fresh Opus reviewer scoring now. Gate for spending RC2's held-out shot: dev candidate rating ≥ 3.3.
 
-### 2026-10-05 08:30 — Dev review 7: Runner still the gap; replay diagnosis
+### 2026-10-05 07:30 — Dev review 7: Runner still the gap; replay diagnosis
 
 - Dev review 7 (RC2 = base + rich-credit, seeds 200520–200539, one fresh Opus reviewer): candidate **2.90** (Corp **3.4**, Runner **2.4**), blunders 0.80, wasted 11.1; `:s1ref` 1.80. Corp up from 2.8 (review 6), Runner down from 3.0 — within the noise of 5 games per side, but the gate (≥3.3) is not met, so RC2's held-out shot is not spent yet.
 - Candidate Runner errors: running into known rezzed ice it cannot break (Cobra 6×, losing five programs; Archer; Afshar), running an empty Archives four times a turn with 20+ credits, passive while a broke Corp scores. Corp: credit clicks with a full hand; R&D left bare early.
