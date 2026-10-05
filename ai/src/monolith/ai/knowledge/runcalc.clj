@@ -22,6 +22,7 @@
                   (:core sub) (update :damage + 1)
                   (:lose-credits sub) (update :credits #(max 0 (- % (:lose-credits sub))))
                   (:tag sub) (update :tags (fnil inc 0))
+                  (:trash-program sub) (update :trashed (fnil + 0) (:trash-program sub))
                   (:etr sub) (assoc :ended true)
                   (and (:etr-if-tagged sub) (pos? (+ (or (:tags st) 0) (or (:tagged st) 0)))) (assoc :ended true)
                   (and (:etr-if-adv sub) (>= (or (:advancements ice) 0) (:etr-if-adv sub))) (assoc :ended true)
@@ -30,11 +31,13 @@
           (if-let [d (:unbroken-damage ice)] (update st :damage + d) st)
           (remove :broken (:subs ice))))
 
-(defn- terminal [{:keys [credits damage ended tags no-access]} {:keys [credits0 hand value w-damage w-tag replacement]} success?]
-  (let [spent (- credits0 credits)]
+(defn- terminal [{:keys [credits damage ended tags no-access trashed]} {:keys [credits0 hand value w-damage w-tag w-program breakers replacement]} success?]
+  (let [spent (- credits0 credits)
+        ;; programs trashed by subroutines (Cobra, Archer): each costs its rebuild (credits + clicks)
+        lost (* w-program (min (or trashed 0) (count breakers)))]
     (if (> damage (dec (max 1 hand)))
-      (if (> damage hand) flatline-utility (- (* 3 w-damage damage)))
-      (- (if (and success? (or (not no-access) replacement)) value 0.0) spent (* w-damage damage) (* w-tag (or tags 0))))))
+      (if (> damage hand) flatline-utility (- (* 3 w-damage damage) lost))
+      (- (if (and success? (or (not no-access) replacement)) value 0.0) spent (* w-damage damage) (* w-tag (or tags 0)) lost))))
 
 (declare walk)
 
@@ -103,11 +106,11 @@
 (defn evaluate
   "opts: :ices (observed ice vector, innermost first, as in state), :remote?, :breakers (models),
   :credits, :hand, :corp-credits, :pool {title count}, :value (credits-equivalent of success),
-  :mode :expected|:worst, :rez-bonus, :toll, :w-damage, :w-tag.
+  :mode :expected|:worst, :rez-bonus, :toll, :w-damage, :w-tag, :w-program.
   Returns {:u utility :how first decision :success? ...}."
   [{:keys [ices remote? credits] :as opts}]
   (let [entries (mapv #(ice-entry % remote?) (reverse ices))
-        ctx (merge {:w-damage 2.0 :w-tag 1.0 :mode :expected :value 0.0} opts
+        ctx (merge {:w-damage 2.0 :w-tag 1.0 :w-program 0.0 :mode :expected :value 0.0} opts
                    {:ices entries :credits0 credits})
         st {:credits credits :damage 0 :corp-credits (:corp-credits opts 0) :tagged (:tagged opts 0)}]
     (walk ctx 0 st)))

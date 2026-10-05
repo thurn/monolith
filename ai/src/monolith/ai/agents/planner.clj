@@ -87,6 +87,21 @@
              (and (= "rez" (:command a)) title (srv/trap-damage title 0))
              (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))))))
 
+(defn- remove-pointless-runs
+  "With :prune-runs, drops plain runs S1's run calculator sees as pointless: nothing to gain on
+  success, or certain failure at known ice (dev review 7: a rich Runner ran an empty Archives
+  four times a turn once credit clicks were pruned; runs into a rezzed Archer)."
+  [s acts weights decks]
+  (let [o (observe/observe s :runner)
+        env {:obs o :weights weights :decks decks :side :runner}
+        pointless (memoize (fn [server]
+                             (let [k (srv/server-key server)
+                                   ev (try (s1/server-run-eval env k {}) (catch Throwable _ nil))
+                                   v (try (srv/content-value o k (s1/run-opts env)) (catch Throwable _ 1.0))]
+                               (boolean (or (some #{k} (get-in o [:runner :register :unsuccessful-run]))
+                                            (and ev (or (<= v 0.05) (<= (:p ev 1.0) 0.0))))))))]
+    (remove #(and (= :run (:type %)) (get-in % [:args :server]) (pointless (get-in % [:args :server]))) acts)))
+
 (defn- signature [s side]
   (hash [(get-in s [side :click]) (get-in s [:corp :credit]) (get-in s [:runner :credit])
          (sort (map :cid (get-in s [side :hand])))
@@ -163,6 +178,9 @@
                            acts (when (and d (= side (:side d)) (or (= :turn (:kind d)) (and branch-prompts (= :prompt (:kind d)))))
                                   (sim/legal sm d))
                            acts (filter #(sensible? snap %) acts)
+                           acts (if (and (:prune-runs weights) (= side :runner) (some #(= :run (:type %)) acts))
+                                  (remove-pointless-runs snap acts weights decks)
+                                  acts)
                            ;; :rich-credit: a rich side never clicks for a credit when it can do anything else
                            acts (let [t (:rich-credit weights)]
                                   (if (and t (>= (or (get-in snap [side :credit]) 0) t) (some #(not= :credit (:type %)) acts))

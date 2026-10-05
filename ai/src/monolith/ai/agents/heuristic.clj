@@ -510,7 +510,8 @@
      :ap-value (* urgency (or (w env :run-ap-value) (w env :ap-value)))
      :w-damage (w env :w-damage)
      :hand (count (get-in (:obs env) [:runner :hand]))
-     :remote-ice-prior (w env :remote-ice-prior)}))
+     :remote-ice-prior (w env :remote-ice-prior)
+     :w-program (w env :w-program)}))
 
 (declare server-run-eval)
 
