@@ -22,6 +22,11 @@
   lists only: a dev signal for Corp transfer (R4)."
   [:worlds-2018-a :worlds-2018-b :worlds-2020-b :worlds-2021-b :classique-2022-c :classique-2025-b :classique-2026-d :worlds-2016-a])
 
+(def runner-proxy
+  "Dev matchups whose Corps field big or advanceable ice (Weyland/Argus/Blue Sun/HB), a dev signal
+  for the Runner against held-out Corps of that kind (R4)."
+  [:worlds-2012-b :classique-2022-d :classique-2023-d :classique-2025-d :classique-2026-b :worlds-2013-a :worlds-2012-a :worlds-2022-b])
+
 (def holdout-mix [:worlds-2023-a :worlds-2023-b :worlds-2024-a :worlds-2024-b :worlds-2025-a :worlds-2025-b])
 
 (defn deck-keys [m] [(keyword (str (name m) "-corp")) (keyword (str (name m) "-runner"))])
