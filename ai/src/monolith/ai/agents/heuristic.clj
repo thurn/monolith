@@ -485,6 +485,17 @@
         src (str (:title (:card p)))
         obs (:obs env)]
     (or
+     ;; dev review 9: paid forced encounters against an empty rig, forfeiting points for one tag
+     (cond
+       (re-find #"(?i)^Pay (\d+) \[Credits\] to force Runner to encounter" msg)
+       (let [n (parse-long (second (re-find #"(?i)^Pay (\d+)" msg)))
+             rig (get-in obs [:runner :rig])
+             useful (and (seq (concat (:program rig) (:hardware rig) (:resource rig)))
+                         (>= (- (credits env) n) 3))]
+         (choice env (if useful #"(?i)^Yes" #"(?i)^No")))
+       (re-find #"(?i)^Forfeit this agenda" msg)
+       (choice env #"(?i)^No")
+       :else nil)
      (prompt-common env)
      (lethal-damage-choice env)
      (cond
@@ -788,6 +799,15 @@
        (let [tr (choice env #"(?i)to trash")
              cost (some-> (re-find #"Pay (\d+)" (str (:label tr))) second parse-long)]
          (if (and tr cost (trash-worth? env src cost)) tr (or (choice env #"(?i)^No action") (first (:actions env)))))
+
+       ;; servers whose first successful run is replaced by a mandatory effect (Patron: draw 2
+       ;; instead of breaching): target a server not worth breaching (Archives) or none — dev review 9
+       (and (re-find #"(?i)^Choose a server" msg)
+            (re-find #"(?i)instead of breaching" (card-text (str (get-in p [:card :title])))))
+       (let [arch (choice env #"^Archives$")
+             none (choice env #"(?i)^No server")
+             av (try (srv/content-value obs :archives (run-opts env)) (catch Throwable _ 0.0))]
+         (if (and arch (<= av 1.0)) arch (or none arch)))
 
        (re-find #"(?i)^Choose a server" msg)
        (let [target (:run-target @(:mem env))]

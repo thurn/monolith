@@ -41,7 +41,8 @@
                (mapcat :hosted (all-corp-installed obs))
                (get-in obs [:corp :discard]) (get-in obs [:corp :scored]) (get-in obs [:runner :scored])
                (get-in obs [:corp :current]) (get-in obs [:corp :rfg]) (get-in obs [:corp :play-area])
-               (remove :hidden (get-in obs [:corp :hand])))
+               (remove :hidden (get-in obs [:corp :hand]))
+               (remove :hidden (get-in obs [:corp :deck])))
        (filter #(and (:title %) (= "Corp" (:side %)) (not (:hidden %))))
        (map :title)))
 
@@ -176,9 +177,19 @@
     (case k
       ;; after a successful R&D run this turn that stole nothing, the top card is known and
       ;; still there: another single-access run only sees it again
+      ;; with access memory (harness :hq-memory) the accessed top card is visible: it counts at its
+      ;; own value and only further accesses see unseen cards
       :rd (let [reg (get-in obs [:runner :register])
+                deck (get-in obs [:corp :deck])
+                top (first deck)
                 top-known (and (some #{:rd} (:successful-run reg)) (not (:stole-agenda reg)) (zero? extra-access))]
-            (if top-known 0.0 (* ap-value dens (+ 1 extra-access) (if (seq (get-in obs [:corp :deck])) 1.0 0.0))))
+            (cond
+              (empty? deck) 0.0
+              (and top (not (:hidden top)))
+              (+ (if (= "Agenda" (cards/ctype (:title top))) (agenda-access-value (:title top) ap-value (get-in obs [:runner :credit])) 0.0)
+                 (* ap-value dens (min extra-access (dec (count deck)))))
+              top-known 0.0
+              :else (* ap-value dens (+ 1 extra-access))))
       ;; HQ cards the Runner accessed earlier are visible (harness :hq-memory): they count at
       ;; their own value, the rest at the unseen density (accesses are random across HQ)
       :hq (let [hand (get-in obs [:corp :hand])

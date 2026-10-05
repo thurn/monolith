@@ -30,7 +30,7 @@
         rig (get-in obs [:runner :rig])
         all (concat (srv/all-corp-installed obs)
                     (:program rig) (:hardware rig) (:resource rig) (:facedown rig)
-                    (for [s [:corp :runner] z [:discard :scored :current :rfg :play-area :hand :set-aside]
+                    (for [s [:corp :runner] z [:discard :scored :current :rfg :play-area :hand :set-aside :deck]
                           c (get-in obs [s z])] c))]
     (->> all (filter #(and (= opp-name (:side %)) (:title %) (not (:hidden %)))) (map :title))))
 
@@ -105,7 +105,7 @@
                               (if (or (:monolith-known c) (empty? pl)) s (put s [:corp :hand i] c (.remove pl (int 0)))))
                             s (map-indexed vector (get-in s [:corp :hand])))
                   s (reduce (fn [s [i c]]
-                              (if (empty? pl) s (put s [:corp :deck i] c (.remove pl (int 0)))))
+                              (if (or (:monolith-known c) (empty? pl)) s (put s [:corp :deck i] c (.remove pl (int 0)))))
                             s (map-indexed vector (get-in s [:corp :deck])))]
               ;; own stack order is unknown
               (update-in s [:runner :deck] #(vec (shuffle-with % rng))))
