@@ -26,7 +26,11 @@
       (re-find #"end the run if the runner is tagged" l) (assoc :etr-if-tagged true)
       (re-find #"if there are (\d+) or more hosted advancement counters, end the run" l)
       (assoc :etr-if-adv (n #"if there are (\d+) or more hosted advancement counters, end the run"))
+      ;; "End the run unless the Runner pays N [Credits]" (Pop-up Window): a tax, not a wall
+      (re-find #"end the run unless the runner pays (\d+) \[credits?\]" l)
+      (assoc :etr-unless-pay (n #"end the run unless the runner pays (\d+) \[credits?\]"))
       (and (re-find #"end the run" l) (not (re-find #"end the run if" l))
+           (not (re-find #"end the run unless the runner pays (\d+) \[credits?\]" l))
            (not (re-find #"if there are \d+ or more hosted advancement counters, end the run" l)))
       (assoc :etr true)
       (re-find #"(\d+) net damage" l) (assoc :net (n #"(\d+) net damage"))
