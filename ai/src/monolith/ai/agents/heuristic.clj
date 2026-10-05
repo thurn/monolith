@@ -509,7 +509,8 @@
     {:corp-decklist (corp-decklist env)
      :ap-value (* urgency (or (w env :run-ap-value) (w env :ap-value)))
      :w-damage (w env :w-damage)
-     :hand (count (get-in (:obs env) [:runner :hand]))}))
+     :hand (count (get-in (:obs env) [:runner :hand]))
+     :remote-ice-prior (w env :remote-ice-prior)}))
 
 (declare server-run-eval)
 

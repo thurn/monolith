@@ -115,7 +115,7 @@
 (defn hidden-content-value
   "Runner value (credits) of accessing one unknown remote card with adv counters in a server
   protected by n-ice pieces of ice (agendas are rarely left unprotected)."
-  [pool adv n-ice {:keys [ap-value hand w-damage runner-credits]}]
+  [pool adv n-ice {:keys [ap-value hand w-damage runner-credits remote-ice-prior]}]
   (let [n (reduce + 0 (vals pool))]
     (if (zero? n) 0.0
         (let [weights (for [[t q] pool
@@ -126,7 +126,12 @@
                                           (and (pos? adv) (= typ "Agenda")) 3.0
                                           (pos? adv) (if (>= adv 3) 0.4 0.8)
                                           :else 1.0)
-                                  w (if (and (= typ "Agenda") (zero? n-ice)) (* w 0.1) w)]]
+                                  w (if (and (= typ "Agenda") (zero? n-ice)) (* w 0.1) w)
+                                  ;; :remote-ice-prior k: Corps put agendas behind their ice, so an
+                                  ;; unadvanced card behind n pieces is (1 + k*min(n,3)) times likelier one
+                                  w (if (and remote-ice-prior (= typ "Agenda") (zero? adv) (pos? n-ice))
+                                      (* w (+ 1.0 (* remote-ice-prior (min n-ice 3))))
+                                      w)]]
                         [t (* q w)])
               tot (reduce + 0.0 (map second weights))]
           (reduce + 0.0
