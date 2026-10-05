@@ -312,3 +312,8 @@ No factor is significantly harmful except the value model for the Corp. Several 
 - Job M interim (284 seeds): dig-breakers +7/−3 Corp, +22/−16 Runner (n.s.), dig+grip +6/−5, +25/−35. Keeping dig-breakers in RC2.
 - **Job N** (frozen `n` = `58318e8`, 19 threads): RC2 base (RC1 + dig-ice + empty-remote-ice + dig-breakers, null) vs + rd-agendas, + rich-credit 20, + both, on the dev mix; Corp proxies for base and both. Pre-stated rule: RC2 takes "both" (behavioural T3 fixes) unless either side or the proxies show a loss at p<0.1; if only one hurts, take the other.
 - **Job M final** (300 paired seeds, dev mix, frozen `m`): RC1 on current-at-the-time code Corp 0.930 / Runner 0.707 (g +2.09/+2.04 over its null); + dig-breakers +7/−3 (p=0.34) / +22/−17 (p=0.52); + dig + grip-breakers +6/−5 / +26/−38 (p=0.17). Dig-breakers neutral-positive → in RC2; grip-breakers stays off.
+
+### 2026-10-05 05:55 — Job N interim: rd-agendas hurts the Corp
+
+- At 196 paired seeds: `:rd-agendas` Corp **+3/−16 (p=0.004)**, with rich-credit +3/−17 (p=0.003); Runner unchanged. `:rich-credit 20` alone Corp +4/−2, Runner +6/−4 (neutral-positive). Likely mechanism for the harm: an R&D steal now also removes the R&D agenda cost, so the Corp's evaluator counts R&D steals ~40% cheaper and defends R&D less. Not pursuing it further now.
+- Per the pre-stated rule RC2 = RC2 base + `:rich-credit 20` (no rd-agendas). Job O (T3 proxies on N's games, dev review 7 with this RC2, Runner remote-ice-prior A/B) starts when N finishes.
