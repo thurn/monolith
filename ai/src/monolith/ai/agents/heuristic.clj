@@ -303,6 +303,17 @@
 
 (defn c-credit [env] (act env :credit))
 
+(defn rich-draw
+  "With :rich-credit set, a side at or above that many credits draws instead of clicking for a
+  credit while below its hand size (dev review 6: rich idle credit clicks)."
+  [env side]
+  (let [obs (:obs env)
+        t (get-in env [:weights :rich-credit])]
+    (when (and t (>= (credits env) t)
+               (< (count (get-in obs [side :hand])) (or (get-in obs [side :hand-size :total]) 5))
+               (> (count (get-in obs [side :deck])) 5))
+      (act env :draw))))
+
 (defn- card-text [title] (str (:text (cards/printed title))))
 (defn- runner-tagged? [obs] (pos? (or (get-in obs [:runner :tag :base]) 0)))
 
@@ -369,6 +380,7 @@
    [:other-op c-other-op]
    [:draw c-draw]
    [:unclog c-unclog]
+   [:rich-draw #(rich-draw % :corp)]
    [:credit c-credit]])
 
 (defn corp-run-decision [env]
@@ -684,6 +696,7 @@
    [:install-other r-install-other]
    [:install-generic r-install-generic]
    [:draw r-draw]
+   [:rich-draw #(rich-draw % :runner)]
    [:credit (fn [env] (act env :credit))]])
 
 (defn current-position-ices

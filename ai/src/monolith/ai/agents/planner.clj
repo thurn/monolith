@@ -162,6 +162,11 @@
                            acts (when (and d (= side (:side d)) (or (= :turn (:kind d)) (and branch-prompts (= :prompt (:kind d)))))
                                   (sim/legal sm d))
                            acts (filter #(sensible? snap %) acts)
+                           ;; :rich-credit: a rich side never clicks for a credit when it can do anything else
+                           acts (let [t (:rich-credit weights)]
+                                  (if (and t (>= (or (get-in snap [side :credit]) 0) t) (some #(not= :credit (:type %)) acts))
+                                    (remove #(= :credit (:type %)) acts)
+                                    acts))
                            acts (if (and filter-acts (seq acts)) (filter-acts sm d acts) acts)]
                      a acts
                      :while (and (<= @apps max-apps) (<= (System/currentTimeMillis) deadline))

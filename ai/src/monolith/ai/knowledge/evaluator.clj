@@ -214,6 +214,16 @@
                     (- (* ap-value hq-ap (/ 0.7 (+ 1.0 (* 1.5 eff))))))
      ;; agendas in HQ still need their full advancement (installed ones pay only what remains,
      ;; in agenda-ev), so holding an agenda is not cheaper than installing it
+     ;; agendas still in R&D are at least as far from scoring as agendas in HQ: without this,
+     ;; the HQ terms above make every draw a loss in expectation and a rich Corp clicks for
+     ;; credits instead of drawing (dev review 6)
+     :rd-agendas (if (pos? (get-in w [:eval :rd-agendas] 0.0))
+                   (let [rd-ap (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) (get-in s [:corp :deck]))))
+                         eff (reduce + 0.0 (for [c (srv/ices s :hq)
+                                                 :let [m (cards/printed-ice-model (:title c) false)]]
+                                             (if (some #(cards/can-break-type? % m) breakers) 0.4 1.0)))]
+                     (- (* ap-value rd-ap (+ 0.35 (/ 0.7 (+ 1.0 (* 1.5 eff)))))))
+                   0.0)
      :hq-agenda-cost (- (* 2.0 (reduce + 0 (for [c corp-hand :when (= "Agenda" (:type c))]
                                               (or (:advancementcost (cards/printed (:title c))) 5)))))
      ;; the Corp loses when it must draw from an empty R&D: drawing it down is costly
