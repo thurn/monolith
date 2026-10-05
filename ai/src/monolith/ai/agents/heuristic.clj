@@ -348,12 +348,32 @@
   (when (>= (credits env) 3)
     (act-where env #(and (= :play (:type %)) (re-find #"(?i)give the runner \d+ tag|gains? \d+ tag" (card-text (card-title %)))))))
 
+(defn dud-op?
+  "Operations whose effect is empty in state s (full state or observation), from card text:
+  tag-scaled effects with no tags, Archives effects with an empty Archives, advancement placers
+  with no installed agenda, credit loss the Runner cannot pay, punishment for steals that did
+  not happen (dev review 6: Psychographics at 0 tags, Preemptive Action, Audacity...)."
+  [s title]
+  (let [txt (card-text title)
+        tags (+ (or (get-in s [:runner :tag :base]) 0) (or (get-in s [:runner :tag :additional]) 0))
+        agenda-installed (some #(= "Agenda" (:type %)) (for [[k v] (get-in s [:corp :servers])
+                                                             :when (str/starts-with? (name k) "remote")
+                                                             c (:content v)] c))]
+    (boolean
+     (or (and (re-find #"(?i)number of tags the Runner has|for each tag" txt) (zero? tags))
+         (and (re-find #"(?i)cards? from Archives" txt) (empty? (get-in s [:corp :discard])))
+         (and (re-find #"(?i)advancement (?:counters|tokens) on" txt) (not agenda-installed))
+         (and (re-find #"(?i)the Runner stole during their last turn" txt) (zero? (or (get-in s [:runner :agenda-point]) 0)))
+         (when-let [[_ n] (re-find #"(?i)If the Runner has at least (\d+)\[credit\]" txt)]
+           (< (or (get-in s [:runner :credit]) 0) (parse-long n)))))))
+
 (defn c-other-op
   "Any other affordable operation that is not pure economy (cheap generic use of the deck)."
   [env]
   (when (>= (credits env) 6)
     (act-where env #(and (= :play (:type %)) (not (pos? (cards/econ-gain (card-title %))))
                          (not (place-advancements (card-title %)))
+                         (not (dud-op? (:obs env) (card-title %)))
                          (<= (cards/play-cost (card-title %)) (- (credits env) 3))))))
 
 (def corp-turn-rules

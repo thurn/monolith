@@ -75,7 +75,7 @@
 
 (defn sensible?
   "Prunes actions no line should contain: installing over the Corp's own agenda/asset (which trashes
-  it) and rezzing an ambush (which only reveals it)."
+  it), rezzing an ambush (which only reveals it) and operations with no effect (s1/dud-op?)."
   [s a]
   (let [title (get-in a [:args :card :title])
         typ (some-> title cards/ctype)]
@@ -84,7 +84,8 @@
                     (and server (str/starts-with? server "Server")
                          (some #(#{"Agenda" "Asset"} (:type %))
                                (get-in s [:corp :servers (srv/server-key server) :content])))))
-             (and (= "rez" (:command a)) title (srv/trap-damage title 0))))))
+             (and (= "rez" (:command a)) title (srv/trap-damage title 0))
+             (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))))))
 
 (defn- signature [s side]
   (hash [(get-in s [side :click]) (get-in s [:corp :credit]) (get-in s [:runner :credit])
