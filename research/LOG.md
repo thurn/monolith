@@ -319,3 +319,8 @@ No factor is significantly harmful except the value model for the Corp. Several 
 - Per the pre-stated rule RC2 = RC2 base + `:rich-credit 20` (no rd-agendas). Job O (T3 proxies on N's games, dev review 7 with this RC2, Runner remote-ice-prior A/B) starts when N finishes.
 - **Job N final** (300 paired seeds, dev mix, frozen `n`): RC2 base Corp 0.927 / Runner 0.713 (g +2.11/+2.13). rd-agendas **+7/−25 (p=0.002)** Corp, +30/−30 Runner; both +6/−27 (p<0.001), +36/−33; rich-credit **+8/−3 (p=0.23)**, +9/−7. Corp proxies (Corp side): base 278/300, both 280/300. Rule applied: RC2 = base + rich-credit 20. rd-agendas stays off.
 - Job O launched (frozen `o` = `d21f911`).
+
+### 2026-10-05 07:40 — Job O stage 1: T3 proxies on job N's games
+
+- Per game, tested agent (n=300 per side), base → rich-credit: Corp rich credit clicks 2.70 → 1.06, idle turns 0.89 → 0.61, forced discards 3.04 → 2.63; Runner rich credit clicks 2.63 → 0.89, idle turns 1.44 → 1.32, repeat failed runs 0.08 → 0.33 (small new cost). rd-agendas raised forced discards (3.04 → 3.92) as well as losing games. Remaining rich clicks come from S1 rollouts/anchor when the hand is full.
+- Dev review 7 (seeds 200520–200539, RC2 = base + rich-credit, frozen `o`) generated; one fresh Opus reviewer scoring now. Gate for spending RC2's held-out shot: dev candidate rating ≥ 3.3.
