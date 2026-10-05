@@ -1,0 +1,262 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 12
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 4 credits to install Abagnale.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Shipment from Tennin.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 7 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 4 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 11 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Sports Hopper.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Bastion protecting Server 1 at position 0.
+Runner encounters Bastion protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Bastion to end the run.
+Corp resolves 1 unbroken subroutine on Bastion ("[subroutine] End the run").
+Runner spends click and pays 0 credits to play Calling in Favors.
+Runner uses Calling in Favors to do nothing.
+Runner is ending their turn 4 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 4 cards in the grip.
+Runner uses Armand "Geist" Walker: Tech Lord to draw 1 card.
+Runner trashes Sports Hopper to use Sports Hopper to draw 3 cards.
+Runner spends click and pays 0 credits to install Fall Guy.
+Runner spends click and pays 0 credits to install Off-Campus Apartment.
+Runner spends click and pays 0 credits to install Off-Campus Apartment.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Elective Upgrade and gains 3 agenda points.
+Corp discards 4 from HQ at end of turn.
+Corp is ending their turn 6 with 0 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 5 cards in the grip.
+Runner uses Armand "Geist" Walker: Tech Lord to draw 1 card.
+Runner trashes Fall Guy to use Fall Guy to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Spy Camera.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner is ending their turn 6 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 0 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 7 with 0 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 7 with 11 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Tech Trader.
+Runner uses Armand "Geist" Walker: Tech Lord to draw 1 card.
+Runner uses Tech Trader to gain 1 credits.
+Runner uses Street Peddler to install Dean Lister, lowering its install cost by 1 credits. On the Lam and Spy Camera are trashed as a result.
+Runner pays 1 credits to install Dean Lister from among the set-aside cards (paying 1 credits less).
+Runner spends click and pays 0 credits to install Off-Campus Apartment.
+Runner uses Armand "Geist" Walker: Tech Lord to draw 1 card.
+Runner uses Tech Trader to gain 1 credits.
+Runner trashes Dean Lister to use Dean Lister to give +1 strength for each card in their Grip to Abagnale until the end of the run.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Armand "Geist" Walker: Tech Lord to draw 1 card.
+Runner uses Tech Trader to gain 1 credits.
+Runner trashes Spy Camera to use Spy Camera to look at the top card of R&D.
+Runner spends click and pays 0 credits to install Spy Camera.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 0 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 4 from HQ at end of turn.
+Corp is ending their turn 8 with 0 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 8 with 12 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner accesses Efficiency Committee from Archives.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 0 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 4 from HQ at end of turn.
+Corp is ending their turn 9 with 0 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 9 with 14 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Legwork.
+Runner uses Legwork to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Aumakua.
+[!] Aumakua - [Erratum] Whenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner is ending their turn 9 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 0 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 4 from HQ at end of turn.
+Corp is ending their turn 10 with 0 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 10 with 9 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to play Information Sifting.
+Runner uses Information Sifting to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses the replacement effect from Information Sifting.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner accesses Elective Upgrade from Archives.
+Runner steals Elective Upgrade and gains 3 agenda points.
+Runner is ending their turn 10 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 0 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 4 from HQ at end of turn.
+Corp is ending their turn 11 with 0 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 11 with 10 credits and 3 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 11 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 0 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 4 from HQ at end of turn.
+Corp is ending their turn 12 with 0 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 12 with 10 credits and 5 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner accesses Project Vitruvius from Archives.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner wins the game.

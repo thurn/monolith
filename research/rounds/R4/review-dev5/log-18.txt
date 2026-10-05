@@ -1,0 +1,212 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 7
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Ark Lockdown.
+Corp uses Ark Lockdown to do nothing.
+Corp is ending their turn 1 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Clan Vengeance and Liberated Account from the stack and draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner has no further action.
+Corp uses Gatekeeper to draw 0 cards.
+Corp uses Gatekeeper to reveal Project Vitruvius from HQ, and shuffle it into R&D.
+Corp uses Gatekeeper to end the run.
+Corp resolves 2 unbroken subroutines on Gatekeeper ("[subroutine] Draw cards, reveal and shuffle agendas" and "[subroutine] End the run").
+Runner is ending their turn 1 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash MKUltra and Zer0 from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 2 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Clan Vengeance and Stimhack from the stack and draw 1 card.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 3 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 10 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Sure Gamble and Daily Casts from the stack and draw 1 card.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 0 credits to install Same Old Thing.
+Runner spends clickclick and trashes Same Old Thing to use Same Old Thing to play Stimhack.
+Runner pays 0 credits to play Stimhack.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Architect protecting R&D at position 0.
+Runner encounters Architect protecting R&D at position 0.
+Runner pays 2 credits to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp uses Architect to install a card from  position 1 of R&D in the root of Server 1 (new remote).
+Corp uses Architect to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 5 credits to trash Jeeves Model Bioroids from R&D.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes DDoS due to core damage.
+Runner is ending their turn 4 with 14 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 14 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Hacktivist Meeting and Clan Vengeance from the stack and draw 1 card.
+Runner spends click and pays 0 credits to play Fisk Investment Seminar.
+Runner uses Fisk Investment Seminar to make each player draw 3 cards.
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to make a run on R&D.
+Runner approaches Architect protecting R&D at position 0.
+Runner encounters Architect protecting R&D at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp uses Architect to install a card from  position 1 of R&D in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Architect to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Hyperloop Extension from Archives.
+Runner steals Hyperloop Extension and gains 1 agenda point.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Corp uses Hyperloop Extension to gain 3 credits.
+Runner accesses Project Vitruvius from Archives.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 5 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 15 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 6 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 11 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Same Old Thing and Paperclip from the stack and draw 1 card.
+Runner spends click and pays 0 credits to play Fisk Investment Seminar.
+Runner uses Fisk Investment Seminar to make each player draw 3 cards.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Corporate Sales Team from Server 1.
+Runner steals Corporate Sales Team and gains 2 agenda points.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 12 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 16 credits and 8 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Project Vitruvius and gains 2 agenda points.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Corp discards 4 from HQ at end of turn.
+Corp is ending their turn 7 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 12 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Titanium Ribs and Same Old Thing from the stack and draw 1 card.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Daily Casts due to core damage.
+Runner spends click to make a run on R&D.
+Runner approaches Architect protecting R&D at position 0.
+Runner encounters Architect protecting R&D at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp uses Architect to install a card from  position 1 of R&D in the root of Server 2.
+Corp pays 0 credits to use Architect to install ice from HQ protecting Archives.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 6 credits to rez Fairchild 3.0 protecting Server 2 at position 0.
+Runner encounters Fairchild 3.0 protecting Server 2 at position 0.
+Runner pays 9 credits to increase the strength of Black Orchestra to 8 and break all subroutines on Fairchild 3.0.
+Runner has no further action.
+Runner passes Fairchild 3.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Remote Enforcement from Server 2.
+Runner steals Remote Enforcement and gains 2 agenda points.
+Runner wins the game.

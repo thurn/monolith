@@ -1,0 +1,360 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 12
+
+[!] NBN: Making News - Recurring credits usage not restricted
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 9 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Corroder.
+Runner spends click and pays 0 credits to play Easy Mark.
+Runner uses Easy Mark to gain 3 credits.
+Runner spends click and pays 5 credits to install Yog.0.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 1 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez TMI protecting Server 1 at position 0.
+Corp uses TMI to initiate a trace with strength 2 (Keep TMI rezzed).
+Corp pays 0 credits to increase trace strength to 2.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Runner encounters TMI protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses TMI to end the run.
+Corp resolves 1 unbroken subroutine on TMI ("[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Caduceus protecting HQ at position 0.
+Runner encounters Caduceus protecting HQ at position 0.
+Runner has no further action.
+Corp uses Caduceus to initiate a trace with strength 3 (Gain 3 credits).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Caduceus to gain 3 credits.
+Corp uses Caduceus to initiate a trace with strength 2 (End the run).
+Corp pays 0 credits to increase trace strength to 2.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Caduceus to end the run.
+Corp resolves 2 unbroken subroutines on Caduceus ("[subroutine] Trace 3 - Gain 3 credits" and "[subroutine] Trace 2 - End the run").
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 2 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores AstroScript Pilot Program and gains 2 agenda points.
+Corp is ending their turn 3 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals AstroScript Pilot Program and gains 2 agenda points.
+Runner spends click and pays 2 credits to play Inside Job.
+Runner uses Inside Job to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Green Level Clearance.
+Corp uses Green Level Clearance to gain 3 credits and draw 1 card.
+Corp is ending their turn 4 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches TMI protecting Server 1 at position 0.
+Runner encounters TMI protecting Server 1 at position 0.
+Runner pays 4 credits to increase the strength of Corroder to 5 and break all  subroutines on TMI.
+Runner has no further action.
+Runner passes TMI protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Breaking News from Server 1.
+Runner steals Breaking News and gains 1 agenda point.
+Runner is ending their turn 4 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 5 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 0 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Breaking News and gains 1 agenda point.
+Runner is ending their turn 5 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 6 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Breaking News and gains 1 agenda point.
+Corp uses Breaking News to give the Runner 2 tags.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 5 credits and 5 cards in HQ.
+[hr]
+Corp uses Breaking News to make the Runner lose 2 tags.
+Runner started their turn 7 with 9 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Account Siphon.
+Runner uses Account Siphon to make a run on HQ.
+Runner approaches Caduceus protecting HQ at position 0.
+Runner encounters Caduceus protecting HQ at position 0.
+Runner has no further action.
+Corp uses Caduceus to initiate a trace with strength 3 (Gain 3 credits).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Caduceus to gain 3 credits.
+Corp uses Caduceus to initiate a trace with strength 2 (End the run).
+Corp pays 0 credits to increase trace strength to 2.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Caduceus to end the run.
+Corp resolves 2 unbroken subroutines on Caduceus ("[subroutine] Trace 3 - Gain 3 credits" and "[subroutine] Trace 2 - End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 7 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 10 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 8 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 7 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 14 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 10 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals AstroScript Pilot Program and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 10 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 17 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 20 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 10 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Caduceus protecting HQ at position 0.
+Runner encounters Caduceus protecting HQ at position 0.
+Runner pays 2 credits to use Mimic to break all 2 subroutines on Caduceus.
+Runner has no further action.
+Runner passes Caduceus protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bernice Mai from HQ.
+Runner is ending their turn 11 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 20 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 9 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Gila Hands Arcology and gains 1 agenda point.
+Runner wins the game.
