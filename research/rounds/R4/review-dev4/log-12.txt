@@ -1,0 +1,583 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 21
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Dedication Ceremony.
+Corp is ending their turn 1 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Maw and Paperclip from the stack and draw 1 card.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp is ending their turn 2 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Labor Rights and Black Orchestra from the stack and draw 1 card.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 0 credits to play Mad Dash.
+Runner uses Mad Dash to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Rashida Jaheem from HQ.
+Runner suffers 1 meat damage from Mad Dash.
+Runner trashes Maw due to meat damage.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Above the Law from HQ.
+Runner steals Above the Law and gains 2 agenda points.
+Runner is ending their turn 2 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Black Orchestra and Daily Casts from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Atlas and gains 2 agenda points.
+Runner is ending their turn 3 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to play Economic Warfare.
+Corp uses Economic Warfare to do nothing.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 1 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Daily Casts and PAD Tap from the stack and draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 4 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 2 credits to rez Marilyn Campaign in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Daily Casts and Aeneas Informant from the stack and draw 1 card.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 5 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 7 credits and 4 cards in HQ.
+Corp uses Marilyn Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paladin Poemu and Hippo from the stack and draw 1 card.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 11 credits and 5 cards in HQ.
+Corp uses Marilyn Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Dirty Laundry and Aeneas Informant from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 7 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 16 credits and 5 cards in HQ.
+Corp uses Marilyn Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play High-Profile Target.
+Corp uses High-Profile Target to do 2 meat damage.
+Corp trashes Deuces Wild and Dirty Laundry due to meat damage.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 0 credits and 3 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Sure Gamble and Overclock from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 17 credits and 5 cards in HQ.
+Corp uses Marilyn Campaign to gain 2 credits.
+Corp uses Marilyn Campaign to shuffle itself into R&D instead of moving it to Archives.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Audacity.
+Corp uses Audacity to trash all cards in HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp is ending their turn 9 with 19 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 9 with 1 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Liberated Account and Botulus from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Aeneas Informant.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Global Food Initiative from Archives.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 9 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 19 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Aeneas Informant.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Aeneas Informant.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Aeneas Informant.
+Corp is ending their turn 10 with 13 credits and 1 card in HQ.
+[hr]
+Runner started their turn 10 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Rezeki and MKUltra from the stack and draw 1 card.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 0 credits to install PAD Tap.
+Runner spends click, pays 0 credits, and trashes 3 cards (Deuces Wild, Labor Rights, and Labor Rights) from the grip to play Moshing.
+Runner uses Moshing to draw 3 cards and gain 3 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Spin Doctor from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Spin Doctor.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 10 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 10 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Aeneas Informant.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Aeneas Informant.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Aeneas Informant.
+Corp is ending their turn 11 with 4 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 11 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paperclip and I've Had Worse from the stack and draw 1 card.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Magnet protecting R&D at position 0.
+Runner encounters Magnet protecting R&D at position 0.
+Runner has no further action.
+Corp uses Magnet to end the run.
+Corp resolves 1 unbroken subroutine on Magnet ("[subroutine] End the run").
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 11 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 1 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Liberated Account and Hippo from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Spin Doctor from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Spin Doctor.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 13 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 3 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash PAD Tap and MKUltra from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner has no further action.
+Corp uses Magnet to end the run.
+Corp resolves 1 unbroken subroutine on Magnet ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Magnet protecting R&D at position 0.
+Runner encounters Magnet protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Aeneas Informant to gain 1 credits and reveal Reconstruction Contract.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 13 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Dedication Ceremony.
+Corp uses Dedication Ceremony to place 3 advancement counters on Aeneas Informant.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 1 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Deuces Wild and Moshing from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Wall to Wall from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Wall to Wall.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 14 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 2 credits to play Consulting Visit.
+Corp uses Consulting Visit to search R&D for Dedication Ceremony and play it.
+Corp shuffles their deck.
+Corp pays 1 credits to play Dedication Ceremony.
+Corp uses Dedication Ceremony to place 3 advancement counters on Aeneas Informant.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 15 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Reconstruction Contract from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Reconstruction Contract.
+Runner is ending their turn 15 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Marilyn Campaign in Server 2.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 16 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 16 with 3 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Reconstruction Contract from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Reconstruction Contract.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Reconstruction Contract from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Reconstruction Contract.
+Runner is ending their turn 16 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 4 credits and 4 cards in HQ.
+Corp uses Marilyn Campaign to gain 2 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 17 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 17 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Reconstruction Contract from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Reconstruction Contract.
+Runner is ending their turn 17 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 7 credits and 4 cards in HQ.
+Corp uses Marilyn Campaign to gain 2 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 4 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Wall to Wall from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Wall to Wall.
+Runner is ending their turn 18 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 19 with 11 credits and 5 cards in HQ.
+Corp uses Marilyn Campaign to gain 2 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 3 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Spin Doctor from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Spin Doctor.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 19 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 20 with 16 credits and 5 cards in HQ.
+Corp uses Marilyn Campaign to gain 2 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp uses Marilyn Campaign to shuffle itself into R&D instead of moving it to Archives.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp is ending their turn 20 with 17 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 20 with 7 credits and 3 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Reconstruction Contract from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Reconstruction Contract.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Commercial Bankers Group from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Commercial Bankers Group.
+Runner is ending their turn 20 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 21 with 17 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Offworld Office and gains 2 agenda points.
+Corp uses Offworld Office to gain 7 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp is ending their turn 21 with 21 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 3 credits and 3 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Reconstruction Contract from HQ.
+Runner uses Aeneas Informant to gain 1 credits and reveal Reconstruction Contract.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Offworld Office from HQ.
+Runner steals Offworld Office and gains 2 agenda points.
+Runner wins the game.

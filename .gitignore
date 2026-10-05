@@ -18,3 +18,4 @@
 /research/rounds/*/s4-train/
 /research/rounds/*/value-data/
 /research/rounds/*/vdata/
+__pycache__/

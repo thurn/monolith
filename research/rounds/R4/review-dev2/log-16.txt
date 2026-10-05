@@ -1,0 +1,164 @@
+Review the CORP's play in this game.
+Winner: corp (Flatline), turn 7
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 9 cards in the grip.
+Runner spends click and pays 0 credits to install Faerie.
+Runner spends click and pays 0 credits to play Infiltration.
+Runner uses Infiltration to gain 2 credits.
+Runner spends click and pays 0 credits to install Security Testing.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 1 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 2 with 3 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 2 with 8 credits and 5 cards in the grip.
+Runner uses Security Testing to target Server 2.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner uses the replacement effect from Security Testing.
+Runner uses Security Testing to gain 2 credits.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Fetal AI from Server 2.
+Corp uses Fetal AI to do 2 net damage.
+Corp trashes Emergency Shutdown and Inside Job due to net damage.
+Runner pays 2 credits to steal Fetal AI from Server 2.
+Runner steals Fetal AI and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Account Siphon due to net damage.
+Runner is ending their turn 2 with 10 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 10 credits and 2 cards in the grip.
+Runner uses Security Testing to target HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to play Quality Time.
+Runner uses Quality Time to draw 5 cards.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 3 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 11 credits and 5 cards in the grip.
+Runner uses Security Testing to target HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to install Datasucker.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner is ending their turn 4 with 14 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 14 credits and 4 cards in the grip.
+Runner uses Security Testing to target R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 1 credits to rez Pup protecting R&D at position 0.
+Runner encounters Pup protecting R&D at position 0.
+Runner pays 0 credits to use Faerie to break all 2 subroutines on Pup.
+Runner has no further action.
+Runner uses Faerie to trash Faerie.
+Runner passes Pup protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses the replacement effect from Security Testing.
+Runner uses Security Testing to gain 2 credits.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 5 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends clickclick and pays 0 credits to play Mushin No Shin.
+Corp uses Mushin No Shin to install a card from HQ in the root of Server 4 (new remote), and place 3 Advancement counters on it.
+Corp is ending their turn 6 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 16 credits and 5 cards in the grip.
+Runner uses Security Testing to target Server 4.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 9 credits to install Femme Fatale.
+Runner uses Femme Fatale to target Eli 1.0 protecting HQ at position 0.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 4.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner uses the replacement effect from Security Testing.
+Runner uses Security Testing to gain 2 credits.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 6 with 13 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 13 credits and 4 cards in the grip.
+Runner uses Security Testing to target Server 4.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 4.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner uses the replacement effect from Security Testing.
+Runner uses Security Testing to gain 2 credits.
+Runner spends click to make a run on Server 4.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Project Junebug from Server 4.
+Corp pays 1 credits to use Project Junebug to do 6 net damage.
+Corp trashes Account Siphon, Account Siphon, Express Delivery, Legwork, and Security Testing due to net damage.
+Runner is flatlined.
+Corp wins the game.

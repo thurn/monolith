@@ -1,0 +1,1 @@
+:heuristic {:opponent s1ref, :a-runner 0.26, :n 300, :matchups 40, :stalls 0, :a-corp 0.74, :b-runner 0.2733333333333333, :b-corp 0.7466666666666667, :b heuristic, :a-only 1, :b-only 7, :tag dev-base-heuristic, :p 0.07031250000000003, :a s1ref}

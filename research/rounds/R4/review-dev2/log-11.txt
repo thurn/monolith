@@ -1,0 +1,704 @@
+Review the CORP's play in this game.
+Winner: runner (Decked), turn 22
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Aumakua.
+[!] Aumakua - [Erratum] Whenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 0 credits to rez Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Corporate Sales Team from Server 1.
+Runner steals Corporate Sales Team and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 2 with 9 credits and 1 card in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Project Vitruvius and gains 2 agenda points.
+Corp is ending their turn 3 with 6 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 6 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 4 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp pays 2 credits to rez Bryan Stinson in the root of HQ.
+Corp spends click to use Bryan Stinson to play Hedge Fund from Archives, ignoring all costs, and removes it from the game.
+Corp play Hedge Fund at no cost.
+Corp uses Hedge Fund to gain 9 credits.
+Corp removes Hedge Fund from the game instead of trashing it.
+Corp is ending their turn 5 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 5 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Bryan Stinson to play Hedge Fund from Archives, ignoring all costs, and removes it from the game.
+Corp play Hedge Fund at no cost.
+Corp uses Hedge Fund to gain 9 credits.
+Corp removes Hedge Fund from the game instead of trashing it.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 6 with 33 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 6 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 33 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Bryan Stinson to play IPO from Archives, ignoring all costs, and removes it from the game.
+Corp play IPO at no cost.
+Corp uses IPO to gain 13 credits.
+Corp removes IPO from the game instead of trashing it.
+Corp is ending their turn 7 with 48 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 7 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 48 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 8 with 48 credits and 7 cards in HQ.
+[hr]
+Runner started their turn 8 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 8 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 48 credits and 7 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 50 credits and 7 cards in HQ.
+[hr]
+Runner started their turn 9 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 9 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 50 credits and 7 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 53 credits and 8 cards in HQ.
+[hr]
+Runner started their turn 10 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 10 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 53 credits and 8 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 5 credits to play Violet Level Clearance.
+Corp uses Violet Level Clearance to gain 8 credits and draw 4 cards.
+Corp is ending their turn 11 with 56 credits and 14 cards in HQ.
+[hr]
+Runner started their turn 11 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 11 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 56 credits and 14 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Bryan Stinson to play Violet Level Clearance from Archives, ignoring all costs, and removes it from the game.
+Corp play Violet Level Clearance at no cost.
+Corp uses Violet Level Clearance to gain 8 credits and draw 4 cards.
+Corp removes Violet Level Clearance from the game instead of trashing it.
+Corp is ending their turn 12 with 63 credits and 19 cards in HQ.
+[hr]
+Runner started their turn 12 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 12 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 63 credits and 19 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to install ice protecting HQ.
+Corp is ending their turn 13 with 61 credits and 21 cards in HQ.
+[hr]
+Runner started their turn 13 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 13 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 14 with 61 credits and 21 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Bryan Stinson to play Hedge Fund from Archives, ignoring all costs, and removes it from the game.
+Corp play Hedge Fund at no cost.
+Corp uses Hedge Fund to gain 9 credits.
+Corp removes Hedge Fund from the game instead of trashing it.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 75 credits and 21 cards in HQ.
+[hr]
+Runner started their turn 14 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 14 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 75 credits and 21 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 15 with 81 credits and 22 cards in HQ.
+[hr]
+Runner started their turn 15 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 15 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 16 with 81 credits and 22 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 3 credits to install ice protecting HQ.
+Corp spends click to use Bryan Stinson to play IPO from Archives, ignoring all costs, and removes it from the game.
+Corp play IPO at no cost.
+Corp uses IPO to gain 13 credits.
+Corp removes IPO from the game instead of trashing it.
+Corp is ending their turn 16 with 91 credits and 23 cards in HQ.
+[hr]
+Runner started their turn 16 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 16 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 17 with 91 credits and 23 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 4 credits to install ice protecting HQ.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 17 with 92 credits and 23 cards in HQ.
+[hr]
+Runner started their turn 17 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 17 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 18 with 92 credits and 23 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Bryan Stinson to play IPO from Archives, ignoring all costs, and removes it from the game.
+Corp play IPO at no cost.
+Corp uses IPO to gain 13 credits.
+Corp removes IPO from the game instead of trashing it.
+Corp is ending their turn 18 with 105 credits and 26 cards in HQ.
+[hr]
+Runner started their turn 18 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 18 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 19 with 105 credits and 26 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 19 with 106 credits and 27 cards in HQ.
+[hr]
+Runner started their turn 19 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 19 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 20 with 106 credits and 27 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 20 with 109 credits and 28 cards in HQ.
+[hr]
+Runner started their turn 20 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 20 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 21 with 109 credits and 28 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp is ending their turn 21 with 111 credits and 28 cards in HQ.
+[hr]
+Runner started their turn 21 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vanilla protecting Server 1 at position 0.
+Runner encounters Vanilla protecting Server 1 at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses MCA Austerity Policy from Server 1.
+Runner is ending their turn 21 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 22 with 111 credits and 28 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp is decked.
+Runner wins the game.

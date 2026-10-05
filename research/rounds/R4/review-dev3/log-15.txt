@@ -1,0 +1,406 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 17
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Unity.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner is ending their turn 1 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Mayfly.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Karunā protecting HQ at position 0.
+Runner encounters Karunā protecting HQ at position 0.
+Runner uses Mayfly to to trash itself when this run ends.
+Runner uses Mayfly to to trash itself when this run ends.
+Runner pays 4 credits to increase the strength of Mayfly to 3 and break all 2 subroutines on Karunā.
+Runner has no further action.
+Runner passes Karunā protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Superconducting Hub from HQ.
+Runner steals Superconducting Hub and gains 1 agenda point.
+Runner is ending their turn 2 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 4 credits to play Public Trail.
+Corp uses Public Trail to give the runner 1 tag.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to play VRcation.
+Runner uses VRcation to draw 4 cards and lose click.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 3 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp is ending their turn 4 with 5 credits and 1 card in HQ.
+[hr]
+Runner started their turn 4 with 9 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Cleaver.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 2 credits to rez Whitespace protecting Server 1 at position 1.
+Runner encounters Whitespace protecting Server 1 at position 1.
+Runner pays 2 credits to use Unity to break all 2 subroutines on Whitespace.
+Runner has no further action.
+Runner passes Whitespace protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Diviner protecting Server 1 at position 0.
+Runner encounters Diviner protecting Server 1 at position 0.
+Runner pays 2 credits to increase the strength of Unity to 3 and break all  subroutines on Diviner.
+Runner has no further action.
+Runner passes Diviner protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Superconducting Hub from Server 1.
+Runner steals Superconducting Hub and gains 1 agenda point.
+Runner is ending their turn 4 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 1 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 1 credits to rez Tithe protecting R&D at position 0.
+Runner encounters Tithe protecting R&D at position 0.
+Runner has no further action.
+Corp uses Tithe to do 1 net damage.
+Corp trashes Jailbreak due to net damage.
+Corp uses Tithe to gain 1 credits.
+Corp resolves 2 unbroken subroutines on Tithe ("[subroutine] Do 1 net damage" and "[subroutine] Gain 1 credits").
+Runner passes Tithe protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 6 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Runner passes ice protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Urtica Cipher from Server 2.
+Corp uses Urtica Cipher to do 2 net damage.
+Corp trashes Overclock and Smartware Distributor due to net damage.
+Runner spends click to make a run on R&D.
+Runner approaches Tithe protecting R&D at position 0.
+Runner encounters Tithe protecting R&D at position 0.
+Runner has no further action.
+Corp uses Tithe to do 1 net damage.
+Corp trashes DZMZ Optimizer due to net damage.
+Corp uses Tithe to gain 1 credits.
+Corp resolves 2 unbroken subroutines on Tithe ("[subroutine] Do 1 net damage" and "[subroutine] Gain 1 credits").
+Runner passes Tithe protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Offworld Office and gains 2 agenda points.
+Runner is ending their turn 6 with 8 credits and 1 card in the grip.
+[hr]
+Corp started their turn 7 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 7 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 8 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Corp pays 3 credits to rez Palisade protecting Server 2 at position 1.
+Runner encounters Palisade protecting Server 2 at position 1.
+Runner pays 3 credits to increase the strength of Cleaver to 4 and break all  subroutines on Palisade.
+Runner has no further action.
+Runner passes Palisade protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Urtica Cipher from Server 2.
+Corp uses Urtica Cipher to do 3 net damage.
+Corp trashes Pennyshaver, Tread Lightly, and Unity due to net damage.
+Runner is ending their turn 7 with 5 credits and 1 card in the grip.
+[hr]
+Corp started their turn 8 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 5 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches Palisade protecting Server 2 at position 1.
+Runner encounters Palisade protecting Server 2 at position 1.
+Runner pays 3 credits to increase the strength of Cleaver to 4 and break all  subroutines on Palisade.
+Runner has no further action.
+Runner passes Palisade protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Urtica Cipher from Server 2.
+Corp uses Urtica Cipher to do 3 net damage.
+Corp trashes Cleaver, Leech, and Mutual Favor due to net damage.
+Runner is ending their turn 8 with 2 credits and 1 card in the grip.
+[hr]
+Corp started their turn 9 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 9 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 2 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tithe protecting R&D at position 0.
+Runner encounters Tithe protecting R&D at position 0.
+Runner has no further action.
+Corp uses Tithe to do 1 net damage.
+Corp trashes Tread Lightly due to net damage.
+Corp uses Tithe to gain 1 credits.
+Corp resolves 2 unbroken subroutines on Tithe ("[subroutine] Do 1 net damage" and "[subroutine] Gain 1 credits").
+Runner passes Tithe protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 9 with 3 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 10 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Send a Message and gains 3 agenda points.
+Corp uses Send a Message to rez Brân 1.0 protecting Server 2 at position 0 at no cost.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 3 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 10 with 9 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 11 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 9 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner is ending their turn 11 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 3.
+Corp is ending their turn 12 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 11 credits and 3 cards in the grip.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches Palisade protecting Server 2 at position 1.
+Runner encounters Palisade protecting Server 2 at position 1.
+Runner pays 3 credits to increase the strength of Cleaver to 4 and break all  subroutines on Palisade.
+Runner has no further action.
+Runner passes Palisade protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Brân 1.0 protecting Server 2 at position 0.
+Runner encounters Brân 1.0 protecting Server 2 at position 0.
+Runner pays 8 credits to increase the strength of Cleaver to 6 and break all 3 subroutines on Brân 1.0.
+Runner has no further action.
+Runner passes Brân 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Urtica Cipher from Server 2.
+Corp uses Urtica Cipher to do 3 net damage.
+Corp trashes Carmen, DZMZ Optimizer, and Mutual Favor due to net damage.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 12 with 3 credits and 1 card in the grip.
+[hr]
+Corp started their turn 13 with 2 credits and 4 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 13 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 13 with 3 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner trashes Telework Contract.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 13 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 14 with 2 credits and 3 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Offworld Office and gains 2 agenda points.
+Corp uses Offworld Office to gain 7 credits.
+Corp is ending their turn 14 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 14 with 7 credits and 3 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits.
+Runner is ending their turn 14 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 9 credits and 4 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp trashes Nico Campaign and draws 1 card.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 10 credits to play Government Subsidy.
+Corp uses Government Subsidy to gain 15 credits.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 15 with 18 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 15 with 9 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits and lose click.
+Runner spends click to make a run on Server 2.
+Runner approaches Palisade protecting Server 2 at position 1.
+Runner encounters Palisade protecting Server 2 at position 1.
+Runner pays 3 credits to increase the strength of Cleaver to 4 and break all  subroutines on Palisade.
+Runner has no further action.
+Runner passes Palisade protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Brân 1.0 protecting Server 2 at position 0.
+Runner encounters Brân 1.0 protecting Server 2 at position 0.
+Runner pays 8 credits to increase the strength of Cleaver to 6 and break all 3 subroutines on Brân 1.0.
+Runner has no further action.
+Runner passes Brân 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Urtica Cipher from Server 2.
+Corp uses Urtica Cipher to do 3 net damage.
+Corp trashes Jailbreak, Smartware Distributor, and Telework Contract due to net damage.
+Runner is ending their turn 15 with 2 credits and 1 card in the grip.
+[hr]
+Corp started their turn 16 with 18 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 16 with 16 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 16 with 2 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 17 with 16 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Send a Message and gains 3 agenda points.
+Corp wins the game.

@@ -1,0 +1,1217 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 29
+
+[!] Whizzard: Master Gamer - Recurring credits usage not restricted
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to install Yog.0.
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 4 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Street Peddler to install Datasucker, lowering its install cost by 1 credits. I've Had Worse and Retrieval Run are trashed as a result.
+Runner pays 0 credits to install Datasucker from among the set-aside cards (paying 1 credits less).
+Runner spends click and pays 0 credits to install Progenitor.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 0 credits to rez Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner has no further action.
+Corp uses Resistor to initiate a trace with strength 4 (End the run).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Resistor to end the run.
+Corp resolves 1 unbroken subroutine on Resistor ("[subroutine] Trace 4 - End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Turnpike protecting R&D at position 0.
+Runner encounters Turnpike protecting R&D at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Exchange of Information.
+Corp uses Exchange of Information to do nothing.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 4 credits.
+Corp is ending their turn 3 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to install Parasite on Resistor protecting HQ at position 0.
+[!] Parasite - [Erratum] Program: Virus - Trojan
+Runner uses Parasite to trash Resistor.
+ Resistor protecting HQ at position 0 has left play: Parasite is trashed.
+Corp uses NBN: Controlling the Message to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses NBN: Controlling the Message to give the Runner 1 tag.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Enigma from HQ.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sensie Actors Union from HQ.
+Runner is ending their turn 3 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 14 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 4 with 14 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 3 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 0 credits to rez Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Resistor to initiate a trace with strength 4 (End the run).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Resistor to end the run.
+Corp resolves 1 unbroken subroutine on Resistor ("[subroutine] Trace 4 - End the run").
+Runner is ending their turn 4 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 14 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Breaking News and gains 1 agenda point.
+Corp uses Breaking News to give the Runner 2 tags.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp is ending their turn 5 with 10 credits and 4 cards in HQ.
+[hr]
+Corp uses Breaking News to make the Runner lose 2 tags.
+Runner started their turn 5 with 3 credits and 3 cards in the grip.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Turnpike protecting R&D at position 0.
+Runner encounters Turnpike protecting R&D at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 5 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp is ending their turn 6 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Turnpike protecting R&D at position 0.
+Runner encounters Turnpike protecting R&D at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tollbooth from HQ.
+Runner is ending their turn 6 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mumbad Virtual Tour from HQ.
+Runner is ending their turn 7 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 10 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp pays 3 credits to use Archangel to force the Runner to encounter it.
+Runner encounters Archangel in HQ.
+Runner has no further action.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Commercial Bankers Group from HQ.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mumbad Virtual Tour from HQ.
+Runner is ending their turn 8 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 11 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Net-Ready Eyes.
+Runner uses Net-Ready Eyes to suffer 2 meat damage.
+Runner trashes Employee Strike and Employee Strike due to meat damage.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mumbad Virtual Tour from HQ.
+Runner pays 5 credits to trash Mumbad Virtual Tour from HQ.
+Runner is ending their turn 9 with 11 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 10 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Beale and gains 2 agenda points.
+Corp is ending their turn 10 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 11 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Mimic from the top of the stack, trashes them, and gains 1 credits.
+Runner adds Street Peddler to the grip.
+Runner adds Dirty Laundry to the grip.
+Runner adds Dirty Laundry to the grip.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner is ending their turn 10 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 13 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install Paperclip, lowering its install cost by 1 credits. Datasucker and Temüjin Contract are trashed as a result.
+Runner pays 3 credits to install Paperclip from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tollbooth from HQ.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tollbooth from HQ.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 11 with 16 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 12 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 16 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 1.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Global Food Initiative from Server 1.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 1 credits to play Inject.
+Runner adds I've Had Worse to the grip.
+Runner adds Obelus to the grip.
+Runner adds Temüjin Contract to the grip.
+Runner adds I've Had Worse to the grip.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tollbooth from HQ.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 4 credits to install Temüjin Contract.
+Runner uses Temüjin Contract to target HQ.
+Runner is ending their turn 12 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 16 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on Archives.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner is ending their turn 13 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to play Psychographics.
+Corp uses Psychographics to do nothing.
+Corp is ending their turn 14 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 20 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 14 with 25 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 15 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 15 with 25 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Server 1.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches ice protecting Server 1 at position 2.
+Runner passes ice protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Runner passes ice protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Beale from Server 1.
+Runner steals Project Beale and gains 2 agenda points.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner trashes Temüjin Contract.
+Runner breaches HQ.
+Runner accesses Commercial Bankers Group from HQ.
+Runner pays 2 credits to trash Commercial Bankers Group from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner is ending their turn 15 with 35 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 3 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Breaking News and gains 1 agenda point.
+Corp uses Breaking News to give the Runner 2 tags.
+Corp is ending their turn 16 with 1 credits and 2 cards in HQ.
+[hr]
+Corp uses Breaking News to make the Runner lose 2 tags.
+Runner started their turn 16 with 35 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp declines to use Archangel.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 16 with 44 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 1 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 17 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 17 with 44 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Resistor from HQ.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses SanSan City Grid from HQ.
+Runner pays 1 credits from Whizzard: Master Gamer and 4 credits from their credit pool to trash SanSan City Grid from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 45 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 18 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 18 with 45 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Resistor from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner is ending their turn 18 with 45 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 19 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 19 with 45 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 8 credits to rez Tollbooth protecting Server 1 at position 2.
+Runner encounters Tollbooth protecting Server 1 at position 2.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp declines to use Archangel.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp declines to use Archangel.
+Runner is ending their turn 19 with 44 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 20 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 20 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 44 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sensie Actors Union from HQ.
+Runner pays 2 credits to trash Sensie Actors Union from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Resistor from HQ.
+Runner is ending their turn 20 with 46 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 21 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores AstroScript Pilot Program and gains 2 agenda points.
+Corp is ending their turn 21 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 46 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp declines to use Archangel.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp declines to use Archangel.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner is ending their turn 21 with 46 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 22 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 22 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 46 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Closed Accounts from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp pays 3 credits to use Archangel to force the Runner to encounter it.
+Runner encounters Archangel in HQ.
+Runner has no further action.
+Runner is ending their turn 22 with 51 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 23 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 23 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 23 with 51 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Temüjin Contract.
+Runner uses Temüjin Contract to target HQ.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp pays 3 credits to use Archangel to force the Runner to encounter it.
+Runner encounters Archangel in HQ.
+Runner has no further action.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner is ending their turn 23 with 57 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 24 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 24 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 24 with 57 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp pays 3 credits to use Archangel to force the Runner to encounter it.
+Runner encounters Archangel in HQ.
+Runner has no further action.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Turnpike from HQ.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner trashes Temüjin Contract.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp declines to use Archangel.
+Runner is ending their turn 24 with 76 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 25 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 25 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 25 with 76 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner is ending their turn 25 with 84 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 26 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 26 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 26 with 84 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner is ending their turn 26 with 89 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 27 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 27 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 27 with 89 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp pays 3 credits to use Archangel to force the Runner to encounter it.
+Runner encounters Archangel in HQ.
+Runner has no further action.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner is ending their turn 27 with 89 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 28 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 28 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 28 with 89 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Resistor from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Resistor from HQ.
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pop-up Window from HQ.
+Runner is ending their turn 28 with 89 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 29 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Corp wins the game.

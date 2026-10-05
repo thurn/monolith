@@ -1,0 +1,548 @@
+Review the CORP's play in this game.
+Winner: runner (Decked), turn 20
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp pays 1 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 1 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to play Archived Memories.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 7 credits and 3 cards in the grip.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Street Peddler to install D4v1d, lowering its install cost by 1 credits. Stimhack and Sure Gamble are trashed as a result.
+Runner pays 2 credits to install D4v1d from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 0 credits to rez Vanilla protecting R&D at position 0.
+Runner encounters Vanilla protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner is ending their turn 2 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click and pays 1 credits to play Dedication Ceremony.
+Corp uses Dedication Ceremony to place 3 advancement counters on D4v1d.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 3 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 1 gain/draw decision.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 10 credits and 4 cards in the grip.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Street Peddler to install Street Peddler, lowering its install cost by 1 credits. Knobkierie and Sure Gamble are trashed as a result.
+Runner pays 0 credits to install Street Peddler from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Street Peddler to install Daily Casts, lowering its install cost by 1 credits. Clone Chip and Imp are trashed as a result.
+Runner pays 2 credits to install Daily Casts from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Dedication Ceremony.
+Corp uses Dedication Ceremony to place 3 advancement counters on D4v1d.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Violet Level Clearance.
+Corp uses Violet Level Clearance to gain 8 credits and draw 4 cards.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 5 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 5 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 1.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 6 with 15 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 8 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 3 credits, to use Self-modifying Code to install Black Orchestra from the Stack.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Gatekeeper protecting Server 1 at position 0.
+Runner encounters Gatekeeper protecting Server 1 at position 0.
+Runner pays 6 credits to increase the strength of Black Orchestra to 6 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Jeeves Model Bioroids from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 12 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 2 gain/draw decisions.
+Corp uses Fully Operational to gain 2 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Gatekeeper protecting Server 1 at position 0.
+Runner encounters Gatekeeper protecting Server 1 at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Jeeves Model Bioroids from Server 1.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 6 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Gatekeeper protecting Server 1 at position 0.
+Runner encounters Gatekeeper protecting Server 1 at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Jeeves Model Bioroids from Server 1.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner is ending their turn 8 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 3.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 5 credits to play Violet Level Clearance.
+Corp uses Violet Level Clearance to gain 8 credits and draw 4 cards.
+Corp discards 3 from HQ at end of turn.
+Corp is ending their turn 9 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp spends click to install a card in the root of Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp is ending their turn 10 with 17 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Yusuf and Paperclip from the top of the stack, trashes them, and gains 2 credits.
+Runner adds Stimhack to the grip.
+Runner adds Stimhack to the grip.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 3 credits to rez Gatekeeper protecting Server 4 at position 0.
+Runner encounters Gatekeeper protecting Server 4 at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 6 credits to increase the strength of Black Orchestra to 6 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Efficiency Committee from Server 4.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Dirty Laundry due to core damage.
+Runner is ending their turn 10 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 14 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Violet Level Clearance.
+Corp uses Violet Level Clearance to gain 8 credits and draw 4 cards.
+Corp discards 3 from HQ at end of turn.
+Corp is ending their turn 11 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 2 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 0 credits to rez Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 4 credits to use Paperclip to install Paperclip from the Heap.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Consume due to core damage.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner trashes Liberated Account.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 17 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 4.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 4.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 7 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner is ending their turn 13 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 14 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 10 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Yusuf from the top of the stack, trashes them, and gains 1 credits.
+Runner adds Daily Casts to the grip.
+Runner adds Liberated Account to the grip.
+Runner adds Clone Chip to the grip.
+Runner discards 3 from the stack at end of turn.
+Runner is ending their turn 14 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 15 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 8 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner is ending their turn 15 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 16 with 25 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 5 (new remote).
+Corp spends click to install a card in the root of Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp is ending their turn 16 with 24 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 16 with 8 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 5.
+Runner approaches ice protecting Server 5 at position 0.
+Corp pays 0 credits to rez Vanilla protecting Server 5 at position 0.
+Runner encounters Vanilla protecting Server 5 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Efficiency Committee from Server 5.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner is ending their turn 16 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 17 with 24 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp is ending their turn 17 with 22 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 17 with 8 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 5.
+Runner approaches Vanilla protecting Server 5 at position 0.
+Runner encounters Vanilla protecting Server 5 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Global Food Initiative from Server 5.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner is ending their turn 17 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 18 with 22 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 5.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 5.
+Corp trashes a card in Server 5.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to play Archived Memories.
+Corp uses Archived Memories to add Architect in Archives to HQ.
+Corp is ending their turn 18 with 22 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 18 with 4 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner is ending their turn 18 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 19 with 22 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 6 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 6.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 19 with 23 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 19 with 4 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 3.
+Runner approaches Vanilla protecting Server 3 at position 0.
+Runner encounters Vanilla protecting Server 3 at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Vanilla.
+Runner has no further action.
+Runner passes Vanilla protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 19 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 20 with 23 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp is decked.
+Runner wins the game.
