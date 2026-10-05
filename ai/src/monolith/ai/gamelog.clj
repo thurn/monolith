@@ -33,7 +33,7 @@
   (let [last-g (volatile! nil)
         r (binding [h/*on-step* (fn [g _ _] (vreset! last-g g))]
             (tourney/play-one {:corp corp :runner runner :seed seed :corp-deck corp-deck :runner-deck runner-deck :budget-ms 250}))]
-    {:result (dissoc r :log) :log (render @(:state @last-g))}))
+    {:result (dissoc r :log) :actions (:log r) :log (render @(:state @last-g))}))
 
 (defn review-set
   "Blind-review material (pre-registered T3 rule, research/LOG.md 2026-10-03). Plays n games of
@@ -60,12 +60,13 @@
                                                                            :runner-deck (keyword (str (name (:matchup g)) "-runner"))}))))))
                     (finally (.shutdown pool)))
         key (vec (for [[j g] (map-indexed vector order)
-                       :let [{:keys [result log]} (played j)
+                       :let [{:keys [result log actions]} (played j)
                              f (format "log-%02d.txt" (inc j))]]
                    (do (spit (str dir "/" f)
                              (str "Review the " (if (= :corp (:side g)) "CORP" "RUNNER") "'s play in this game.\n"
                                   "Winner: " (some-> (:winner result) name) " (" (:reason result) "), turn " (:turn result) "\n\n"
                                   log "\n"))
-                       (merge (dissoc g :corp :runner) {:file f :winner (:winner result) :turn (:turn result)}))))]
+                       ;; :log (action indices) makes the game replayable with h/replay-game for diagnosis
+                       (merge (dissoc g :corp :runner) {:file f :winner (:winner result) :turn (:turn result) :log actions}))))]
     (spit (str dir "-key.edn") (pr-str key))
     key))
