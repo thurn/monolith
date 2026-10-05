@@ -114,7 +114,9 @@
                                    ev (try (s1/server-run-eval env k {}) (catch Throwable _ nil))
                                    v (try (srv/content-value o k (s1/run-opts env)) (catch Throwable _ 1.0))]
                                (boolean (or (some #{k} (get-in o [:runner :register :unsuccessful-run]))
-                                            (and ev (or (<= v 0.05) (<= (:p ev 1.0) 0.0))))))))]
+                                            (and ev (or (<= v 0.05) (<= (:p ev 1.0) 0.0)
+                                                        ;; flatline risk dominates (one sampled ice can hide it from the plan)
+                                                        (< (:u ev 0.0) -20.0))))))))]
     (remove #(and (= :run (:type %)) (get-in % [:args :server]) (pointless (get-in % [:args :server]))) acts)))
 
 (defn- signature [s side]
