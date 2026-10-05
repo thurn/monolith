@@ -6,6 +6,7 @@
     :agendas-to-archives Corp agendas that entered Archives during the Corp's own turn
     :repeat-failed-runs  runs on a server already run unsuccessfully this turn (Runner)
     :idle-turns          own turns with only credit clicks / free abilities
+    :ignored-advanced-remote Runner turns ended with 5+ credits and an unrun remote holding an advanced card
   plus :flatlined (Runner lost by flatline) and :decked (Corp lost by decking).
   In an evalset row the tested agent plays (:side row); the other side is the opponent."
   (:require
@@ -14,7 +15,7 @@
    [monolith.ai.harness :as h]))
 
 (def ks [:rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls :tagged-ends
-         :open-central-with-ice])
+         :open-central-with-ice :ignored-advanced-remote])
 
 (defn- agenda-count [s zone]
   (count (filter #(= "Agenda" (:type %)) (get-in s [:corp zone]))))
@@ -29,6 +30,7 @@
         m (atom {:corp zero :runner zero})
         turn-acts (atom #{})
         failed (atom #{})
+        ran-remotes (atom #{})
         installed (atom {:corp #{} :runner #{}})
         prev (atom nil)
         bump! (fn [sd k n] (swap! m update-in [sd k] + n))
@@ -50,6 +52,15 @@
                             (when (and (= :runner (:active-player p)) (pos? (get-in s [:runner :tag :base] 0))
                                        (<= (count (get-in s [:runner :hand])) 4))
                               (bump! :runner :tagged-ends 1))
+                            ;; Runner ending its turn with 5+ credits without having run a remote that
+                            ;; holds an advanced card (the scoring remote it should contest)
+                            (when (and (= :runner (:active-player p)) (>= (or (get-in p [:runner :credit]) 0) 5)
+                                       (some (fn [[k srv]] (and (.startsWith (name k) "remote")
+                                                                (some #(pos? (or (:advance-counter %) 0)) (:content srv))
+                                                                (not (contains? @ran-remotes k))))
+                                             (get-in p [:corp :servers])))
+                              (bump! :runner :ignored-advanced-remote 1))
+                            (reset! ran-remotes #{})
                             (reset! turn-acts #{})
                             (reset! failed #{}))
                           (when (= sd (:active-player s)) (swap! turn-acts conj (:type a)))
@@ -65,6 +76,8 @@
                           (when (and (= :run (:type a)) (@failed (get-in a [:args :server]))) (bump! :runner :repeat-failed-runs 1))
                           (when (and p (= :prompt (:kind d)) (re-find #"(?i)^discard down" (str (some-> (get-in p [sd :prompt]) first :msg))))
                             (bump! sd :forced-discards 1))
+                          (when-let [k (and (:run s) (first (get-in s [:run :server])))]
+                            (when (.startsWith (name k) "remote") (swap! ran-remotes conj k)))
                           (when (and p (:run p) (not (:run s)) (not (get-in p [:run :successful])))
                             (when-let [k (first (get-in p [:run :server]))] (swap! failed conj (server-label k))))
                           (when (and p (= :corp (:active-player s)) (> (agenda-count s :discard) (agenda-count p :discard)))
