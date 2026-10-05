@@ -166,6 +166,7 @@
           hand (get-in obs [:corp :hand])]
       (when (and (some #(empty? (srv/ices obs %)) [:hq :rd])
                  (not-any? #(= "ICE" (:type %)) hand)
+                 (< (count hand) (or (get-in obs [:corp :hand-size :total]) 5))
                  (> (count (get-in obs [:corp :deck])) 5))
         (or (act-where env #(and (= :play (:type %)) (re-find #"(?i)draw \d+ cards" (str (:text (cards/printed (card-title %)))))
                                  (<= (cards/play-cost (card-title %)) (credits env))))
@@ -515,6 +516,8 @@
                 rez-bonus (or (some-> (re-find #"(?i)rez cost of each piece of ice is increased by (\d+)" txt) second parse-long) 0)
                 extra (if (re-find #"(?i)access 1 additional card" txt) 1 0)
                 draw (if (re-find #"(?i)draw 1 card" txt) 0.5 0)
+                ;; core damage after the run (Stimhack) permanently costs a card and hand size
+                core (* 4.0 (or (some-> (re-find #"(?i)suffer (\d+) core damage" txt) second parse-long) 0))
                 ;; Account Siphon: "instead of breaching, ... lose up to N, you gain M for each credit lost and take T tags"
                 siphon (when-let [[_ n m] (re-find #"(?i)instead of breaching .*lose up to (\d+)\[credit\], then you gain (\d+)\[credit\] for each credit lost" txt)]
                          (let [lost (min (parse-long n) (get-in obs [:corp :credit] 0))
@@ -522,7 +525,7 @@
                            (- (+ (* (parse-long m) lost) lost) (* 2.5 tags))))]
           k servers
           :when (or (not hq-rd-only) (#{:hq :rd} k))]
-      [(+ draw (server-run-utility env k (cond-> {:credits-bonus (- bonus-cr cost) :rez-bonus rez-bonus :extra-access extra :hand-delta -1}
+      [(+ draw (- core) (server-run-utility env k (cond-> {:credits-bonus (- bonus-cr cost) :rez-bonus rez-bonus :extra-access extra :hand-delta -1}
                                             siphon (assoc :replacement-value siphon)))) a k])))
 
 (defn ability-run-options
@@ -787,7 +790,7 @@
        (let [k (first (get-in obs [:run :server]))
              bv (if k (srv/content-value obs k (breach-opts env k)) 0.0)
              breach (choice env #"(?i)^Breach ")
-             repl-value (fn [a] (let [t (str (:label a))
+             repl-value (fn [a] (let [t (str/replace (str (:label a)) #"\s*\[[^\]]*\]$" "")
                                       c (some #(when (= t (:title %)) %) (srv/runner-installed obs))]
                                   (cond (= "Event" (ptype t)) 100.0
                                         c (double (get-in c [:counter :credit] 0))

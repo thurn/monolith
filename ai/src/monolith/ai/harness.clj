@@ -23,6 +23,9 @@
   [state]
   (let [p (moves/current-prompt @state :runner)
         c (:card p)]
+    ;; facedown Archives cards the Runner accessed stay facedown in the engine but are known
+    (when (and c (= :discard (first (:zone c))) (re-find #"^You accessed" (str (:msg p))))
+      (swap! state update-in [:corp :discard] (fn [cs] (mapv #(if (= (:cid %) (:cid c)) (assoc % :monolith-known true) %) cs))))
     (when (and c (= :servers (first (:zone c))) (re-find #"^You accessed" (str (:msg p))))
       (swap! state update-in [:corp :servers]
              (fn [servers]

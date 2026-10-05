@@ -1,0 +1,232 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 7
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 2 credits to install Atman.
+Runner pays 3 credits to use Atman to place 3 power counters on itself.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 1 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 3 credits to rez Eli 1.0 protecting Server 1 at position 1.
+Runner encounters Eli 1.0 protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Gila Hands Arcology from HQ.
+Runner steals Gila Hands Arcology and gains 1 agenda point.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Vitruvius from HQ.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner is ending their turn 2 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Accelerated Beta Test and gains 2 agenda points.
+Corp uses Accelerated Beta Test to look at the top 3 cards of R&D.
+Corp pays 0 credits to use Accelerated Beta Test to install Rototurret from R&D protecting Archives.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp uses Accelerated Beta Test to rez Rototurret protecting Archives at position 0 at no cost.
+Corp uses Accelerated Beta Test to trash 2  cards from the top of R&D.
+Corp is ending their turn 3 with 1 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Ash 2X3ZB9CY from HQ.
+Runner is ending their turn 3 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 1 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 10 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 3 credits to install R&D Interface.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Wall of Static protecting R&D at position 0.
+Runner encounters Wall of Static protecting R&D at position 0.
+Runner pays 1 credits to use Atman to break all 1 subroutines on Wall of Static.
+Runner has no further action.
+Runner passes Wall of Static protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Wall of Static protecting R&D at position 0.
+Runner encounters Wall of Static protecting R&D at position 0.
+Runner pays 1 credits to use Atman to break all 1 subroutines on Wall of Static.
+Runner has no further action.
+Runner passes Wall of Static protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 4 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 10 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to make a run on R&D.
+Runner approaches Wall of Static protecting R&D at position 0.
+Runner encounters Wall of Static protecting R&D at position 0.
+Runner pays 1 credits to use Atman to break all 1 subroutines on Wall of Static.
+Runner has no further action.
+Runner passes Wall of Static protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 3 credits to trash Jackson Howard from R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Wall of Static protecting R&D at position 0.
+Runner encounters Wall of Static protecting R&D at position 0.
+Runner pays 1 credits to use Atman to break all 1 subroutines on Wall of Static.
+Runner has no further action.
+Runner passes Wall of Static protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Accelerated Beta Test and gains 2 agenda points.
+Runner is ending their turn 5 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Wall of Static protecting R&D at position 0.
+Runner encounters Wall of Static protecting R&D at position 0.
+Runner pays 1 credits to use Atman to break all 1 subroutines on Wall of Static.
+Runner has no further action.
+Runner passes Wall of Static protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Wall of Static protecting R&D at position 0.
+Runner encounters Wall of Static protecting R&D at position 0.
+Runner pays 1 credits to use Atman to break all 1 subroutines on Wall of Static.
+Runner has no further action.
+Runner passes Wall of Static protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Wall of Static protecting R&D at position 0.
+Runner encounters Wall of Static protecting R&D at position 0.
+Runner pays 1 credits to use Atman to break all 1 subroutines on Wall of Static.
+Runner has no further action.
+Runner passes Wall of Static protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 7 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Wall of Static protecting R&D at position 0.
+Runner encounters Wall of Static protecting R&D at position 0.
+Runner pays 1 credits to use Atman to break all 1 subroutines on Wall of Static.
+Runner has no further action.
+Runner passes Wall of Static protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner wins the game.
