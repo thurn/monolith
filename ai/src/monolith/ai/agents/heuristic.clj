@@ -533,7 +533,8 @@
      :w-damage (w env :w-damage)
      :hand (count (get-in (:obs env) [:runner :hand]))
      :remote-ice-prior (w env :remote-ice-prior)
-     :w-program (w env :w-program)}))
+     :w-program (w env :w-program)
+     :remote-denial (w env :remote-denial)}))
 
 (declare server-run-eval)
 

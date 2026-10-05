@@ -204,14 +204,17 @@
       :archives (+ (* ap-value (reduce + 0 (map (comp ap :title) (remove :hidden (get-in obs [:corp :discard])))))
                    (* 0.3 ap-value dens (count (filter :hidden (get-in obs [:corp :discard])))))
       ;; remote
+      ;; :remote-denial k: an agenda stolen from a remote is also a score denied to the Corp, so
+      ;; remote agendas are worth (1 + k) times their points (centrals' agendas are not imminent)
       (let [rpool (remote-card-pool obs corp-decklist)
             cr (get-in obs [:runner :credit])
-            opts (assoc opts :runner-credits cr)]
+            apv (* ap-value (+ 1.0 (or (:remote-denial opts) 0.0)))
+            opts (assoc opts :runner-credits cr :ap-value apv)]
         (reduce + 0.0
                 (for [c (content obs k)]
                   (cond
                     (:hidden c) (hidden-content-value rpool (+ (or (:advance-counter c) 0)) (count (ices obs k)) opts)
-                    (= "Agenda" (:type c)) (agenda-access-value (:title c) ap-value cr)
+                    (= "Agenda" (:type c)) (agenda-access-value (:title c) apv cr)
                     :else (let [tc (cards/trash-cost (:title c))
                                 dmg (when-not (:rezzed c) (trap-damage (:title c) (or (:advance-counter c) 0)))]
                             (cond
