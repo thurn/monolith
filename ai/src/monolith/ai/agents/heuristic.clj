@@ -493,6 +493,17 @@
              useful (and (seq (concat (:program rig) (:hardware rig) (:resource rig)))
                          (>= (- (credits env) n) 3))]
          (choice env (if useful #"(?i)^Yes" #"(?i)^No")))
+       ;; Blue Sun: bounce a rezzed card for its rez cost, never ice guarding agendas or a central
+       (and (seq (acts env :select)) (re-find #"(?i)add 1 rezzed card to HQ" (card-text src)))
+       (select-best env (fn [c]
+                          (let [c (or (find-card obs (:cid c)) c)
+                                [_ k zk] (:zone c)
+                                guarded (when (= :ices zk) (srv/content obs k))
+                                cost (or (cards/play-cost (:title c)) 0)]
+                            (cond (not= :ices zk) -10
+                                  (#{:hq :rd} k) -50
+                                  (some #(or (= "Agenda" (:type %)) (pos? (or (:advance-counter %) 0)) (:hidden %)) guarded) -100
+                                  :else (- cost 2)))))
        (re-find #"(?i)^Forfeit this agenda" msg)
        (choice env #"(?i)^No")
        :else nil)
