@@ -587,11 +587,26 @@
           need (remove grip-types missing)
           hand (count (get-in obs [:runner :hand]))
           mx (or (get-in obs [:runner :hand-size :total]) 5)]
-      (when (and (seq need) (seq (get-in obs [:runner :deck])) (< hand mx))
-        (or (act-where env #(and (= :play (:type %))
+      (when (and (seq need) (seq (get-in obs [:runner :deck])))
+        (or ;; a tutor (Self-modifying Code) fetches the breaker directly
+            (when (>= (credits env) 5)
+              (act-where env #(and (#{:ability :click-ability} (:type %))
+                                   (re-find #"(?i)search your stack for (?:1|a) program" (str (:label %))))))
+            (when (< hand mx)
+              (or (act-where env #(and (= :play (:type %))
                                  (re-find #"(?i)draw \d+ cards" (str (:text (cards/printed (card-title %)))))
                                  (<= (cards/play-cost (card-title %)) (credits env))))
-            (act env :draw))))))
+                  (act env :draw))))))))
+
+(defn missing-breaker-types
+  "Ice types among rezzed Corp ice that the Runner's installed breakers cannot break."
+  [obs]
+  (let [rezzed-types (set (for [[_ srv] (srv/servers obs) c (:ices srv)
+                                :when (:rezzed c)
+                                st (:subtypes (cards/printed (:title c)))
+                                :when (#{"Barrier" "Code Gate" "Sentry"} st)]
+                            st))]
+    (set (remove #(have-breaker-for obs %) rezzed-types))))
 
 (defn r-econ [env]
   (let [obs (:obs env)
@@ -749,6 +764,54 @@
              m (cards/breaker-model {:title t} (inc (count (srv/icebreakers obs))))
              bc (when (and m ice (not (:hidden ice))) (cards/break-cost m (cards/ice-model ice)))]
          (choice env (if (and bc (<= (+ (cards/play-cost t) bc) (credits env))) #"(?i)^Yes" #"(?i)^No")))
+
+       ;; tutors (Self-modifying Code): fetch a breaker for a type the rig cannot break
+       (re-find #"(?i)choose a program|search your stack|program to install" msg)
+       (let [missing (missing-breaker-types obs)
+             score (fn [t] (let [types (cards/breaker-types t)]
+                             (cond (nil? t) 0
+                                   (some missing types) (+ 10 (count (filter missing types)))
+                                   (cards/icebreaker? t) 2
+                                   (= "Program" (ptype t)) 1
+                                   :else 0)))]
+         (cond
+           (seq (acts env :select)) (select-best env #(score (:title %)))
+           (seq (acts env :choice)) (let [cs (acts env :choice)
+                                          best (apply max-key #(score (str (:label %))) cs)]
+                                      (when (pos? (score (str (:label best)))) best))
+           :else nil))
+
+       ;; breach replacements: breach unless the replacement is worth more (an event played for it,
+       ;; or a resource paying more credits than the breach is worth)
+       (re-find #"(?i)^Choose a breach replacement ability" msg)
+       (let [k (first (get-in obs [:run :server]))
+             bv (if k (srv/content-value obs k (breach-opts env k)) 0.0)
+             breach (choice env #"(?i)^Breach ")
+             repl-value (fn [a] (let [t (str (:label a))
+                                      c (some #(when (= t (:title %)) %) (srv/runner-installed obs))]
+                                  (cond (= "Event" (ptype t)) 100.0
+                                        c (double (get-in c [:counter :credit] 0))
+                                        :else 1.0)))
+             best (when (seq (acts env :choice))
+                    (apply max-key repl-value (remove #(= breach %) (acts env :choice))))]
+         (if (and breach (or (nil? best) (>= bv (repl-value best)))) breach (or best breach)))
+
+       ;; take everything a replacement offers (Bank Job), never 0
+       (re-find #"(?i)^How many hosted credits do you want to take" msg)
+       (let [ns (acts env :number)] (when (seq ns) (apply max-key #(or (parse-long (str (:label %))) 0) ns)))
+
+       ;; X install costs of breakers that interface only with ice of exactly equal strength (Atman):
+       ;; match the strength of rezzed Corp ice it can afford
+       (and (re-find #"(?i)^How many credits do you want to spend" msg)
+            (re-find #"(?i)exactly equal strength" (str (:text (cards/printed src)))))
+       (let [ns (acts env :number)
+             strengths (frequencies (for [c (srv/all-corp-installed obs) :when (and (:rezzed c) (= "ICE" (:type c)))]
+                                      (or (:current-strength c) (:strength (cards/printed (:title c))) 0)))
+             cr (credits env)
+             target (or (some->> strengths (filter #(<= (key %) cr)) seq (apply max-key val) key)
+                        (min cr 4))
+             val-of #(or (parse-long (str (:label %))) 0)]
+         (when (seq ns) (apply min-key #(Math/abs (- (val-of %) target)) ns)))
 
        (re-find #"(?i)Jack out\?" msg)
        (choice env (if (<= (count (get-in obs [:runner :hand])) 2) #"^Yes" #"^No"))

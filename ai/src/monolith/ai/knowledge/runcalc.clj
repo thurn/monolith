@@ -24,6 +24,7 @@
                   (:tag sub) (update :tags (fnil inc 0))
                   (:etr sub) (assoc :ended true)
                   (and (:etr-if-tagged sub) (pos? (+ (or (:tags st) 0) (or (:tagged st) 0)))) (assoc :ended true)
+                  (and (:etr-if-adv sub) (>= (or (:advancements ice) 0) (:etr-if-adv sub))) (assoc :ended true)
                   (and (:etr-if-credits<= sub) (<= (:credits st) (:etr-if-credits<= sub))) (assoc :ended true))))
           ;; encounter-end damage when not fully broken (Anansi)
           (if-let [d (:unbroken-damage ice)] (update st :damage + d) st)

@@ -24,7 +24,11 @@
     (cond-> {}
       (re-find #"end the run if the runner has (\d+)" l) (assoc :etr-if-credits<= (n #"has (\d+)"))
       (re-find #"end the run if the runner is tagged" l) (assoc :etr-if-tagged true)
-      (and (re-find #"end the run" l) (not (re-find #"end the run if" l))) (assoc :etr true)
+      (re-find #"if there are (\d+) or more hosted advancement counters, end the run" l)
+      (assoc :etr-if-adv (n #"if there are (\d+) or more hosted advancement counters, end the run"))
+      (and (re-find #"end the run" l) (not (re-find #"end the run if" l))
+           (not (re-find #"if there are \d+ or more hosted advancement counters, end the run" l)))
+      (assoc :etr true)
       (re-find #"(\d+) net damage" l) (assoc :net (n #"(\d+) net damage"))
       (re-find #"(\d+) meat damage" l) (assoc :meat (n #"(\d+) meat damage"))
       (re-find #"(\d+) core damage|(\d+) brain damage" l) (assoc :core 1)
@@ -69,6 +73,7 @@
      :subtypes (set (or (:subtypes card) (:subtypes p)))
      :subs (ice-subs card)
      :unbroken-damage (unbroken-damage (:title card))
+     :advancements (or (:advance-counter card) 0)
      :rez-cost (or (:cost p) 0)
      :rezzed (boolean (:rezzed card))}))
 
