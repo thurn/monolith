@@ -334,3 +334,5 @@ No factor is significantly harmful except the value model for the Corp. Several 
   - log-07: R&D run into rezzed Archer with S1's p = 0 — the planner overrode S1.
   - log-15: Cobra has no ETR; `fire-subs` ignored "Trash a program", so letting it fire cost only 2 net damage.
 - New options (off by default, `adb5538`): `:prune-runs` (planner drops plain runs with content value ≈ 0, certain failure at known ice, or on a server already failed this turn) and `:w-program` (Runner run calculator charges per program trashed by subroutines). Job P: A/B of each and both on top of RC2 (dev mix, 300 seeds), plus dev review 8 with both.
+- **Job O final** (Runner side, 299 paired seeds, dev mix): remote-ice-prior 0.5 +12/−9 (p=0.66), 1.0 **+17/−11 (p=0.35)**; Runner 0.722 → 0.742. Neutral-positive; candidate for RC2 as a behavioural fix ("ignored fresh remote agendas"), to be included in the next combined check.
+- Job P launched (frozen `p2` = `bff134c`): dev review 8 games (prune-runs + w-program), then the 4-arm A/B.
