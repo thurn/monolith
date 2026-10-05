@@ -407,3 +407,20 @@ No factor is significantly harmful except the value model for the Corp. Several 
 - Fixes (`f861bac`): duplicate unique installs pruned (S1 and planner); Turntable swaps only for a higher-point Corp agenda; under `:prune-runs`, run events whose every target fails for certain at known ice are pruned (bypass events excepted).
 - Also since reviews 11–12: under `:remote-denial` an agenda in a remote that would win the Corp the game is valued as a winning steal (it prevents a loss); new option `:late-tag-removal` (S1 runs first and clears tags with its last clicks instead of clearing, then running back into tagging ice).
 - Queued: **job Y** (frozen `y` = `a3b8599`, chained to start when job X ends): dev reviews 13 + 14 for RC7 = RC6 + late-tag-removal on the fixed code, then RC7 vs RC6 on the dev mix. If the pooled RC7 review is ≥ 3.5 → RC7's held-out confirmation (copy `job-K4.clj` with RC7's spec).
+
+### 2026-10-05 05:30 — Matchup-awareness go/no-go (Mac, R5)
+
+Question: does a per-matchup option book beat one global config? `rounds/R5/job-MA.clj` on code `8b8ca03`: 7 candidates vs **`:champion`** (null = champion self-play = baseline for both sides), 3 dev matchups (worlds-2016-a, worlds-2018-a, worlds-2021-b) × 160 seeds (500000–500479), 7,200 games, 1 stall. Analysis: `research/matchup_book.py` (log `rounds/R5/eval-MA.jsonl`, not committed). Mac throughput, champion vs champion: ~1,300 games/h at 17 threads.
+
+| vs champion | Corp | Runner |
+|---|---|---|
+| RC1 | **+15.0 (+139/−67, p<0.001)** | +0.2 (+89/−88) |
+| rerank-anchor | **+8.7 (p=0.003)** | **−6.5 (p=0.019)** |
+| asset-econ 1 | +5.0 (p=0.07) | −1.3 |
+| hq-flood 1 | −1.3 | **−3.5 (+7/−24, p=0.003)** |
+| cse 0 / cse 3 / kill-threat | ≈0 | ≈0 |
+
+- **Book vs global (choose on half the seeds, score on the other):** Corp −1.9 pts [95% −8.4, +5.0], Runner −3.3 [−5.2, +7.5]. The book does not beat one global config here. **No-go** for an option-selection book at this scale.
+- Matchup dependence exists but is not exploitable at 80 seeds per half: RC1's effect is heterogeneous on both sides (χ² p=0.013 Corp, 0.016 Runner; Runner −10.0 on 2016-a, +11.3* on 2021-b). These are the only 2 of 14 interaction tests below 0.05.
+- The candidates were mostly Corp knobs; as Runner they act only through the evaluator/opponent model, so the Runner side was a weak test.
+- Side finding for the main track: RC1 is a large Corp gain head-to-head vs champion; on the Runner side rerank-anchor and hq-flood hurt, so a Runner `:runner-opts` without them is worth an A/B.
