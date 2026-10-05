@@ -1,0 +1,129 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 2 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses SSL Endorsement from Server 1.
+Runner steals SSL Endorsement and gains 3 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 3 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 0 credits to play Preemptive Action.
+Corp uses Preemptive Action to shuffle Hedge Fund into R&D.
+Corp removes Preemptive Action from the game instead of trashing it.
+Corp is ending their turn 3 with 10 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install Paperclip, lowering its install cost by 1 credits. Consume and Pelangi are trashed as a result.
+Runner pays 3 credits to install Paperclip from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 10 credits and 2 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 4 with 11 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Mausolus protecting Server 1 at position 0.
+Runner encounters Mausolus protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Mausolus to gain 1 credits.
+Corp uses Mausolus to do 1 net damage.
+Corp trashes Clone Chip due to net damage.
+Corp uses Mausolus to give the Runner 1 tag.
+Corp resolves 3 unbroken subroutines on Mausolus ("[subroutine] Gain 1 credits (Gain 3 credits)" and "[subroutine] Do 1 net damage (Do 3 net damage)" and "[subroutine] Give the Runner 1 tag (and end the run)").
+Runner passes Mausolus protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner trashes 1 installed program (Black Orchestra) to steal SDS Drone Deployment from Server 1.
+Runner steals SDS Drone Deployment and gains 3 agenda points.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hortum from HQ.
+Runner is ending their turn 4 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 8 credits and 2 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Mausolus to HQ and gain 4 credits.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 5 with 15 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 4 credits to rez Mausolus protecting Server 2 at position 0.
+Runner encounters Mausolus protecting Server 2 at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 9 credits to increase the strength of Black Orchestra to 8 and break all subroutines on Mausolus.
+Runner has no further action.
+Runner passes Mausolus protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Hostile Takeover from Server 2.
+Runner steals Hostile Takeover and gains 1 agenda point.
+Runner wins the game.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Stargate due to core damage.

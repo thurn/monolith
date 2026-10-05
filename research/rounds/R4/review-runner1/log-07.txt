@@ -1,0 +1,83 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 3
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Bank Job.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Corroder.
+Runner spends click and pays 0 credits to play Infiltration.
+Runner uses Infiltration to gain 2 credits.
+Runner is ending their turn 1 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Accelerated Beta Test and gains 2 agenda points.
+Corp uses Accelerated Beta Test to look at the top 3 cards of R&D.
+Corp pays 0 credits to use Accelerated Beta Test to install Ice Wall from R&D protecting Archives.
+Corp uses Accelerated Beta Test to rez Ice Wall protecting Archives at position 0 at no cost.
+Corp uses Accelerated Beta Test to trash 2  cards from the top of R&D.
+Corp is ending their turn 2 with 0 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 3 cards in the grip.
+Runner spends click and pays 0 credits to play Infiltration.
+Runner uses Infiltration to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Gabriel Santiago: Consummate Professional to gain 2 credits.
+Runner breaches HQ.
+Runner accesses Private Security Force from HQ.
+Runner steals Private Security Force and gains 2 agenda points.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Private Security Force from HQ.
+Runner steals Private Security Force and gains 2 agenda points.
+Runner is ending their turn 2 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 0 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp is ending their turn 3 with 1 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 3 cards in the grip.
+Runner spends click and pays 1 credits to play Forged Activation Orders.
+Runner uses Forged Activation Orders to force the Corp to trash Enigma.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Gabriel Santiago: Consummate Professional to gain 2 credits.
+Runner breaches HQ.
+Runner accesses Priority Requisition from HQ.
+Runner steals Priority Requisition and gains 3 agenda points.
+Runner wins the game.
