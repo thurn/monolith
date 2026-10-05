@@ -12,9 +12,17 @@
   {:corp (:eval s1/default-weights)
    :runner (:eval s1/default-weights)})
 
+(declare make*)
+
 (defn make
   ([] (make {}))
   ;; :w overrides top-level weights (e.g. {:potential-breakers true}); :eval overrides evaluator weights
+  ;; :corp-opts / :runner-opts are merged in for that side only (e.g. a Runner-only value model)
+  ([{:keys [side corp-opts runner-opts] :as opts0}]
+   (let [opts (merge (dissoc opts0 :corp-opts :runner-opts) (if (= side :runner) runner-opts corp-opts))]
+     (make* opts))))
+
+(defn- make*
   ([{:keys [side s1-margin rerank w eval] :or {s1-margin 2.0 rerank 3} :as opts}]
    ;; budget-factor 200: the deadline (budget-ms x 200) practically never binds, so the 2,500
    ;; application cap does and games replay deterministically on any machine
