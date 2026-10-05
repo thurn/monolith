@@ -1,0 +1,3 @@
+Compiling 1 source files to /home/dthurn/monolith-frozen/p2/ai/target/classes
+20
+{[p-rc2 runner false] 91, [p-wprog runner false] 94, [p-both runner true] 207, [p-wprog corp false] 27, [p-wprog corp true] 273, [p-prune corp true] 275, [p-rc2 runner true] 209, [p-prune corp false] 25, [null corp false] 83, [p-both runner false] 93, [p-both corp false] 24, [p-both corp true] 276, [p-prune runner false] 97, [null corp true] 217, [p-rc2 corp false] 26, [p-prune runner true] 203, [p-rc2 corp true] 274, [p-wprog runner true] 206}
