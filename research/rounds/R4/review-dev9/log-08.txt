@@ -1,0 +1,412 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 19
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Green Level Clearance.
+Corp uses Green Level Clearance to gain 3 credits and draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp is ending their turn 2 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 9 credits and 5 cards in the grip.
+Runner spends click and pays 8 credits to install Femme Fatale.
+Runner uses Femme Fatale to target ice protecting R&D at position 0.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Adonis Campaign from Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 13 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp is ending their turn 3 with 12 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 3 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 12 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp pays 4 credits to rez Adonis Campaign in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 11 credits and 1 card in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 11 credits and 1 card in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp pays 4 credits to rez Adonis Campaign in Server 2.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 5 with 11 credits and 1 card in HQ.
+[hr]
+Runner started their turn 5 with 10 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Corp pays 2 credits to rez Ash 2X3ZB9CY in Server 2.
+Runner approaches Server 2.
+Corp uses Ash 2X3ZB9CY to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Ash 2X3ZB9CY to prevent the Runner from accessing cards other than Ash 2X3ZB9CY.
+Runner breaches Server 2.
+Runner accesses Ash 2X3ZB9CY from Server 2.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Corp uses Ash 2X3ZB9CY to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Ash 2X3ZB9CY to prevent the Runner from accessing cards other than Ash 2X3ZB9CY.
+Runner breaches Server 2.
+Runner accesses Ash 2X3ZB9CY from Server 2.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Corp uses Ash 2X3ZB9CY to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Ash 2X3ZB9CY to prevent the Runner from accessing cards other than Ash 2X3ZB9CY.
+Runner breaches Server 2.
+Runner accesses Ash 2X3ZB9CY from Server 2.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Corp uses Ash 2X3ZB9CY to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Ash 2X3ZB9CY to prevent the Runner from accessing cards other than Ash 2X3ZB9CY.
+Runner breaches Server 2.
+Runner accesses Ash 2X3ZB9CY from Server 2.
+Runner is ending their turn 5 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 9 credits and 1 card in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp is ending their turn 6 with 15 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 6 with 10 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Corp pays 2 credits to rez Ash 2X3ZB9CY in Server 2.
+Ash 2X3ZB9CY in Server 2 is trashed.
+Runner approaches Server 2.
+Corp uses Ash 2X3ZB9CY to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Ash 2X3ZB9CY to prevent the Runner from accessing cards other than Ash 2X3ZB9CY.
+Runner breaches Server 2.
+Runner accesses Ash 2X3ZB9CY from Server 2.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Corp uses Ash 2X3ZB9CY to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Ash 2X3ZB9CY to prevent the Runner from accessing cards other than Ash 2X3ZB9CY.
+Runner breaches Server 2.
+Runner accesses Ash 2X3ZB9CY from Server 2.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Corp uses Ash 2X3ZB9CY to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Ash 2X3ZB9CY to prevent the Runner from accessing cards other than Ash 2X3ZB9CY.
+Runner breaches Server 2.
+Runner accesses Ash 2X3ZB9CY from Server 2.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Corp uses Ash 2X3ZB9CY to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Ash 2X3ZB9CY to prevent the Runner from accessing cards other than Ash 2X3ZB9CY.
+Runner breaches Server 2.
+Runner accesses Ash 2X3ZB9CY from Server 2.
+Runner is ending their turn 6 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 13 credits and 0 cards in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp is ending their turn 7 with 20 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 7 with 10 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 20 credits and 2 cards in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp trashes Adonis Campaign.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp pays 6 credits to rez SanSan City Grid in Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 8 with 21 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 8 with 14 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 18 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 21 credits and 2 cards in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp trashes Adonis Campaign.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Vitruvius and gains 2 agenda points.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp is ending their turn 9 with 23 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 9 with 18 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 22 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 23 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Accelerated Beta Test and gains 2 agenda points.
+Corp uses Accelerated Beta Test to look at the top 3 cards of R&D.
+Corp pays 0 credits to use Accelerated Beta Test to install Eli 1.0 from R&D protecting Archives.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp uses Accelerated Beta Test to rez Eli 1.0 protecting Archives at position 0 at no cost.
+Corp pays 0 credits to use Accelerated Beta Test to install Rototurret from R&D protecting Archives.
+Corp uses Accelerated Beta Test to rez Rototurret protecting Archives at position 1 at no cost.
+Corp uses Accelerated Beta Test to trash 1  card from the top of R&D.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 10 with 22 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 10 with 22 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 26 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 22 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp is ending their turn 11 with 22 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 11 with 26 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 30 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 22 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Efficiency Committee and gains 2 agenda points.
+Corp spends click and spends 1 hosted agenda counter from on Efficiency Committee to use Efficiency Committee to gain clickclick.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp pays 4 credits to rez Adonis Campaign in Server 4.
+Corp spends click and spends 1 hosted agenda counter from on Efficiency Committee to use Efficiency Committee to gain clickclick.
+Corp spends click and pays 0 credits to install ice protecting Server 4.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 12 with 16 credits and 1 card in HQ.
+[hr]
+Runner started their turn 12 with 30 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 34 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 16 credits and 1 card in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 4.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 13 with 17 credits and 1 card in HQ.
+[hr]
+Runner started their turn 13 with 34 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 38 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 17 credits and 1 card in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 2.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to install ice protecting Server 4.
+Corp is ending their turn 14 with 17 credits and 1 card in HQ.
+[hr]
+Runner started their turn 14 with 38 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 42 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 17 credits and 1 card in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp pays 0 credits to rez Jackson Howard in Server 3.
+Corp spends click and spends 1 hosted agenda counter from on Efficiency Committee to use Efficiency Committee to gain clickclick.
+Corp spends click to use Jackson Howard to draw 2 cards.
+Corp uses Jackson Howard to shuffle Adonis Campaign, Adonis Campaign, and Ash 2X3ZB9CY into R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 15 with 21 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 42 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 46 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 21 credits and 5 cards in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp trashes Adonis Campaign.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to install a card in the root of Server 4.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp is ending their turn 16 with 24 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 16 with 46 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 50 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 24 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp pays 4 credits to rez Adonis Campaign in Server 5.
+Corp spends click and pays 0 credits to install ice protecting Server 5.
+Corp is ending their turn 17 with 21 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 17 with 50 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 54 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 21 credits and 3 cards in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 6 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to install a card in the root of Server 6.
+Corp is ending their turn 18 with 25 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 18 with 54 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 18 with 58 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 25 credits and 3 cards in HQ.
+Corp uses Adonis Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Accelerated Beta Test and gains 2 agenda points.
+Corp wins the game.

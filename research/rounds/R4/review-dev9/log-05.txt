@@ -1,0 +1,475 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 14
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Aumakua.
+[!] Aumakua - [Erratum] Whenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 2 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 4 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 10 credits and 5 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Paperclip and MKUltra from the top of the stack, trashes them, and gains 2 credits.
+Runner adds Employee Strike to the grip.
+Runner adds Sure Gamble to the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner has no further action.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner is ending their turn 3 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 15 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Indexing.
+Runner uses Indexing to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 0 credits to rez Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity and 3 credits from their credit pool to use Paperclip to install Paperclip from the Heap.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner chooses to breach R&D instead of use a replacement effect.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 4 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 11 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 15 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Calibration Testing from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to use Aumakua to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Calibration Testing from HQ.
+Runner pays 2 credits to trash Calibration Testing from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to use Aumakua to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mumbad Virtual Tour from HQ.
+Runner pays 5 credits to trash Mumbad Virtual Tour from HQ.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Earthrise Hotel due to core damage.
+Runner is ending their turn 6 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 19 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 20 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 10 credits and 4 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 7 with 15 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 20 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Preemptive Action.
+Corp uses Preemptive Action to shuffle Calibration Testing and Calibration Testing and 1 unseen card into R&D.
+Corp removes Preemptive Action from the game instead of trashing it.
+Corp is ending their turn 8 with 20 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 15 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to play Employee Strike.
+Runner uses Employee Strike to disable the Corp identity.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Commercial Bankers Group from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to use Aumakua to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses AR-Enhanced Security from HQ.
+Runner steals AR-Enhanced Security and gains 1 agenda point.
+Runner is ending their turn 8 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 20 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 11 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 9 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to play Psychographics.
+Corp uses Psychographics to do nothing.
+Corp is ending their turn 10 with 21 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 8 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to use Aumakua to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 10 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 21 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 9 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to use Aumakua to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses 15 Minutes from HQ.
+Runner steals 15 Minutes and gains 1 agenda point.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 11 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 19 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 10 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 4 credits to trash Team Sponsorship from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 10 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Calibration Testing from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to use Aumakua to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Beale from HQ.
+Runner steals Project Beale and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 13 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 14 with 19 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 21 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 9 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to use Aumakua to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses AR-Enhanced Security from HQ.
+Runner steals AR-Enhanced Security and gains 1 agenda point.
+Runner wins the game.
