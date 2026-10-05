@@ -355,3 +355,8 @@ No factor is significantly harmful except the value model for the Corp. Several 
 - Dev review 9 (RC3, seeds 200560–200579, frozen `q`): candidate **3.20** (Corp 3.0, Runner **3.4**), blunders 0.20, wasted 4.5; `:s1ref` 2.20. Runner up (3.0 → 3.4), Corp down (3.4 → 3.0); still under the 3.3 gate. Candidate errors: repeated R&D runs in one turn to the same top card, Patron replacement taken over an agenda access, a skipped winning steal; Corp clicks for credits at 13–17 credits (below the rich-credit threshold of 20), agendas behind one breakable ice, Psychographics/Dedication Ceremony with no effect (dud-op? missed them: check the "faceup card" and 0-tag texts).
 - Job Q (A/B of RC3 vs base, − hq-memory, − no-naked-agendas) is running in the background; results land in `eval-Q.jsonl`.
 - Next: (1) job Q results; (2) fix the R&D same-top-card repeat (prune-runs should treat R&D as top-known after a non-steal access), dud-op misses, rich-credit 15; (3) dev review 10, then RC3/RC4 held-out confirmation (`job-K3.clj`) once a dev review is ≥ 3.3.
+
+### 2026-10-05 12:55 — Job Q results; job R
+
+- **Job Q** (300 paired seeds, dev mix, frozen `q`): base (RC2 + prune + w-program) Corp 0.913 / Runner 0.713. RC3 Corp +14/−17 (p=0.72), Runner **+26/−18 (p=0.29)**, Runner 0.740; vs RC3: without hq-memory Corp +4/−5, Runner +16/−20; without no-naked-agendas Corp +14/−15, Runner +5/−5. All neutral on win rate; RC3's behavioural parts stay (dev review 9: 3.20, Runner 3.4).
+- The machine sat idle 11:30–12:50 (usage-limit pause). Job R (frozen `r`): RC3 vs RC3 with rich-credit 15 (review 9: Corp credit clicks at 13–17 credits).
