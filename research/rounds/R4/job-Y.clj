@@ -1,5 +1,5 @@
 ;; Two fresh dev review sets (13, 14; gate: pooled candidate mean >= 3.5 over 20 games) for RC7 = RC6 +
-;; late-tag-removal on the code with the review-11/12 fixes, then RC7 vs RC6 on the dev mix and corp-proxy.
+;; late-tag-removal on the code with the review-11/12 fixes, then RC7 vs RC6 on the dev mix (Corp options identical, so no corp-proxy arms).
 (require 'monolith.ai.gamelog 'monolith.ai.evalset 'monolith.ai.sweep)
 (let [R "/home/dthurn/monolith/research/rounds/R4"
       ev {:kill-threat 1.0 :hq-flood 1.0 :scorable-agendas 2.5 :asset-econ 1.0}
@@ -22,9 +22,5 @@
              :experiments [{:agent [:champion rc6] :tag "y-rc6" :seeds (range 100000 100300) :matchups monolith.ai.sweep/dev-mix
                             :games-log (str R "/eval-Y.jsonl") :null? true}
                            {:agent [:champion rc7] :tag "y-rc7" :seeds (range 100000 100300) :matchups monolith.ai.sweep/dev-mix
-                            :games-log (str R "/eval-Y.jsonl")}
-                           {:agent [:champion rc6] :tag "py-rc6" :seeds (range 300000 300300) :matchups monolith.ai.sweep/corp-proxy
-                            :sides [:corp] :games-log (str R "/proxy-Y.jsonl")}
-                           {:agent [:champion rc7] :tag "py-rc7" :seeds (range 300000 300300) :matchups monolith.ai.sweep/corp-proxy
-                            :sides [:corp] :games-log (str R "/proxy-Y.jsonl")}]}))
+                            :games-log (str R "/eval-Y.jsonl")}]}))
   (flush))
