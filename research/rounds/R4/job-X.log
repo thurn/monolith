@@ -1,0 +1,4 @@
+Compiling 1 source files to /home/dthurn/monolith-frozen/x/ai/target/classes
+review-dev11 20
+review-dev12 20
+{[x-rc6 runner false] 62, [x-rc6 runner true] 238, [x-rc6 corp false] 19, [null corp false] 83, [px-rc4 corp true] 278, [x-rc4 runner false] 68, [px-rc6 corp false] 16, [null corp true] 217, [x-rc4 runner true] 232, [x-rc6 corp true] 281, [px-rc6 corp true] 284, [x-rc4 corp true] 280, [x-rc4 corp false] 20, [px-rc4 corp false] 22}
