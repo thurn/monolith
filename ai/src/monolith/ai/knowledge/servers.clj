@@ -100,6 +100,10 @@
 (def winning-steal-value 50.0)
 
 (def ^:dynamic *runner-grip* "The Runner's grip size for the access being valued." 5)
+(def ^:dynamic *corp-win-denial*
+  "Bound to the Corp's agenda points while valuing remote cards under :remote-denial: an agenda the
+  Corp would win by scoring is worth a winning steal to the Runner (it prevents a loss)."
+  nil)
 
 (defn agenda-access-value
   "Runner value of accessing agenda t: its points (a win if they reach 7), less any steal cost, or
@@ -107,7 +111,10 @@
   [t ap-value credits]
   (let [c (steal-cost t)
         d (steal-damage t)
-        v (if (>= (+ *runner-points* (ap t)) 7) winning-steal-value (* ap-value (ap t)))
+        v (if (or (>= (+ *runner-points* (ap t)) 7)
+                  (and *corp-win-denial* (>= (+ *corp-win-denial* (ap t)) 7)))
+            winning-steal-value
+            (* ap-value (ap t)))
         v (if d (if (>= d (or *runner-grip* 5)) 0.0 (- v (* 2.0 d))) v)]
     (cond (nil? c) (max 0.0 v)
           (and credits (< credits c)) 0.0
@@ -210,7 +217,8 @@
             cr (get-in obs [:runner :credit])
             apv (* ap-value (+ 1.0 (or (:remote-denial opts) 0.0)))
             opts (assoc opts :runner-credits cr :ap-value apv)]
-        (reduce + 0.0
+        (binding [*corp-win-denial* (when (:remote-denial opts) (or (get-in obs [:corp :agenda-point]) 0))]
+         (reduce + 0.0
                 (for [c (content obs k)]
                   (cond
                     (:hidden c) (hidden-content-value rpool (+ (or (:advance-counter c) 0)) (count (ices obs k)) opts)
@@ -223,7 +231,7 @@
                               ;; trashing an economy card denies the Corp its credits, but only if the
                               ;; access decision will actually trash it
                               (worth-trashing? obs c tc) (max 0.5 (- (* 0.5 (+ (get-in c [:counter :credit] 0) 3)) tc))
-                              :else 0.0)))))))))
+                              :else 0.0))))))))))
 
 (defn extra-accesses
   "Additional cards the Runner's installed cards let it access when breaching central k
