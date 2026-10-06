@@ -40,7 +40,7 @@
         ;; programs trashed by subroutines (Cobra, Archer): each costs its rebuild (credits + clicks)
         lost (* w-program (min (or trashed 0) (count breakers)))]
     (if (> damage (dec (max 1 hand)))
-      (if (> damage hand) flatline-utility (- (* 3 w-damage damage) lost))
+      (if (> damage hand) flatline-utility (- 0.0 (* 3 w-damage damage) lost))
       (- (if (and success? (or (not no-access) replacement)) value 0.0) spent (* w-damage damage) (* w-tag (or tags 0)) lost))))
 
 (declare walk)
