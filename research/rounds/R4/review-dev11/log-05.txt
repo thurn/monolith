@@ -1,0 +1,229 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 9
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 8 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 10 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 9 credits and 4 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 0 credits to rez Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Beale from HQ.
+Runner steals Project Beale and gains 2 agenda points.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses AR-Enhanced Security from HQ.
+Runner steals AR-Enhanced Security and gains 1 agenda point.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes The Turning Wheel due to core damage.
+Runner is ending their turn 4 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 13 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Psychographics.
+Corp uses Psychographics to do nothing.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Calibration Testing from HQ.
+Runner pays 2 credits to trash Calibration Testing from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Team Sponsorship from HQ.
+Runner is ending their turn 5 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 13 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Commercial Bankers Group from HQ.
+Runner pays 2 credits to trash Commercial Bankers Group from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 15 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 9 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner spends click and pays 2 credits to play Mining Accident.
+Runner uses Mining Accident to force the Corp to pay 5 credits.
+Corp pays 5 credits.
+Runner removes Mining Accident from the game instead of trashing it.
+Runner is ending their turn 7 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 12 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 8 with 11 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 3 credits to rez Enigma protecting Server 1 at position 1.
+Runner encounters Enigma protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Enigma to force the Runner to lose click, if able.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses AR-Enhanced Security from HQ.
+Runner steals AR-Enhanced Security and gains 1 agenda point.
+Runner is ending their turn 8 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 8 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores AR-Enhanced Security and gains 1 agenda point.
+Corp is ending their turn 9 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 9 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Quantum Predictive Model from HQ.
+Runner steals Quantum Predictive Model and gains 1 agenda point.
+Runner wins the game.

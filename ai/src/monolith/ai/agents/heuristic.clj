@@ -800,6 +800,13 @@
      (prompt-common env)
      (cond
        (choice env #"^Steal$") (choice env #"^Steal$")
+       ;; Turntable: swap a stolen agenda only for a scored Corp agenda worth more points
+       (re-find #"(?i)^Swap (.+) for an agenda in the Corp's score area\?" msg)
+       (let [t (second (re-find #"(?i)^Swap (.+) for an agenda in the Corp's score area\?" msg))
+             best (reduce max 0 (map #(srv/ap (:title %)) (get-in obs [:corp :scored])))]
+         (choice env (if (> best (srv/ap t)) #"(?i)^Yes" #"(?i)^No")))
+       (re-find #"(?i)^Choose a scored Corp agenda to swap" msg)
+       (select-best env (fn [c] (+ 1 (srv/ap (:title c)))))
        ;; additional steal costs (pay credits, trash a program, ...): stealing is almost always right,
        ;; unless the cost is net damage that would flatline (Obokata Protocol)
        (choice env #"(?i)^pay to steal")
@@ -913,8 +920,22 @@
 
 ;;; Agent
 
+(defn duplicate-unique-install?
+  "Installing a unique card whose title the side already has installed (it trashes the first copy;
+  dev review 12: second Turning Wheel, second Knobkierie)."
+  [obs a]
+  (let [t (card-title a)]
+    (boolean
+     (when (and t (= "play" (:command a)) (:uniqueness (cards/printed t)))
+       (let [rig (get-in obs [:runner :rig])
+             installed (concat (:program rig) (:hardware rig) (:resource rig) (srv/all-corp-installed obs))]
+         (some #(= t (:title %)) installed))))))
+
 (defn decide [env]
-  (let [{:keys [side decision]} env
+  (let [env (if (some #(duplicate-unique-install? (:obs env) %) (:actions env))
+              (update env :actions (fn [as] (let [kept (remove #(duplicate-unique-install? (:obs env) %) as)] (if (seq kept) kept as))))
+              env)
+        {:keys [side decision]} env
         kind (:kind decision)
         rules (cond
                 (= kind :prompt) [[:prompt (if (= side :corp) corp-prompt runner-prompt)]]

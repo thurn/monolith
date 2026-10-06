@@ -85,7 +85,8 @@
                          (some #(#{"Agenda" "Asset"} (:type %))
                                (get-in s [:corp :servers (srv/server-key server) :content])))))
              (and (= "rez" (:command a)) title (srv/trap-damage title 0))
-             (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))))))
+             (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))
+             (s1/duplicate-unique-install? s a)))))
 
 (defn- naked-agenda-install?
   "With :no-naked-agendas: installing an agenda into a server with no ice that cannot be scored
@@ -102,6 +103,24 @@
              clicks (dec (or (get-in s [:corp :click]) 0))]
          (and (zero? ice) (not (and (<= req clicks) (<= req (or (get-in s [:corp :credit]) 0))))))))))
 
+(defn- doomed-run-event?
+  "A run event (Account Siphon, Stimhack...) whose every possible target fails for certain at known
+  ice (dev reviews 11-12: Siphon fired twice into a rezzed Enigma with no decoder). Events that
+  bypass ice are left alone."
+  [s o env a]
+  (let [t (get-in a [:args :card :title])
+        p (when t (cards/printed t))
+        txt (str (:text p))]
+    (boolean
+     (when (and (= "play" (:command a)) (some #{"Run"} (:subtypes p)) (not (re-find #"(?i)bypass" txt)))
+       (let [targets (cond (re-find #"(?i)run HQ\b|run on HQ" txt) [:hq]
+                           (re-find #"(?i)run R&D|run on R&D" txt) [:rd]
+                           (re-find #"(?i)run Archives|run on Archives" txt) [:archives]
+                           :else (keys (get-in s [:corp :servers])))
+             fails (fn [k] (let [ev (try (s1/server-run-eval env k {}) (catch Throwable _ nil))]
+                             (and ev (<= (:p ev 1.0) 0.0))))]
+         (and (seq targets) (every? fails targets)))))))
+
 (defn- remove-pointless-runs
   "With :prune-runs, drops plain runs S1's run calculator sees as pointless: nothing to gain on
   success, or certain failure at known ice (dev review 7: a rich Runner ran an empty Archives
@@ -117,7 +136,9 @@
                                             (and ev (or (<= v 0.05) (<= (:p ev 1.0) 0.0)
                                                         ;; flatline risk dominates (one sampled ice can hide it from the plan)
                                                         (< (:u ev 0.0) -20.0))))))))]
-    (remove #(and (= :run (:type %)) (get-in % [:args :server]) (pointless (get-in % [:args :server]))) acts)))
+    (remove #(or (and (= :run (:type %)) (get-in % [:args :server]) (pointless (get-in % [:args :server])))
+                 (doomed-run-event? s o env %))
+            acts)))
 
 (defn- signature [s side]
   (hash [(get-in s [side :click]) (get-in s [:corp :credit]) (get-in s [:runner :credit])
