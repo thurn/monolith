@@ -721,7 +721,12 @@
         resources (seq (get-in obs [:runner :rig :resource]))]
     (when (and (runner-tagged? obs) (act env :remove-tag)
                (or kill-deck
-                   (and resources (>= (credits env) 5))))
+                   (and resources (>= (credits env) 5)))
+               ;; runs first, clearing with the last clicks: clearing and then running back into
+               ;; tagging ice looped every turn (dev review 12)
+               (or (not (w env :late-tag-removal))
+                   (<= (clicks env) (+ (get-in obs [:runner :tag :base] 0) (get-in obs [:runner :tag :additional] 0)))
+                   (nil? (r-run env))))
       (act env :remove-tag))))
 
 (defn r-install-generic
