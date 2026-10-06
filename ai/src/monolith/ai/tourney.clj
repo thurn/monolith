@@ -81,7 +81,8 @@
 
 (defn play-one [{:keys [corp runner seed corp-deck runner-deck budget-ms max-actions meta]}]
   (let [;; a Runner spec with [:w :hq-memory] remembers accessed HQ cards (harness-level memory)
-        hq-mem (boolean (and (vector? runner) (get-in (second runner) [:w :hq-memory])))
+        hq-mem (boolean (and (vector? runner) (or (get-in (second runner) [:w :hq-memory])
+                                                  (get-in (second runner) [:runner-opts :w :hq-memory]))))
         r (try
             (binding [h/*hq-memory* hq-mem]
              (h/play-game {:seed seed :corp-deck corp-deck :runner-deck runner-deck :budget-ms budget-ms
