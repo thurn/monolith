@@ -1,0 +1,5 @@
+Compiling 1 source files to /home/dthurn/monolith-frozen/v/ai/target/classes
+:proxy t-den05 {:repeat-failed-runs 0.0, :tagged-ends 1.29, :reinstalls 1.03, :flatlined 0.09, :open-central-with-ice 0.0, :n 299, :idle-turns 1.27, :agendas-to-archives 0.0, :ignored-advanced-remote 0.53, :rich-credit-clicks 0.17, :forced-discards 2.95}
+:proxy t-den1 {:repeat-failed-runs 0.0, :tagged-ends 1.29, :reinstalls 1.1, :flatlined 0.09, :open-central-with-ice 0.0, :n 300, :idle-turns 1.25, :agendas-to-archives 0.0, :ignored-advanced-remote 0.53, :rich-credit-clicks 0.26, :forced-discards 2.89}
+:proxy t-rc4 {:repeat-failed-runs 0.01, :tagged-ends 1.3, :reinstalls 1.04, :flatlined 0.09, :open-central-with-ice 0.0, :n 300, :idle-turns 1.24, :agendas-to-archives 0.0, :ignored-advanced-remote 0.58, :rich-credit-clicks 0.21, :forced-discards 2.92}
+:proxy t-urg03 {:repeat-failed-runs 0.0, :tagged-ends 1.25, :reinstalls 1.03, :flatlined 0.09, :open-central-with-ice 0.0, :n 300, :idle-turns 1.25, :agendas-to-archives 0.0, :ignored-advanced-remote 0.55, :rich-credit-clicks 0.15, :forced-discards 2.89}
