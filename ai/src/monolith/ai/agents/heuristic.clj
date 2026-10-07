@@ -536,7 +536,8 @@
      :w-program (w env :w-program)
      ;; only with money to follow up: broke facechecks are poor play (review-runner3: HQ at 1-2 credits on T1-T3)
      :rez-tax (when (>= (or (credits env) 0) 6) (w env :rez-tax))
-     :remote-denial (w env :remote-denial)}))
+     :remote-denial (w env :remote-denial)
+     :asset-eval (w env :run-asset-eval)}))
 
 (declare server-run-eval)
 

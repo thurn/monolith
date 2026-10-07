@@ -293,7 +293,11 @@
                               ;; access decision will actually trash it
                               (worth-trashing? obs c tc) (max 0.5 (- (if-let [d (drip-credits (:title c))]
                                                                       (* 6.0 d)
-                                                                      (* 0.5 (+ (get-in c [:counter :credit] 0) 3)))
+                                                                      ;; :asset-eval (with the planner's :run-ap-eval): hosted credits
+                                                                      ;; at the evaluator's ~1 each, like the run's agenda points
+                                                                      (if (:asset-eval opts)
+                                                                        (get-in c [:counter :credit] 0)
+                                                                        (* 0.5 (+ (get-in c [:counter :credit] 0) 3))))
                                                                     tc))
                               :else 0.0))))))))))
 
