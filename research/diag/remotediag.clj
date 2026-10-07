@@ -8,7 +8,8 @@
       g (some #(when (= file (:file %)) %) (edn/read-string (slurp keyf)))
       wts (merge @(requiring-resolve 'monolith.ai.knowledge.vfeat/default-weights)
                  {:credit-knee2 12 :rich-credit 15 :prune-runs true :w-program 6.0 :remote-ice-prior 1.0 :hq-memory true
-                  :remote-denial 0.5 :run-urgency 0.3})
+                  :remote-denial 0.5 :run-urgency 0.3}
+                 (some-> (genv "EXTRA") read-string))  ; e.g. (def EXTRA "{:rez-tax 0.5}")
       decks {:corp (keyword (str (name (:matchup g)) "-corp")) :runner (keyword (str (name (:matchup g)) "-runner"))}
       prev (atom nil) last-turn (atom nil)]
   (binding [h/*hq-memory* true
@@ -22,7 +23,7 @@
                                 (println :T (:turn p) :cr (get-in p [:runner :credit]) :pts [(get-in p [:runner :agenda-point]) (get-in p [:corp :agenda-point])]
                                          :corp-cr (get-in p [:corp :credit]) :first (:label a)
                                          :rig (mapv :title (get-in p [:runner :rig :program])))
-                                (doseq [[k srv] (srv/remotes o) :when (seq (:content srv))]
+                                (doseq [[k srv] (srv/servers o) :when (or (#{:hq :rd :archives} k) (seq (:content srv)))]
                                   (let [ev (try (s1/server-run-eval env k {}) (catch Throwable t {:err (str t)}))]
                                     (println "   " k :ice (mapv (juxt :title :rezzed) (get-in p [:corp :servers k :ices]))
                                              :content (mapv (juxt :title :advance-counter) (get-in p [:corp :servers k :content]))

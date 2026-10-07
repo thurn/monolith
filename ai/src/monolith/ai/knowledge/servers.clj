@@ -299,7 +299,8 @@
     :replacement (:replacement opts)
     :tagged (+ (get-in obs [:runner :tag :base] 0) (get-in obs [:runner :tag :additional] 0))
     :w-damage (:w-damage opts 2.0)
-    :w-program (or (:w-program opts) 0.0)}))
+    :w-program (or (:w-program opts) 0.0)
+    :rez-tax (or (:rez-tax opts) 0.0)}))
 
 (defn corp-server-safety
   "From the Corp's own observation: the Runner's best utility for a run on k worth `value`, assuming

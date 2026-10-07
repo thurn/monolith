@@ -36,8 +36,10 @@
           (if-let [d (:unbroken-damage ice)] (update st :damage + d) st)
           (remove :broken (:subs ice))))
 
-(defn- terminal [{:keys [credits damage ended tags no-access trashed]} {:keys [credits0 hand value w-damage w-tag w-program breakers replacement]} success?]
-  (let [spent (- credits0 credits)
+(defn- terminal [{:keys [credits damage ended tags no-access trashed corp-credits]} {:keys [credits0 hand value w-damage w-tag w-program breakers replacement rez-tax corp-credits0]} success?]
+  (let [;; :rez-tax: credits the Corp spends rezzing during the run are worth a fraction to the Runner
+        ;; (facechecks force rezzes: dev runner review 2, idle early turns at 9-14 credits)
+        spent (- credits0 credits (* (or rez-tax 0.0) (- (or corp-credits0 0) (or corp-credits 0))))
         ;; programs trashed by subroutines (Cobra, Archer): each costs its rebuild (credits + clicks)
         lost (* w-program (min (or trashed 0) (count breakers)))]
     (if (> damage (dec (max 1 hand)))
@@ -116,7 +118,7 @@
   [{:keys [ices remote? credits] :as opts}]
   (let [entries (mapv #(ice-entry % remote?) (reverse ices))
         ctx (merge {:w-damage 2.0 :w-tag 1.0 :w-program 0.0 :mode :expected :value 0.0} opts
-                   {:ices entries :credits0 credits})
+                   {:ices entries :credits0 credits :corp-credits0 (:corp-credits opts 0)})
         st {:credits credits :damage 0 :corp-credits (:corp-credits opts 0) :tagged (:tagged opts 0)}]
     (walk ctx 0 st)))
 

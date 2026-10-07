@@ -534,6 +534,7 @@
      :hand (count (get-in (:obs env) [:runner :hand]))
      :remote-ice-prior (w env :remote-ice-prior)
      :w-program (w env :w-program)
+     :rez-tax (w env :rez-tax)
      :remote-denial (w env :remote-denial)}))
 
 (declare server-run-eval)
