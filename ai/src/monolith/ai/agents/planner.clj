@@ -87,6 +87,11 @@
              (and (= "rez" (:command a)) title (srv/trap-damage title 0))
              (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))
              (s1/duplicate-unique-install? s a)
+             ;; click-draw at the maximum hand size: the card (or another) is discarded at end of turn
+             ;; unless something is played; play first (T3 proxy: ~3 forced discards per game per side)
+             (and (= :draw (:type a))
+                  (let [sd (:active-player s)]
+                    (>= (count (get-in s [sd :hand])) (or (get-in s [sd :hand-size :total]) 5))))
              ;; Ika-style self-hosting outside a run: 2 credits a time, repeated to no effect
              ;; (dev runner review 2: ~34 credits re-hosting Ika on the same Anansi)
              (and (not (:run s)) (re-find #"(?i)host on a piece of ice" (str (:label a))))))))
