@@ -1,0 +1,143 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp spends click and pays 2 credits to play Mindscaping.
+Corp uses Mindscaping to gain 4 credits and draw 2 cards.
+Corp uses Mindscaping to add 1 card from HQ to the top of R&D.
+Corp is ending their turn 1 with 12 credits and 3 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Revolver.
+Runner spends click and pays 1 credits to play Tread Lightly.
+Runner uses Tread Lightly to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 13 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 17 credits and 3 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 2 with 3 credits and 3 cards in the grip.
+Runner spends click and pays 1 credits to install Docklands Pass.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Anemone protecting HQ at position 0.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Daily Casts and Lie Low due to net damage.
+Runner encounters Anemone protecting HQ at position 0.
+Runner pays 2 credits and spends 1 hosted power counter from on Revolver to increase the strength of Revolver to 4 and break all  subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Prāna Condenser from HQ.
+Runner accesses Vampyronassa from HQ.
+Runner is ending their turn 2 with 1 credits and 1 card in the grip.
+[hr]
+Corp started their turn 3 with 15 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 15 credits and 2 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 3 with 1 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Anemone protecting HQ at position 0.
+Runner encounters Anemone protecting HQ at position 0.
+Runner pays 2 credits and spends 1 hosted power counter from on Revolver to increase the strength of Revolver to 4 and break all  subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Prāna Condenser from HQ.
+Runner accesses Moon Pool from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 3 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 16 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Longevity Serum and gains 2 agenda points.
+Corp uses Longevity Serum to trash 3 cards from HQ.
+Corp uses Longevity Serum to shuffle Hansei Review and 2 unseen cards into R&D.
+Corp is ending their turn 4 with 13 credits and 0 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 4 with 0 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Mu Safecracker.
+[!] Mu Safecracker - Stealth credit restriction not enforced
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Hybrid Release from Archives.
+Runner steals Hybrid Release and gains 1 agenda point.
+Runner is ending their turn 4 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 14 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 13 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 5 with 0 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Anemone protecting HQ at position 0.
+Runner encounters Anemone protecting HQ at position 0.
+Runner pays 2 credits and spends 1 hosted power counter from on Revolver to increase the strength of Revolver to 4 and break all  subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Fujii Asset Retrieval from HQ.
+Runner steals Fujii Asset Retrieval and gains 3 agenda points.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Carpe Diem and Tread Lightly due to net damage.
+Runner accesses Hybrid Release from HQ.
+Runner steals Hybrid Release and gains 1 agenda point.
+Runner wins the game.
