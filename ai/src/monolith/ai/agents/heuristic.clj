@@ -823,6 +823,11 @@
      (prompt-common env)
      (cond
        (choice env #"^Steal$") (choice env #"^Steal$")
+       ;; sacrifice-for-credits targets (Aesop's Pawnshop): only cheap non-breaker cards
+       (and (seq (acts env :select)) (re-find #"(?i)trash (another|1|a)[^.]*installed cards?\.? (if you do, )?gain \d+\[credit" (card-text src)))
+       (select-best env (fn [c] (let [t (:title c)]
+                                  (if (or (cards/icebreaker? t) (some #{"Console"} (:subtypes (cards/printed t)))) -1
+                                      (- 2.5 (cards/play-cost t))))))
        ;; Turntable: swap a stolen agenda only for a scored Corp agenda worth more points
        (re-find #"(?i)^Swap (.+) for an agenda in the Corp's score area\?" msg)
        (let [t (second (re-find #"(?i)^Swap (.+) for an agenda in the Corp's score area\?" msg))
@@ -833,8 +838,12 @@
        ;; additional steal costs (pay credits, trash a program, ...): stealing is almost always right,
        ;; unless the cost is net damage that would flatline (Obokata Protocol)
        (choice env #"(?i)^pay to steal")
-       (let [d (srv/steal-damage src)]
-         (if (and d (>= d (count (get-in obs [:runner :hand]))))
+       (let [d (srv/steal-damage src)
+             hand (count (get-in obs [:runner :hand]))
+             ;; damage equal to the grip empties it but does not flatline: fine when the steal wins
+             ;; (dev runner review 2: declined Obokata at 5 points with 4 cards)
+             wins (>= (+ (get-in obs [:runner :agenda-point] 0) (srv/ap src)) 7)]
+         (if (and d (or (> d hand) (and (= d hand) (not wins))))
            (or (choice env #"(?i)^No action") (choice env #"(?i)^pay to steal"))
            (choice env #"(?i)^pay to steal")))
        (re-find #"(?i)^You accessed" msg)
@@ -972,7 +981,12 @@
                 (= kind :end-turn) [[:end-turn (if (= side :corp) corp-end-turn #(act % :end-turn))]]
                 :else [])]
     (or (some (fn [[nm rule]] (when-let [a (rule env)] [nm a])) rules)
-        [:fallback (first (:actions env))])))
+        ;; no rule: a neutral action (end a window, decline) rather than whatever is listed first
+        ;; (dev runner review 2: Aesop's Pawnshop fired at every turn start, selling the rig)
+        [:fallback (or (when (= :phase-12 kind)
+                         (or (act-where env #(label-is % #"(?i)^end phase|^done$|^no action|^cancel|^no$|^pass"))
+                             (act env :done)))
+                       (first (:actions env)))])))
 
 (defrecord Heuristic [side weights mem trace]
   h/Agent

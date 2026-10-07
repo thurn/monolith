@@ -23,6 +23,7 @@
                   (:lose-credits sub) (update :credits #(max 0 (- % (:lose-credits sub))))
                   (:tag sub) (update :tags (fnil inc 0))
                   (:trash-program sub) (update :trashed (fnil + 0) (:trash-program sub))
+                  (:no-steal sub) (assoc :no-access true)
                   (:etr sub) (assoc :ended true)
                   ;; tax ETR: pay when possible, else the run ends
                   (:etr-unless-pay sub) (as-> st' (if (>= (:credits st') (:etr-unless-pay sub))

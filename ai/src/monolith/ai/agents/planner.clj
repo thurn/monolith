@@ -86,7 +86,10 @@
                                (get-in s [:corp :servers (srv/server-key server) :content])))))
              (and (= "rez" (:command a)) title (srv/trap-damage title 0))
              (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))
-             (s1/duplicate-unique-install? s a)))))
+             (s1/duplicate-unique-install? s a)
+             ;; Ika-style self-hosting outside a run: 2 credits a time, repeated to no effect
+             ;; (dev runner review 2: ~34 credits re-hosting Ika on the same Anansi)
+             (and (not (:run s)) (re-find #"(?i)host on a piece of ice" (str (:label a))))))))
 
 (defn- naked-agenda-install?
   "With :no-naked-agendas: installing an agenda into a server with no ice that cannot be scored

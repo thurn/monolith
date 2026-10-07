@@ -128,7 +128,11 @@
                   (and *corp-win-denial* (>= (+ *corp-win-denial* (ap t)) 7)))
             winning-steal-value
             (* ap-value (ap t)))
-        v (if d (if (>= d (or *runner-grip* 5)) 0.0 (- v (* 2.0 d))) v)]
+        g (or *runner-grip* 5)
+        v (if d (cond (> d g) 0.0
+                      (= d g) (if (>= (+ *runner-points* (ap t)) 7) v 0.0)
+                      :else (- v (* 2.0 d)))
+              v)]
     (cond (nil? c) (max 0.0 v)
           (and credits (< credits c)) 0.0
           :else (max 0.0 (- v c)))))
@@ -177,6 +181,16 @@
       (re-find #"(?i)approaches this server" (str (:text (cards/printed t)))) (>= (- cr cost) 2)
       :else (>= (- cr cost) 8))))
 
+(defn access-penalty
+  "Credits-equivalent cost of accessing card t in Archives from its \"when the Runner accesses\"
+  text: tags (News Team: 2 tags or -1 point) and net damage (Shock!); Snare! is inert there."
+  [t]
+  (let [txt (str (:text (cards/printed t)))]
+    (if (or (not (re-find #"(?i)when the runner accesses this" txt)) (re-find #"(?i)except in archives" txt))
+      0.0
+      (+ (* 2.5 (or (some-> (re-find #"(?i)take (\d+) tags?" txt) second parse-long) 0))
+         (* 2.0 (or (some-> (re-find #"(?i)do (\d+) net damage" txt) second parse-long) 0))))))
+
 (declare content-value*)
 
 (defn content-value
@@ -221,7 +235,10 @@
                                                    (agenda-access-value (:title c) ap-value (get-in obs [:runner :credit])))))
                                 n))]
             (* per-card (min n (+ 1 extra-access))))
+      ;; known access-punishers in Archives (News Team) cost their tags (dev runner review 2: Archives
+      ;; run into known News Teams, 4 and 6 tags)
       :archives (+ (* ap-value (reduce + 0 (map (comp ap :title) (remove :hidden (get-in obs [:corp :discard])))))
+                   (- (reduce + 0.0 (map (comp access-penalty :title) (remove :hidden (get-in obs [:corp :discard])))))
                    (* 0.3 ap-value dens (count (filter :hidden (get-in obs [:corp :discard])))))
       ;; remote
       ;; :remote-denial k: an agenda stolen from a remote is also a score denied to the Corp, so

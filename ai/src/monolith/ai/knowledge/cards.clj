@@ -36,12 +36,16 @@
       (re-find #"(\d+) net damage" l) (assoc :net (n #"(\d+) net damage"))
       (re-find #"(\d+) meat damage" l) (assoc :meat (n #"(\d+) meat damage"))
       (re-find #"(\d+) core damage|(\d+) brain damage" l) (assoc :core 1)
-      (re-find #"lose (\d+) \[credits\]" l) (assoc :lose-credits (n #"lose (\d+) \[credits\]"))
+      (re-find #"loses? (\d+) ?\[credits?\]" l) (assoc :lose-credits (n #"loses? (\d+) ?\[credits?\]"))
       (re-find #"give the runner (\d+) tag|1 tag" l) (assoc :tag 1)
       (re-find #"trash (1|a) program|trash an installed program" l) (assoc :trash-program 1)
       ;; Archangel, Hydra-style bounces: the Corp picks the best installed card; the Runner pays to
       ;; reinstall it (dev review 11: rig reinstalled each turn and bounced again by Archangel)
       (re-find #"add (1|an) installed runner card to the grip" l) (assoc :trash-program 1)
+      ;; Ansel 1.0: any installed card (the Corp picks a breaker or console)
+      (re-find #"trash (1|an?) installed (runner )?card" l) (assoc :trash-program 1)
+      ;; Ansel 1.0: unbroken, the run can still succeed but nothing can be stolen or trashed
+      (re-find #"cannot steal or trash" l) (assoc :no-steal true)
       (re-find #"^gain (\d+) \[credits\]" l) (assoc :corp-gain (n #"gain (\d+)"))
       (re-find #"install" l) (assoc :corp-benefit 1))))
 
@@ -59,11 +63,14 @@
   [card]
   (let [card (if (string? card) {:title card} card)]
     (or (ice-subs-override card)
-        (let [subs (or (seq (:subroutines card)) (:subroutines (card-def card)))]
-          (mapv (fn [s] (let [m (parse-sub (:label s))]
+        (let [subs (or (seq (:subroutines card)) (:subroutines (card-def card)))
+              ;; subroutines without a label (DNA Tracker, Tree Line): read the printed text's i-th one
+              printed-subs (vec (keep #(second (re-find #"\[subroutine\]\s*(.+)" %))
+                                      (str/split-lines (str (:text (printed (:title card)))))))]
+          (mapv (fn [i s] (let [m (parse-sub (or (:label s) (get printed-subs i)))]
                           (cond-> (assoc m :broken (:broken s))
                             (and (:net m) (conditional-etr? (:title card))) (assoc :etr true))))
-                subs)))))
+                (range) subs)))))
 
 (defn unbroken-damage
   "Net damage an ice does when its encounter ends without it being fully broken (Anansi), from text."
@@ -139,7 +146,13 @@
   payment: :combined {:cost c-or-:x :pump p-or-:x :break b-or-:x}."
   [card icebreakers]
   (let [abs (:abilities (card-def card))
-        brk (first (filter :breaks abs))
+        ;; skip conditional break abilities when an unconditional one exists (Euler's 0[credit] break
+        ;; works only the turn it is installed; its real cost is 2[credit] for up to 2 subroutines)
+        brks (filter :breaks abs)
+        lines (filter #(re-find #"(?i)\bbreak\b" %) (str/split-lines (str (:text (printed (:title card))))))
+        brk (or (when (and (> (count brks) 1) (= (count brks) (count lines)))
+                  (first (keep (fn [[b l]] (when-not (re-find #"(?i)use this ability only if" l) b)) (map vector brks lines))))
+                (first brks))
         heap (first (filter :heap-breaker-break abs))
         xbrk (when-not (or brk heap) (first (filter #(x-credit-cost? (:break-cost %)) abs)))
         pmp (first (filter :pump abs))
