@@ -1,0 +1,254 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 9
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner is ending their turn 1 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 2 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 7 credits and 3 cards in the grip.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install Paperclip, lowering its install cost by 1 credits. Black Orchestra and Sure Gamble are trashed as a result.
+Runner pays 3 credits to install Paperclip from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Thimblerig protecting Server 1 at position 0.
+Runner encounters Thimblerig protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Thimblerig to end the run.
+Corp resolves 1 unbroken subroutine on Thimblerig ("[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals SSL Endorsement and gains 3 agenda points.
+Runner is ending their turn 2 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 3 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 1 at position 0 with ice protecting HQ at position 0.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Nisei MK II and gains 2 agenda points.
+Corp is ending their turn 3 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 4 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Cyberdex Virus Suite.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 3 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 4 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp uses Thimblerig to swap Thimblerig protecting HQ at position 0 with ice protecting Server 1 at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals D4v1d from the top of the stack, trashes them, and gains 1 credits.
+Runner adds Sure Gamble to the grip.
+Runner adds Clone Chip to the grip.
+Runner adds Street Peddler to the grip.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 4 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 6 credits and 4 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp uses Thimblerig to swap Thimblerig protecting Server 1 at position 0 with ice protecting HQ at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Nisei MK II and gains 2 agenda points.
+Corp is ending their turn 5 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner trashes Clone Chip, and then pays 3 credits, to use Clone Chip to install D4v1d from the Heap.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits to trash Rashida Jaheem from R&D.
+Runner is ending their turn 5 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 6 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting HQ at position 0 with ice protecting Server 1 at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Scarcity of Resources.
+Corp uses Scarcity of Resources to increase the install cost of resources by 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Scarcity of Resources.
+Scarcity of Resources is trashed.
+Corp uses Scarcity of Resources to increase the install cost of resources by 2.
+Corp is ending their turn 6 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 10 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 1 credits to install Pelangi.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 6 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 4 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 1 at position 0 with ice protecting HQ at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 11 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits to trash NGO Front from R&D.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 5 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner is ending their turn 7 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 11 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting HQ at position 0 with ice protecting Server 1 at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 8 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 11 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 4 credits to trash La Costa Grid from R&D.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner trashes Liberated Account.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 8 credits to install Liberated Account.
+Runner is ending their turn 8 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 10 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 1 at position 0 with ice protecting HQ at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Obokata Protocol and gains 3 agenda points.
+Corp wins the game.

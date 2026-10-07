@@ -1,0 +1,55 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 2
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Yusuf.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner places 1 virus counter on Yusuf.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes I've Had Worse due to core damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner is ending their turn 1 with 1 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 8 credits to rez Anansi protecting R&D at position 0.
+Runner encounters Anansi protecting R&D at position 0.
+Runner has no further action.
+Corp uses Anansi to rearrange the top 5 cards of R&D.
+Corp uses Anansi to draw 1  card.
+Corp uses Anansi to does not draw 1 card.
+Corp uses Anansi to do 1 net damage.
+Corp trashes Street Peddler due to net damage.
+Corp resolves 3 unbroken subroutines on Anansi ("[subroutine] Rearrange the top 5 cards of R&D" and "[subroutine] Draw 1 card, runner draws 1 card" and "[subroutine] Do 1 net damage").
+Corp uses Anansi to do 3 net damage.
+Corp trashes Paperclip and Yusuf due to net damage.
+Runner is flatlined.
+Corp wins the game.
+Runner passes Anansi protecting R&D at position 0.
