@@ -1,0 +1,392 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 12
+
+[!] Ele "Smoke" Scovak: Cynosure of the Net - Recurring credits usage not restricted
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 9 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click and pays 1 credits to install Ghost Runner.
+Runner spends click and pays 1 credits to install Astrolabe.
+Runner is ending their turn 2 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 0 credits to rez Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits from Ghost Runner due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Beale from HQ.
+Runner steals Project Beale and gains 2 agenda points.
+Runner is ending their turn 3 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 4 with 18 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner spends click and pays 1 credits to install Cloak.
+[!] Cloak - Recurring credits usage not restricted
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits from Ghost Runner due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 4 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 19 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to play Psychographics.
+Corp uses Psychographics to do nothing.
+Corp is ending their turn 5 with 19 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner trashes Ghost Runner.
+Runner pays 1 credits from Ghost Runner due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mumbad Virtual Tour from HQ.
+Runner pays 5 credits to trash Mumbad Virtual Tour from HQ.
+Runner is ending their turn 5 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 20 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 6 with 18 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 8 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 1 credits, to use Self-modifying Code to install Cloak from the Stack.
+[!] Cloak - Recurring credits usage not restricted
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 2 credits, to use Self-modifying Code to install Clot from the Stack.
+Runner trashes Clone Chip, and then pays 0 credits, to use Clone Chip to install Self-modifying Code from the Heap.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 2 credits, to use Self-modifying Code to install Corroder from the Stack.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 18 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores AstroScript Pilot Program and gains 2 agenda points.
+Corp is ending their turn 7 with 15 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 7 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Temüjin Contract.
+Runner uses Temüjin Contract to target HQ.
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 7 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 16 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 14 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Sensie Actors Union from HQ.
+Runner pays 2 credits to trash Sensie Actors Union from HQ.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click and pays 1 credits to install Film Critic.
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Mumbad Virtual Tour from HQ.
+Runner pays 5 credits to trash Mumbad Virtual Tour from HQ.
+Runner is ending their turn 8 with 18 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 12 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 18 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click and pays 3 credits to install Net Mercur.
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches HQ.
+Runner accesses Archangel from HQ.
+Corp pays 3 credits to use Archangel to force the Runner to encounter it.
+Runner encounters Archangel in HQ.
+Runner has no further action.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 19 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 10 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 19 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Indexing.
+Runner uses Indexing to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Turnpike protecting R&D at position 0.
+Runner encounters Turnpike protecting R&D at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner chooses to breach R&D instead of use a replacement effect.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 3.
+Corp pays 2 credits to rez IP Block protecting Server 1 at position 3.
+Runner encounters IP Block protecting Server 1 at position 3.
+Runner uses Net Mercur to place 1 credits on itself.
+Runner pays 1 credits from Cloak, 1 credits from Cloak, and 1 credits from Ele "Smoke" Scovak: Cynosure of the Net and 1 credits from their credit pool to increase the strength of Corroder to 4 and break all 2 subroutines on IP Block.
+Runner has no further action.
+Runner passes IP Block protecting Server 1 at position 3.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 0 credits to rez Resistor protecting Server 1 at position 2.
+Runner encounters Resistor protecting Server 1 at position 2.
+Runner pays 1 credits from Net Mercur to use Corroder to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 4 credits to rez Cobra protecting Server 1 at position 1.
+Runner encounters Cobra protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Cobra to trash Cloak.
+Corp uses Cobra to do 2 net damage.
+Corp trashes Astrolabe and Sure Gamble due to net damage.
+Corp resolves 2 unbroken subroutines on Cobra ("[subroutine] Trash a program" and "[subroutine] Do 2 net damage").
+Runner passes Cobra protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Breaking News from Server 1.
+Runner uses Film Critic to host Breaking News instead of accessing it.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 10 with 17 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp scores Breaking News and gains 1 agenda point.
+Corp uses Breaking News to give the Runner 2 tags.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 0 credits and 5 cards in HQ.
+[hr]
+Corp uses Breaking News to make the Runner lose 2 tags.
+Runner started their turn 11 with 17 credits and 4 cards in the grip.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner trashes Clone Chip, and then pays 0 credits, to use Clone Chip to install Self-modifying Code from the Heap.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 2 credits, to use Self-modifying Code to install Houdini from the Stack.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Turnpike protecting R&D at position 0.
+Runner encounters Turnpike protecting R&D at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Film Critic to host Global Food Initiative instead of accessing it.
+Runner is ending their turn 11 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 11 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends clickclick to use Film Critic to add Global Food Initiative to their score area and gain 3 agenda points.
+Runner wins the game.

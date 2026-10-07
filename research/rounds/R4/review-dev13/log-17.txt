@@ -1,0 +1,438 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 14
+
+Corp takes a mulligan.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Fall Guy and Hacktivist Meeting from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Account Siphon.
+Runner uses Account Siphon to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses the replacement effect from Account Siphon.
+Runner uses Account Siphon to force the Corp to lose 5 credits, gain 10 credits, and take 2 tags.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 1 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 11 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Data Leak Reversal and DDoS from the stack and draw 1 card.
+Runner spends click and pays 2 credits to install Scrubber.
+[!] Scrubber - Recurring credits usage not restricted
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Commercial Bankers Group from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 5 credits.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Sure Gamble and Inject from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 0 credits to rez Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Commercial Bankers Group from R&D.
+Runner is ending their turn 3 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 9 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Wireless Net Pavilion and Same Old Thing from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click and pays 1 credits to install Joshua B..
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 5 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 13 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Fall Guy and Paparazzi from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Joshua B. to gain click.
+Runner spends click and pays 4 credits to install Eater.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Breaking News and gains 1 agenda point.
+Runner spends click and pays 0 credits to install Data Leak Reversal.
+Runner spends click and pays 0 credits to install Fall Guy.
+Runner is ending their turn 5 with 12 credits and 4 cards in the grip.
+[hr]
+Runner uses Joshua B. to take 1 tag.
+Corp started their turn 6 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 6 with 15 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 12 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Levy AR Lab Access and Eater from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Joshua B. to gain click.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click and pays 0 credits to install Same Old Thing.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner is ending their turn 6 with 13 credits and 4 cards in the grip.
+[hr]
+Runner uses Joshua B. to take 1 tag.
+Corp started their turn 7 with 15 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash DDoS.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash DDoS.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash DDoS.
+Corp is ending their turn 7 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 13 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Scrubber and Wireless Net Pavilion from the stack and draw 1 card.
+Runner uses Joshua B. to gain click.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click and pays 0 credits to play Account Siphon.
+Runner uses Account Siphon to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 8 credits to rez Tollbooth protecting HQ at position 0.
+Runner encounters Tollbooth protecting HQ at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click and pays 0 credits to install Same Old Thing.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 10 credits and 5 cards in the grip.
+[hr]
+Runner uses Joshua B. to take 1 tag.
+Corp started their turn 8 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash DDoS.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 10 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Femme Fatale and I've Had Worse from the stack and draw 1 card.
+Runner uses Joshua B. to gain click.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Project Beale from Archives.
+Runner steals Project Beale and gains 2 agenda points.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 8 credits and 5 cards in the grip.
+[hr]
+Runner uses Joshua B. to take 1 tag.
+Corp started their turn 9 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash DDoS.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 8 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash I've Had Worse and Scrubber from the stack and draw 1 card.
+Runner uses Joshua B. to gain click.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 9 with 8 credits and 5 cards in the grip.
+[hr]
+Runner uses Joshua B. to take 1 tag.
+Corp started their turn 10 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash DDoS.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 8 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Daily Casts and DDoS from the stack and draw 1 card.
+Runner uses Joshua B. to gain click.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 10 with 10 credits and 5 cards in the grip.
+[hr]
+Runner uses Joshua B. to take 1 tag.
+Corp started their turn 11 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash DDoS.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 10 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Inject and Daily Casts from the stack and draw 1 card.
+Runner uses Joshua B. to gain click.
+Runner spends click and pays 3 credits to play Retrieval Run.
+Runner uses Retrieval Run to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner chooses to breach Archives instead of use a replacement effect.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 11 with 8 credits and 5 cards in the grip.
+[hr]
+Runner uses Joshua B. to take 1 tag.
+Corp started their turn 12 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash DDoS.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 8 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner uses Joshua B. to gain click.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Breaking News from Archives.
+Runner steals Breaking News and gains 1 agenda point.
+Runner is ending their turn 12 with 9 credits and 5 cards in the grip.
+[hr]
+Runner uses Joshua B. to take 1 tag.
+Corp started their turn 13 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash DDoS.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 9 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner uses Joshua B. to gain click.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner trashes Fall Guy to use Fall Guy to gain 2 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner spends click to use Data Leak Reversal to force the Corp to trash the top card of R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 13 with 10 credits and 5 cards in the grip.
+[hr]
+Runner uses Joshua B. to take 1 tag.
+Corp started their turn 14 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash DDoS.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 10 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner uses Joshua B. to gain click.
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Resistor protecting R&D at position 0.
+Runner encounters Resistor protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals AstroScript Pilot Program and gains 2 agenda points.
+Runner wins the game.

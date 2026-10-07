@@ -1,0 +1,179 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 6
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Corroder.
+Runner spends click and pays 0 credits to play Account Siphon.
+Runner uses Account Siphon to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Shadow protecting HQ at position 0.
+Runner encounters Shadow protecting HQ at position 0.
+Runner has no further action.
+Corp uses Shadow to gain 2 credits.
+Corp uses Shadow to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Shadow to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on Shadow ("[subroutine] Gain 2 credits" and "[subroutine] Trace 3 - Give the Runner 1 tag").
+Runner passes Shadow protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Gabriel Santiago: Consummate Professional to gain 2 credits.
+Runner uses the replacement effect from Account Siphon.
+Runner uses Account Siphon to force the Corp to lose 5 credits, gain 10 credits, and take 2 tags.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 1 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 13 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Forged Activation Orders.
+Runner uses Forged Activation Orders to force the Corp to trash Wall of Static.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 10 credits and 5 cards in the grip.
+Runner spends click and pays 4 credits to install Ninja.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Corporate Troubleshooter from R&D.
+Runner is ending their turn 3 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Weyland Consortium: Building a Better World to gain 1 credits.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 0 credits to play Archived Memories.
+Corp uses Archived Memories to add Corporate Troubleshooter in Archives to HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 8 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Private Security Force and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches Shadow protecting HQ at position 0.
+Runner encounters Shadow protecting HQ at position 0.
+Runner has no further action.
+Corp uses Shadow to gain 2 credits.
+Corp uses Shadow to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Shadow to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on Shadow ("[subroutine] Gain 2 credits" and "[subroutine] Trace 3 - Give the Runner 1 tag").
+Runner passes Shadow protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Gabriel Santiago: Consummate Professional to gain 2 credits.
+Runner breaches HQ.
+Runner accesses Priority Requisition from HQ.
+Runner steals Priority Requisition and gains 3 agenda points.
+Runner is ending their turn 4 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 12 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Forged Activation Orders.
+Runner uses Forged Activation Orders to force the Corp to rez Hadrian's Wall.
+Corp pays 10 credits to use Forged Activation Orders to rez Hadrian's Wall protecting R&D at position 0.
+Runner spends click to make a run on HQ.
+Runner approaches Shadow protecting HQ at position 0.
+Runner encounters Shadow protecting HQ at position 0.
+Runner has no further action.
+Corp uses Shadow to gain 2 credits.
+Corp uses Shadow to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Shadow to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on Shadow ("[subroutine] Gain 2 credits" and "[subroutine] Trace 3 - Give the Runner 1 tag").
+Runner passes Shadow protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Gabriel Santiago: Consummate Professional to gain 2 credits.
+Runner breaches HQ.
+Runner accesses Corporate Troubleshooter from HQ.
+Runner pays 2 credits to trash Corporate Troubleshooter from HQ.
+Runner is ending their turn 5 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 6 with 2 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 6 with 8 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Runner passes ice protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 1 credits to rez Ice Wall protecting Server 2 at position 0.
+Runner encounters Ice Wall protecting Server 2 at position 0.
+Runner pays 1 credits to use Corroder to break all 1 subroutines on Ice Wall.
+Runner has no further action.
+Runner passes Ice Wall protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Private Security Force from Server 2.
+Runner steals Private Security Force and gains 2 agenda points.
+Runner wins the game.

@@ -1,0 +1,174 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 2 credits to rez Regolith Mining License in Server 1.
+Corp is ending their turn 1 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Ika.
+[!] Ika - [Erratum] Program: Icebreaker - Killer - Trojan
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Regolith Mining License from Server 1.
+Runner pays 3 credits to trash Regolith Mining License from Server 1.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Send a Message and gains 3 agenda points.
+Corp uses Send a Message to rez Anansi protecting R&D at position 0 at no cost.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner is ending their turn 1 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Longevity Serum from HQ.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Spin Doctor from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner is ending their turn 2 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner declines to pay to steal Obokata Protocol.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner declines to pay to steal Obokata Protocol.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Spin Doctor from HQ.
+Runner is ending their turn 3 with 2 credits and 4 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 4 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 0 credits to rez Spin Doctor in Server 2.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting HQ.
+Corp uses Spin Doctor to shuffle Regolith Mining License into R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp is ending their turn 5 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 2 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 1.
+Runner passes ice protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Trieste Model Bioroids from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 1.
+Runner passes ice protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Send a Message from HQ.
+Runner steals Send a Message and gains 3 agenda points.
+Runner wins the game.

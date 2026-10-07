@@ -1,0 +1,291 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 9
+
+Corp takes a mulligan.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Data Leak Reversal and I've Had Worse from the stack and draw 1 card.
+Runner spends click and pays 4 credits to install Eater.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 0 credits to rez Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 2 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paperclip and Wireless Net Pavilion from the stack and draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 2 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp is ending their turn 3 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Sure Gamble and Data Leak Reversal from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 3 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 4 with 0 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Daily Casts and Déjà Vu from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 4 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 5 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Joshua B. and Inject from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 5 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Breaking News and gains 1 agenda point.
+Corp uses Breaking News to give the Runner 2 tags.
+Corp is ending their turn 6 with 4 credits and 4 cards in HQ.
+[hr]
+Corp uses Breaking News to make the Runner lose 2 tags.
+Runner started their turn 6 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Wireless Net Pavilion and I've Had Worse from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Breaking News and gains 1 agenda point.
+Corp uses Breaking News to give the Runner 2 tags.
+Corp is ending their turn 7 with 2 credits and 4 cards in HQ.
+[hr]
+Corp uses Breaking News to make the Runner lose 2 tags.
+Runner started their turn 7 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Levy AR Lab Access and Eater from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 0 credits to install ice protecting Archives.
+Corp is ending their turn 8 with 0 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Rumor Mill and Déjà Vu from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp pays 0 credits to rez Jackson Howard in Server 2.
+Corp uses Jackson Howard to shuffle Sweeps Week into R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Beale and gains 2 agenda points.
+Corp wins the game.

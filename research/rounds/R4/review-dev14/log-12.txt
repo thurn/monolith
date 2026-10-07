@@ -1,0 +1,503 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 23
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to play Preemptive Action.
+Corp uses Preemptive Action to do nothing.
+Corp removes Preemptive Action from the game instead of trashing it.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Yusuf.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner places 1 virus counter on Yusuf.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner is ending their turn 1 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 3 credits to play Punitive Counterstrike.
+Corp uses Punitive Counterstrike to initiate a trace with strength 5.
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Punitive Counterstrike to do 0 meat damage.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner will continue the run.
+Runner approaches Archives.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Paperclip due to core damage.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Afshar protecting R&D at position 0.
+Runner encounters Afshar protecting R&D at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner is ending their turn 2 with 2 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 0 credits and 4 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Afshar to HQ and gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Afshar protecting R&D at position 0.
+Runner encounters Afshar protecting R&D at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner is ending their turn 3 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Afshar to HQ and gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 3 credits to play Punitive Counterstrike.
+Corp uses Punitive Counterstrike to initiate a trace with strength 5.
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Punitive Counterstrike to do 0 meat damage.
+Corp is ending their turn 4 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 3 cards in the grip.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 5 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 8 credits and 3 cards in the grip.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 6 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 10 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 7 with 12 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 12 credits and 4 cards in the grip.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Imp.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 8 with 14 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Building Blocks.
+Corp uses Building Blocks to reveal Chiyashi from HQ.
+Corp pays 0 credits to use Building Blocks to install Chiyashi from HQ protecting Archives.
+Corp uses Building Blocks to rez Chiyashi protecting Archives at position 0 at no cost.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 14 credits and 4 cards in the grip.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 2 credits to install Hippo.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 13 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 10 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Chiyashi to HQ and gain 12 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 10 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 13 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 15 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 25 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 28 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 15 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install Self-modifying Code, lowering its install cost by 1 credits. Hippo and Stimhack are trashed as a result.
+Runner pays 0 credits to install Self-modifying Code from among the set-aside cards (paying 1 credits less).
+Runner spends click and pays 2 credits to install Consume.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 13 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 28 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 31 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 13 credits and 4 cards in the grip.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 3 credits, to use Self-modifying Code to install Black Orchestra from the Stack.
+Runner trashes Clone Chip, and then pays 1 credits, to use Clone Chip to install Yusuf from the Heap.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 31 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Building Blocks.
+Corp uses Building Blocks to reveal Chiyashi from HQ.
+Corp pays 0 credits to use Building Blocks to install Chiyashi from HQ protecting Archives.
+Corp uses Building Blocks to rez Chiyashi protecting Archives at position 0 at no cost.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 13 with 26 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 11 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 14 with 26 credits and 4 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Chiyashi to HQ and gain 12 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp is ending their turn 14 with 32 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 14 with 10 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to install Knobkierie.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 14 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 32 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 15 with 30 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 15 with 8 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install D4v1d, lowering its install cost by 1 credits. Inject and Knobkierie are trashed as a result.
+Runner pays 2 credits to install D4v1d from among the set-aside cards (paying 1 credits less).
+Runner spends click and pays 1 credits to install Pelangi.
+Runner is ending their turn 15 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 16 with 30 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores SSL Endorsement and gains 3 agenda points.
+Corp is ending their turn 16 with 27 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 16 with 10 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install Daily Casts, lowering its install cost by 1 credits. Dirty Laundry and Dirty Laundry are trashed as a result.
+Runner pays 2 credits to install Daily Casts from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 16 with 14 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 17 with 27 credits and 4 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 17 with 28 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 17 with 14 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 15 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 18 with 28 credits and 4 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores SSL Endorsement and gains 3 agenda points.
+Corp is ending their turn 18 with 28 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 15 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Stargate from the top of the stack, trashes them, and gains 1 credits.
+Runner adds Inject to the grip.
+Runner adds Clone Chip to the grip.
+Runner adds Liberated Account to the grip.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 15 credits to rez Orion protecting HQ at position 0.
+Runner encounters Orion protecting HQ at position 0.
+Runner pays 4 credits to use Paperclip to install Paperclip from the Heap.
+Runner removes Hippo from the game to use Hippo to trash Orion protecting HQ at position 0.
+Runner uses Consume to place 1 virus counter on itself.
+Runner pays 7 credits to increase the strength of Paperclip to 8 and break all subroutines on Orion.
+Runner has no further action.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Knobkierie to place 1 virus counter on Consume.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Hostile Takeover from HQ.
+Runner steals Hostile Takeover and gains 1 agenda point.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses SDS Drone Deployment from HQ.
+Runner trashes 1 installed program (Black Orchestra) to steal SDS Drone Deployment from HQ.
+Runner steals SDS Drone Deployment and gains 3 agenda points.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 18 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 19 with 13 credits and 3 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 19 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 0 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Consume to gain 4 credits, removing 2 virus counters from itself.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Consume.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes MKUltra due to core damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 19 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 20 with 19 credits and 5 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 20 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 10 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 20 with 19 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 21 with 27 credits and 5 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 21 with 33 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 19 credits and 3 cards in the grip.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Consume to gain 2 credits, removing 1 virus counter from itself.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Consume.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 21 with 18 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 22 with 33 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 22 with 31 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 18 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner trashes Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner trashes Liberated Account.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Border Control protecting HQ at position 0.
+Runner encounters Border Control protecting HQ at position 0.
+Runner spends 1 virus counter from Consume and 1 virus counter from Pelangi to use Yusuf to break all 2 subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Knobkierie to place 1 virus counter on Consume.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Mausolus from HQ.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on HQ.
+Runner approaches Border Control protecting HQ at position 0.
+Runner encounters Border Control protecting HQ at position 0.
+Runner spends 1 virus counter from Consume and 1 virus counter from Pelangi to use Yusuf to break all 2 subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 22 with 31 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 23 with 27 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Border Control to HQ and gain 4 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores SDS Drone Deployment and gains 3 agenda points.
+Corp wins the game.

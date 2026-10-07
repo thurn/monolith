@@ -1,0 +1,185 @@
+Review the CORP's play in this game.
+Winner: corp (Flatline), turn 8
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Weyland Consortium: Building a Better World to gain 1 credits.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp is ending their turn 1 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Infiltration.
+Runner uses Infiltration to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Beanstalk Royalties.
+Corp uses Weyland Consortium: Building a Better World to gain 1 credits.
+Corp uses Beanstalk Royalties to gain 3 credits.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp is ending their turn 2 with 14 credits and 1 card in HQ.
+[hr]
+Runner started their turn 2 with 9 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Snare! from Server 1.
+Corp pays 4 credits to use Snare! to give the Runner 1 tag and do 3 net damage.
+Corp trashes Armitage Codebusting, Sneakdoor Beta, and Special Order due to net damage.
+Runner pays 0 credits to trash Snare! from Server 1.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Corroder.
+Runner is ending their turn 2 with 5 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Infiltration.
+Runner uses Infiltration to gain 2 credits.
+Runner is ending their turn 3 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp is ending their turn 4 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 8 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Priority Requisition from Server 1.
+Runner steals Priority Requisition and gains 3 agenda points.
+Runner spends click and pays 0 credits to play Easy Mark.
+Runner uses Easy Mark to gain 3 credits.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner is ending their turn 4 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click and pays 0 credits to install ice protecting Server 3.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 5 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 11 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Account Siphon.
+Runner uses Account Siphon to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Data Raven protecting HQ at position 0.
+Runner encounters Data Raven protecting HQ at position 0.
+Corp uses Data Raven to force the runner to take 1 tag on encountering it.
+Runner has no further action.
+Corp uses Data Raven to initiate a trace with strength 3 (Place 1 power counter).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Data Raven to place 1 power counter on itself.
+Corp resolves 1 unbroken subroutine on Data Raven ("[subroutine] Trace 3 - Place 1 power counter").
+Runner passes Data Raven protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Gabriel Santiago: Consummate Professional to gain 2 credits.
+Runner uses the replacement effect from Account Siphon.
+Runner uses Account Siphon to force the Corp to lose 5 credits, gain 10 credits, and take 2 tags.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 5 with 17 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 1 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp pays 1 credits to rez Melange Mining Corp. in Server 1.
+Corp spends clickclickclick to use Melange Mining Corp. to gain 7 credits.
+Corp is ending their turn 6 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 17 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 3 credits to rez Wall of Static protecting Server 3 at position 0.
+Runner encounters Wall of Static protecting Server 3 at position 0.
+Runner pays 2 credits to increase the strength of Corroder to 3 and break all  subroutines on Wall of Static.
+Runner has no further action.
+Runner passes Wall of Static protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Snare! from Server 3.
+Corp pays 4 credits to use Snare! to give the Runner 1 tag and do 3 net damage.
+Corp trashes Armitage Codebusting, Bank Job, and Sure Gamble due to net damage.
+Runner pays 0 credits to trash Snare! from Server 3.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 6 with 13 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 7 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends 1 hosted power counter from on Data Raven to use Data Raven to give the Runner 1 tag.
+Corp spends clickclickclick to use Melange Mining Corp. to gain 7 credits.
+Corp is ending their turn 7 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 13 credits and 2 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Ninja.
+Runner spends click to make a run on HQ.
+Runner approaches Data Raven protecting HQ at position 0.
+Runner encounters Data Raven protecting HQ at position 0.
+Corp uses Data Raven to force the runner to take 1 tag on encountering it.
+Runner has no further action.
+Corp uses Data Raven to initiate a trace with strength 3 (Place 1 power counter).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Data Raven to place 1 power counter on itself.
+Corp resolves 1 unbroken subroutine on Data Raven ("[subroutine] Trace 3 - Place 1 power counter").
+Runner passes Data Raven protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Gabriel Santiago: Consummate Professional to gain 2 credits.
+Runner breaches HQ.
+Runner accesses Enigma from HQ.
+Runner is ending their turn 7 with 9 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 8 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Scorched Earth.
+Corp uses Scorched Earth to do 4 meat damage.
+Corp trashes Decoy and Sure Gamble due to meat damage.
+Runner is flatlined.
+Corp wins the game.
