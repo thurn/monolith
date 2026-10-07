@@ -136,6 +136,10 @@
 (def winning-steal-value 50.0)
 
 (def ^:dynamic *runner-grip* "The Runner's grip size for the access being valued." 5)
+
+(def ^:dynamic *click-to-steal-ok*
+  "Whether the Runner will have a click left to pay a click steal cost (Méliès City Luxury Line)."
+  true)
 (def ^:dynamic *corp-win-denial*
   "Bound to the Corp's agenda points while valuing remote cards under :remote-denial: an agenda the
   Corp would win by scoring is worth a winning steal to the Runner (it prevents a loss)."
@@ -152,6 +156,10 @@
             winning-steal-value
             (* ap-value (ap t)))
         g (or *runner-grip* 5)
+        ;; "spend [click]" to steal: worthless on the last click (modern Runner review 1: Méliès declined 12 times)
+        v (if (and (not *click-to-steal-ok*)
+                   (re-find #"(?i)additional cost to steal[^.]*spend \[click\]" (str (:text (cards/printed t)))))
+            0.0 v)
         v (if d (cond (> d g) 0.0
                       (= d g) (if (>= (+ *runner-points* (ap t)) 7) v 0.0)
                       :else (- v (* 2.0 d)))
@@ -228,7 +236,9 @@
   "Runner value of breaching server k (credits-equivalent), excluding run costs."
   [obs k {:keys [corp-decklist ap-value hand w-damage extra-access] :or {extra-access 0} :as opts}]
   (binding [*runner-points* (or (get-in obs [:runner :agenda-point]) 0)
-            *runner-grip* (count (get-in obs [:runner :hand]))]
+            *runner-grip* (count (get-in obs [:runner :hand]))
+            ;; before the run its click is still counted; during it, one more click must remain
+            *click-to-steal-ok* (>= (or (get-in obs [:runner :click]) 0) (if (:run obs) 1 2))]
     (content-value* obs k opts)))
 
 (defn- content-value*

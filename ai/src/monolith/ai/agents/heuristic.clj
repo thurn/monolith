@@ -930,6 +930,15 @@
              bc (when (and m ice (not (:hidden ice))) (cards/break-cost m (cards/ice-model ice)))]
          (choice env (if (and bc (<= (+ (cards/play-cost t) bc) (credits env))) #"(?i)^Yes" #"(?i)^No")))
 
+       ;; trashing one of our own programs as a cost (Spec Work): the least useful one; a breaker only
+       ;; if another installed breaker covers its types (modern Runner review 1: Gauss, Unity, Echelon trashed)
+       (and (seq (acts env :select)) (re-find #"(?i)program[^.]*to trash|trash[^.]*program" msg))
+       (let [progs (get-in obs [:runner :rig :program])
+             covered-elsewhere (fn [c] (let [ts (cards/breaker-types (:title c))]
+                                         (every? (fn [t] (some #(and (not= (:cid %) (:cid c)) (contains? (cards/breaker-types (:title %)) t)) progs)) ts)))]
+         (select-best env (fn [c] (cond (not (cards/icebreaker? (:title c))) (- 5 (cards/play-cost (:title c)))
+                                        (covered-elsewhere c) 1
+                                        :else 0.01))))
        ;; tutors (Self-modifying Code): fetch a breaker for a type the rig cannot break
        (re-find #"(?i)choose a program|search your stack|program to install" msg)
        (let [missing (missing-breaker-types obs)
