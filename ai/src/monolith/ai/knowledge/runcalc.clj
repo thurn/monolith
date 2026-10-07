@@ -17,6 +17,7 @@
   (reduce (fn [st sub]
             (if (:ended st) st
                 (cond-> st
+                  (:corp-draw sub) (update :corp-hand (fnil + 0) (:corp-draw sub))
                   (:net sub) (update :damage + (:net sub))
                   (:meat sub) (update :damage + (:meat sub))
                   (:core sub) (update :damage + 1)

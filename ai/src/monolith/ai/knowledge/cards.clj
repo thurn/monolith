@@ -30,6 +30,9 @@
       (re-find #"lose \[click\]" l) (assoc :lose-click 1)
       ;; Winchester (trace), Swordsman: hardware or an AI program lost
       (re-find #"trash a piece of hardware|trash an ai program" l) (assoc :trash-program 1)
+      ;; Piranhas' "You may draw 1 card" is the Corp drawing: HQ grows before its ETR check (modern review 29:
+      ;; R&D run into rezzed Piranhas five times, predicted HQ 4 vs grip 4, actual 5 vs 4)
+      (re-find #"^\[subroutine\] you may draw 1 card|^you may draw 1 card" l) (assoc :corp-draw 1)
       ;; Piranhas: ETR while the Corp's HQ outnumbers the Runner's grip
       (re-find #"end the run if there are more cards in hq than in the grip" l) (assoc :etr-if-hq-bigger true)
       (re-find #"if there are (\d+) or more hosted advancement counters, end the run" l)
