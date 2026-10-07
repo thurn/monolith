@@ -1,5 +1,14 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-07 04:45 (R4, autonomous phase)
+
+- **Best agent:** RC18 candidate (RC12 spec + Corp `:rd-exposure`, Runner `:w-damage` 3.0; `rounds/R4/job-AQ.clj`), on code with ~20 modern-card knowledge fixes since RC12.
+- **Ladder:** T2 met only by RC1 (RC12 held-out g_c +0.70 < 0.85, Runner +1.68). T3 puzzles met. T3 review not met: held-out RC1 2.80, RC4 2.90, RC7 3.10, RC12 2.60. A T3 pass must now also replicate on fresh held-out seeds 910020–910039 (pre-registered 2026-10-07).
+- **Key finding:** old-deck dev reviews overstate held-out quality by ~0.65. New modern Standard dev matchups (`sweep/modern-mix`, decks in `ai/resources/monolith/ai/decks/modern.edn`) match the held-out level; on them the candidate went 2.70 (RC14) → 3.40 / 3.00 / 3.10 (RC15–RC17); Runner-only modern sets 2.40 → 3.10 → 3.60. Gate for the next held-out shot: two modern sets pooled ≥ 3.5 and a Runner-only modern set ≥ 3.2.
+- **T2 Corp:** corp-hard (`sweep/corp-hard`) reproduces the held-out Corp drop; the T3-motivated Corp options cost win rate there (no-naked-agendas +33/−17 when removed). Job AO tests combinations.
+- **Running:** AO (corp-hard Corp combinations), AQ (RC18 modern review sets). A Monitor reports job starts/ends.
+- **Next 3:** (1) score AQ's sets; fix the top errors in constructed positions (`puzzles/build` + forced actions; see `/tmp`-style scripts described in LOG) and repeat until the modern gate is met; (2) choose RC Corp options from AO (T2) without the review-visible ones; (3) held-out shot + replication when the gate is met.
+
 ## Status 2026-10-07 01:30 (R4, autonomous phase)
 
 - **Best agent:** RC12 = RC7 + core-damage + tag-threat (both sides) + Runner rez-tax 0.5, run-ap-eval 1.0, run-click-credit 1.0 (`rounds/R4/job-K12.clj`, frozen `ah`). Dev reviews 21 + 22 pooled **3.50** (Corp 3.5, Runner 3.5); modern-deck Runner diagnostic 3.30.
