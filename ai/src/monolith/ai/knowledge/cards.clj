@@ -204,7 +204,7 @@
   "Credits for breaker to fully break ice (all unbroken subs), or nil if impossible."
   [breaker ice]
   (when (can-break-type? breaker ice)
-    (let [gap (if (:min-ice-strength breaker) 0 (max 0 (- (:strength ice) (:strength breaker))))
+    (let [gap (if (or (:min-ice-strength breaker) (:ignore-strength breaker)) 0 (max 0 (- (:strength ice) (:strength breaker))))
           nsubs (count (remove :broken (:subs ice)))]
       (if-let [{:keys [cost pump break]} (:combined breaker)]
         (if (= :x cost)

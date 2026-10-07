@@ -55,6 +55,17 @@
         n (count bs)
         grip (count (get-in obs [:runner :hand]))]
     (concat (keep #(cards/breaker-model (assoc % :monolith-grip grip) n) bs)
+            ;; non-icebreaker break sources ignore strength: break hardware (Endurance; Boomerang only on
+            ;; its chosen ice) and Trojans hosted on ice (Botulus: only its host)
+            (keep (fn [c] (when-let [m (and (re-find #"(?i)\bbreak (up to|1|any)" (str (:text (cards/printed (:title c)))))
+                                            (cards/breaker-model c n))]
+                            (cond-> (assoc m :ignore-strength true)
+                              (get-in c [:special :boomerang-target]) (assoc :only-cid (get-in c [:special :boomerang-target :cid])))))
+                  (get-in obs [:runner :rig :hardware]))
+            (for [[_ srv] (get-in obs [:corp :servers]) ice (:ices srv) h (:hosted ice)
+                  :when (and (= "Runner" (:side h)) (re-find #"(?i)break 1 subroutine on host ice" (str (:text (cards/printed (:title h))))))
+                  :let [m (cards/breaker-model h n)] :when m]
+              (assoc m :ignore-strength true :only-cid (:cid ice)))
             (keep #(some-> (cards/breaker-model {:title (:title %) :monolith-grip grip} (inc n))
                            (assoc :heap true :install-cost (cards/play-cost (:title %))))
                   heap))))

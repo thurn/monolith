@@ -1,0 +1,657 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 23
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Fall Guy and Scrubber from the stack and draw 1 card.
+Runner spends click and pays 4 credits to install Eater.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 0 credits to rez Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores AstroScript Pilot Program and gains 2 agenda points.
+Corp is ending their turn 2 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Account Siphon and Joshua B. from the stack and draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Breaking News and gains 1 agenda point.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Beale and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 2 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Same Old Thing and Data Leak Reversal from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 3 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Breaking News and gains 1 agenda point.
+Corp uses Breaking News to give the Runner 2 tags.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 1 credits and 5 cards in HQ.
+[hr]
+Corp uses Breaking News to make the Runner lose 2 tags.
+Runner started their turn 4 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paparazzi and Data Leak Reversal from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 4 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Levy AR Lab Access and DDoS from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 5 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Fall Guy and Wireless Net Pavilion from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 15 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Inject and DDoS from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp is ending their turn 8 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 20 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Scrubber and Wireless Net Pavilion from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 14 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Same Old Thing and Retrieval Run from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 9 with 18 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 18 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Daily Casts and Déjà Vu from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 10 with 22 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 22 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash I've Had Worse and Fall Guy from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 11 with 26 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 26 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Eater and Déjà Vu from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 30 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 30 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Same Old Thing and Déjà Vu from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 13 with 34 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 34 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Inject from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 38 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp pays 1 credits to rez Commercial Bankers Group in Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 15 with 13 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 15 with 38 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click and pays 0 credits to play Account Siphon.
+Runner uses Account Siphon to make a run on HQ.
+Runner approaches ice protecting HQ at position 2.
+Corp pays 2 credits to rez Turnpike protecting HQ at position 2.
+Runner encounters Turnpike protecting HQ at position 2.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 1.
+Corp pays 4 credits to rez Archangel protecting HQ at position 1.
+Runner encounters Archangel protecting HQ at position 1.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Eater to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses the replacement effect from Account Siphon.
+Runner uses Account Siphon to force the Corp to lose 5 credits, gain 10 credits, and take 2 tags.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 15 with 41 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 16 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 16 with 41 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click and pays 4 credits to install Eater.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 0 credits to rez Pop-up Window protecting Server 2 at position 0.
+Runner encounters Pop-up Window protecting Server 2 at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting Server 2 at position 0.
+Runner will continue the run.
+Corp pays 0 credits to rez Mumbad Virtual Tour in Server 2.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 37 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 17 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 17 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 17 with 37 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 41 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 18 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 18 with 12 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 18 with 41 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 18 with 45 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 19 with 12 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 19 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 45 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Corp pays 2 credits to rez Turnpike protecting Server 2 at position 1.
+Runner encounters Turnpike protecting Server 2 at position 1.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Pop-up Window protecting Server 2 at position 0.
+Runner encounters Pop-up Window protecting Server 2 at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Server 2.
+Runner approaches Turnpike protecting Server 2 at position 1.
+Runner encounters Turnpike protecting Server 2 at position 1.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Pop-up Window protecting Server 2 at position 0.
+Runner encounters Pop-up Window protecting Server 2 at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 19 with 37 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 20 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp spends click to install a card in the root of Server 3.
+Corp spends 1 hosted agenda counter from on AstroScript Pilot Program to use AstroScript Pilot Program to place 1 advancement counter on a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp is ending their turn 20 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 20 with 37 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 1.
+Corp pays 0 credits to rez Resistor protecting Server 3 at position 1.
+Runner encounters Resistor protecting Server 3 at position 1.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 4 credits to rez Archangel protecting Server 3 at position 0.
+Runner encounters Archangel protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Eater to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner spends click and pays 4 credits to install Eater.
+Runner spends click to make a run on Server 3.
+Runner approaches Resistor protecting Server 3 at position 1.
+Runner encounters Resistor protecting Server 3 at position 1.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches Archangel protecting Server 3 at position 0.
+Runner encounters Archangel protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Eater to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner spends click and pays 4 credits to install Eater.
+Runner is ending their turn 20 with 27 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 21 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Corp is ending their turn 21 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 27 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to make a run on Server 2.
+Runner approaches Turnpike protecting Server 2 at position 1.
+Runner encounters Turnpike protecting Server 2 at position 1.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Pop-up Window protecting Server 2 at position 0.
+Runner encounters Pop-up Window protecting Server 2 at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Server 2.
+Runner approaches Turnpike protecting Server 2 at position 1.
+Runner encounters Turnpike protecting Server 2 at position 1.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Pop-up Window protecting Server 2 at position 0.
+Runner encounters Pop-up Window protecting Server 2 at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 21 with 19 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 22 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp is ending their turn 22 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 19 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner spends click to make a run on Server 3.
+Runner approaches Resistor protecting Server 3 at position 1.
+Runner encounters Resistor protecting Server 3 at position 1.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches Archangel protecting Server 3 at position 0.
+Runner encounters Archangel protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Eater to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner spends click and pays 4 credits to install Eater.
+Runner spends click to make a run on Server 3.
+Runner approaches Resistor protecting Server 3 at position 1.
+Runner encounters Resistor protecting Server 3 at position 1.
+Runner uses Eater to access not more than 0 cards for the remainder of this run.
+Runner pays 1 credits to use Eater to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches Archangel protecting Server 3 at position 0.
+Runner encounters Archangel protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Eater to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner spends click and pays 4 credits to install Eater.
+Runner is ending their turn 22 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 23 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Corp wins the game.

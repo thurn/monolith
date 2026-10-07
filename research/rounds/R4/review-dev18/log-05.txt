@@ -1,0 +1,230 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 6
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 3 credits to install Aumakua.
+[!] Aumakua - [Erratum] Whenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 2 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 8 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 0 credits to rez Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to use Aumakua to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Commercial Bankers Group from HQ.
+Runner pays 2 credits to trash Commercial Bankers Group from HQ.
+Runner is ending their turn 2 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to use Aumakua to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Beale from HQ.
+Runner steals Project Beale and gains 2 agenda points.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to use Aumakua to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses AR-Enhanced Security from HQ.
+Runner steals AR-Enhanced Security and gains 1 agenda point.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to use Aumakua to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to use Aumakua to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mumbad Virtual Tour from HQ.
+Runner is ending their turn 3 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 10 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 8 credits and 3 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez IP Block protecting R&D at position 0.
+Runner encounters IP Block protecting R&D at position 0.
+Corp uses IP Block to give the runner 1 tag because there is an installed AI.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to use Aumakua to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Calibration Testing from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to use Aumakua to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mumbad Virtual Tour from HQ.
+Runner is ending their turn 4 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches IP Block protecting R&D at position 0.
+Runner encounters IP Block protecting R&D at position 0.
+Corp uses IP Block to give the runner 1 tag because there is an installed AI.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to use Aumakua to break all 2 subroutines on IP Block.
+Runner has no further action.
+Runner passes IP Block protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to use Aumakua to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Amani Senai from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to use Aumakua to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Calibration Testing from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner pays 1credits from bad publicity to use Aumakua to break all 1 subroutines on Resistor.
+Runner has no further action.
+Runner passes Resistor protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Amani Senai from HQ.
+Runner is ending their turn 5 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Preemptive Action.
+Corp uses Preemptive Action to shuffle Commercial Bankers Group and Mumbad Virtual Tour and 1 unseen card into R&D.
+Corp removes Preemptive Action from the game instead of trashing it.
+Corp is ending their turn 6 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 7 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches IP Block protecting R&D at position 0.
+Runner encounters IP Block protecting R&D at position 0.
+Corp uses IP Block to give the runner 1 tag because there is an installed AI.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to use Aumakua to break all 2 subroutines on IP Block.
+Runner has no further action.
+Runner passes IP Block protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Beale and gains 2 agenda points.
+Runner wins the game.

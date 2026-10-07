@@ -55,6 +55,7 @@
   [ctx i st ice]
   (let [opts (concat
               (for [b (:breakers ctx)
+                    :when (or (nil? (:only-cid b)) (= (:only-cid b) (:cid ice)))
                     :let [ic (if (and (:heap b) (not (contains? (:heaped st) (:title b)))) (:install-cost b 0) 0)
                           c (some-> (cards/break-cost b ice) (+ ic))]
                     :when (and c (<= c (:credits st)))]
@@ -113,7 +114,7 @@
   (if (:hidden c)
     {:known false}
     {:known true :rezzed (boolean (:rezzed c))
-     :model (if (:rezzed c) (cards/ice-model c) (cards/printed-ice-model (:title c) remote?))}))
+     :model (assoc (if (:rezzed c) (cards/ice-model c) (cards/printed-ice-model (:title c) remote?)) :cid (:cid c))}))
 
 (defn evaluate
   "opts: :ices (observed ice vector, innermost first, as in state), :remote?, :breakers (models),

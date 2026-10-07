@@ -1,0 +1,252 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 8
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Sure Gamble and Fall Guy from the stack and draw 1 card.
+Runner spends click and pays 4 credits to install Eater.
+Runner spends click and pays 0 credits to play Account Siphon.
+Runner uses Account Siphon to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 0 credits to rez Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to end the run.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 2 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Rumor Mill and Wireless Net Pavilion from the stack and draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to end the run.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 4 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paparazzi and Joshua B. from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses PAD Campaign from HQ.
+Runner pays 4 credits to trash PAD Campaign from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 17 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Account Siphon and I've Had Worse from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner is ending their turn 4 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 20 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paperclip and Déjà Vu from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 0 credits to install Fall Guy.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Beale from HQ.
+Runner steals Project Beale and gains 2 agenda points.
+Runner is ending their turn 5 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 23 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 11 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Levy AR Lab Access and Sure Gamble from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 0 credits to install Same Old Thing.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tollbooth from HQ.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 6 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 24 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 7 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 13 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash I've Had Worse and Wireless Net Pavilion from the stack and draw 1 card.
+Runner spends click and pays 2 credits to install Scrubber.
+[!] Scrubber - Recurring credits usage not restricted
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner uses Scrubber to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Jackson Howard from HQ.
+Runner pays 3 credits to trash Jackson Howard from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner is ending their turn 7 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 25 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Breaking News and gains 1 agenda point.
+Corp uses Breaking News to give the Runner 2 tags.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 8 with 23 credits and 3 cards in HQ.
+[hr]
+Corp uses Breaking News to make the Runner lose 2 tags.
+Runner started their turn 8 with 9 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paparazzi and Inject from the stack and draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner has no further action.
+Corp uses Pop-up Window to force the runner to pay 1 credits.
+Runner pays 1 credits due to Pop-up Window subroutine.
+Corp resolves 1 unbroken subroutine on Pop-up Window ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Beale from HQ.
+Runner steals Project Beale and gains 2 agenda points.
+Runner wins the game.
