@@ -105,13 +105,14 @@
 
 (defn- doomed-run-event?
   "A run event (Account Siphon, Stimhack...) whose every possible target fails for certain at known
-  ice (dev reviews 11-12: Siphon fired twice into a rezzed Enigma with no decoder). Events that
-  bypass ice are left alone."
+  ice (dev reviews 11-12: Siphon fired twice into a rezzed Enigma with no decoder), or a bypass
+  event where bypassing gains nothing on any server."
   [s o env a]
   (let [t (get-in a [:args :card :title])
         p (when t (cards/printed t))
         txt (str (:text p))]
     (boolean
+     (or
      (when (and (= "play" (:command a)) (some #{"Run"} (:subtypes p)) (not (re-find #"(?i)bypass" txt)))
        (let [targets (cond (re-find #"(?i)run HQ\b|run on HQ" txt) [:hq]
                            (re-find #"(?i)run R&D|run on R&D" txt) [:rd]
@@ -119,7 +120,10 @@
                            :else (keys (get-in s [:corp :servers])))
              fails (fn [k] (let [ev (try (s1/server-run-eval env k {}) (catch Throwable _ nil))]
                              (and ev (<= (:p ev 1.0) 0.0))))]
-         (and (seq targets) (every? fails targets)))))))
+         (and (seq targets) (every? fails targets))))
+     ;; bypass events (Inside Job) where no server's first ice costs anything to pass
+     (when (and (= "play" (:command a)) (some #{"Run"} (:subtypes p)) (s1/bypass-event? txt))
+       (not-any? #(> (s1/bypass-gain env %) 0.5) (keys (get-in s [:corp :servers]))))))))
 
 (defn- remove-pointless-runs
   "With :prune-runs, drops plain runs S1's run calculator sees as pointless: nothing to gain on

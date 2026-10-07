@@ -39,6 +39,9 @@
       (re-find #"lose (\d+) \[credits\]" l) (assoc :lose-credits (n #"lose (\d+) \[credits\]"))
       (re-find #"give the runner (\d+) tag|1 tag" l) (assoc :tag 1)
       (re-find #"trash (1|a) program|trash an installed program" l) (assoc :trash-program 1)
+      ;; Archangel, Hydra-style bounces: the Corp picks the best installed card; the Runner pays to
+      ;; reinstall it (dev review 11: rig reinstalled each turn and bounced again by Archangel)
+      (re-find #"add (1|an) installed runner card to the grip" l) (assoc :trash-program 1)
       (re-find #"^gain (\d+) \[credits\]" l) (assoc :corp-gain (n #"gain (\d+)"))
       (re-find #"install" l) (assoc :corp-benefit 1))))
 

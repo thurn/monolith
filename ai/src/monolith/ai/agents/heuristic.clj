@@ -559,6 +559,19 @@
 (defn runnable [env]
   (for [a (acts env :run)] [(srv/server-key (get-in a [:args :server])) a]))
 
+(defn bypass-gain
+  "Utility a bypass-the-first-ice run event adds over a plain run on k (Inside Job): the plain run
+  with and without the outermost ice. ~0 when that ice is absent or the rig passes it for free
+  (dev review 12: Inside Job spent twice to bypass an Enigma Yog.0 breaks for 0)."
+  [env k]
+  (let [ices (get-in env [:obs :corp :servers k :ices])]
+    (if (empty? ices)
+      0.0
+      (- (server-run-utility (assoc-in env [:obs :corp :servers k :ices] (vec (butlast ices))) k {})
+         (server-run-utility env k {})))))
+
+(defn bypass-event? [txt] (re-find #"(?i)first[^.]*encounter a piece of ice[^.]*bypass" txt))
+
 (defn event-run-options
   "Run events in hand, as [utility action server-key]."
   [env]
@@ -582,8 +595,10 @@
                                tags (or (some-> (re-find #"(?i)take (\d+) tags" txt) second parse-long) 0)]
                            (- (+ (* (parse-long m) lost) lost) (* 2.5 tags))))]
           k servers
-          :when (or (not hq-rd-only) (#{:hq :rd} k))]
-      [(+ draw (- core) (server-run-utility env k (cond-> {:credits-bonus (- bonus-cr cost) :rez-bonus rez-bonus :extra-access extra :hand-delta (- -1 core-n)}
+          :when (or (not hq-rd-only) (#{:hq :rd} k))
+          :let [byp (when (bypass-event? txt) (bypass-gain env k))]
+          :when (or (nil? byp) (> byp 0.5))]
+      [(+ draw (- core) (or byp 0.0) (server-run-utility env k (cond-> {:credits-bonus (- bonus-cr cost) :rez-bonus rez-bonus :extra-access extra :hand-delta (- -1 core-n)}
                                             siphon (assoc :replacement-value siphon)))) a k])))
 
 (defn ability-run-options
@@ -837,7 +852,11 @@
        (let [target (:run-target @(:mem env))]
          (or (when target (choice env (re-pattern (str "^" (java.util.regex.Pattern/quote (srv/server-name target)) "$"))))
              (let [cs (remove #(re-find #"(?i)cancel" (:label %)) (acts env :choice))]
-               (when (seq cs) (apply max-key #(server-run-utility env (srv/server-key (:label %)) {}) cs)))))
+               (when (seq cs)
+                 (let [byp (bypass-event? (card-text (str (get-in p [:card :title]))))]
+                   (apply max-key #(let [k (srv/server-key (:label %))]
+                                     (+ (server-run-utility env k {}) (if byp (bypass-gain env k) 0.0)))
+                          cs))))))
 
        ;; heap breakers (Paperclip, Black Orchestra): only if install + breaking this ice is affordable
        (re-find #"(?i)^Install (.+) from the heap\?" msg)
