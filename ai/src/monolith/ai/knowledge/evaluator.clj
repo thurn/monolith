@@ -263,7 +263,10 @@
                            :when (some #(contains? (cards/breaker-types (:title %)) t) (:program rig))]
                        t))]
     {:agenda-points (* ap-value (- (get-in s [:corp :agenda-point] 0) (get-in s [:runner :agenda-point] 0)))
-     :credits (- (capped-credits (get-in s [:corp :credit]) (:credit-knee2 w)) (capped-credits (get-in s [:runner :credit]) (:credit-knee2 w)))
+     :credits (- (capped-credits (get-in s [:corp :credit]) (:credit-knee2 w)) (capped-credits (get-in s [:runner :credit]) (:credit-knee2 w))
+                 ;; :runner-poverty k: the Runner's first 5 credits are worth 1 + k each (reviews m27-m31: Runners
+                 ;; at 0-2 credits for 6-10 turns, every gain spent on a marginal run, Sure Gamble never castable)
+                 (* (or (:runner-poverty w) 0.0) (min 5 (max 0 (get-in s [:runner :credit] 0)))))
      :hosted-credits (- (hosted-credits (filter :rezzed corp-installed)) (hosted-credits runner-installed))
      ;; capped at the maximum hand sizes: lines are scored before the end-of-turn discard, so
      ;; cards beyond the limit would be counted and then thrown away (draw-into-discard)
