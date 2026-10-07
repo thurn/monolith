@@ -177,6 +177,12 @@
                    (and (= "play" (:command %)) (dominated %)))
               acts))))
 
+(defn- side-state
+  "Both players' state minus per-turn bookkeeping, to detect actions that change nothing."
+  [s]
+  (let [strip #(dissoc % :register :prompt :prompt-state :selected :toast :properties)]
+    [(strip (:corp s)) (strip (:runner s)) (boolean (:run s))]))
+
 (defn- signature [s side]
   (hash [(get-in s [side :click]) (get-in s [:corp :credit]) (get-in s [:runner :credit])
          (sort (map :cid (get-in s [side :hand])))
@@ -251,7 +257,8 @@
         (let [children
               (vec
                (for [{:keys [line snap]} frontier
-                     :let [_ (sim/restore! sm snap)
+                     :let [psig (side-state snap)
+                           _ (sim/restore! sm snap)
                            d (sim/decision sm)
                            acts (when (and d (= side (:side d)) (or (= :turn (:kind d)) (and branch-prompts (= :prompt (:kind d)))))
                                   (sim/legal sm d))
@@ -275,7 +282,10 @@
                            {:keys [status n]} (if ok (advance! sm side weights decks rng (if sim-runs 200 60) sim-runs branch-prompts) {:status :bad :n 0})
                            _ (vswap! apps + 1 n)]
                      :when (not= status :bad)
-                     :let [s (sim/snapshot sm)]]
+                     :let [s (sim/snapshot sm)]
+                     ;; an action that changes nothing (an ability with no legal target, cancelled):
+                     ;; review 20: Corporate Troubleshooter fired 10+ times a turn to no effect
+                     :when (not (and (= status :open) (= psig (side-state s))))]
                  {:line (conj line a) :snap s :score (score status) :status status :sig (signature s side)}))
               ;; transposition merge: same resulting position, keep the best-scoring line
               children (vals (reduce (fn [m c] (if (and (m (:sig c)) (>= (:score (m (:sig c))) (:score c))) m (assoc m (:sig c) c)))
