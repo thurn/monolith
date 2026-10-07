@@ -1,0 +1,205 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 8
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp is ending their turn 1 with 10 credits and 2 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Revolver.
+Runner spends click and pays 0 credits to play Jailbreak.
+Runner uses Jailbreak to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Saisentan protecting R&D at position 0.
+Runner encounters Saisentan protecting R&D at position 0.
+Corp uses Saisentan to choose the card type Event.
+Runner pays 2 credits and spends 3 hosted power counters from on Revolver to increase the strength of Revolver to 4 and break all 3 subroutines on Saisentan.
+Runner has no further action.
+Runner passes Saisentan protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Jailbreak to draw 1 card.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Neurospike.
+Corp uses Neurospike to do nothing.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Saisentan protecting R&D at position 0.
+Runner encounters Saisentan protecting R&D at position 0.
+Corp uses Saisentan to choose the card type Event.
+Runner pays 2 credits and spends 3 hosted power counters from on Revolver to increase the strength of Revolver to 4 and break all 3 subroutines on Saisentan.
+Runner has no further action.
+Runner passes Saisentan protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 3 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 3 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 9 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Mindscaping.
+Corp uses Mindscaping to gain 4 credits and draw 2 cards.
+Corp uses Mindscaping to add 1 card from HQ to the top of R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 4 with 11 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 9 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to install Docklands Pass.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Tatu-Bola protecting Server 1 at position 0.
+Runner encounters Tatu-Bola protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Tatu-Bola to end the run.
+Corp resolves 1 unbroken subroutine on Tatu-Bola ("[subroutine] End the run").
+Runner is ending their turn 4 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Longevity Serum and gains 2 agenda points.
+Corp uses Longevity Serum to trash 4 cards from HQ.
+Corp uses Longevity Serum to shuffle Hansei Review and Hansei Review and 1 unseen card into R&D.
+Corp is ending their turn 5 with 6 credits and 0 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 5 with 8 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Red Team.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 1 credits to install Shibboleth.
+Runner is ending their turn 5 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 7 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 6 with 6 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 4 cards in the grip.
+Runner spends clickclick and pays 1 credits to play Lie Low.
+Runner uses Lie Low to draw 4 cards.
+Runner spends click to use Red Team to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Red Team to gain 3 credits.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Longevity Serum and gains 2 agenda points.
+Corp uses Longevity Serum to trash 1 card from HQ.
+Corp uses Longevity Serum to shuffle Hedge Fund and Karunā and 1 unseen card into R&D.
+Corp is ending their turn 7 with 3 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 7 with 2 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Red Team to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Red Team to gain 3 credits.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to install Mu Safecracker.
+[!] Mu Safecracker - Stealth credit restriction not enforced
+Runner is ending their turn 7 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 3 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 8 with 3 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 8 with 10 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 0 credits to play Blueberry!™ Diesel.
+Runner looks at the top 2 cards of the stack and adds one to the bottom of the stack.
+Runner uses Blueberry!™ Diesel to draw 2 cards.
+Runner spends click and pays 4 credits to install Red Team.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Carpe Diem.
+Runner identifies their mark to be R&D.
+Runner uses Carpe Diem to gain 4 credits.
+Runner uses Carpe Diem to make a run on R&D.
+Runner approaches Saisentan protecting R&D at position 0.
+Runner encounters Saisentan protecting R&D at position 0.
+Corp uses Saisentan to choose the card type Event.
+Runner has no further action.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Blueberry!™ Diesel due to net damage.
+Corp uses Saisentan to deal 1 additional net damage.
+Corp trashes Docklands Pass due to net damage.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes No Free Lunch due to net damage.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Tread Lightly due to net damage.
+Corp uses Saisentan to deal 1 additional net damage.
+Corp trashes  due to net damage.
+Runner is flatlined.
+Corp wins the game.
+Corp resolves 3 unbroken subroutines on Saisentan ("[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").

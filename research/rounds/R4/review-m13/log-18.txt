@@ -1,0 +1,329 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 13
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Rising Tide.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play The Price.
+Runner uses The Price to trash Odore, Devil Charm, Mystic Maemi, and Running Hot from the top of the stack.
+Runner pays 1 credits to use The Price to install Odore from the Heap (paying 3 credits less).
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 17 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 7 credits to rez Ivik protecting HQ at position 0.
+Runner encounters Ivik protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ivik to do 2 net damage.
+Corp trashes Devil Charm and Solidarity Badge due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp uses Ivik to end the run.
+Corp resolves 2 unbroken subroutines on Ivik ("[subroutine] Do 2 net damage" and "[subroutine] End the run").
+Runner is ending their turn 2 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 3 with 9 credits and 1 card in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Hafrún protecting R&D at position 0.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp uses Hafrún to trash 1 card from HQ to prevent subroutines from being broken by Odore abilities for the remainder of the run.
+Runner encounters Hafrún protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Rising Tide to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 2 credits to rez Hafrún protecting Server 1 at position 1.
+Runner encounters Hafrún protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Hafrún to end the run.
+Corp resolves 1 unbroken subroutine on Hafrún ("[subroutine] End the run").
+Runner is ending their turn 3 with 2 credits and 5 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 4 with 5 credits and 0 cards in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Yagi-Uda and gains 2 agenda points.
+Corp is ending their turn 4 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 4 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Hafrún protecting R&D at position 0.
+Runner encounters Hafrún protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Rising Tide to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Fujii Asset Retrieval and gains 3 agenda points.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Paladin Poemu and Running Hot due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 1 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Hafrún protecting R&D at position 0.
+Runner encounters Hafrún protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Rising Tide to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Sericulture Expansion and gains 2 agenda points.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 5 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 0 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install Utae.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 1 credits and 5 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 7 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Hybrid Release and gains 1 agenda point.
+Corp is ending their turn 7 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 1 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install Fencer Fueno.
+Runner is ending their turn 7 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 4 credits and 4 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on R&D.
+Runner approaches Hafrún protecting R&D at position 0.
+Runner encounters Hafrún protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Utae to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 2 credits to rez Diviner protecting Server 1 at position 2.
+Runner encounters Diviner protecting Server 1 at position 2.
+Runner pays 3 credits to increase the strength of Utae to 3 and break all  subroutines on Diviner.
+Runner has no further action.
+Runner passes Diviner protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Hafrún protecting Server 1 at position 1.
+Runner encounters Hafrún protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Hafrún to end the run.
+Corp resolves 1 unbroken subroutine on Hafrún ("[subroutine] End the run").
+Runner is ending their turn 8 with 0 credits and 4 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 9 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Sericulture Expansion and gains 2 agenda points.
+Corp is ending their turn 9 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 2 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 5 credits and 5 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 10 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 5 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on R&D.
+Runner approaches Hafrún protecting R&D at position 0.
+Runner encounters Hafrún protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Utae to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 4 credits and 5 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 11 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 11 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 11 with 5 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click and pays 1 credits to play Steelskin Scarring.
+Runner uses Steelskin Scarring to draw 3 cards.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Runner passes ice protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Urtica Cipher from Server 2.
+Corp uses Urtica Cipher to do 2 net damage.
+Corp trashes Botulus and Paladin Poemu due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 11 with 5 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 12 with 2 credits and 3 cards in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 4 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on R&D.
+Runner approaches Hafrún protecting R&D at position 0.
+Runner encounters Hafrún protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Utae to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 2 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 13 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Yagi-Uda and gains 2 agenda points.
+Corp wins the game.

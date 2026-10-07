@@ -1,0 +1,104 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 4
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 3 credits to install Boi-tatá.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Hybrid Release and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Sure Gamble due to net damage.
+Runner is ending their turn 1 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to play Bring Them Home.
+Corp uses Bring Them Home to reveal Boi-tatá and Scrounge from the Grip and place them on the top of the stack (in a random order).
+Corp is ending their turn 2 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Anemone protecting HQ at position 0.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Avgustina Ivanovskaya and Boi-tatá due to net damage.
+Runner encounters Anemone protecting HQ at position 0.
+Runner pays 5 credits to increase the strength of Boi-tatá to 4 and break all  subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses See How They Run from HQ.
+Runner steals See How They Run and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Ghosttongue due to net damage.
+Runner is ending their turn 2 with 1 credits and 1 card in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Longevity Serum from Archives.
+Runner steals Longevity Serum and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Light the Fire! due to net damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 3 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 1 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Anemone protecting HQ at position 0.
+Runner encounters Anemone protecting HQ at position 0.
+Runner has no further action.
+Corp uses Anemone to do 1 net damage.
+Corp trashes Avgustina Ivanovskaya due to net damage.
+Corp resolves 1 unbroken subroutine on Anemone ("[subroutine] Do 1 net damage").
+Runner passes Anemone protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses See How They Run from HQ.
+Runner steals See How They Run and gains 2 agenda points.
+Runner wins the game.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Scrounge due to net damage.

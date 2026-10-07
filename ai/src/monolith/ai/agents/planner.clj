@@ -171,6 +171,10 @@
                                    ev (try (s1/server-run-eval env k {}) (catch Throwable _ nil))
                                    v (try (srv/content-value o k (s1/run-opts env)) (catch Throwable _ 1.0))]
                                (boolean (or (some #{k} (get-in o [:runner :register :unsuccessful-run]))
+                                            ;; broke facecheck: an unrezzed outermost ice with <= 2 credits (rubric:
+                                            ;; reasonless facecheck; job AX: run-ap-eval doubled these)
+                                            (let [outer (last (get-in o [:corp :servers k :ices]))]
+                                              (and outer (not (:rezzed outer)) (<= (or (get-in o [:runner :credit]) 0) 2)))
                                             (and ev (or (<= v 0.05) (<= (:p ev 1.0) 0.0)
                                                         ;; flatline risk dominates (one sampled ice can hide it from the plan)
                                                         (< (:u ev 0.0) -20.0))))))))]

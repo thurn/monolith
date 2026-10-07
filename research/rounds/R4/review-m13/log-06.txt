@@ -1,0 +1,226 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 7
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 1.
+Corp is ending their turn 1 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Marjanah.
+Runner spends click and pays 2 credits to install Cat's Cradle.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Nico Campaign from Server 1.
+Runner pays 2 credits to trash Nico Campaign from Server 1.
+Runner is ending their turn 1 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Otto Campaign in Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Vertigo from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Bravado to gain 7 credits.
+Runner is ending their turn 2 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 4 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Vertigo from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Wave protecting R&D at position 0.
+Corp uses Wave to reveal Ablative Barrier from R&D and add it to HQ.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Architect Deployment Test and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 1 credits and 5 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp pays 2 credits to rez Otto Campaign in Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 3.
+Corp is ending their turn 4 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to play Blueberry!™ Diesel.
+Runner looks at the top 2 cards of the stack and adds one to the bottom of the stack.
+Runner uses Blueberry!™ Diesel to draw 2 cards.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Megaprix Qualifier and gains 1 agenda point.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 3 credits to install Carmen.
+Runner is ending their turn 4 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 3 credits and 4 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp uses Otto Campaign to trash itself and gain [click][click].
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 8 credits and 4 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Petty Cash.
+Corp uses Petty Cash to gain 5 [credits].
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 3 credits to install ice protecting Server 2.
+Corp is ending their turn 6 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 10 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 0 credits to play Mutual Favor.
+Runner uses Mutual Favor to add Carmen from the stack to the grip and shuffle the stack.
+Runner uses Mutual Favor to install Carmen.
+Runner pays 3 credits to install Carmen from the Stack.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits and derezzes 1 Harmonic ice (Wave protecting R&D at position 0) to rez Bloop protecting HQ at position 0.
+Runner encounters Bloop protecting HQ at position 0.
+Runner pays 5 credits to increase the strength of Carmen to 5 and break all 3 subroutines on Bloop.
+Runner has no further action.
+Runner passes Bloop protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Ingatan from HQ.
+Runner steals Project Ingatan and gains 2 agenda points.
+Runner is ending their turn 6 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 7 credits and 3 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp uses Otto Campaign to trash itself and gain [click][click].
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 12 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 7 with 4 credits and 4 cards in the grip.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install No Free Lunch.
+Runner trashes No Free Lunch to use No Free Lunch to gain 3 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Wave protecting R&D at position 0.
+Corp uses Wave to reveal Ansel 1.0 from R&D and add it to HQ.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 2 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Ingatan and gains 2 agenda points.
+Runner wins the game.
