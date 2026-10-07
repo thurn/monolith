@@ -1,0 +1,479 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 16
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 1.
+Corp is ending their turn 1 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to install Carmen.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install Docklands Pass.
+Runner is ending their turn 1 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 3 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 8 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Nico Campaign from Server 2.
+Runner pays 2 credits to trash Nico Campaign from Server 2.
+Runner is ending their turn 2 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 8 credits and 3 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 6 credits to rez Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Carmen.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 1.
+Corp trashes Nico Campaign in Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Seamless Launch from HQ.
+Runner accesses Wage Workers from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner is ending their turn 3 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner spends click to steal Méliès City Luxury Line from Server 1.
+Runner steals Méliès City Luxury Line and gains 3 agenda points.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 1 credits to rez Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting R&D at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 4 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 6 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 5 with 5 credits and 4 cards in the grip.
+Runner spends click and pays 0 credits to install No Free Lunch.
+Runner trashes No Free Lunch to use No Free Lunch to gain 3 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 6 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 7 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to install Carmen.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting R&D at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 6 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 7 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Petty Cash.
+Corp uses Petty Cash to gain 5 [credits].
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 11 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Flip Switch.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 7 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 11 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp pays 2 credits to rez Otto Campaign in Server 4.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 11 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 8 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner uses Bravado to gain 7 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on HQ.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner pays 5 credits to increase the strength of Carmen to 5 and break all 3 subroutines on Ansel 1.0.
+Runner has no further action.
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Petty Cash from HQ.
+Runner accesses Project Ingatan from HQ.
+Runner steals Project Ingatan and gains 2 agenda points.
+Runner is ending their turn 8 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 11 credits and 5 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 3.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 9 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 2 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 11 credits and 5 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Hedge Fund in Archives to HQ.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 10 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 10 with 6 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to install Cat's Cradle.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner pays 1 credits to use Cat's Cradle to break all 1 subroutines on Vertigo.
+Runner has no further action.
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Megaprix Qualifier and gains 1 agenda point.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 10 credits and 6 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp uses Otto Campaign to trash itself and gain [click][click].
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp pays 2 credits to rez Otto Campaign in Server 5.
+Corp spends click and pays 0 credits to install ice protecting Server 5.
+Corp spends click and pays 1 credits to install ice protecting Server 5.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 11 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 11 with 8 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Flip Switch to do nothing.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner pays 1 credits to use Cat's Cradle to break all 1 subroutines on Vertigo.
+Runner has no further action.
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 5 credits to install Red Team.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner pays 5 credits to increase the strength of Carmen to 5 and break all 3 subroutines on Ansel 1.0.
+Runner has no further action.
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Wage Workers from HQ.
+Runner accesses Petty Cash from HQ.
+Runner is ending their turn 11 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 13 credits and 4 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 5.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 12 with 13 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 12 with 0 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner pays 1 credits to use Cat's Cradle to break all 1 subroutines on Vertigo.
+Runner has no further action.
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 13 credits and 6 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Petty Cash.
+Corp uses Petty Cash to gain 5 [credits].
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp spends click to install a card in the root of Server 3.
+Corp is ending their turn 13 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner pays 5 credits to increase the strength of Carmen to 5 and break all 3 subroutines on Ansel 1.0.
+Runner has no further action.
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Hedge Fund from HQ.
+Runner accesses Tranquility Home Grid from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner is ending their turn 13 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 17 credits and 5 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp uses Otto Campaign to trash itself and gain [click][click].
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Megaprix Qualifier and gains 1 agenda point.
+Corp uses Haas-Bioroid: Precision Design to add Hedge Fund in Archives to HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 18 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 14 with 2 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner pays 1 credits to use Cat's Cradle to break all 1 subroutines on Vertigo.
+Runner has no further action.
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 14 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 18 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 21 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 15 with 4 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner pays 1 credits to use Cat's Cradle to break all 1 subroutines on Vertigo.
+Runner has no further action.
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner pays 5 credits to increase the strength of Carmen to 5 and break all 3 subroutines on Ansel 1.0.
+Runner has no further action.
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Tranquility Home Grid from HQ.
+Runner accesses Wage Workers from HQ.
+Runner is ending their turn 15 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 21 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 24 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 16 with 1 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to play Mutual Favor.
+Runner uses Mutual Favor to add Cat's Cradle from the stack to the grip and shuffle the stack.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner pays 1 credits to use Cat's Cradle to break all 1 subroutines on Vertigo.
+Runner has no further action.
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Architect Deployment Test and gains 2 agenda points.
+Runner wins the game.

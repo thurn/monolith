@@ -16,7 +16,7 @@
    [clojure.java.io :as io]
    [monolith.ai.harness :as h]))
 
-(def ks [:rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls :tagged-ends
+(def ks [:broke-ends :rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls :tagged-ends
          :open-central-with-ice :ignored-advanced-remote :broke-facechecks :no-info-archives])
 
 (defn- agenda-count [s zone]
@@ -50,6 +50,10 @@
                                        (some #(empty? (get-in s [:corp :servers % :ices])) [:hq :rd])
                                        (some #(= "ICE" (:type %)) (get-in s [:corp :hand])))
                               (bump! :corp :open-central-with-ice 1))
+                            ;; either side ending its own turn with 2 credits or fewer (economy notes: the most frequent
+                            ;; theme in RC29-RC33 reviews, 27/50 Corp and 37/80 Runner games)
+                            (when (<= (or (get-in s [(:active-player p) :credit]) 0) 2)
+                              (bump! (:active-player p) :broke-ends 1))
                             ;; Runner ending its turn tagged with a grip of 4 or fewer (kill-deck exposure)
                             (when (and (= :runner (:active-player p)) (pos? (get-in s [:runner :tag :base] 0))
                                        (<= (count (get-in s [:runner :hand])) 4))
