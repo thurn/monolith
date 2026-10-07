@@ -180,6 +180,15 @@
                                             ;; reasonless facecheck; job AX: run-ap-eval doubled these)
                                             (let [outer (last (get-in o [:corp :servers k :ices]))]
                                               (and outer (not (:rezzed outer)) (<= (or (get-in o [:runner :credit]) 0) 2)))
+                                            ;; :blind-facecheck: an unrezzed outermost ice, no icebreaker installed, and a Corp
+                                            ;; that can pay to rez, unless the server is worth the gamble (review themes since
+                                            ;; m23: "facecheck with no breaker" in 25/80 Runner games)
+                                            (when (:blind-facecheck weights)
+                                              (let [outer (last (get-in o [:corp :servers k :ices]))]
+                                                (and outer (not (:rezzed outer)) (:hidden outer)
+                                                     (empty? (srv/icebreakers o))
+                                                     (>= (or (get-in o [:corp :credit]) 0) 3)
+                                                     (< v 30.0))))
                                             (and ev (or (<= v 0.05) (<= (:p ev 1.0) 0.0)
                                                         ;; flatline risk dominates (one sampled ice can hide it from the plan)
                                                         (< (:u ev 0.0) -20.0))))))))]

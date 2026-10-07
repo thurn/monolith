@@ -8,6 +8,7 @@
     :idle-turns          own turns with only credit clicks / free abilities
     :ignored-advanced-remote Runner turns ended with 5+ credits and an unrun remote holding an advanced card
     :broke-facechecks    runs started with <= 2 credits into a server whose outermost ice is unrezzed
+    :blind-facechecks    runs into an unrezzed outermost ice with no icebreaker installed, Corp at 3+ credits
     :no-info-archives    Archives runs when every card there is faceup and none is an agenda
   plus :flatlined (Runner lost by flatline) and :decked (Corp lost by decking).
   In an evalset row the tested agent plays (:side row); the other side is the opponent."
@@ -17,7 +18,7 @@
    [monolith.ai.harness :as h]))
 
 (def ks [:broke-ends :rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls :tagged-ends
-         :open-central-with-ice :ignored-advanced-remote :broke-facechecks :no-info-archives])
+         :open-central-with-ice :ignored-advanced-remote :broke-facechecks :blind-facechecks :no-info-archives])
 
 (defn- agenda-count [s zone]
   (count (filter #(= "Agenda" (:type %)) (get-in s [:corp zone]))))
@@ -87,6 +88,10 @@
                                   outer (last (get-in p [:corp :servers k :ices]))]
                               (when (and outer (not (:rezzed outer)) (<= (or (get-in p [:runner :credit]) 0) 2))
                                 (bump! :runner :broke-facechecks 1))
+                              ;; no icebreaker installed against a Corp able to rez (3+ credits)
+                              (when (and outer (not (:rezzed outer)) (>= (or (get-in p [:corp :credit]) 0) 3)
+                                         (not-any? #(re-find #"(?i)icebreaker" (str (:subtype %))) (get-in p [:runner :rig :program])))
+                                (bump! :runner :blind-facechecks 1))
                               (when (and (= k :archives)
                                          (every? #(and (:seen %) (not= "Agenda" (:type %))) (get-in p [:corp :discard])))
                                 (bump! :runner :no-info-archives 1))))
