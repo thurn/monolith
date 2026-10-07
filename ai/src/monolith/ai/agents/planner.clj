@@ -37,12 +37,8 @@
             ;; :run-ap-eval: value the run's agenda points on the evaluator's scale (ap-value x the
             ;; :agenda-points weight, 17.5/point) rather than the run calculator's 7, which made run lines
             ;; lose to +2-credit economy lines (dev review 20: HQ unrun for 5 turns against a poor Corp)
-            env-base (if (:run-ap-eval w)
-                       (-> env-base
-                           (assoc-in [:weights :run-ap-value]
-                                     (* (or (:ap-value w) 7.0) (get-in w [:eval :agenda-points] 1.0) (:run-ap-eval w)))
-                           (assoc-in [:weights :run-asset-eval] true))
-                       env-base)
+            ;; (the scaling itself now lives in s1/run-opts, shared with S1's own run choices)
+            env-base env-base
             env (assoc env-base :obs o :side :runner)
             ev (s1/server-run-eval env k {})
             cv (:click-value (:weights env-base))]

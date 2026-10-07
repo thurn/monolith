@@ -589,7 +589,11 @@
         ;; urgency: steals matter more as the Corp nears 7 points
         urgency (+ 1.0 (* (or (w env :run-urgency) 0.0) (max 0 (- corp-ap 3))))]
     {:corp-decklist (corp-decklist env)
-     :ap-value (* urgency (or (w env :run-ap-value) (w env :ap-value)))
+     ;; :run-ap-eval k: agenda points on the evaluator's scale (ap-value x :agenda-points x k) for S1 too, so
+     ;; S1's choice (the planner's anchor) and the planner's run lines agree (archetype review: HQ unrun for 15
+     ;; turns; S1 valued an HQ access below a 4-credit break the planner would pay)
+     :ap-value (* urgency (or (w env :run-ap-value) (w env :ap-value))
+                  (if-let [k (w env :run-ap-eval)] (* k (get-in env [:weights :eval :agenda-points] 1.0)) 1.0))
      :w-damage (w env :w-damage)
      :hand (count (get-in (:obs env) [:runner :hand]))
      :remote-ice-prior (w env :remote-ice-prior)
@@ -597,7 +601,7 @@
      ;; only with money to follow up: broke facechecks are poor play (review-runner3: HQ at 1-2 credits on T1-T3)
      :rez-tax (when (>= (or (credits env) 0) 6) (w env :rez-tax))
      :remote-denial (w env :remote-denial)
-     :asset-eval (w env :run-asset-eval)}))
+     :asset-eval (or (w env :run-asset-eval) (some? (w env :run-ap-eval)))}))
 
 (declare server-run-eval)
 

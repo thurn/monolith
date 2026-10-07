@@ -222,15 +222,7 @@
                        t))]
     {:agenda-points (* ap-value (- (get-in s [:corp :agenda-point] 0) (get-in s [:runner :agenda-point] 0)))
      :credits (- (capped-credits (get-in s [:corp :credit]) (:credit-knee2 w)) (capped-credits (get-in s [:runner :credit]) (:credit-knee2 w)))
-     ;; a rezzed Corp card in an iceless remote the Runner can afford to trash keeps half its value
-     ;; (modern review 1: Nico Campaign rezzed in naked remotes and trashed, turn after turn)
-     :hosted-credits (- (reduce + 0.0 (for [c (filter :rezzed corp-installed)
-                                            :let [[_ k] (:zone c)
-                                                  exposed (and k (str/starts-with? (name k) "remote")
-                                                               (empty? (get-in s [:corp :servers k :ices]))
-                                                               (>= (get-in s [:runner :credit] 0) (or (cards/trash-cost (:title c)) 99)))]]
-                                        (* (if exposed 0.5 1.0) (hosted-credits [c]))))
-                        (hosted-credits runner-installed))
+     :hosted-credits (- (hosted-credits (filter :rezzed corp-installed)) (hosted-credits runner-installed))
      ;; capped at the maximum hand sizes: lines are scored before the end-of-turn discard, so
      ;; cards beyond the limit would be counted and then thrown away (draw-into-discard)
      :hands (- (corp-hand-value (min (count corp-hand) (or (get-in s [:corp :hand-size :total]) 5) 7) (:corp-hand-curve w))
