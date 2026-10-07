@@ -373,7 +373,7 @@
                   margin (cond
                            ;; :score-margin: scoring now (or advancing to score now) is hard to override; rollouts
                            ;; let S1 score next turn, so delaying looks free to the plan (puzzle d-credit-then-advance)
-                           (and (:score-margin weights) (#{:score :advance-to-score :seamless} s1-rule)) (:score-margin weights)
+                           (and (:score-margin weights) (#{:score :advance-to-score :credit-to-score :seamless} s1-rule)) (:score-margin weights)
                            (and s1-strong-margin (#{:protect-centrals :react-centrals :remove-tag :safety-draw :kill
                                                     :score :advance-to-score :seamless :dig-breakers :dig-ice} s1-rule))
                            s1-strong-margin

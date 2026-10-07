@@ -108,6 +108,20 @@
                 [need a])]
     (second (first (sort-by first cands)))))
 
+(defn c-credit-to-score
+  "Click for a credit when that is what stands between an installed agenda and scoring it this turn
+  (advances needed + missing credits <= clicks): puzzle d-credit-then-advance-to-score, where icing an
+  open central first lost the score."
+  [env]
+  (let [obs (:obs env)
+        cr (credits env)
+        ok (some (fn [a] (let [c (find-card obs (get-in a [:args :card :cid]))]
+                           (when (and c (= "Agenda" (:type c)))
+                             (let [need (adv-need c)]
+                               (and (> need cr) (<= (+ need (- need cr)) (clicks env)))))))
+                 (acts env :advance))]
+    (when ok (act env :credit))))
+
 (defn place-advancements
   "Advancement counters an operation places on an installed card, from its text (nil if none)."
   [title]
@@ -391,6 +405,7 @@
   [[:kill c-kill]
    [:score c-score]
    [:advance-to-score c-advance-to-score]
+   [:credit-to-score c-credit-to-score]
    [:seamless c-seamless]
    [:protect-centrals c-protect-centrals]
    [:react-centrals c-react-centrals]
