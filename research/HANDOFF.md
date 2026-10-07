@@ -1,5 +1,13 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-07 16:45 (R4, autonomous phase)
+
+- **Best agent:** RC32 (`rounds/R4/job-BO.clj`, frozen `bn` = `da85838`): RC31 spec + Corp `:unaffordable-ice` 0.35. Current code adds Piranhas/audit parses, central access risk, Tread Lightly targeting, variant dev decks (RC33 reviews: 3.05 pooled, not better).
+- **Ladder (held-out, pre-registered, K32 on RC32):** **T2 met** (g_c +1.10 [+0.81, +1.47], g_r +1.68; bar +0.85). T3 puzzles met (dev 0.95, held-out 1.00). **T3 review not met: 3.00** (Corp 3.6, Runner 2.4; bar 3.5). The RC32 gate pass was modern 3.65 + Runner-only 3.40; held-out Runner fell to 2.4 while variant Runner decks (mvar1) held 3.6, so the gap is not Runner card packages.
+- **Measurement limits:** two-set dev review pools for RC29–RC33 sit at 3.34 ± 0.33, about review noise; single fixes no longer show up in reviews. Proxies now include `:broke-ends` and `:blind-facechecks`; economy is the top review theme on both sides.
+- **Running:** BQ (Runner `:respect-kill` 0.5, `:runner-poverty` 0.5 vs RC33), BR (Corp `:corp-poverty` 0.5, Runner `:blind-facecheck` vs RC33); 300 paired seeds each, slow (re-determinized samples double think time).
+- **Next 3:** (1) fold the BQ/BR winners into RC34 and review (two modern sets + Runner-only + mvar); (2) if the gate passes, held-out confirmation K34 (copy `job-K32.clj`); (3) consider a bigger lever for the Runner: a two-turn horizon or economy planning (the one-turn horizon cannot plan "credit up, Gamble next turn").
+
 ## Status 2026-10-07 12:40 (R4, autonomous phase)
 
 - **Best agent:** RC29 (`rounds/R4/job-BI.clj`, frozen `bi` = `e98ec32`): RC26 spec + 4 re-determinized rerank samples (`:redet`) both sides, Corp `:rich-credit` 10, Runner `:kill-threat` 2.0, `:w-tag` 3.5, `:tag-exposure`; on code with today's fixes (unaffordable-ice chance node, full mid-turn planner budget, `:aid` and "Manually" no-op prunes, Sprint/Bloop/Oppo/Pinhole rules, Descent memory, known HQ kills).
