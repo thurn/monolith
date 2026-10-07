@@ -1,0 +1,989 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 24
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Marjanah.
+Runner spends click and pays 2 credits to install Cat's Cradle.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click and pays 0 credits to play Mutual Favor.
+Runner uses Mutual Favor to add Carmen from the stack to the grip and shuffle the stack.
+Runner is ending their turn 1 with 0 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 2 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Otto Campaign from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 2 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 3 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 5 credits to install Carmen.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tranquility Home Grid from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 3 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 2 credits to rez Otto Campaign in Server 1.
+Corp is ending their turn 4 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 1 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Otto Campaign from Server 1.
+Runner pays 2 credits to trash Otto Campaign from Server 1.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 1.
+Corp pays 2 credits to rez Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner has no further action.
+Corp uses Ablative Barrier to end the run.
+Corp resolves 1 unbroken subroutine on Ablative Barrier ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp is ending their turn 5 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Corp pays 1 credits to rez Tranquility Home Grid in Server 2.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Tranquility Home Grid from Server 2.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Docklands Pass.
+Runner is ending their turn 5 with 7 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp trashes Tranquility Home Grid in Server 2.
+Corp is ending their turn 6 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 7 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 2 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Seamless Launch from HQ.
+Runner accesses Seamless Launch from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 1 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Méliès City Luxury Line from HQ.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner is ending their turn 6 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 6 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 2 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Seamless Launch from HQ.
+Runner accesses Petty Cash from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 1 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner is ending their turn 7 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 10 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 8 with 5 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 2 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Vertigo from HQ.
+Runner accesses Seamless Launch from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 1 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Vertigo from HQ.
+Runner is ending their turn 8 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 10 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 2 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp is ending their turn 9 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 4 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 3 credits to rez Drafter protecting Server 2 at position 0.
+Runner encounters Drafter protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp uses Drafter to install Otto Campaign from Archives in the root of Server 4 (new remote).
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 2 at position 0.
+Runner will continue the run.
+Corp pays 1 credits to rez Tranquility Home Grid in Server 2.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Tranquility Home Grid from Server 2.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 2.
+Corp pays 2 credits to rez Vertigo protecting HQ at position 2.
+Runner encounters Vertigo protecting HQ at position 2.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 1 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Méliès City Luxury Line from HQ.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner accesses Petty Cash from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner is ending their turn 9 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 10 with 11 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 10 with 5 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Vertigo protecting HQ at position 2.
+Runner encounters Vertigo protecting HQ at position 2.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 2 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Megaprix Qualifier from HQ.
+Runner steals Megaprix Qualifier and gains 1 agenda point.
+Runner accesses Méliès City Luxury Line from HQ.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Vertigo protecting HQ at position 2.
+Runner encounters Vertigo protecting HQ at position 2.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 2.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 1 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Seamless Launch from HQ.
+Runner is ending their turn 10 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Petty Cash.
+Corp uses Petty Cash to gain 5 [credits].
+Corp pays 2 credits to rez Otto Campaign in Server 4.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 4 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Vertigo protecting HQ at position 2.
+Runner encounters Vertigo protecting HQ at position 2.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 2 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Petty Cash from HQ.
+Runner accesses Architect Deployment Test from HQ.
+Runner steals Architect Deployment Test and gains 2 agenda points.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Vertigo protecting HQ at position 2.
+Runner encounters Vertigo protecting HQ at position 2.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 2.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 1 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Seamless Launch from HQ.
+Runner is ending their turn 11 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 13 credits and 4 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 3.
+Corp is ending their turn 12 with 14 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 3 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 2 credits to rez Vertigo protecting Server 3 at position 0.
+Runner encounters Vertigo protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Project Ingatan from Server 3.
+Runner steals Project Ingatan and gains 2 agenda points.
+Runner spends click to make a run on HQ.
+Runner approaches Vertigo protecting HQ at position 2.
+Runner encounters Vertigo protecting HQ at position 2.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 2.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 1 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Seamless Launch from HQ.
+Runner accesses Seamless Launch from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner is ending their turn 12 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 12 credits and 4 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 2.
+Corp uses Tranquility Home Grid to gain 2 credits.
+Corp is ending their turn 13 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 4 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches Drafter protecting Server 2 at position 0.
+Runner encounters Drafter protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp uses Drafter to install Tranquility Home Grid from Archives in the root of Server 5 (new remote).
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Superconducting Hub from Server 2.
+Runner steals Superconducting Hub and gains 1 agenda point.
+Runner accesses Tranquility Home Grid from Server 2.
+Runner spends click to make a run on HQ.
+Runner approaches Vertigo protecting HQ at position 2.
+Runner encounters Vertigo protecting HQ at position 2.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 1 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Seamless Launch from HQ.
+Runner accesses Seamless Launch from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner is ending their turn 13 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 14 with 17 credits and 6 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp uses Otto Campaign to trash itself and gain [click][click].
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp uses Tranquility Home Grid to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Otto Campaign in Archives to HQ.
+Corp pays 1 credits to rez Tranquility Home Grid in Server 5.
+Corp spends click to install a card in the root of Server 3.
+Corp pays 2 credits to rez Otto Campaign in Server 3.
+Corp is ending their turn 14 with 15 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 14 with 5 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Vertigo protecting HQ at position 2.
+Runner encounters Vertigo protecting HQ at position 2.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 2 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Petty Cash from HQ.
+Runner accesses Ansel 1.0 from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Vertigo protecting HQ at position 2.
+Runner encounters Vertigo protecting HQ at position 2.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 2.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner pays 1 credits to use Marjanah to break all 1 subroutines on Ablative Barrier.
+Runner has no further action.
+Runner passes Ablative Barrier protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 0.
+Runner encounters Vertigo protecting HQ at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Ansel 1.0 from HQ.
+Runner is ending their turn 14 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 15 with 15 credits and 6 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 15 with 18 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 15 with 4 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 3.
+Corp pays 6 credits to rez Ansel 1.0 protecting HQ at position 3.
+Runner encounters Ansel 1.0 protecting HQ at position 3.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Marjanah.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 3.
+Runner will continue the run.
+Runner approaches Vertigo protecting HQ at position 2.
+Runner encounters Vertigo protecting HQ at position 2.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches Ablative Barrier protecting HQ at position 1.
+Runner encounters Ablative Barrier protecting HQ at position 1.
+Runner has no further action.
+Corp uses Ablative Barrier to end the run.
+Corp resolves 1 unbroken subroutine on Ablative Barrier ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 16 with 12 credits and 6 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 4 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 16 with 14 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 16 with 6 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 17 with 14 credits and 6 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp uses Otto Campaign to trash itself and gain [click][click].
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Petty Cash.
+Corp uses Petty Cash to gain 5 [credits].
+Corp spends click to install a card in the root of Server 5.
+Corp uses Tranquility Home Grid to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Hedge Fund in Archives to HQ.
+Corp is ending their turn 17 with 17 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 17 with 5 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 17 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 5.
+Corp uses Tranquility Home Grid to gain 2 credits.
+Corp pays 2 credits to rez Nico Campaign in Server 5.
+Corp spends click and pays 0 credits to install ice protecting Server 5.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 18 with 17 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 18 with 9 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on Server 5.
+Runner approaches ice protecting Server 5 at position 0.
+Corp pays 6 credits to rez Ansel 1.0 protecting Server 5 at position 0.
+Runner encounters Ansel 1.0 protecting Server 5 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Cat's Cradle.
+Corp uses Ansel 1.0 to install Otto Campaign from Archives in the root of Server 6 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Nico Campaign from Server 5.
+Runner accesses Tranquility Home Grid from Server 5.
+Runner spends click to make a run on Server 5.
+Runner approaches Ansel 1.0 protecting Server 5 at position 0.
+Runner encounters Ansel 1.0 protecting Server 5 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Carmen.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Nico Campaign from Server 5.
+Runner accesses Tranquility Home Grid from Server 5.
+Runner spends click and pays 3 credits to install Carmen.
+Runner spends click to make a run on Server 5.
+Runner approaches Ansel 1.0 protecting Server 5 at position 0.
+Runner encounters Ansel 1.0 protecting Server 5 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Carmen.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Nico Campaign from Server 5.
+Runner accesses Tranquility Home Grid from Server 5.
+Runner is ending their turn 18 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 19 with 11 credits and 6 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp pays 2 credits to rez Otto Campaign in Server 6.
+Corp spends click to install a card in the root of Server 2.
+Corp uses Tranquility Home Grid to gain 2 credits.
+Corp pays 2 credits to rez Nico Campaign in Server 2.
+Corp spends click to install a card in the root of Server 7 (new remote).
+Corp is ending their turn 19 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 7 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches Drafter protecting Server 2 at position 0.
+Runner encounters Drafter protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp pays 0 credits to use Drafter to install ice from HQ protecting Server 6.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Nico Campaign from Server 2.
+Runner pays 2 credits to trash Nico Campaign from Server 2.
+Runner accesses Tranquility Home Grid from Server 2.
+Runner spends click to make a run on Server 5.
+Runner approaches Ansel 1.0 protecting Server 5 at position 0.
+Runner encounters Ansel 1.0 protecting Server 5 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Docklands Pass.
+Corp uses Ansel 1.0 to install Nico Campaign from Archives in the root of Server 8 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Nico Campaign from Server 5.
+Runner accesses Tranquility Home Grid from Server 5.
+Runner spends click to make a run on Server 5.
+Runner approaches Ansel 1.0 protecting Server 5 at position 0.
+Runner encounters Ansel 1.0 protecting Server 5 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Daily Casts.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Nico Campaign from Server 5.
+Runner accesses Tranquility Home Grid from Server 5.
+Runner spends click to make a run on Server 5.
+Runner approaches Ansel 1.0 protecting Server 5 at position 0.
+Runner encounters Ansel 1.0 protecting Server 5 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Nico Campaign from Server 5.
+Runner accesses Tranquility Home Grid from Server 5.
+Runner is ending their turn 19 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 20 with 12 credits and 5 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp pays 2 credits to rez Nico Campaign in Server 8.
+Corp pays 2 credits to rez Otto Campaign in Server 7.
+Corp spends click and pays 0 credits to install ice protecting Server 8.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 20 with 18 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 20 with 7 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 7.
+Runner will continue the run.
+Runner approaches Server 7.
+Runner breaches Server 7.
+Runner accesses Otto Campaign from Server 7.
+Runner pays 2 credits to trash Otto Campaign from Server 7.
+Runner spends click to make a run on Server 8.
+Runner approaches ice protecting Server 8 at position 0.
+Corp pays 3 credits to rez Eli 1.0 protecting Server 8 at position 0.
+Runner encounters Eli 1.0 protecting Server 8 at position 0.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to play Blueberry!™ Diesel.
+Runner looks at the top 2 cards of the stack and adds one to the bottom of the stack.
+Runner uses Blueberry!™ Diesel to draw 2 cards.
+Runner is ending their turn 20 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 21 with 15 credits and 4 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp trashes Nico Campaign and draws 1 card.
+Corp uses Otto Campaign to gain 2 credits.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp uses Tranquility Home Grid to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 6.
+Corp is ending their turn 21 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 6 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches Drafter protecting Server 2 at position 0.
+Runner encounters Drafter protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp uses Drafter to install Otto Campaign from Archives in the root of Server 9 (new remote).
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Tranquility Home Grid from Server 2.
+Runner accesses Wage Workers from Server 2.
+Runner spends click to make a run on Server 9.
+Runner will continue the run.
+Runner approaches Server 9.
+Runner breaches Server 9.
+Runner accesses Otto Campaign from Server 9.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 21 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 22 with 24 credits and 6 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp uses Otto Campaign to trash itself and gain [click][click].
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 6.
+Corp pays 2 credits to rez Otto Campaign in Server 9.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp pays 2 credits to rez Wage Workers in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp uses Wage Workers to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores Architect Deployment Test and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Nico Campaign in Archives to HQ.
+Corp uses Architect Deployment Test to look at the top 5 cards of R&D.
+Corp pays 0 credits to use Architect Deployment Test to install Eli 1.0 from  position 1 of R&D protecting Server 9.
+Corp uses Architect Deployment Test to rez Eli 1.0 protecting Server 9 at position 0 at no cost.
+Corp spends click to install a card in the root of Server 10 (new remote).
+Corp is ending their turn 22 with 21 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 22 with 10 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on Server 10.
+Runner will continue the run.
+Runner approaches Server 10.
+Runner breaches Server 10.
+Runner accesses Nico Campaign from Server 10.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Cat's Cradle.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 22 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 23 with 21 credits and 6 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp trashes Nico Campaign and draws 1 card.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 8.
+Corp spends click to install a card in the root of Server 6.
+Corp pays 2 credits to rez Nico Campaign in Server 10.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 8.
+Corp pays 2 credits to rez Nico Campaign in Server 6.
+Corp is ending their turn 23 with 21 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 23 with 7 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 10.
+Runner will continue the run.
+Runner approaches Server 10.
+Runner breaches Server 10.
+Runner accesses Nico Campaign from Server 10.
+Runner pays 2 credits to trash Nico Campaign from Server 10.
+Runner spends click to make a run on Server 6.
+Runner approaches ice protecting Server 6 at position 1.
+Corp pays 1 credits to rez Tithe protecting Server 6 at position 1.
+Runner encounters Tithe protecting Server 6 at position 1.
+Runner has no further action.
+Corp uses Tithe to do 1 net damage.
+Corp trashes Info Bounty due to net damage.
+Corp uses Tithe to gain 1 credits.
+Corp resolves 2 unbroken subroutines on Tithe ("[subroutine] Do 1 net damage" and "[subroutine] Gain 1 credits").
+Runner passes Tithe protecting Server 6 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 6 at position 0.
+Corp pays 3 credits to rez Wave protecting Server 6 at position 0.
+Corp uses Wave to reveal Hagen from R&D and add it to HQ.
+Runner encounters Wave protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting Server 6 at position 0.
+Runner will continue the run.
+Runner approaches Server 6.
+Runner breaches Server 6.
+Runner accesses Nico Campaign from Server 6.
+Runner pays 2 credits to trash Nico Campaign from Server 6.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 23 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 24 with 19 credits and 7 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 8.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 8.
+Corp scores Megaprix Qualifier and gains 1 agenda point.
+Corp wins the game.
