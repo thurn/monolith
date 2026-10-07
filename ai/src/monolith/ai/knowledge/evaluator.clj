@@ -147,8 +147,11 @@
 (defn- kill-threat
   "Probability that the Corp holds a meat-damage operation that flatlines the Runner next turn
   (tags and grip as now, Corp credits + 3), over the Corp's unseen cards (hand + R&D):
-  1 - (1 - c/N)^(h+1)."
-  [s]
+  1 - (1 - c/N)^(h+1). With floor f (:respect-kill), any live kill in the pool counts at least f:
+  humans respect a kill card in the Corp's list (five Measured Response flatlines in dev reviews
+  m15-mvar1 at draw probabilities of 0.15-0.35)."
+  ([s] (kill-threat s nil))
+  ([s floor]
   (let [tags (+ (get-in s [:runner :tag :base] 0) (get-in s [:runner :tag :additional] 0))
         ;; threat next Corp turn: an advanced remote card may be scored first (modern review 22: Above the Law
         ;; scored, then Measured Response at threat 4)
@@ -182,7 +185,7 @@
           ;; Response seen in HQ, turn ended at 2 credits, flatlined)
           (some #(and (:monolith-known %) (:title %) (kill? (:title %))) (get-in s [:corp :hand])) 1.0
           (or (zero? kills) (zero? n)) 0.0
-          :else (- 1.0 (Math/pow (- 1.0 (/ kills (double n))) h)))))))
+          :else (max (or floor 0.0) (- 1.0 (Math/pow (- 1.0 (/ kills (double n))) h)))))))))
 
 (defn- tag-punisher? [title]
   (boolean (re-find #"(?i)runner is tagged|for each tag|trash (1|a|an installed) resource|meat damage|if the runner has (a|any|\d+) tags?|tagged runner"
@@ -313,7 +316,7 @@
      :hq-flood (- (* 0.5 ap-value (max 0 (- (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand))) 2))))
      :asset-econ (if (pos? (get-in w [:eval :asset-econ] 0.0)) (asset-econ s corp-installed) 0.0)
      ;; tagged Runner with a small grip against a deck that kills (credits-equivalent of ~0.1 win per 1.0 probability)
-     :kill-threat (if (pos? (get-in w [:eval :kill-threat] 0.0)) (* 100.0 (kill-threat s)) 0.0)
+     :kill-threat (if (pos? (get-in w [:eval :kill-threat] 0.0)) (* 100.0 (kill-threat s (:respect-kill w))) 0.0)
      :central-threat (if (pos? (get-in w [:eval :central-threat] 0.0)) (central-threat s w) 0.0)
      :agendas-in-archives (* -0.8 ap-value (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) (get-in s [:corp :discard])))))
      :installed-agendas (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)

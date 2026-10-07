@@ -1,0 +1,86 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 3
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Inside Job.
+Runner uses Inside Job to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Mercury: Chrome Libertador to access 1 additional card.
+Runner accesses Sericulture Expansion from HQ.
+Runner steals Sericulture Expansion and gains 2 agenda points.
+Runner accesses Hybrid Release from HQ.
+Runner steals Hybrid Release and gains 1 agenda point.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install Docklands Pass.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 2 with 3 credits and 1 card in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Urtica Cipher from Server 2.
+Corp uses Urtica Cipher to do 4 net damage.
+Corp trashes Career Fair, Emergency Shutdown, Smartware Distributor, and Sure Gamble due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Mercury: Chrome Libertador to access 1 additional card.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Sericulture Expansion from HQ.
+Runner steals Sericulture Expansion and gains 2 agenda points.
+Runner is ending their turn 2 with 3 credits and 1 card in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Mercury: Chrome Libertador to access 1 additional card.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Cultivate from HQ.
+Runner accesses Petty Cash from HQ.
+Runner accesses Fujii Asset Retrieval from HQ.
+Runner steals Fujii Asset Retrieval and gains 3 agenda points.
+Runner wins the game.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Aumakua and Sure Gamble due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
