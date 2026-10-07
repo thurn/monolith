@@ -224,14 +224,17 @@
       :else (>= (- cr cost) 8))))
 
 (defn access-penalty
-  "Credits-equivalent cost of accessing card t in Archives from its \"when the Runner accesses\"
-  text: tags (News Team: 2 tags or -1 point) and net damage (Shock!); Snare! is inert there."
-  [t]
-  (let [txt (str (:text (cards/printed t)))]
-    (if (or (not (re-find #"(?i)when the runner accesses this" txt)) (re-find #"(?i)except in archives" txt))
-      0.0
-      (+ (* 2.5 (or (some-> (re-find #"(?i)take (\d+) tags?" txt) second parse-long) 0))
-         (* 2.0 (or (some-> (re-find #"(?i)do (\d+) net damage" txt) second parse-long) 0))))))
+  "Credits-equivalent cost of accessing card t in Archives (or, with zone :hq, in HQ) from its
+  \"when the Runner accesses\" text: tags (News Team: 2 tags or -1 point; Behold!: give them 2 tags)
+  and net damage (Shock!); Snare! and Behold! are inert in Archives."
+  ([t] (access-penalty t :archives))
+  ([t zone]
+   (let [txt (str (:text (cards/printed t)))]
+     (if (or (not (re-find #"(?i)when the runner accesses this" txt))
+             (and (= zone :archives) (re-find #"(?i)except in archives" txt)))
+       0.0
+       (+ (* 2.5 (or (some-> (re-find #"(?i)(?:take|give (?:them|the runner)) (\d+) tags?" txt) second parse-long) 0))
+          (* 2.0 (or (some-> (re-find #"(?i)do (\d+) net damage" txt) second parse-long) 0)))))))
 
 (declare content-value*)
 
@@ -276,7 +279,11 @@
                 per-card (if (zero? n) 0.0
                              (/ (+ (* ap-value dens (- n (count known)))
                                    (reduce + 0.0 (for [c known :when (= "Agenda" (cards/ctype (:title c)))]
-                                                   (agenda-access-value (:title c) ap-value (get-in obs [:runner :credit])))))
+                                                   (agenda-access-value (:title c) ap-value (get-in obs [:runner :credit]))))
+                                   ;; known access punishers (Behold!: 2 tags; archetype review 8: HQ re-run into it
+                                   ;; three turns running)
+                                   (- (reduce + 0.0 (for [c known :when (not= "Agenda" (cards/ctype (:title c)))]
+                                                      (access-penalty (:title c) :hq)))))
                                 n))]
             (* per-card (min n (+ 1 extra-access))))
       ;; known access-punishers in Archives (News Team) cost their tags (dev runner review 2: Archives

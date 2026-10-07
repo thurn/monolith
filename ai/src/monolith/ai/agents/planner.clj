@@ -266,8 +266,14 @@
                               ;; rerank scores dominate their beam scores; :rerank-samples averages
                               ;; several rollouts per line (each from the line's end state)
                               (let [n (max 1 (or rerank-samples 1))
-                                    xs (for [_ (range n)]
+                                    xs (for [i (range n)]
                                          (do (sim/restore! sm (:snap c))
+                                             ;; :redet (weights): samples after the first resample the cards hidden from
+                                             ;; this side, so the samples average over HQ/R&D contents instead of
+                                             ;; replaying one sampled access (archetype review 8: run choices were a
+                                             ;; lottery on the decision's single determinization)
+                                             (when (and (pos? i) (:redet weights))
+                                               (sim/determinize! (:state (:sg sm)) side decks rng))
                                              (rollout-score sm side weights decks rng (* 400 (or rerank-turns 1)) (or rerank-turns 1) leaf-fn)))]
                                 (assoc c :score (+ 10000.0 (/ (reduce + 0.0 xs) n)))))
                             all)
