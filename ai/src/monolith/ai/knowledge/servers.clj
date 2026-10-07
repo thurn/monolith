@@ -345,6 +345,20 @@
     :corp-credits (get-in obs [:corp :credit])
     :pool (ice-pool obs corp-decklist)
     :value value
+    ;; agendas with a credit steal cost (Bellona), known or possible under hidden cards: content
+    ;; value is a step function of the Runner's credits at access, so each cost c the Runner can pay
+    ;; now carries the value lost if breaking leaves fewer than c (puzzles *-credit-up-for-bellona)
+    :steal-costs (when (and (remote? k) (not (:replacement opts)))
+                   (let [cr (+ (get-in obs [:runner :credit]) credits-bonus)
+                         cs (content obs k)
+                         titles (concat (keep :title (remove :hidden cs))
+                                        (when (some :hidden cs) (keys (remote-card-pool obs corp-decklist))))
+                         costs (sort (distinct (keep #(when (= "Agenda" (cards/ctype %)) (steal-cost %)) titles)))
+                         v (fn [c] (content-value (assoc-in obs [:runner :credit] c) k opts))]
+                     (seq (for [c costs :when (<= c cr)
+                                :let [loss (- (v c) (v (dec c)))]
+                                :when (pos? loss)]
+                            [c loss]))))
     :rez-bonus rez-bonus
     :toll (approach-toll obs k)
     :mode (or mode :expected)

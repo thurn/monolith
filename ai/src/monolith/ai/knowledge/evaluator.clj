@@ -119,7 +119,12 @@
          :min-tags (cond (re-find #"(?i)at least 2 tags" t) 2
                          (re-find #"(?i)tagged|remove 1 tag" t) 1
                          :else 0)
-         :cost (or (:cost p) 0)}))))
+         :cost (or (:cost p) 0)
+         ;; Measured Response: "Play only if the threat level is 4 or greater, and only if the Runner
+         ;; made a successful run during their last turn. Do 4 meat damage unless the Runner pays 8"
+         :threat (some-> (re-find #"(?i)threat level is (\d+) or greater" t) second parse-long)
+         :needs-run (boolean (re-find #"(?i)successful run during their last turn" t))
+         :unless-pay (some-> (re-find #"(?i)meat damage unless the Runner pays (\d+)" t) second parse-long)}))))
 
 (def ^:private meat-op* (memoize meat-op))
 
@@ -128,14 +133,21 @@
   (tags and grip as now, Corp credits + 3), over the Corp's unseen cards (hand + R&D):
   1 - (1 - c/N)^(h+1)."
   [s]
-  (let [tags (+ (get-in s [:runner :tag :base] 0) (get-in s [:runner :tag :additional] 0))]
-    (if (zero? tags)
+  (let [tags (+ (get-in s [:runner :tag :base] 0) (get-in s [:runner :tag :additional] 0))
+        threat (max (get-in s [:runner :agenda-point] 0) (get-in s [:corp :agenda-point] 0))
+        ran (seq (get-in s [:runner (if (= :corp (:active-player s)) :register-last-turn :register) :successful-run]))
+        rcr (get-in s [:runner :credit] 0)]
+    (if (and (zero? tags) (< threat 3))
       0.0
       (let [grip (count (get-in s [:runner :hand]))
             cr (+ 3 (get-in s [:corp :credit] 0))
             pool (keep :title (concat (get-in s [:corp :hand]) (get-in s [:corp :deck])))
-            kills (count (filter (fn [t] (when-let [{:keys [dmg per-tag min-tags cost]} (meat-op* t)]
+            kills (count (filter (fn [t] (when-let [{:keys [dmg per-tag min-tags cost needs-run unless-pay] :as op} (meat-op* t)]
                                            (and (>= tags min-tags) (<= cost cr)
+                                                ;; untagged kills (Measured Response, modern review 15)
+                                                (>= threat (or (:threat op) 0))
+                                                (or (not needs-run) ran)
+                                                (or (nil? unless-pay) (< rcr unless-pay))
                                                 ;; >= : a hand wiped to 0 is one more damage from dead, and two
                                                 ;; copies kill (review 15: tagged at 4 cards vs Scorched Earth)
                                                 (>= (if per-tag (* dmg tags) dmg) grip))))

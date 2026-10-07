@@ -43,7 +43,7 @@
           (if-let [d (:unbroken-damage ice)] (update st :damage + d) st)
           (remove :broken (:subs ice))))
 
-(defn- terminal [{:keys [credits damage ended tags no-access trashed corp-credits]} {:keys [credits0 hand value w-damage w-tag w-program breakers replacement rez-tax corp-credits0]} success?]
+(defn- terminal [{:keys [credits damage ended tags no-access trashed corp-credits]} {:keys [credits0 hand value w-damage w-tag w-program breakers replacement rez-tax corp-credits0 steal-costs]} success?]
   (let [;; :rez-tax: credits the Corp spends rezzing during the run are worth a fraction to the Runner
         ;; (facechecks force rezzes: dev runner review 2, idle early turns at 9-14 credits)
         spent (- credits0 credits (* (or rez-tax 0.0) (- (or corp-credits0 0) (or corp-credits 0))))
@@ -51,7 +51,10 @@
         lost (* w-program (min (or trashed 0) (count breakers)))]
     (if (> damage (dec (max 1 hand)))
       (if (> damage hand) flatline-utility (- 0.0 (* 3 w-damage damage) lost))
-      (- (if (and success? (or (not no-access) replacement)) value 0.0) spent (* w-damage damage) (* w-tag (or tags 0)) lost))))
+      (- (if (and success? (or (not no-access) replacement))
+           (- value (reduce + 0.0 (for [[c v] steal-costs :when (< credits c)] v)))
+           0.0)
+         spent (* w-damage damage) (* w-tag (or tags 0)) lost))))
 
 (declare walk)
 
@@ -125,19 +128,27 @@
       :else
       ;; chance node over affordable candidates; if none affordable, the ice stays unrezzed
       (let [pool (:pool ctx)
-            affordable (->> pool
-                            (filter (fn [[t _]] (>= (:corp-credits st) (+ (:rez-cost (cards/printed-ice-model t (:remote? ctx))) rez-bonus))))
+            affordable? (fn [[t _]] (>= (:corp-credits st) (+ (:rez-cost (cards/printed-ice-model t (:remote? ctx))) rez-bonus)))
+            affordable (->> pool (filter affordable?)
                             ;; the 8 most likely titles: bounds the chance-node branching
                             (sort-by (comp - val)) (take 8))
-            total (reduce + 0 (vals affordable))]
+            total (reduce + 0 (vals affordable))
+            ;; ice the Corp cannot afford stays unrezzed and is passed (modern review 15: a 2-advanced
+            ;; remote behind one unrezzed ice vs a 3-credit Corp was never run; half its pool cost more)
+            unaffordable (reduce + 0 (vals (remove affordable? pool)))
+            all (+ total unaffordable)]
         (if (zero? total)
           (best (walk ctx (inc i) st))
-          (let [outcomes (for [[t n] affordable
-                               :let [m (cards/printed-ice-model t (:remote? ctx))
-                                     r (encounter ctx i (cond-> (update st :corp-credits - (+ (:rez-cost m) rez-bonus))
-                                                          (:rez-damage m) (update :damage + (:rez-damage m)))
-                                                  m)]]
-                           [(/ n (double total)) (:u r) (:p r)])
+          (let [outcomes (concat
+                          (for [[t n] affordable
+                                :let [m (cards/printed-ice-model t (:remote? ctx))
+                                      r (encounter ctx i (cond-> (update st :corp-credits - (+ (:rez-cost m) rez-bonus))
+                                                           (:rez-damage m) (update :damage + (:rez-damage m)))
+                                                   m)]]
+                            [(/ n (double all)) (:u r) (:p r)])
+                          (when (pos? unaffordable)
+                            (let [r (walk ctx (inc i) st)]
+                              [[(/ unaffordable (double all)) (:u r) (:p r)]])))
                 worst (apply min-key second outcomes)
                 ev (reduce + (map (fn [[p u]] (* p u)) outcomes))
                 pv (reduce + (map (fn [[p _ q]] (* p q)) outcomes))
