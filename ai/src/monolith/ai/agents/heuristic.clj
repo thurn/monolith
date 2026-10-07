@@ -348,7 +348,8 @@
 (defn c-trash-resource
   "When the Runner is tagged, trash their best resource."
   [env]
-  (when (runner-tagged? (:obs env)) (act env :trash-resource)))
+  ;; not when it leaves the Corp broke (archetype review: 2 credits a turn on Cookbook at 0-3 credits)
+  (when (and (runner-tagged? (:obs env)) (>= (credits env) 5)) (act env :trash-resource)))
 
 (defn c-tag-op
   "Operations that give the Runner tags (only legal when their conditions hold)."
@@ -430,7 +431,9 @@
                                        (cards/play-cost (:title c))))]
        (act-where env #(and (= :rez (:type %)) (= "ICE" (ptype (card-title %)))
                             (let [left (- (credits env) (cards/play-cost (card-title %)))]
-                              (and (or agenda-here (<= (cards/play-cost (card-title %)) 3) (>= left remote-need))
+                              (and (or agenda-here (<= (cards/play-cost (card-title %)) 3)
+                                       ;; an expensive rez must also leave a working reserve (Ivik, Knowledge Seeker)
+                                       (and (>= left remote-need) (>= left 3)))
                                    (or (#{:hq :rd} target)
                                        (seq (srv/content obs target))
                                        (>= left (w env :corp-rez-reserve))))))))
@@ -567,7 +570,14 @@
            (or (by #"(?i)^New remote") (first cs))))
        (re-find #"(?i)rez 1 installed piece of ice, ignoring all costs" (str (:text (cards/printed src))))
        (select-best env (fn [c] (if (= "ICE" (:type c)) (cards/play-cost (:title c)) 0)))
-       (re-find #"(?i)ability\?|draw \d+ cards\?" msg) (choice env #"^Yes")
+       ;; optional draws only with room in hand (archetype review: AU Co.'s draw 2 into a full HQ discarded
+       ;; agendas into an open Archives every turn)
+       (re-find #"(?i)draw (\d+) cards?\?" msg)
+       (let [n (parse-long (second (re-find #"(?i)draw (\d+) cards?\?" msg)))
+             hand (count (get-in obs [:corp :hand]))
+             mx (or (get-in obs [:corp :hand-size :total]) 5)]
+         (choice env (if (<= (+ hand n) (inc mx)) #"^Yes" #"^No")))
+       (re-find #"(?i)ability\?" msg) (choice env #"^Yes")
        :else nil)
      (first (remove #(re-find #"(?i)cancel" (str (:label %))) (:actions env)))
      (first (:actions env)))))
