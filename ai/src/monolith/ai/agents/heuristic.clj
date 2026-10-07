@@ -69,7 +69,9 @@
   "How good a piece of ice is to install (higher is better)."
   [title]
   (let [m (cards/printed-ice-model title false)]
-    (+ (if (cards/etr-ice? title) 3 0) (if (cards/damage-ice? title) 1.5 0) (* 0.3 (:strength m)))))
+    (+ (if (cards/etr-ice? title) 3 0) (if (cards/damage-ice? title) 1.5 0) (* 0.3 (:strength m))
+       ;; Bloop: rezzing needs another rezzed harmonic ice derezzed, so it rarely rezzes (modern review 15)
+       (if (re-find #"(?i)additional cost to rez this ice, derez another" (str (:text (cards/printed title)))) -4 0))))
 
 (defn agenda-in-server? [obs k]
   (some #(or (:hidden %) (#{"Agenda" "Asset"} (:type %))) (srv/content obs k)))
@@ -554,6 +556,10 @@
                                   (if (and c (= "Agenda" (:type c))) (- 10 (adv-need c)) 0))))
        (re-find #"(?i)ice to install" msg)
        (select-best env (fn [c] (if (= "ICE" (:type c)) (ice-score (:title c)) 0)))
+       ;; shuffling HQ cards into R&D (Sprint): agendas first, hidden from HQ runs (modern review 16:
+       ;; Sprint kept Project Ingatan in an open HQ and it was stolen)
+       (and (seq (acts env :select)) (re-find #"(?i)shuffle" msg) (re-find #"(?i)into R&D" msg))
+       (select-best env (fn [c] (if (= "Agenda" (:type c)) 20 (max 0.5 (- 11 (hand-card-value env c))))))
        ;; trashing/discarding our own HQ cards as a cost or effect (Anemone, Cultivate): never an agenda
        ;; (archetype review: agendas sent to an open Archives)
        (and (seq (acts env :select)) (re-find #"(?i)trash|discard" msg) (not (re-find #"(?i)^Trash ice protecting" msg)))

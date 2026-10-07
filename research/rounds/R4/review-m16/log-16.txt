@@ -1,0 +1,500 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 16
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 1.
+Corp is ending their turn 1 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Nico Campaign from Server 1.
+Runner pays 2 credits to trash Nico Campaign from Server 1.
+Runner spends click and pays 0 credits to install No Free Lunch.
+Runner trashes No Free Lunch to use No Free Lunch to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sprint from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 1 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 3.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 1 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 8 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on Server 3.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Nico Campaign from Server 3.
+Runner pays 2 credits to trash Nico Campaign from Server 3.
+Runner spends click and pays 1 credits to play Tread Lightly.
+Runner uses Tread Lightly to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Ingatan and gains 2 agenda points.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 2 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 1 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sprint from HQ.
+Runner is ending their turn 3 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 4 with 4 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 8 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 0 credits to play Blueberry!™ Diesel.
+Runner looks at the top 2 cards of the stack and adds one to the bottom of the stack.
+Runner uses Blueberry!™ Diesel to draw 2 cards.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Corp pays 4 credits to rez Hagen protecting Server 2 at position 1.
+Runner encounters Hagen protecting Server 2 at position 1.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Tread Lightly.
+Runner uses Tread Lightly to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 4 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 10 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to install Red Team.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Superconducting Hub and gains 1 agenda point.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 5 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Nico Campaign in Archives to HQ.
+Corp is ending their turn 6 with 0 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 6 with 8 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 3 credits to install Pennyshaver.
+Runner is ending their turn 6 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 0 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 2 credits to rez Nico Campaign in Server 4.
+Corp is ending their turn 7 with 0 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 7 with 10 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 4.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches Server 4.
+Runner accesses Nico Campaign from Server 4.
+Runner pays 2 credits to trash Nico Campaign from Server 4.
+Runner spends click and pays 2 credits to install Cezve.
+[!] Cezve - Recurring credits usage not restricted
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 7 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 0 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 3 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 8 with 9 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click and pays 1 credits to install Flip Switch.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches HQ.
+Runner accesses Drafter from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 8 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 3 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 9 with 1 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 9 with 11 credits and 5 cards in the grip.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Nico Campaign from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Carmen.
+Runner is ending their turn 9 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 1 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Seamless Launch.
+Corp uses Seamless Launch to place 2 advancement counters on a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Méliès City Luxury Line and gains 3 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Nico Campaign in Archives to HQ.
+Corp uses Méliès City Luxury Line to gain click.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp is ending their turn 10 with 0 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 10 with 6 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 0 credits to install No Free Lunch.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches HQ.
+Runner accesses Ansel 1.0 from HQ.
+Runner is ending their turn 10 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 0 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 2 credits to rez Nico Campaign in Server 5.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 1 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 11 with 11 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 5.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches Server 5.
+Runner accesses Nico Campaign from Server 5.
+Runner pays 2 credits to trash Nico Campaign from Server 5.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 11 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 1 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 4 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 12 with 14 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Otto Campaign from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 12 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 4 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 13 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 14 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 6 credits to rez Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner pays 5 credits from Overclock to increase the strength of Carmen to 5 and break all 3 subroutines on Ansel 1.0.
+Runner has no further action.
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to steal Méliès City Luxury Line from R&D.
+Runner steals Méliès City Luxury Line and gains 3 agenda points.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner pays 5 credits to increase the strength of Carmen to 5 and break all 3 subroutines on Ansel 1.0.
+Runner has no further action.
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 13 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 10 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 14 with 15 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Marjanah.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner pays 1 credits from Cezve and 4 credits from their credit pool to increase the strength of Carmen to 5 and break all 3 subroutines on Ansel 1.0.
+Runner has no further action.
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner uses Bravado to gain 7 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches HQ.
+Runner accesses Ablative Barrier from HQ.
+Runner is ending their turn 14 with 19 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 10 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 13 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 15 with 19 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner pays 5 credits to increase the strength of Carmen to 5 and break all 3 subroutines on Ansel 1.0.
+Runner has no further action.
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 4 credits to trash Wage Workers from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches HQ.
+Runner accesses Vertigo from HQ.
+Runner is ending their turn 15 with 19 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 16 with 13 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 16 with 18 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 16 with 19 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner pays 1 credits from Cezve and 4 credits from their credit pool to increase the strength of Carmen to 5 and break all 3 subroutines on Ansel 1.0.
+Runner has no further action.
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Megaprix Qualifier and gains 1 agenda point.
+Runner wins the game.

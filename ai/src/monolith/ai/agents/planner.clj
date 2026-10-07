@@ -197,7 +197,9 @@
 (defn- side-state
   "Both players' state minus per-turn bookkeeping, to detect actions that change nothing."
   [s]
-  (let [strip #(dissoc % :register :prompt :prompt-state :selected :toast :properties)]
+  ;; :aid is the ability-id counter: a cancelled ability bumps only it (modern review 16: a Lotus Haze
+  ;; ability with no upgrade to move filled the beam and the Corp clicked for credits at 30+)
+  (let [strip #(dissoc % :register :prompt :prompt-state :selected :toast :properties :aid)]
     [(strip (:corp s)) (strip (:runner s)) (boolean (:run s))]))
 
 (defn- signature [s side]
@@ -369,8 +371,9 @@
                        (first (keep-indexed (fn [i x] (when (= (action-key x) (action-key nxt)) i)) actions)))]
           (if follow
             (do (swap! plan-state update :line rest) follow)
-            (let [fresh-turn (not= made-turn (:turn o))
-                  deadline (+ (System/currentTimeMillis) (long (* budget-ms (if fresh-turn budget-factor 4) (max 1 (or dets 1)))))
+            (let [;; mid-turn replans get the same budget: a 1 s cap (factor 4) bound under review-job load and made
+                  ;; decisions non-reproducible (modern review 16: Bloop on R&D, replayed choice HQ)
+                  deadline (+ (System/currentTimeMillis) (long (* budget-ms budget-factor (max 1 (or dets 1)))))
                   [s1-rule s1a] (when s1-margin (s1/decide (assoc ctx :obs o :weights weights :mem (atom {}))))
                   ;; S1's safety rules (ice an open central, clear tags, keep cards, take a kill or a score)
                   ;; can demand a larger margin before the plan overrides them

@@ -1,0 +1,128 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 1.
+Corp pays 2 credits to rez Nico Campaign in Server 2.
+Corp is ending their turn 1 with 1 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Cat's Cradle.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Ingatan from HQ.
+Runner steals Project Ingatan and gains 2 agenda points.
+Runner is ending their turn 1 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 2 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp is ending their turn 2 with 7 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Nico Campaign from Server 1.
+Runner pays 2 credits to trash Nico Campaign from Server 1.
+Runner spends click and pays 0 credits to play Mutual Favor.
+Runner uses Mutual Favor to add Carmen from the stack to the grip and shuffle the stack.
+Runner uses Mutual Favor to install Carmen.
+Runner pays 3 credits to install Carmen from the Stack.
+Runner is ending their turn 2 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 7 credits and 2 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Petty Cash.
+Corp uses Petty Cash to gain 5 [credits].
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp is ending their turn 3 with 11 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install Docklands Pass.
+Runner is ending their turn 3 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 11 credits and 2 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp trashes Nico Campaign and draws 1 card.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 3.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp pays 2 credits to rez Otto Campaign in Server 4.
+Corp is ending their turn 4 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Architect Deployment Test from HQ.
+Runner steals Architect Deployment Test and gains 2 agenda points.
+Runner accesses Superconducting Hub from HQ.
+Runner steals Superconducting Hub and gains 1 agenda point.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to make a run on Server 4.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Otto Campaign from Server 4.
+Runner pays 2 credits to trash Otto Campaign from Server 4.
+Runner is ending their turn 4 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 10 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp is ending their turn 5 with 14 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Project Ingatan from HQ.
+Runner steals Project Ingatan and gains 2 agenda points.
+Runner wins the game.
+Runner accesses Tranquility Home Grid from HQ.

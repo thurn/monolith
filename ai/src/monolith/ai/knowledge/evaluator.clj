@@ -42,6 +42,15 @@
                   ;; them (+2 liquid) beats a basic credit click (+1)
                   (* n (if drip (min 0.6 (* 0.18 drip)) 0.4)))))
 
+(defn- harmonic-locked?
+  "Unrezzed ice whose rez needs another rezzed harmonic ice derezzed (Bloop) when the Corp has none:
+  it cannot be rezzed (modern review 15: an outer Bloop on R&D was passed for 25 runs)."
+  [obs c]
+  (and (not (:rezzed c))
+       (re-find #"(?i)additional cost to rez this ice, derez another piece of harmonic ice" (str (:text (cards/printed (:title c)))))
+       (not-any? #(and (:rezzed %) (not= (:cid %) (:cid c)) (re-find #"(?i)harmonic" (str (:subtype (cards/printed (:title %))))))
+                 (mapcat :ices (vals (get-in obs [:corp :servers]))))))
+
 (defn- ice-value [obs breakers server-weight ices]
   (reduce + 0.0
           (map-indexed
@@ -49,6 +58,7 @@
              ;; rezzed ice at its current strength (advanced Tree Line, Pharos, ...)
              (let [m (if (and (:rezzed c) (:current-strength c)) (cards/ice-model c) (cards/printed-ice-model (:title c) false))
                    base (min 3.0 (+ 1.0 (* 0.3 (:strength m)) (if (some :etr (:subs m)) 0.8 0.0)))
+                   base (if (harmonic-locked? obs c) (* 0.2 base) base)
                    covered (some #(cards/can-break-type? % m) breakers)]
                (* server-weight base (if covered 0.6 1.0) (nth [1.0 0.7 0.5 0.4 0.3] (min i 4)))))
            ices)))
@@ -336,8 +346,12 @@
      ;; and the Corp has no card that uses tags
      :tags (let [n (+ (get-in s [:runner :tag :base] 0) (get-in s [:runner :tag :additional] 0))]
              (+ (* (if (and (:tag-threat w) (empty? (:resource rig)) (not (tag-threat? s))) 0.5 2.5) n)
-                ;; with :tag-exposure, a tagged Runner's resources are trash targets
-                (if (and (:tag-exposure w) (pos? n)) (* 1.5 (count (:resource rig))) 0.0)))
+                ;; with :tag-exposure, a tagged Runner's resources are trash targets: up to three (the Corp's
+                ;; clicks), each worth its install cost + 1, if the Corp can pay the 2-credit trash (modern
+                ;; review 16: Dr. Nuka Vrolyck and Daily Casts installed while tagged and trashed)
+                (if (and (:tag-exposure w) (pos? n) (>= (get-in s [:corp :credit] 0) 2))
+                  (* 0.7 (reduce + 0.0 (take 3 (sort > (map #(inc (or (cards/play-cost (:title %)) 0)) (:resource rig))))))
+                  0.0)))
      ;; each bad publicity gives the Runner a credit per run
      :bad-publicity (* -1.5 (+ (get-in s [:corp :bad-publicity :base] 0) (get-in s [:corp :bad-publicity :additional] 0)))}))
 

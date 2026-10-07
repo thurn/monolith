@@ -1,0 +1,97 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 3
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp is ending their turn 1 with 10 credits and 2 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to install Shibboleth.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Red Team.
+Runner is ending their turn 1 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 11 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 16 credits and 1 card in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 2 with 4 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Jailbreak.
+Runner uses Jailbreak to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Konjin protecting R&D at position 0.
+Runner encounters Konjin protecting R&D at position 0.
+Corp uses Konjin to start a psi game (Force the runner to encounter another ice).
+Runner pays 0 credits.
+Corp pays 0 credits.
+Runner has no further action.
+Runner passes Konjin protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Jailbreak to draw 1 card.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 14 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 3 with 13 credits and 3 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 3 with 5 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on R&D.
+Runner approaches Konjin protecting R&D at position 0.
+Runner encounters Konjin protecting R&D at position 0.
+Corp uses Konjin to start a psi game (Force the runner to encounter another ice).
+Runner pays 0 credits.
+Corp pays 0 credits.
+Runner has no further action.
+Runner passes Konjin protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner spends click and pays 0 credits to play Transfer of Wealth.
+Runner uses Transfer of Wealth to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 5 credits to rez Saisentan protecting HQ at position 0.
+Runner encounters Saisentan protecting HQ at position 0.
+Corp uses Saisentan to choose the card type Event.
+Runner has no further action.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Transfer of Wealth due to net damage.
+Corp uses Saisentan to deal 1 additional net damage.
+Corp trashes Docklands Pass due to net damage.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Pennyshaver due to net damage.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes  due to net damage.
+Runner is flatlined.
+Corp wins the game.
+Corp resolves 3 unbroken subroutines on Saisentan ("[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").

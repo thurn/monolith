@@ -1,0 +1,200 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 9
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Boi-tatá.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 6 credits to rez Hammer protecting R&D at position 0.
+Runner encounters Hammer protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hammer to give the Runner 1 tag.
+Corp resolves 3 unbroken subroutines on Hammer ("[subroutine] Give the Runner 1 tag" and "[subroutine] Choose a resource or piece of hardware to trash" and "[subroutine] Choose a program to trash that is not a decoder, fracter or killer").
+Runner passes Hammer protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp is ending their turn 3 with 4 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 7 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Hammer protecting R&D at position 0.
+Runner encounters Hammer protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hammer to give the Runner 1 tag.
+Corp resolves 3 unbroken subroutines on Hammer ("[subroutine] Give the Runner 1 tag" and "[subroutine] Choose a resource or piece of hardware to trash" and "[subroutine] Choose a program to trash that is not a decoder, fracter or killer").
+Runner passes Hammer protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Above the Law and gains 2 agenda points.
+Runner is ending their turn 3 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Transport Monopoly and gains 2 agenda points.
+Corp is ending their turn 4 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Hammer protecting R&D at position 0.
+Runner encounters Hammer protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hammer to give the Runner 1 tag.
+Corp resolves 3 unbroken subroutines on Hammer ("[subroutine] Give the Runner 1 tag" and "[subroutine] Choose a resource or piece of hardware to trash" and "[subroutine] Choose a program to trash that is not a decoder, fracter or killer").
+Runner passes Hammer protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 4 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp is ending their turn 5 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Hammer protecting R&D at position 0.
+Runner encounters Hammer protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hammer to give the Runner 1 tag.
+Corp resolves 3 unbroken subroutines on Hammer ("[subroutine] Give the Runner 1 tag" and "[subroutine] Choose a resource or piece of hardware to trash" and "[subroutine] Choose a program to trash that is not a decoder, fracter or killer").
+Runner passes Hammer protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 5 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Transport Monopoly and gains 2 agenda points.
+Corp is ending their turn 6 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 4 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 4 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Raindrops Cut Stone to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Hammer protecting R&D at position 0.
+Runner encounters Hammer protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hammer to give the Runner 1 tag.
+Corp resolves 3 unbroken subroutines on Hammer ("[subroutine] Give the Runner 1 tag" and "[subroutine] Choose a resource or piece of hardware to trash" and "[subroutine] Choose a program to trash that is not a decoder, fracter or killer").
+Runner passes Hammer protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 7 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 8 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 7 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores SDS Drone Deployment and gains 3 agenda points.
+Corp wins the game.

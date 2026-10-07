@@ -283,7 +283,9 @@
       ;; run into known News Teams, 4 and 6 tags)
       :archives (+ (* ap-value (reduce + 0 (map (comp ap :title) (remove :hidden (get-in obs [:corp :discard])))))
                    (- (reduce + 0.0 (map (comp access-penalty :title) (remove :hidden (get-in obs [:corp :discard])))))
-                   (* 0.3 ap-value dens (count (filter :hidden (get-in obs [:corp :discard])))))
+                   ;; face-down discards are rarely agendas (the Corp chooses them): 0.1 of an R&D card
+                   ;; (archetype review 7: four "empty Archives" runs a game for one new discard each)
+                   (* 0.1 ap-value dens (count (filter :hidden (get-in obs [:corp :discard])))))
       ;; remote
       ;; :remote-denial k: an agenda stolen from a remote is also a score denied to the Corp, so
       ;; remote agendas are worth (1 + k) times their points (centrals' agendas are not imminent)
