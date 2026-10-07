@@ -327,7 +327,9 @@
                 spare (set (rest empties))]
             (reduce + 0.0 (for [[k srv] (srv/servers s)
                                 :let [wt (cond (#{:hq :rd} k) 1.0
-                                               (= :archives k) 0.3
+                                               ;; Archives ice guards only discards (modern review 23: an agenda-flooded
+                                               ;; NBN put two ice on an empty Archives instead of building a remote)
+                                               (= :archives k) 0.1
                                                (spare k) 0.15
                                                :else 0.7)]]
                             (ice-value s breakers wt (:ices srv)))))
