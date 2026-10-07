@@ -124,13 +124,16 @@
   "With :no-naked-agendas: installing an agenda into a server with no ice that cannot be scored
   this turn (the S1 Runner model almost never checks naked remotes, so rollouts reward this
   exploit; humans punish it — dev review 8)."
-  [s a]
+  [s a & [etr-guard]]
   (let [title (get-in a [:args :card :title])]
     (boolean
      (when (and (= "play" (:command a)) title (= "Agenda" (cards/ctype title)))
        (let [server (get-in a [:args :server])
              k (when (and server (not= server "New remote")) (srv/server-key server))
-             ice (if k (count (get-in s [:corp :servers k :ices])) 0)
+             ices (if k (get-in s [:corp :servers k :ices]) [])
+             ;; :etr-guard: ice that cannot end the run (Drafter, Bloop, Vertigo, Tsarevna, VSA) does not count
+             ;; (modern reviews: agendas behind non-ETR ice stolen; rubric "unprotected agendas")
+             ice (count (if etr-guard (filter #(cards/etr-ice? (:title %)) ices) ices))
              req (or (:advancementcost (cards/printed title)) 5)
              clicks (dec (or (get-in s [:corp :click]) 0))]
          (and (zero? ice) (not (and (<= req clicks) (<= req (or (get-in s [:corp :credit]) 0))))))))))
@@ -275,7 +278,7 @@
                                   (sim/legal sm d))
                            acts (filter #(sensible? snap %) acts)
                            acts (if (and (:no-naked-agendas weights) (= side :corp))
-                                  (remove #(naked-agenda-install? snap %) acts)
+                                  (remove #(naked-agenda-install? snap % (:etr-guard weights)) acts)
                                   acts)
                            ;; :central-ice-first: no ice on a remote while HQ or R&D has none (reviews 19-21:
                            ;; R&D bare for 5-8 turns in half the Corp games, first ice spent on a remote)

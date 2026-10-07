@@ -242,11 +242,21 @@
      ;; credits instead of drawing (dev review 6)
      :rd-agendas (if (pos? (get-in w [:eval :rd-agendas] 0.0))
                    (let [rd-ap (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) (get-in s [:corp :deck]))))
-                         eff (reduce + 0.0 (for [c (srv/ices s :hq)
+                         eff (reduce + 0.0 (for [c (srv/ices s :rd)
                                                  :let [m (cards/printed-ice-model (:title c) false)]]
                                              (if (some #(cards/can-break-type? % m) breakers) 0.4 1.0)))]
                      (- (* ap-value rd-ap (+ 0.35 (/ 0.7 (+ 1.0 (* 1.5 eff)))))))
                    0.0)
+     ;; :rd-exposure: R&D's agenda density times ~3 accesses a turn, damped by R&D ice like
+     ;; :hq-exposure (modern reviews: R&D bare for 4-8 turns while HQ got two ice on turn 1)
+     :rd-exposure (if (pos? (get-in w [:eval :rd-exposure] 0.0))
+                    (let [deck (get-in s [:corp :deck])
+                          rd-ap (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) deck)))
+                          eff (reduce + 0.0 (for [c (srv/ices s :rd)
+                                                  :let [m (cards/printed-ice-model (:title c) false)]]
+                                              (if (some #(cards/can-break-type? % m) breakers) 0.4 1.0)))]
+                      (- (* ap-value (/ rd-ap (double (max 1 (count deck)))) 3.0 (/ 0.7 (+ 1.0 (* 1.5 eff))))))
+                    0.0)
      :hq-agenda-cost (- (* 2.0 (reduce + 0 (for [c corp-hand :when (= "Agenda" (:type c))]
                                               (or (:advancementcost (cards/printed (:title c))) 5)))))
      ;; the Corp loses when it must draw from an empty R&D: drawing it down is costly
