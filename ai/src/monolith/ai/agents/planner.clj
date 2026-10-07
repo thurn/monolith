@@ -105,7 +105,7 @@
                          (not (if (= sd :runner)
                                 (seq (s1/missing-breaker-types s))
                                 (and (some #(empty? (get-in s [:corp :servers % :ices])) [:hq :rd])
-                                     (not-any? #(= "ICE" (:type %)) (get-in s [:corp :hand]))))))))))
+                                     (not-any? #(= "ICE" (:type %)) (get-in s [:corp :hand])))))))))
              ;; an event whose cost trashes one of our programs (Spec Work) when every program is a breaker
              ;; no other installed breaker covers (modern Runner review 2: Unity, the only decoder, trashed)
              (and (= "play" (:command a)) title
