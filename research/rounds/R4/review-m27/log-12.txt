@@ -1,0 +1,709 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 21
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner trashes Gachapon to use Gachapon to set aside Bling, Fencer Fueno, Mystic Maemi, Strike Fund, Sure Gamble, and Trickster Taka from the top of the stack.
+Runner pays 0 credits to use Gachapon to install Fencer Fueno from among the set-aside cards (paying 2 credits less).
+Runner uses Gachapon to shuffle Bling, Mystic Maemi, and Strike Fund into the stack and remove Sure Gamble and Trickster Taka from the game.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Descent protecting HQ at position 0.
+Runner encounters Descent protecting HQ at position 0.
+Runner has no further action.
+Corp uses Descent to end the run.
+Corp resolves 1 unbroken subroutine on Descent ("[subroutine] End the run").
+Runner is ending their turn 1 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 4 credits and 4 cards in HQ.
+Corp uses Descent to add Descent protecting HQ at position 0 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 8 credits and 4 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Descent protecting R&D at position 0.
+Runner encounters Descent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Descent to end the run.
+Corp resolves 1 unbroken subroutine on Descent ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 5 cards in HQ.
+Corp uses Descent to add Descent protecting R&D at position 0 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 3 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 10 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Akhet protecting R&D at position 0.
+Runner encounters Akhet protecting R&D at position 0.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on a card in Server 1.
+Corp uses Akhet to end the run.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner is ending their turn 3 with 18 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Above the Law and gains 2 agenda points.
+Corp uses Above the Law to trash Fencer Fueno.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 18 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses ZATO City Grid from HQ.
+Runner pays 3 credits to trash ZATO City Grid from HQ.
+Runner uses René "Loup" Arcemont: Party Animal to gain 1 credits and draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Secure and Protect from HQ.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 4 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 16 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Leech.
+Runner spends click and pays 1 credits to install Paladin Poemu.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 14 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 1 credits from Paladin Poemu to install Cookbook.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Boi-tatá.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 6 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Above the Law and gains 2 agenda points.
+Corp uses Above the Law to trash Cookbook.
+Corp is ending their turn 7 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 11 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Fencer Fueno.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Bling.
+Runner is ending their turn 7 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 10 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click and pays 1 credits from Paladin Poemu and 3 credits from their credit pool to install Buzzsaw.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Descent protecting HQ at position 0.
+Runner encounters Descent protecting HQ at position 0.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses Measured Response from HQ.
+Runner uses Raindrops Cut Stone to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 8 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 4 credits and 5 cards in HQ.
+Corp uses Descent to add Descent protecting HQ at position 0 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 9 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 8 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses Government Subsidy from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Trickster Taka.
+Runner is ending their turn 9 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 6 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits from Trickster Taka to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses Government Subsidy from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses Measured Response from HQ.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 10 with 3 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 11 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 2 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits from Trickster Taka to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses Government Subsidy from HQ.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses ZATO City Grid from HQ.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 11 with 0 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to trash itself.
+Corp started their turn 12 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 0 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits from Trickster Taka to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses ZATO City Grid from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 12 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 5 credits to play Measured Response.
+Corp uses Measured Response to do 4 meat damage.
+Corp trashes Cookbook, Marrow, Paladin Poemu, and Privileged Access due to meat damage.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 13 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 4 credits and 1 card in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 13 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 5 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner spends click and pays 1 credits from Paladin Poemu to install Leech.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits from Trickster Taka to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses ZATO City Grid from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner is ending their turn 14 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 10 credits to play Government Subsidy.
+Corp uses Government Subsidy to gain 15 credits.
+Corp is ending their turn 15 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 6 credits and 4 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits from Trickster Taka to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses ZATO City Grid from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits from Trickster Taka to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses Tree Line from HQ.
+Runner is ending their turn 15 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 3 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 1 credits from Paladin Poemu and 3 credits from their credit pool to install Banner.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Akhet protecting R&D at position 0.
+Runner encounters Akhet protecting R&D at position 0.
+Runner pays 1 credits from Trickster Taka and 1 credits from their credit pool to use Banner to prevent Akhet protecting R&D at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Afshar protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 16 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 17 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 1 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 3.
+Corp pays 2 credits to rez Descent protecting Server 1 at position 3.
+Runner encounters Descent protecting Server 1 at position 3.
+Runner pays 1 credits from Trickster Taka to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting Server 1 at position 3.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 2 credits to rez Descent protecting Server 1 at position 2.
+Runner encounters Descent protecting Server 1 at position 2.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 4 credits to rez Tree Line protecting Server 1 at position 1.
+Runner encounters Tree Line protecting Server 1 at position 1.
+Runner pays 2 credits to use Banner to prevent Tree Line protecting Server 1 at position 1 from ending the run this encounter.
+Runner has no further action.
+Corp uses Tree Line to gain 1 credits and end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 1 unbroken subroutine on Tree Line ("[subroutine] Gain 1 credits and end the run").
+Runner passes Tree Line protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Descent protecting Server 1 at position 0.
+Runner encounters Descent protecting Server 1 at position 0.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner trashes 1 installed program (Leech) to steal SDS Drone Deployment from Server 1.
+Runner steals SDS Drone Deployment and gains 3 agenda points.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner is ending their turn 17 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 10 credits and 5 cards in HQ.
+Corp uses Descent to add Descent protecting Server 1 at position 3 to HQ.
+Corp uses Descent to add Descent protecting Server 1 at position 2 to HQ.
+Corp uses Descent to add Descent protecting Server 1 at position 0 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 1 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 2 credits to rez Descent protecting Server 1 at position 2.
+Runner encounters Descent protecting Server 1 at position 2.
+Runner pays 1 credits from Trickster Taka to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 2 credits to rez Descent protecting Server 1 at position 1.
+Runner encounters Descent protecting Server 1 at position 1.
+Runner pays 1 credits from Trickster Taka to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Tree Line protecting Server 1 at position 0.
+Runner encounters Tree Line protecting Server 1 at position 0.
+Runner pays 2 credits to use Banner to prevent Tree Line protecting Server 1 at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Tree Line to gain 1 credits and end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 1 unbroken subroutine on Tree Line ("[subroutine] Gain 1 credits and end the run").
+Runner passes Tree Line protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Divested Trust from Server 1.
+Runner steals Divested Trust and gains 1 agenda point.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Akhet protecting R&D at position 0.
+Runner encounters Akhet protecting R&D at position 0.
+Runner pays 1 credits from Trickster Taka and 1 credits from their credit pool to use Banner to prevent Akhet protecting R&D at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Afshar protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 18 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 5 credits and 5 cards in HQ.
+Corp uses Descent to add Descent protecting Server 1 at position 2 to HQ.
+Corp uses Descent to add Descent protecting Server 1 at position 1 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 3 from HQ at end of turn.
+Corp is ending their turn 19 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 3 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Akhet protecting R&D at position 0.
+Runner encounters Akhet protecting R&D at position 0.
+Runner pays 1 credits from Trickster Taka and 1 credits from their credit pool to use Banner to prevent Akhet protecting R&D at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Afshar protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 19 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 20 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 20 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 5 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Akhet protecting R&D at position 0.
+Runner encounters Akhet protecting R&D at position 0.
+Runner pays 1 credits from Trickster Taka and 1 credits from their credit pool to use Banner to prevent Akhet protecting R&D at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Afshar protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Divested Trust and gains 1 agenda point.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Akhet protecting R&D at position 0.
+Runner encounters Akhet protecting R&D at position 0.
+Runner pays 1 credits from Trickster Taka and 1 credits from their credit pool to use Banner to prevent Akhet protecting R&D at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Afshar protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 20 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 21 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 21 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 6 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Akhet protecting R&D at position 0.
+Runner encounters Akhet protecting R&D at position 0.
+Runner pays 1 credits from Trickster Taka and 1 credits from their credit pool to use Banner to prevent Akhet protecting R&D at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Afshar protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Transport Monopoly and gains 2 agenda points.
+Runner wins the game.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.

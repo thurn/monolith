@@ -1,0 +1,282 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 14
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Living Mural on ice protecting Server 1 at position 0.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits and lose click.
+Runner spends click and pays 1 credits to play Into the Depths.
+Runner uses Into the Depths to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Remastered Edition and gains 2 agenda points.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner is ending their turn 1 with 5 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Gauss.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits.
+Runner is ending their turn 2 with 7 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 3 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 7 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Nanuq.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 3 with 0 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 4 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 0 credits and 2 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Capacitor protecting Server 1 at position 0.
+Runner encounters Capacitor protecting Server 1 at position 0.
+Runner pays 2 credits to use Nanuq to break all 2 subroutines on Capacitor.
+Runner has no further action.
+Runner passes Capacitor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Next Big Thing from Server 1.
+Runner steals Next Big Thing and gains 3 agenda points.
+Runner uses Nanuq to remove itself from the game.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click and spends 1 hosted power counter from on Epiphany Analytica: Nations Undivided to use Epiphany Analytica: Nations Undivided to look at the top 3 cards of R&D.
+Corp uses Epiphany Analytica: Nations Undivided to install a card from  position 1 of R&D in the root of Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 2 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Server 3.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Tiered Subscription from Server 3.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Daily Quest from Server 2.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting HQ.
+Corp pays 0 credits to rez Tiered Subscription in Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 6 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp is ending their turn 7 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 12 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 18 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 18 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 22 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 22 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 26 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp pays 1 credits to rez Daily Quest in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp is ending their turn 10 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 26 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Corp uses Tiered Subscription to gain 1 credits.
+Runner approaches Capacitor protecting Server 1 at position 0.
+Runner encounters Capacitor protecting Server 1 at position 0.
+Runner pays 4 credits to increase the strength of Gauss to 3 and break all 2 subroutines on Capacitor.
+Runner has no further action.
+Runner passes Capacitor protecting Server 1 at position 0.
+Runner will continue the run.
+Corp pays 6 credits to rez Hype Machine in Server 1.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Hype Machine from Server 1.
+Runner pays 2 credits to trash Hype Machine from Server 1.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 23 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 5 credits and 4 cards in HQ.
+Corp uses Daily Quest to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 11 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 11 with 23 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 27 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 9 credits and 4 cards in HQ.
+Corp uses Daily Quest to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 0 credits to play IP Enforcement.
+Corp uses IP Enforcement to do nothing.
+Corp is ending their turn 12 with 11 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 12 with 27 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Corp uses Tiered Subscription to gain 1 credits.
+Runner approaches Capacitor protecting Server 1 at position 0.
+Runner encounters Capacitor protecting Server 1 at position 0.
+Runner pays 4 credits to increase the strength of Gauss to 3 and break all 2 subroutines on Capacitor.
+Runner has no further action.
+Runner passes Capacitor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Oracle Thinktank from Server 1.
+Runner steals Oracle Thinktank and gains 1 agenda point.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Corp uses Oracle Thinktank to give the Runner 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 23 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 12 credits and 3 cards in HQ.
+Corp uses Daily Quest to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Public Trail.
+Corp uses Public Trail to give the runner 1 tag.
+Corp spends click, pays 2 credits, and removes 1 tag to play Backroom Machinations.
+Corp uses Backroom Machinations to add itself to the score area as an agenda worth 1 agenda point.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 13 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 13 with 23 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 27 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 9 credits and 3 cards in HQ.
+Corp uses Daily Quest to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 14 with 16 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 14 with 27 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 4.
+Corp uses Tiered Subscription to gain 1 credits.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 5 credits to rez Grubber protecting Server 4 at position 0.
+Runner encounters Grubber protecting Server 4 at position 0.
+Runner pays 6 credits to increase the strength of Gauss to 5 and break all 2 subroutines on Grubber.
+Runner has no further action.
+Runner passes Grubber protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Oracle Thinktank from Server 4.
+Runner steals Oracle Thinktank and gains 1 agenda point.
+Runner wins the game.

@@ -1001,9 +1001,15 @@
          (or (when target (choice env (re-pattern (str "^" (java.util.regex.Pattern/quote (srv/server-name target)) "$"))))
              (let [cs (remove #(re-find #"(?i)cancel" (:label %)) (acts env :choice))]
                (when (seq cs)
-                 (let [byp (bypass-event? (card-text (str (get-in p [:card :title]))))]
+                 (let [txt (card-text (str (get-in p [:card :title])))
+                       byp (bypass-event? txt)
+                       ;; the event's own modifiers (Tread Lightly: ice costs 3 more to rez) decide the target
+                       ;; (modern review 26: Tread Lightly sent to an empty Archives past a twice-advanced remote)
+                       mods {:rez-bonus (or (some-> (re-find #"(?i)rez cost of each piece of ice is increased by (\d+)" txt) second parse-long) 0)
+                             :credits-bonus (or (some-> (re-find #"(?i)place (\d+)\[credit\] on this event" txt) second parse-long) 0)
+                             :extra-access (if (re-find #"(?i)access 1 additional card" txt) 1 0)}]
                    (apply max-key #(let [k (srv/server-key (:label %))]
-                                     (+ (server-run-utility env k {}) (if byp (bypass-gain env k) 0.0)))
+                                     (+ (server-run-utility env k mods) (if byp (bypass-gain env k) 0.0)))
                           cs))))))
 
        ;; heap breakers (Paperclip, Black Orchestra): only if install + breaking this ice is affordable
