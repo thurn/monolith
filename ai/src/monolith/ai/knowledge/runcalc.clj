@@ -18,6 +18,10 @@
             (if (:ended st) st
                 (cond-> st
                   (:corp-draw sub) (update :corp-hand (fnil + 0) (:corp-draw sub))
+                  ;; "trash 1 installed program unless the Runner pays N": pay when able, else lose a program
+                  (:etr-unless-pay-trash sub) (as-> st' (if (>= (:credits st') (:etr-unless-pay-trash sub))
+                                                          (update st' :credits - (:etr-unless-pay-trash sub))
+                                                          (update st' :trashed (fnil inc 0))))
                   (:net sub) (update :damage + (:net sub))
                   (:meat sub) (update :damage + (:meat sub))
                   (:core sub) (update :damage + 1)

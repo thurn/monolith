@@ -27,12 +27,19 @@
       ;; Vicsek: X net damage and X tags, X = the Runner's tags
       (re-find #"do x damage and give the runner x tags" l) (assoc :net-per-tag 1 :tag-per-tag 1)
       ;; Vertigo, Enigma, Viper: a lost click (priced in the run calculator)
-      (re-find #"lose \[click\]" l) (assoc :lose-click 1)
+      (re-find #"loses? \[click\]" l) (assoc :lose-click 1)
+      ;; card-pool audit (unparsed subroutines, all Standard ice): generic Runner-side effects
+      (re-find #"^trash (1|a|an|\d+) resources?\.?$" l) (assoc :trash-program 1)
+      (re-find #"trash (1|a|an) installed program unless the runner pays (\d+)" l)
+      (assoc :etr-unless-pay-trash (n #"unless the runner pays (\d+)"))
+      ;; no credits for the rest of the run: nothing further can be broken, as good as ETR for the calculator
+      (re-find #"the runner cannot spend any credits for the remainder of this (run|turn)" l) (assoc :etr true)
       ;; Winchester (trace), Swordsman: hardware or an AI program lost
       (re-find #"trash a piece of hardware|trash an ai program" l) (assoc :trash-program 1)
       ;; Piranhas' "You may draw 1 card" is the Corp drawing: HQ grows before its ETR check (modern review 29:
       ;; R&D run into rezzed Piranhas five times, predicted HQ 4 vs grip 4, actual 5 vs 4)
-      (re-find #"^\[subroutine\] you may draw 1 card|^you may draw 1 card" l) (assoc :corp-draw 1)
+      (re-find #"^\[subroutine\] you may draw (\d+) cards?|^you may draw (\d+) cards?|^gain \d+\[credit\]\. you may draw (\d+) card" l)
+      (assoc :corp-draw (some->> (re-find #"draw (\d+) card" l) second parse-long))
       ;; Piranhas: ETR while the Corp's HQ outnumbers the Runner's grip
       (re-find #"end the run if there are more cards in hq than in the grip" l) (assoc :etr-if-hq-bigger true)
       (re-find #"if there are (\d+) or more hosted advancement counters, end the run" l)

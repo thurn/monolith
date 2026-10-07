@@ -1,6 +1,7 @@
 ;; Modern Standard dev matchups (R4, 2026-10-07): the bundled dev pool has no Standard decks after 2022, while the
 ;; held-out matchups are Worlds 2023-2025. These lists are new (written for coverage of the modern card pool, not
-;; copied from the held-out lists or any tournament list); identities differ from the held-out ones.
+;; copied from the held-out lists or any tournament list). modern-e..h share identities with the held-out matchups (archetype
+;; proxies); modern-i..l add other Runner identities and card packages against existing Corps.
 {:modern-a
  {:corp {:identity {:title "Haas-Bioroid: Precision Design"}
          :cards [{:qty 3 :card "Project Ingatan"} {:qty 2 :card "Méliès City Luxury Line"} {:qty 3 :card "Megaprix Qualifier"}
@@ -129,4 +130,47 @@
                    {:qty 2 :card "Concerto"} {:qty 2 :card "Jailbreak"} {:qty 2 :card "Bravado"}
                    {:qty 2 :card "Poison Vial"} {:qty 2 :card "Docklands Pass"} {:qty 1 :card "Masterwork (v37)"}
                    {:qty 3 :card "Daily Casts"} {:qty 2 :card "The Back"} {:qty 2 :card "Debbie \"Downtown\" Moreira"} {:qty 2 :card "Info Bounty"}
-                   {:qty 2 :card "Underdome Irregulars"}]}}}
+                   {:qty 2 :card "Underdome Irregulars"}]}}
+ ;; R4 variant Runner packages (identities and cards outside modern-a..h; written from the card pool)
+ :modern-i
+ {:corp {:identity {:title "Weyland Consortium: Built to Last"}
+         :cards [{:qty 3 :card "Above the Law"} {:qty 3 :card "Transport Monopoly"} {:qty 3 :card "Divested Trust"}
+                 {:qty 2 :card "SDS Drone Deployment"}
+                 {:qty 3 :card "Tree Line"} {:qty 3 :card "Akhet"} {:qty 2 :card "Afshar"} {:qty 2 :card "Ballista"}
+                 {:qty 2 :card "Hammer"} {:qty 2 :card "Envelopment"} {:qty 3 :card "Descent"}
+                 {:qty 3 :card "Hedge Fund"} {:qty 3 :card "Government Subsidy"} {:qty 2 :card "Secure and Protect"}
+                 {:qty 2 :card "Measured Response"} {:qty 1 :card "Retribution"}
+                 {:qty 2 :card "Wall to Wall"} {:qty 2 :card "Luana Campos"} {:qty 2 :card "ZATO City Grid"}]}
+  :runner {:identity {:title "Ken \"Express\" Tenma: Disappeared Clone"} :cards [{:qty 2 :card "Bukhgalter"} {:qty 2 :card "Carmen"} {:qty 2 :card "Cleaver"} {:qty 1 :card "Mayfly"} {:qty 3 :card "Sure Gamble"} {:qty 3 :card "Dirty Laundry"} {:qty 3 :card "Daily Casts"} {:qty 2 :card "Inside Job"} {:qty 2 :card "Emergency Shutdown"} {:qty 2 :card "Tread Lightly"} {:qty 2 :card "Jailbreak"} {:qty 2 :card "Docklands Pass"} {:qty 1 :card "Lucky Charm"} {:qty 2 :card "PAN-Weave"} {:qty 2 :card "Smartware Distributor"} {:qty 2 :card "Mutual Favor"} {:qty 2 :card "Overclock"} {:qty 2 :card "Lucky Find"} {:qty 1 :card "Earthrise Hotel"} {:qty 2 :card "Hermes"}]}}
+ ;; R4 variant Runner packages (identities and cards outside modern-a..h; written from the card pool)
+ :modern-j
+ {:corp {:identity {:title "Near-Earth Hub: Broadcast Center"}
+         :cards [{:qty 3 :card "Tomorrow's Headline"} {:qty 2 :card "Freedom of Information"} {:qty 2 :card "Witch Hunt"}
+                 {:qty 2 :card "Stoke the Embers"} {:qty 2 :card "Post-Truth Dividend"}
+                 {:qty 3 :card "Ping"} {:qty 2 :card "Starlit Knight"} {:qty 2 :card "N-Pot"} {:qty 2 :card "Piranhas"} {:qty 2 :card "Doomscroll"}
+                 {:qty 3 :card "Congratulations!"} {:qty 2 :card "Loot Box"}
+                 {:qty 3 :card "Hedge Fund"} {:qty 2 :card "Oppo Research"} {:qty 2 :card "Game Over"} {:qty 2 :card "Shipment from Vladisibirsk"}
+                 {:qty 1 :card "Flood the Market"}
+                 {:qty 2 :card "Daily Quest"} {:qty 2 :card "Gaslight"} {:qty 2 :card "Behold!"} {:qty 2 :card "Increased Drop Rates"}]}
+  :runner {:identity {:title "Alice Merchant: Clan Agitator"} :cards [{:qty 2 :card "Cleaver"} {:qty 2 :card "Paperclip"} {:qty 2 :card "Botulus"} {:qty 1 :card "Mayfly"} {:qty 2 :card "Leech"} {:qty 3 :card "Sure Gamble"} {:qty 2 :card "Dirty Laundry"} {:qty 2 :card "Tsakhia \"Bankhar\" Gantulga"} {:qty 1 :card "Ice Carver"} {:qty 2 :card "Smartware Distributor"} {:qty 2 :card "Jailbreak"} {:qty 2 :card "En Passant"} {:qty 3 :card "Overclock"} {:qty 2 :card "Prepaid VoicePAD"} {:qty 2 :card "Imp"} {:qty 2 :card "Earthrise Hotel"} {:qty 2 :card "Lucky Find"} {:qty 3 :card "Wildcat Strike"} {:qty 2 :card "Running Hot"} {:qty 1 :card "Cradle"}]}}
+ ;; R4 variant Runner packages (identities and cards outside modern-a..h; written from the card pool)
+ :modern-k
+ {:corp {:identity {:title "Jinteki: Personal Evolution"}
+         :cards [{:qty 3 :card "Hybrid Release"} {:qty 2 :card "Longevity Serum"} {:qty 3 :card "Lotus Haze"} {:qty 2 :card "See How They Run"}
+                 {:qty 1 :card "Sisyphus Protocol"} {:qty 1 :card "Regenesis"}
+                 {:qty 3 :card "Anemone"} {:qty 2 :card "Saisentan"} {:qty 2 :card "Konjin"} {:qty 2 :card "Bathynomus"}
+                 {:qty 2 :card "Knowledge Seeker"} {:qty 2 :card "Semak-samun"} {:qty 2 :card "Hafrún"}
+                 {:qty 3 :card "Hedge Fund"} {:qty 2 :card "Neurospike"} {:qty 2 :card "Mitosis"} {:qty 2 :card "Bring Them Home"}
+                 {:qty 3 :card "Urtica Cipher"} {:qty 2 :card "Bladderwort"} {:qty 2 :card "Esca"} {:qty 2 :card "Mavirus"}]}
+  :runner {:identity {:title "Sebastião Souza Pessoa: Activist Organizer"} :cards [{:qty 2 :card "Mayfly"} {:qty 2 :card "Cleaver"} {:qty 1 :card "Cradle"} {:qty 2 :card "Botulus"} {:qty 2 :card "Paperclip"} {:qty 3 :card "Sure Gamble"} {:qty 2 :card "Tsakhia \"Bankhar\" Gantulga"} {:qty 3 :card "Wildcat Strike"} {:qty 2 :card "Smartware Distributor"} {:qty 2 :card "Earthrise Hotel"} {:qty 2 :card "Jailbreak"} {:qty 2 :card "Overclock"} {:qty 1 :card "En Passant"} {:qty 2 :card "Lucky Find"} {:qty 2 :card "Prepaid VoicePAD"} {:qty 1 :card "Hermes"} {:qty 2 :card "Ice Carver"} {:qty 2 :card "Leech"} {:qty 1 :card "Imp"} {:qty 2 :card "Running Hot"} {:qty 2 :card "Dirty Laundry"}]}}
+ ;; R4 variant Runner packages (identities and cards outside modern-a..h; written from the card pool)
+ :modern-l
+ {:corp {:identity {:title "AU Co.: The Gold Standard in Clones"}
+         :cards [{:qty 3 :card "Hybrid Release"} {:qty 3 :card "Project Yagi-Uda"} {:qty 3 :card "Sericulture Expansion"}
+                 {:qty 1 :card "Fujii Asset Retrieval"} {:qty 1 :card "Flower Sermon"}
+                 {:qty 3 :card "Tatu-Bola"} {:qty 2 :card "Karunā"} {:qty 3 :card "Diviner"} {:qty 2 :card "Hafrún"}
+                 {:qty 2 :card "Vicsek"} {:qty 2 :card "Ivik"} {:qty 2 :card "Phoneutria"}
+                 {:qty 3 :card "Hedge Fund"} {:qty 3 :card "Petty Cash"} {:qty 2 :card "Neurospike"} {:qty 1 :card "Cultivate"}
+                 {:qty 3 :card "Urtica Cipher"} {:qty 2 :card "Front Company"} {:qty 2 :card "Public Health Portal"}
+                 {:qty 2 :card "La Costa Grid"}]}
+  :runner {:identity {:title "Mercury: Chrome Libertador"} :cards [{:qty 2 :card "Carmen"} {:qty 2 :card "Bukhgalter"} {:qty 1 :card "Echelon"} {:qty 1 :card "Paperclip"} {:qty 1 :card "Mayfly"} {:qty 1 :card "Aumakua"} {:qty 3 :card "Sure Gamble"} {:qty 2 :card "Dirty Laundry"} {:qty 2 :card "Career Fair"} {:qty 2 :card "Daily Casts"} {:qty 1 :card "Earthrise Hotel"} {:qty 2 :card "Smartware Distributor"} {:qty 2 :card "Inside Job"} {:qty 2 :card "Tread Lightly"} {:qty 2 :card "Emergency Shutdown"} {:qty 2 :card "Jailbreak"} {:qty 1 :card "Pinhole Threading"} {:qty 2 :card "Docklands Pass"} {:qty 2 :card "Hermes"} {:qty 1 :card "Lucky Charm"} {:qty 1 :card "PAN-Weave"} {:qty 2 :card "Mutual Favor"} {:qty 2 :card "Overclock"} {:qty 1 :card "Lucky Find"}]}}}

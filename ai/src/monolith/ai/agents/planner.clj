@@ -93,11 +93,6 @@
              (and (= "rez" (:command a)) title (srv/trap-damage title 0))
              (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))
              (s1/duplicate-unique-install? s a)
-             ;; a resource installed while tagged is a trash target for the Corp's basic action (archetype review 11:
-             ;; Telework Contract reinstalled and trashed five times); clear the tag first
-             (and (= :runner (:side a)) (= :install (:type a)) title (= "Resource" typ)
-                  (pos? (+ (get-in s [:runner :tag :base] 0) (get-in s [:runner :tag :additional] 0)))
-                  (>= (get-in s [:corp :credit] 0) 2))
              ;; "your action phase ends" (Oppo Research): only with the last click (modern review 17: played
              ;; with the first click, two clicks lost at 13 credits)
              (and (= "play" (:command a)) title

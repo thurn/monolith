@@ -236,6 +236,25 @@
        (+ (* 2.5 (or (some-> (re-find #"(?i)(?:take|give (?:them|the runner)) (\d+) tags?" txt) second parse-long) 0))
           (* 2.0 (or (some-> (re-find #"(?i)do (\d+) net damage" txt) second parse-long) 0)))))))
 
+(defn- access-risk
+  "Expected cost of one random access to an unseen HQ/R&D card: access punishers in the pool
+  (Snare!, Byte!-style tags or net damage on access), with tags and damage at the Runner's run
+  weights and a near-flatline when the damage reaches the grip. Card-pool audit: central access
+  values counted agendas only, so a 2-card Runner accessed R&D against trap decks freely."
+  [pool {:keys [w-damage w-tag hand]}]
+  (let [n (reduce + 0 (vals pool))]
+    (if (zero? n)
+      0.0
+      (/ (reduce + 0.0
+                 (for [[t q] pool
+                       :let [txt (str (:text (cards/printed t)))]
+                       :when (and (re-find #"(?i)when the runner accesses this" txt) (not= "Agenda" (cards/ctype t)))
+                       :let [tags (or (some-> (re-find #"(?i)(?:take|give (?:them|the runner)) (\d+) tags?" txt) second parse-long) 0)
+                             dmg (or (some-> (re-find #"(?i)do (\d+) net damage" txt) second parse-long) 0)]]
+                   (* q (+ (* tags (or w-tag 2.5))
+                           (if (and (pos? dmg) (>= dmg (or hand 5))) 50.0 (* dmg (or w-damage 2.0)))))))
+         n))))
+
 (declare content-value*)
 
 (defn content-value
@@ -270,14 +289,15 @@
               (+ (if (= "Agenda" (cards/ctype (:title top))) (agenda-access-value (:title top) ap-value (get-in obs [:runner :credit])) 0.0)
                  (* ap-value dens (min extra-access (dec (count deck)))))
               top-known 0.0
-              :else (* ap-value dens (+ 1 extra-access))))
+              :else (- (* ap-value dens (+ 1 extra-access))
+                       (* (+ 1 extra-access) (access-risk pool opts)))))
       ;; HQ cards the Runner accessed earlier are visible (harness :hq-memory): they count at
       ;; their own value, the rest at the unseen density (accesses are random across HQ)
       :hq (let [hand (get-in obs [:corp :hand])
                 n (count hand)
                 known (remove :hidden hand)
                 per-card (if (zero? n) 0.0
-                             (/ (+ (* ap-value dens (- n (count known)))
+                             (/ (+ (* (- (* ap-value dens) (access-risk pool opts)) (- n (count known)))
                                    (reduce + 0.0 (for [c known :when (= "Agenda" (cards/ctype (:title c)))]
                                                    (agenda-access-value (:title c) ap-value (get-in obs [:runner :credit]))))
                                    ;; known access punishers (Behold!: 2 tags; archetype review 8: HQ re-run into it

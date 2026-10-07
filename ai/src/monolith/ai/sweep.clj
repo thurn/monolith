@@ -36,6 +36,10 @@
   "Modern Standard dev matchups (R4): Standard card pool 2021-2025 like the held-out decks, different lists."
   [:modern-a :modern-b :modern-c :modern-d :modern-e :modern-f :modern-g :modern-h])
 
+(def modern-var
+  "Variant modern Runner packages (R4): Ken Tenma, Alice Merchant, Sebastião, Mercury against modern-b/h/g/e Corps."
+  [:modern-i :modern-j :modern-k :modern-l])
+
 (def holdout-mix [:worlds-2023-a :worlds-2023-b :worlds-2024-a :worlds-2024-b :worlds-2025-a :worlds-2025-b])
 
 (defn deck-keys [m] [(keyword (str (name m) "-corp")) (keyword (str (name m) "-runner"))])
