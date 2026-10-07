@@ -733,7 +733,10 @@
         kill-deck (some #(or (meat-damage %)
                              (re-find #"(?i)damage (?:for each|per) tag|tagged[^.]*damage" (str (:text (cards/printed %)))))
                         (keys (corp-decklist env)))
-        resources (seq (get-in obs [:runner :rig :resource]))]
+        ;; with :tag-threat, resources are at risk only if the decklist can trash them
+        resources (and (seq (get-in obs [:runner :rig :resource]))
+                       (or (not (w env :tag-threat))
+                           (some #(re-find #"(?i)trash[^.]*resource" (str (:text (cards/printed %)))) (keys (corp-decklist env)))))]
     (when (and (runner-tagged? obs) (act env :remove-tag)
                (or kill-deck
                    (and resources (>= (credits env) 5)))

@@ -142,6 +142,18 @@
         (if (or (zero? kills) (zero? n)) 0.0
             (- 1.0 (Math/pow (- 1.0 (/ kills (double n))) h)))))))
 
+(defn- tag-punisher? [title]
+  (boolean (re-find #"(?i)runner is tagged|for each tag|trash (1|a|an installed) resource|meat damage|if the runner has (a|any|\d+) tags?|tagged runner"
+                    (str (:text (cards/printed title))))))
+
+(def ^:private tag-punisher?* (memoize tag-punisher?))
+
+(defn- tag-threat?
+  "Whether any Corp card the Runner could still face (hand, R&D, installed) uses tags."
+  [s]
+  (some #(some-> (:title %) tag-punisher?*)
+        (concat (get-in s [:corp :hand]) (get-in s [:corp :deck]) (srv/all-corp-installed s))))
+
 (defn- econ-potential
   "Credits an economy asset is worth over the next few turns, from its text: per-turn gains
   (PAD Campaign: 4 turns' worth) or credits loaded on rez (Adonis, Marilyn: 0.6 each)."
@@ -273,11 +285,16 @@
                                   (cond (srv/trap-damage (:title c) 0) (if (:rezzed c) -1.0 (+ 1.0 (* 0.3 (or (:advance-counter c) 0))))
                                         (and (not (:rezzed c)) (cards/load-credits (:title c))) 2.0
                                         :else 0.5)))
+     ;; core damage lowers the Runner's hand size for the rest of the game; the :hands cap alone
+     ;; makes it nearly free, so Stimhack went on runs that needed no credits (dev reviews 12-14)
+     :core-damage (if (pos? (get-in w [:eval :core-damage] 0.0)) (* 4.0 (get-in s [:runner :brain-damage] 0)) 0.0)
      :runner-damage-exposure (if (<= (count (get-in s [:runner :hand])) 2) 2.0 0.0)
      :clicks (- (* 1.0 (get-in s [:corp :click] 0)) (* 1.0 (get-in s [:runner :click] 0)))
-     ;; a tag costs the Runner a click and 2 credits to clear and exposes resources and meat damage
+     ;; a tag costs the Runner a click and 2 credits to clear and exposes resources and meat damage;
+     ;; with :tag-threat, little against a Corp with no card that uses tags (dev review 14: paying
+     ;; every turn to clear Joshua B. tags)
      :tags (let [n (+ (get-in s [:runner :tag :base] 0) (get-in s [:runner :tag :additional] 0))]
-             (+ (* 2.5 n)
+             (+ (* (if (and (:tag-threat w) (not (tag-threat? s))) 0.5 2.5) n)
                 ;; with :tag-exposure, a tagged Runner's resources are trash targets
                 (if (and (:tag-exposure w) (pos? n)) (* 1.5 (count (:resource rig))) 0.0)))
      ;; each bad publicity gives the Runner a credit per run

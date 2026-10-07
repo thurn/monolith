@@ -28,8 +28,21 @@
   (let [rig (get-in obs [:runner :rig])]
     (concat (:program rig) (:hardware rig) (:resource rig))))
 
+(defn- stealth-credits
+  "Credits on the Runner's stealth cards (Cloak, Ghost Runner, Smoke's identity)."
+  [obs]
+  (let [rig (get-in obs [:runner :rig])]
+    (reduce + 0 (for [c (concat (:program rig) (:hardware rig) (:resource rig) [(get-in obs [:runner :identity])])
+                      :when (some #{"Stealth"} (:subtypes (cards/printed (:title c))))]
+                  (+ (or (get-in c [:counter :recurring]) 0) (or (get-in c [:counter :credit]) 0))))))
+
 (defn icebreakers [obs]
-  (let [bs (filter #(cards/icebreaker? (:title %)) (:program (get-in obs [:runner :rig])))
+  (let [stealth (delay (stealth-credits obs))
+        ;; breakers that spend only stealth credits (Switchblade, Dai V) break nothing without them
+        ;; (dev review 13: a known Cobra fired three times once Cloak was gone)
+        usable? #(or (not (re-find #"(?i)spend credits only from <strong>stealth" (str (:text (cards/printed (:title %))))))
+                     (pos? @stealth))
+        bs (filter #(and (cards/icebreaker? (:title %)) (usable? %)) (:program (get-in obs [:runner :rig])))
         n (count bs)
         grip (count (get-in obs [:runner :hand]))]
     (keep #(cards/breaker-model (assoc % :monolith-grip grip) n) bs)))
