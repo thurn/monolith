@@ -937,6 +937,13 @@
      (prompt-common env)
      (cond
        (choice env #"^Steal$") (choice env #"^Steal$")
+       ;; "end the run unless the Runner pays N": pay when affordable (archetype review: Loot Box declined at 38
+       ;; credits; Paywall and Grubber declined while affordable). The run was started on a plan that pays.
+       (and (some #(re-find #"(?i)^Pay (\d+) \[Credits?\]" (str (:label %))) (acts env :choice))
+            (some #(re-find #"(?i)end the run" (str (:label %))) (acts env :choice)))
+       (let [pay (some #(when (re-find #"(?i)^Pay (\d+) \[Credits?\]" (str (:label %))) %) (acts env :choice))
+             n (parse-long (second (re-find #"(?i)^Pay (\d+)" (str (:label pay)))))]
+         (if (<= n (credits env)) pay (choice env #"(?i)end the run")))
        ;; manual subroutine breaking: ETR first, then damage, then the rest
        (re-find #"(?i)^Break a subroutine" msg)
        (let [cs (remove #(re-find #"^Done$" (str (:label %))) (acts env :choice))
