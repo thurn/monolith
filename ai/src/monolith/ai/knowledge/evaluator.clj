@@ -291,10 +291,10 @@
      :runner-damage-exposure (if (<= (count (get-in s [:runner :hand])) 2) 2.0 0.0)
      :clicks (- (* 1.0 (get-in s [:corp :click] 0)) (* 1.0 (get-in s [:runner :click] 0)))
      ;; a tag costs the Runner a click and 2 credits to clear and exposes resources and meat damage;
-     ;; with :tag-threat, little against a Corp with no card that uses tags (dev review 14: paying
-     ;; every turn to clear Joshua B. tags)
+     ;; with :tag-threat, little when no resource is installed (the basic trash action needs one)
+     ;; and the Corp has no card that uses tags
      :tags (let [n (+ (get-in s [:runner :tag :base] 0) (get-in s [:runner :tag :additional] 0))]
-             (+ (* (if (and (:tag-threat w) (not (tag-threat? s))) 0.5 2.5) n)
+             (+ (* (if (and (:tag-threat w) (empty? (:resource rig)) (not (tag-threat? s))) 0.5 2.5) n)
                 ;; with :tag-exposure, a tagged Runner's resources are trash targets
                 (if (and (:tag-exposure w) (pos? n)) (* 1.5 (count (:resource rig))) 0.0)))
      ;; each bad publicity gives the Runner a credit per run

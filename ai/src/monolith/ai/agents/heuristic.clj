@@ -734,10 +734,9 @@
         kill-deck (some #(or (meat-damage %)
                              (re-find #"(?i)damage (?:for each|per) tag|tagged[^.]*damage" (str (:text (cards/printed %)))))
                         (keys (corp-decklist env)))
-        ;; with :tag-threat, resources are at risk only if the decklist can trash them
-        resources (and (seq (get-in obs [:runner :rig :resource]))
-                       (or (not (w env :tag-threat))
-                           (some #(re-find #"(?i)trash[^.]*resource" (str (:text (cards/printed %)))) (keys (corp-decklist env)))))]
+        ;; installed resources are always at risk: any Corp may trash one with a basic action while
+        ;; the Runner is tagged (review 15: tag-threat variant that ignored this lost resources)
+        resources (seq (get-in obs [:runner :rig :resource]))]
     (when (and (runner-tagged? obs) (act env :remove-tag)
                (or kill-deck
                    (and resources (>= (credits env) 5)))
