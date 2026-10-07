@@ -572,11 +572,14 @@
        (select-best env (fn [c] (if (= "ICE" (:type c)) (cards/play-cost (:title c)) 0)))
        ;; optional draws only with room in hand (archetype review: AU Co.'s draw 2 into a full HQ discarded
        ;; agendas into an open Archives every turn)
-       (re-find #"(?i)draw (\d+) cards?\?" msg)
-       (let [n (parse-long (second (re-find #"(?i)draw (\d+) cards?\?" msg)))
+       (or (re-find #"(?i)draw (\d+) cards?\?" msg) (re-find #"(?i)look at the top (\d+) cards of R&D\?" msg))
+       (let [n (if-let [[_ k] (re-find #"(?i)draw (\d+) cards?\?" msg)]
+                 (parse-long k)
+                 ;; AU Co.: look at 3, trash 1, the rest go to HQ
+                 (dec (parse-long (second (re-find #"(?i)look at the top (\d+) cards of R&D\?" msg)))))
              hand (count (get-in obs [:corp :hand]))
              mx (or (get-in obs [:corp :hand-size :total]) 5)]
-         (choice env (if (<= (+ hand n) (inc mx)) #"^Yes" #"^No")))
+         (choice env (if (<= (+ hand n) mx) #"^Yes" #"^No")))
        (re-find #"(?i)ability\?" msg) (choice env #"^Yes")
        :else nil)
      (first (remove #(re-find #"(?i)cancel" (str (:label %))) (:actions env)))

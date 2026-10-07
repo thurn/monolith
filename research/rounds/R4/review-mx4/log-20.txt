@@ -1,0 +1,97 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 3
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 1 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Unity.
+Runner spends click and pays 1 credits to play Into the Depths.
+Runner uses Into the Depths to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Klevetnik protecting Server 1 at position 0.
+Runner encounters Klevetnik protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Klevetnik to end the run.
+Corp resolves 1 unbroken subroutine on Klevetnik ("[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Next Big Thing and gains 3 agenda points.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Kingmaking and gains 2 agenda points.
+Corp uses Kingmaking to draw 0 cards.
+Corp is ending their turn 3 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Remastered Edition and gains 2 agenda points.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Oracle Thinktank and gains 1 agenda point.
+Corp uses Oracle Thinktank to give the Runner 1 tag.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Kingmaking and gains 2 agenda points.
+Runner wins the game.

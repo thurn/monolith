@@ -1,0 +1,241 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 10
+
+Corp takes a mulligan.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Abaasy.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 2 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Sisyphus Protocol from Server 1.
+Runner steals Sisyphus Protocol and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Sure Gamble due to net damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Stick and Poke.
+Runner is ending their turn 2 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Urtica Cipher from Server 2.
+Corp uses Urtica Cipher to do 2 net damage.
+Corp trashes Mystic Maemi and Scrounge due to net damage.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 4 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 10 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 5 credits to rez Saisentan protecting Server 1 at position 0.
+Runner encounters Saisentan protecting Server 1 at position 0.
+Corp uses Saisentan to choose the card type Event.
+Runner has no further action.
+Corp uses Saisentan to Do 1 net damage.
+Corp trashes Fermenter due to net damage.
+Corp uses Saisentan to force the Runner to draw 1 card.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Ghosttongue due to net damage.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Wildcat Strike due to net damage.
+Corp uses Saisentan to deal 1 additional net damage.
+Corp trashes Katorga Breakout due to net damage.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Chastushka due to net damage.
+Corp uses Saisentan to deal 1 additional net damage.
+Corp trashes Avgustina Ivanovskaya due to net damage.
+Corp resolves 4 unbroken subroutines on Saisentan ("[subroutine] [Stick] Do 1 net damage. The Runner draws 1 card." and "[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").
+Runner passes Saisentan protecting Server 1 at position 0.
+Runner jacks out.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 10 credits and 1 card in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 10 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Boi-tatá.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Regenesis and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Light the Fire! due to net damage.
+Corp is ending their turn 6 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 7 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bladderwort from HQ.
+Runner pays 3 credits to trash Bladderwort from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 6 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Saisentan protecting Server 1 at position 0.
+Runner encounters Saisentan protecting Server 1 at position 0.
+Corp uses Saisentan to choose the card type Event.
+Runner pays 7 credits to increase the strength of Boi-tatá to 4 and break all 4 subroutines on Saisentan.
+Runner has no further action.
+Runner passes Saisentan protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Hybrid Release from Server 1.
+Runner steals Hybrid Release and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Fermenter due to net damage.
+Runner is ending their turn 7 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click and pays 0 credits to install ice protecting Server 3.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 8 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 1 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 5 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Saisentan protecting Server 1 at position 0.
+Runner encounters Saisentan protecting Server 1 at position 0.
+Corp uses Saisentan to choose the card type Event.
+Runner pays 7 credits to increase the strength of Boi-tatá to 4 and break all 4 subroutines on Saisentan.
+Runner has no further action.
+Runner passes Saisentan protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Lotus Haze from Server 1.
+Runner steals Lotus Haze and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Avgustina Ivanovskaya due to net damage.
+Runner is ending their turn 9 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 0 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Saisentan protecting Server 1 at position 0.
+Runner encounters Saisentan protecting Server 1 at position 0.
+Corp uses Saisentan to choose the card type Event.
+Runner has no further action.
+Corp uses Saisentan to Do 1 net damage.
+Corp trashes Finality due to net damage.
+Corp uses Saisentan to force the Runner to draw 1 card.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Rising Tide due to net damage.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Keiko due to net damage.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Leech due to net damage.
+Corp resolves 4 unbroken subroutines on Saisentan ("[subroutine] [Stick] Do 1 net damage. The Runner draws 1 card." and "[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").
+Runner passes Saisentan protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses See How They Run from Server 1.
+Runner steals See How They Run and gains 2 agenda points.
+Runner wins the game.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Abaasy due to net damage.
