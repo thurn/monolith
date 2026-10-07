@@ -33,7 +33,15 @@
   (let [o (sim/obs sm :runner)
         k (first (get-in o [:run :server]))]
     (if k
-      (let [env (assoc env-base :obs o :side :runner)
+      (let [w (:weights env-base)
+            ;; :run-ap-eval: value the run's agenda points on the evaluator's scale (ap-value x the
+            ;; :agenda-points weight, 17.5/point) rather than the run calculator's 7, which made run lines
+            ;; lose to +2-credit economy lines (dev review 20: HQ unrun for 5 turns against a poor Corp)
+            env-base (if (:run-ap-eval w)
+                       (assoc-in env-base [:weights :run-ap-value]
+                                 (* (or (:ap-value w) 7.0) (get-in w [:eval :agenda-points] 1.0) (:run-ap-eval w)))
+                       env-base)
+            env (assoc env-base :obs o :side :runner)
             ev (s1/server-run-eval env k {})
             cv (:click-value (:weights env-base))]
         ;; the line already paid the run's click; refund it only if the run is worth something (a
@@ -194,7 +202,10 @@
         score (fn [status] (let [s (sim/snapshot sm)
                                  base (+ (if leaf-fn (leaf-fn s side) (ev/for-side s side weights)) (if value-fn (value-fn sm s) 0.0))]
                              (if (= status :run)
-                               (+ base (run-utility sm {:weights weights :decks decks :rng rng}))
+                               (+ base (run-utility sm {:weights weights :decks decks :rng rng})
+                                  ;; :run-click-credit: a run line stops the search, so the clicks left after
+                                  ;; it would count for nothing and runs would only ever come last in a turn
+                                  (* (or (:run-click-credit weights) 0.0) (or (get-in s [side :click]) 0)))
                                base)))
         apps (volatile! 0)]
     (loop [frontier [{:line [] :snap root :score (score :open)}]
