@@ -1,5 +1,13 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-06 19:45 (R4, autonomous phase)
+
+- **Best agent:** RC7 = `{:corp-opts RC4 − dig-ice, :runner-opts RC4 + remote-denial 0.5 + run-urgency 0.3 + late-tag-removal}` (`rounds/R4/job-K7.clj`, frozen `y`). Dev reviews 13 + 14 pooled **3.50** (Corp 3.6, Runner 3.4) = gate met. Dev mix vs `:s1ref`: Corp ~0.94, Runner ~0.81.
+- **Ladder:** T2 met on held-out decks by RC1 only (RC4 Corp short, +0.71). T3 puzzles met (RC7 held-out 13/13). T3 blind review: RC1 2.80, RC4 2.90; **RC7's held-out review and T2 running now (job K7)**.
+- **Running:** K7 (held-out review set seeds 910000–910019 → one fresh Opus reviewer; then T2 on holdout-mix 900000–900299), then job AA (frozen `aa`: dev reviews 15–16 for RC8 = RC7 + core-damage + tag-threat; A/B of both options).
+- **Next 3:** (1) score RC7's held-out review (fresh reviewer, rubric only) and T2 → if both pass, done; (2) else RC8 via job AA's reviews/A/B; (3) Runner fixes from review notes (contesting the scoring remote when rich; Corp leaving centrals bare early).
+- **Gotcha:** never `git stash -u` while jobs run: it moves their (untracked) log files away and the JVM keeps writing to the deleted inode (recover with `tail -f --pid=<pid> /proc/<pid>/fd/1`). A parallel Mac session also pushes to master (R5 matchup book), so `git pull --rebase` before pushing.
+
 ## Status 2026-10-05 13:20 (R4, autonomous phase)
 
 - **Best agent (behaviour):** RC3 = `[:champion {:rerank-anchor true :rerank 6 :s1-strong-margin 8 :w {:credit-knee2 12 :corp-safety-extra 3 :react-centrals true :dig-ice true :empty-remote-ice true :dig-breakers true :rich-credit 20 :prune-runs true :w-program 6 :remote-ice-prior 1 :hq-memory true :no-naked-agendas true} :eval {:kill-threat 1 :hq-flood 1 :scorable-agendas 2.5 :asset-econ 1}}]` (`job-K3.clj`). Win rate vs `:s1ref` on the dev mix ≈ RC1's (all new parts neutral at 300 seeds); dev blind reviews: 2.90 / 2.90 / 3.20 / 3.20 (reviews 6–9).
