@@ -135,7 +135,8 @@
   (let [obs (:obs env)
         installs (filter #(= "ICE" (ptype (card-title %))) (acts env :install))]
     (first
-     (for [server ["HQ" "R&D"]
+     ;; R&D first: the Runner's usual first target (reviews: R&D bare for 3-5 turns while HQ was iced)
+     (for [server ["R&D" "HQ"]
            :when (empty? (srv/ices obs (srv/server-key server)))
            a (sort-by #(- (ice-score (card-title %))) installs)
            :when (= server (get-in a [:args :server]))]
@@ -371,6 +372,8 @@
          (and (re-find #"(?i)cards? from Archives" txt) (empty? (get-in s [:corp :discard])))
          (and (re-find #"(?i)advancement (?:counters|tokens) on" txt) (not agenda-installed))
          (and (re-find #"(?i)the Runner stole during their last turn" txt) (zero? (or (get-in s [:runner :agenda-point]) 0)))
+         ;; Neurospike: damage from agendas scored this turn (archetype review: played with nothing scored)
+         (and (re-find #"(?i)agendas you scored this turn" txt) (zero? (or (get-in s [:corp :register :scored-agenda]) 0)))
          (when-let [[_ n] (re-find #"(?i)If the Runner has at least (\d+)\[credit\]" txt)]
            (< (or (get-in s [:runner :credit]) 0) (parse-long n)))))))
 
@@ -522,6 +525,10 @@
                                   (if (and c (= "Agenda" (:type c))) (- 10 (adv-need c)) 0))))
        (re-find #"(?i)ice to install" msg)
        (select-best env (fn [c] (if (= "ICE" (:type c)) (ice-score (:title c)) 0)))
+       ;; trashing/discarding our own HQ cards as a cost or effect (Anemone, Cultivate): never an agenda
+       ;; (archetype review: agendas sent to an open Archives)
+       (and (seq (acts env :select)) (re-find #"(?i)trash|discard" msg))
+       (select-best env (fn [c] (if (= "Agenda" (:type c)) -1 (- 11 (hand-card-value env c)))))
        ;; free install subroutines (Ansel 1.0, Drafter): ice first, then economy assets; never an agenda
        ;; (modern review 1: first-listed choices installed over the Corp's own cards)
        (re-find #"(?i)^Choose a card to install" msg)
@@ -770,7 +777,10 @@
                         (keys (corp-decklist env)))
         ;; installed resources are always at risk: any Corp may trash one with a basic action while
         ;; the Runner is tagged (review 15: tag-threat variant that ignored this lost resources)
-        resources (seq (get-in obs [:runner :rig :resource]))]
+        resources (and (seq (get-in obs [:runner :rig :resource]))
+                       ;; the basic trash action costs the Corp 2 credits (archetype review: Vasilisa tags cleared
+                       ;; every turn against a Corp at 0 credits)
+                       (>= (or (get-in obs [:corp :credit]) 0) 2))]
     (when (and (runner-tagged? obs) (act env :remove-tag)
                (or kill-deck
                    (and resources (>= (credits env) 5)))

@@ -1,0 +1,264 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 9
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Rising Tide.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Hafrún protecting HQ at position 0.
+Corp uses Hafrún to trash 1 card from HQ to prevent subroutines from being broken by Rising Tide abilities for the remainder of the run.
+Runner encounters Hafrún protecting HQ at position 0.
+Runner has no further action.
+Corp uses Hafrún to end the run.
+Corp resolves 1 unbroken subroutine on Hafrún ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click and pays 3 credits to play Neurospike.
+Corp uses Neurospike to do nothing.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 4 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 3 with 3 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 9 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Mystic Maemi.
+Runner spends click to make a run on HQ.
+Runner approaches Hafrún protecting HQ at position 0.
+Runner encounters Hafrún protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Rising Tide to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Longevity Serum from HQ.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Stick and Poke due to net damage.
+Runner is ending their turn 3 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 4 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Bathynomus protecting Server 1 at position 0.
+Runner encounters Bathynomus protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Bathynomus to do 3 net damage.
+Corp trashes Leech, Light the Fire!, and Marrow due to net damage.
+Corp resolves 1 unbroken subroutine on Bathynomus ("[subroutine] Do 3 net damage").
+Runner passes Bathynomus protecting Server 1 at position 0.
+Runner jacks out.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 3 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click and pays 3 credits to install Boi-tatá.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Bathynomus protecting Server 1 at position 0.
+Runner encounters Bathynomus protecting Server 1 at position 0.
+Runner pays 2 credits to use Boi-tatá to break all 1 subroutines on Bathynomus.
+Runner has no further action.
+Runner passes Bathynomus protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Esca from Server 1.
+Corp uses Esca to force the Runner to lose 1 credits.
+Runner is ending their turn 5 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 4 credits and 4 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Anemone protecting R&D at position 0.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Avgustina Ivanovskaya and Scrounge due to net damage.
+Runner encounters Anemone protecting R&D at position 0.
+Runner has no further action.
+Corp uses Anemone to do 1 net damage.
+Corp trashes Fermenter due to net damage.
+Corp resolves 1 unbroken subroutine on Anemone ("[subroutine] Do 1 net damage").
+Runner passes Anemone protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Hybrid Release and gains 1 agenda point.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Ghosttongue due to net damage.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Hafrún protecting HQ at position 0.
+Runner encounters Hafrún protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Rising Tide to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hybrid Release from HQ.
+Runner steals Hybrid Release and gains 1 agenda point.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Avgustina Ivanovskaya due to net damage.
+Runner is ending their turn 6 with 4 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 7 with 1 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 7 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 4 credits and 0 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Hafrún protecting HQ at position 0.
+Runner encounters Hafrún protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Rising Tide to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bladderwort from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Lotus Haze from Archives.
+Runner steals Lotus Haze and gains 2 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Finality due to net damage.
+Runner is ending their turn 7 with 4 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 8 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 4 credits and 0 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 8 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 4 credits and 4 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Abaasy.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 1.
+Runner passes ice protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 3 credits to rez Anemone protecting Server 3 at position 0.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Finality and Scrounge due to net damage.
+Runner encounters Anemone protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Anemone to do 1 net damage.
+Corp trashes Mystic Maemi due to net damage.
+Corp resolves 1 unbroken subroutine on Anemone ("[subroutine] Do 1 net damage").
+Runner passes Anemone protecting Server 3 at position 0.
+Runner jacks out.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Hafrún protecting HQ at position 0.
+Runner encounters Hafrún protecting HQ at position 0.
+Runner uses Abaasy to trash Mystic Maemi to draw 1 card.
+Runner pays 3 credits to increase the strength of Abaasy to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Lotus Haze from HQ.
+Runner steals Lotus Haze and gains 2 agenda points.
+Runner wins the game.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Wildcat Strike due to net damage.

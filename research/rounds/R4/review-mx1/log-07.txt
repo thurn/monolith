@@ -1,0 +1,387 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 13
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 5 credits to rez Grubber protecting HQ at position 0.
+Corp uses Grubber to take 1 bad publicity.
+Runner encounters Grubber protecting HQ at position 0.
+Runner has no further action.
+Corp uses Grubber to force the runner to pay 3 credits.
+Runner pays 3 credits due to Grubber subroutine.
+Corp uses Grubber to end the run.
+Corp resolves 2 unbroken subroutines on Grubber ("[subroutine] End the run unless the Runner pays 3 credits" and "[subroutine] End the run unless the Runner pays 3 credits").
+Runner is ending their turn 1 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 1 credits to rez Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to end the run.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner is ending their turn 2 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 3 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Artificial Cryptocrash and gains 2 agenda points.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 3 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 3 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Rigging Up.
+Runner pays 0 credits to use Rigging Up to install Unity from the Grip (paying 3 credits less).
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play IP Enforcement.
+Corp uses IP Enforcement to do nothing.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 2 credits, to use Self-modifying Code to install Gauss from the Stack.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 5 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Kingmaking and gains 2 agenda points.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 6 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 9 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 1 credits to install Daeg, First Net-Cat.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner trashes Telework Contract.
+Runner is ending their turn 7 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 12 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to install Beatriz Friere Gonzalez.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 8 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 9 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 11 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 12 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Pantograph.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits.
+Runner is ending their turn 11 with 13 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 13 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to install Gauss.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Oracle Thinktank and gains 1 agenda point.
+Runner uses Pantograph to gain 1 credits.
+Runner pays 1 credits to use Pantograph to install Simulchip from the Grip.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Corp uses Oracle Thinktank to give the Runner 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 12 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 8 credits and 3 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Artificial Cryptocrash and gains 2 agenda points.
+Runner wins the game.
