@@ -1,0 +1,392 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 13
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 4 credits to install Banner.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner trashes Gachapon to use Gachapon to set aside Bling, Fencer Fueno, Raindrops Cut Stone, Running Hot, The Twinning, and Trickster Taka from the top of the stack.
+Runner pays 0 credits to use Gachapon to install Fencer Fueno from among the set-aside cards (paying 2 credits less).
+Runner uses Gachapon to shuffle Bling, Raindrops Cut Stone, and Running Hot into the stack and remove The Twinning and Trickster Taka from the game.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 1 credits to play Secure and Protect.
+Corp uses Secure and Protect to reveal Tree Line from R&D and install it, paying 3 credits less.
+Corp pays 0 credits to use Secure and Protect to install ice from R&D protecting Archives.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner uses Raindrops Cut Stone to draw 2 cards and gain 3 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Envelopment protecting R&D at position 0.
+Runner encounters Envelopment protecting R&D at position 0.
+Runner pays 2 credits to use Banner to prevent Envelopment protecting R&D at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to trash Envelopment.
+Corp resolves 5 unbroken subroutines on Envelopment ("[subroutine] End the run" and "[subroutine] End the run" and "[subroutine] End the run" and "[subroutine] End the run" and "[subroutine] Trash this ice").
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 2 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Above the Law and gains 2 agenda points.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 3 with 3 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 4 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Envelopment protecting R&D at position 0.
+Runner encounters Envelopment protecting R&D at position 0.
+Runner pays 2 credits to use Banner to prevent Envelopment protecting R&D at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to trash Envelopment.
+Corp resolves 5 unbroken subroutines on Envelopment ("[subroutine] End the run" and "[subroutine] End the run" and "[subroutine] End the run" and "[subroutine] End the run" and "[subroutine] Trash this ice").
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to install Leech.
+Runner is ending their turn 4 with 1 credits and 4 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 5 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 0 credits and 4 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 3 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 6 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 6 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 2 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Afshar protecting Server 1 at position 0.
+Runner encounters Afshar protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click and pays 1 credits to install Mystic Maemi.
+Runner is ending their turn 6 with 0 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to trash itself.
+Corp started their turn 7 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 0 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Descent protecting R&D at position 0.
+Runner encounters Descent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Descent to end the run.
+Corp resolves 1 unbroken subroutine on Descent ("[subroutine] End the run").
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 0 credits and 4 cards in HQ.
+Corp uses Descent to add Descent protecting R&D at position 0 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 3 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 3 credits to install Boi-tatá.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 8 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 6 credits and 4 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Buzzsaw.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Runner passes ice protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Afshar protecting Server 1 at position 0.
+Runner encounters Afshar protecting Server 1 at position 0.
+Runner pays 1 credits to use Buzzsaw to break all 2 subroutines on Afshar.
+Runner has no further action.
+Runner passes Afshar protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Divested Trust from Server 1.
+Runner steals Divested Trust and gains 1 agenda point.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner is ending their turn 9 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 2 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits from Mystic Maemi and 4 credits from their credit pool to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Descent protecting R&D at position 0.
+Runner encounters Descent protecting R&D at position 0.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to install Paladin Poemu.
+Runner is ending their turn 10 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 4 credits and 5 cards in HQ.
+Corp uses Descent to add Descent protecting R&D at position 0 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 11 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 7 credits and 3 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses ZATO City Grid from HQ.
+Runner is ending their turn 11 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 10 credits and 3 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Ballista protecting R&D at position 0.
+Runner encounters Ballista protecting R&D at position 0.
+Runner pays 5 credits to increase the strength of Boi-tatá to 4 and break all  subroutines on Ballista.
+Runner has no further action.
+Runner passes Ballista protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner trashes 1 installed program (Leech) to steal SDS Drone Deployment from R&D.
+Runner steals SDS Drone Deployment and gains 3 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 1 credits from Mystic Maemi to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on R&D.
+Runner approaches Ballista protecting R&D at position 0.
+Runner encounters Ballista protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Boi-tatá to 4 and break all  subroutines on Ballista.
+Runner has no further action.
+Runner passes Ballista protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Raindrops Cut Stone to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner pays 1 credits to use Buzzsaw to break 1 Code Gate subroutine on Afshar ("[subroutine] End the run").
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp resolves 1 unbroken subroutine on Afshar ("[subroutine] Make the Runner lose 2 credits").
+Runner passes Afshar protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Government Subsidy from HQ.
+Runner is ending their turn 12 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 4 credits and 3 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ballista protecting R&D at position 0.
+Runner encounters Ballista protecting R&D at position 0.
+Runner pays 5 credits to increase the strength of Boi-tatá to 4 and break all  subroutines on Ballista.
+Runner has no further action.
+Runner passes Ballista protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Transport Monopoly and gains 2 agenda points.
+Runner wins the game.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.

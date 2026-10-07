@@ -1,0 +1,593 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 12
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Cat's Cradle.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 6 credits to rez Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Cat's Cradle.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 2 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Ingatan from Server 1.
+Runner declines to pay to steal Project Ingatan.
+Runner uses Bravado to gain 7 credits.
+Runner spends click and pays 2 credits to install Cat's Cradle.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Cat's Cradle.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Ingatan from Server 1.
+Runner declines to pay to steal Project Ingatan.
+Runner is ending their turn 1 with 5 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 3 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Ingatan from Server 1.
+Runner declines to pay to steal Project Ingatan.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Ingatan from Server 1.
+Runner declines to pay to steal Project Ingatan.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Ingatan from Server 1.
+Runner declines to pay to steal Project Ingatan.
+Runner is ending their turn 2 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 1 credits to rez Tranquility Home Grid in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 3 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Ingatan from Server 1.
+Runner declines to pay to steal Project Ingatan.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Ingatan from Server 1.
+Runner declines to pay to steal Project Ingatan.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Ingatan from Server 1.
+Runner declines to pay to steal Project Ingatan.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Ingatan from Server 1.
+Runner declines to pay to steal Project Ingatan.
+Runner is ending their turn 3 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp is ending their turn 4 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Architect Deployment Test and gains 2 agenda points.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 4 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp is ending their turn 5 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner is ending their turn 5 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner is ending their turn 6 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Seamless Launch.
+Corp uses Seamless Launch to place 2 advancement counters on a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 7 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 6 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Méliès City Luxury Line from Server 1.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner is ending their turn 7 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Méliès City Luxury Line and gains 3 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Seamless Launch in Archives to HQ.
+Corp uses Méliès City Luxury Line to gain click.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp is ending their turn 8 with 0 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 8 with 6 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Wage Workers from Server 2.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 8 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 0 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 9 with 0 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 9 with 7 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp pays 0 credits to use Ansel 1.0 to install ice from HQ protecting Server 3.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Megaprix Qualifier from Server 1.
+Runner declines to pay to steal Megaprix Qualifier.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Megaprix Qualifier from Server 1.
+Runner declines to pay to steal Megaprix Qualifier.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Megaprix Qualifier from Server 1.
+Runner declines to pay to steal Megaprix Qualifier.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Megaprix Qualifier from Server 1.
+Runner declines to pay to steal Megaprix Qualifier.
+Runner is ending their turn 9 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Seamless Launch.
+Corp uses Seamless Launch to place 2 advancement counters on a card in Server 1.
+Corp scores Megaprix Qualifier and gains 1 agenda point.
+Corp uses Haas-Bioroid: Precision Design to add Seamless Launch in Archives to HQ.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 10 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 7 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp pays 0 credits to use Ansel 1.0 to install ice from HQ protecting Server 4.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Superconducting Hub from Server 1.
+Runner declines to pay to steal Superconducting Hub.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Superconducting Hub from Server 1.
+Runner declines to pay to steal Superconducting Hub.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Superconducting Hub from Server 1.
+Runner declines to pay to steal Superconducting Hub.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Superconducting Hub from Server 1.
+Runner declines to pay to steal Superconducting Hub.
+Runner is ending their turn 10 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 2 credits to rez Wage Workers in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp uses Wage Workers to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 11 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 7 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Superconducting Hub from Server 1.
+Runner declines to pay to steal Superconducting Hub.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Superconducting Hub from Server 1.
+Runner declines to pay to steal Superconducting Hub.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Superconducting Hub from Server 1.
+Runner declines to pay to steal Superconducting Hub.
+Runner spends click to make a run on Server 1.
+Runner approaches Ansel 1.0 protecting Server 1 at position 0.
+Runner encounters Ansel 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Superconducting Hub from Server 1.
+Runner declines to pay to steal Superconducting Hub.
+Runner is ending their turn 11 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Seamless Launch.
+Corp uses Seamless Launch to place 2 advancement counters on a card in Server 1.
+Corp scores Superconducting Hub and gains 1 agenda point.
+Corp wins the game.
