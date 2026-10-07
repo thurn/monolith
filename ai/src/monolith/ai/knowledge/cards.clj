@@ -41,7 +41,9 @@
       (re-find #"(\d+) core damage|(\d+) brain damage" l) (assoc :core 1)
       (re-find #"loses? (\d+) ?\[credits?\]" l) (assoc :lose-credits (n #"loses? (\d+) ?\[credits?\]"))
       (re-find #"give the runner (\d+) tag|1 tag" l) (assoc :tag 1)
-      (re-find #"trash (1|a) program|trash an installed program" l) (assoc :trash-program 1)
+      (re-find #"trash (1|a|an) (installed )?program" l) (assoc :trash-program 1)
+      ;; Hammer: a resource or hardware lost, priced like a program
+      (re-find #"trash (1|a|an) installed (resource|piece of hardware)|choose a (resource|program|piece of hardware)[^.]*to trash" l) (assoc :trash-program 1)
       ;; Archangel, Hydra-style bounces: the Corp picks the best installed card; the Runner pays to
       ;; reinstall it (dev review 11: rig reinstalled each turn and bounced again by Archangel)
       (re-find #"add (1|an) installed runner card to the grip" l) (assoc :trash-program 1)
@@ -83,11 +85,33 @@
   (some-> (re-find #"(?i)if the runner did not fully break it, do (\d+) net damage" (str (:text (printed title))))
           second parse-long))
 
+(defn rez-damage
+  "Net damage the Corp can do when it rezzes this ice during a run (Anemone: trash a card from HQ to do 2)."
+  [title]
+  (some-> (re-find #"(?i)when you rez this ice during a run[^.]*do (\d+) net damage" (str (:text (printed title))))
+          second parse-long))
+
+(defn max-break
+  "Break limit from 'the Runner cannot break more than N of its printed subroutines' (Afshar on HQ,
+  Akhet at 3+ advancements, Unsmiling Tsarevna after its rez choice, Hammer except with killers):
+  {:n N :exempt #{breaker types}} when it applies to this card (a known installed card or a title)."
+  [card]
+  (let [card (if (string? card) {:title card} card)
+        txt (str (:text (printed (:title card))))]
+    (when-let [[_ n] (re-find #"(?i)cannot break more than (\d+) of its printed subroutines" txt)]
+      (let [applies (cond (re-find #"(?i)while this ice is protecting HQ" txt) (= :hq (second (:zone card)))
+                          (re-find #"(?i)while there are (\d+) or more hosted advancement" txt)
+                          (>= (or (:advance-counter card) 0) (parse-long (second (re-find #"(?i)while there are (\d+) or more hosted advancement" txt))))
+                          :else true)]
+        (when applies
+          {:n (parse-long n) :exempt (if (re-find #"(?i)except using killers" txt) #{"Sentry"} #{})})))))
+
 (defn ice-model
   "Run-calculator view of a known ice."
   [card]
   (let [p (printed (:title card))]
     {:title (:title card)
+     :max-break (max-break card)
      :strength (or (:current-strength card) (:strength card) (:strength p) 0)
      :subtypes (set (or (:subtypes card) (:subtypes p)))
      :subs (ice-subs card)
@@ -108,6 +132,8 @@
      :subtypes (set (:subtypes p))
      :subs (ice-subs title)
      :unbroken-damage (unbroken-damage title)
+     :rez-damage (rez-damage title)
+     :max-break (max-break title)
      :rez-cost (or (:cost p) 0)}))
 
 ;;; Breakers

@@ -60,11 +60,20 @@
               (for [b (:breakers ctx)
                     :when (or (nil? (:only-cid b)) (= (:only-cid b) (:cid ice)))
                     :let [ic (if (and (:heap b) (not (contains? (:heaped st) (:title b)))) (:install-cost b 0) 0)
-                          c (some-> (cards/break-cost b ice) (+ ic))]
+                          ;; break limit (Afshar on HQ...): break the ETR subroutines first, the rest fire
+                          {:keys [n exempt]} (:max-break ice)
+                          limited (and n (not (some exempt (cards/breaker-types (:title b)))))
+                          live (remove :broken (:subs ice))
+                          [to-break to-fire] (if limited
+                                               (split-at n (sort-by #(if (or (:etr %) (:etr-if-tagged %) (:etr-unless-pay %)) 0 1) live))
+                                               [live nil])
+                          c (some-> (cards/break-cost b (assoc ice :subs (vec to-break))) (+ ic))]
                     :when (and c (<= c (:credits st)))]
-                {:how [:break (:title b) c] :st (cond-> (update st :credits - c)
-                                                  (:no-access b) (assoc :no-access true)
-                                                  (:heap b) (update :heaped (fnil conj #{}) (:title b)))})))
+                {:how [:break (:title b) c]
+                 :st (cond-> (update st :credits - c)
+                       (:no-access b) (assoc :no-access true)
+                       (:heap b) (update :heaped (fnil conj #{}) (:title b))
+                       (seq to-fire) (fire-subs (assoc ice :subs (vec to-fire) :unbroken-damage nil)))})))
               [{:how [:fire] :st (fire-subs st ice)}])]
     (apply max-key :u
            (for [{:keys [how st]} opts]
@@ -83,7 +92,11 @@
       (:known ice)
       (let [m (:model ice)]
         (if (or (:rezzed ice) (>= (:corp-credits st) (+ (:rez-cost m) (if (:rezzed ice) 0 rez-bonus))))
-          (best (encounter ctx i (cond-> st (not (:rezzed ice)) (update :corp-credits - (+ (:rez-cost m) rez-bonus))) m))
+          (best (encounter ctx i (cond-> st
+                                   (not (:rezzed ice)) (update :corp-credits - (+ (:rez-cost m) rez-bonus))
+                                   ;; rez-time damage (Anemone)
+                                   (and (not (:rezzed ice)) (:rez-damage m)) (update :damage + (:rez-damage m)))
+                           m))
           (best (walk ctx (inc i) st))))
       :else
       ;; chance node over affordable candidates; if none affordable, the ice stays unrezzed
@@ -97,7 +110,9 @@
           (best (walk ctx (inc i) st))
           (let [outcomes (for [[t n] affordable
                                :let [m (cards/printed-ice-model t (:remote? ctx))
-                                     r (encounter ctx i (update st :corp-credits - (+ (:rez-cost m) rez-bonus)) m)]]
+                                     r (encounter ctx i (cond-> (update st :corp-credits - (+ (:rez-cost m) rez-bonus))
+                                                          (:rez-damage m) (update :damage + (:rez-damage m)))
+                                                  m)]]
                            [(/ n (double total)) (:u r) (:p r)])
                 worst (apply min-key second outcomes)
                 ev (reduce + (map (fn [[p u]] (* p u)) outcomes))

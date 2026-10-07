@@ -258,6 +258,16 @@
              :when (= :auto-pump-and-break (:dynamic ab))]
          (act :runner "dynamic-ability" {:dynamic "auto-pump-and-break" :card (card-ref c)}
               (str "break " (:title ice) " with " (:title c)) :break))
+       ;; manual break and pump abilities of breakers that offer no full auto-break here (a break limit:
+       ;; Afshar on HQ, Unsmiling Tsarevna, Hammer), so the Runner can still break the ETR subroutine
+       (for [c (all-active-installed state :runner)
+             :let [c (get-card state c)]
+             :when (and c (not-any? #(= :auto-pump-and-break (:dynamic %)) (:abilities c)))
+             [i ab] (map-indexed vector (:abilities c))
+             :when (and (or (:break ab) (:pump ab)) (not (:dynamic ab))
+                        (:playable (ability-playable? ab i state :runner c)))]
+         (act :runner "ability" {:card (card-ref c) :ability i}
+              (str (:title c) ": " (or (:label ab) (:msg ab) i)) :ability))
        (ability-actions state :runner {:clicks? false})
        [(act :runner "continue" {} "let subroutines fire" :continue)])
       (let [unfired (and ice (rezzed? ice) (some #(and (not (:broken %)) (not (:fired %))) (:subroutines ice)))]

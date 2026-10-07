@@ -829,6 +829,17 @@
       (= :break (first how))
       (or (act-where env #(and (= :break (:type %)) (= (second how) (card-title %))))
           (first breaks)
+          ;; no full auto-break (a break limit: Afshar on HQ, Tsarevna, Hammer): pump, then break by hand
+          ;; with the planned breaker; the subroutine prompt picks ETR first (modern Runner review 1:
+          ;; Afshar's subroutines left to fire 20 times while Buzzsaw could break the ETR)
+          (let [t (second how)
+                ice (last ices)
+                b (some #(when (= t (:title %)) %) (srv/icebreakers obs))
+                weak (and b ice (< (or (:strength b) 0) (or (:current-strength ice) (:strength (cards/printed (:title ice))) 0))
+                          (not (:min-ice-strength b)) (not (:ignore-strength b)))
+                mine (filter #(and (#{:ability :click-ability} (:type %)) (= t (card-title %))) (:actions env))]
+            (or (when weak (first (filter #(label-is % #"(?i)strength") mine)))
+                (first (filter #(label-is % #"(?i)break") mine))))
           (act env :continue))
       :else (act env :continue))))
 
@@ -857,6 +868,12 @@
      (prompt-common env)
      (cond
        (choice env #"^Steal$") (choice env #"^Steal$")
+       ;; manual subroutine breaking: ETR first, then damage, then the rest
+       (re-find #"(?i)^Break a subroutine" msg)
+       (let [cs (remove #(re-find #"^Done$" (str (:label %))) (acts env :choice))
+             rank #(let [l (str/lower-case (str (:label %)))]
+                     (cond (re-find #"end the run" l) 0 (re-find #"damage|trash" l) 1 (re-find #"tag|lose" l) 2 :else 3))]
+         (or (first (sort-by rank cs)) (choice env #"^Done$")))
        ;; sacrifice-for-credits targets (Aesop's Pawnshop): only cheap non-breaker cards
        (and (seq (acts env :select)) (re-find #"(?i)trash (another|1|a)[^.]*installed cards?\.? (if you do, )?gain \d+\[credit" (card-text src)))
        (select-best env (fn [c] (let [t (:title c)]
