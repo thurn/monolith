@@ -29,7 +29,10 @@
       ;; "End the run unless the Runner pays N [Credits]" (Pop-up Window): a tax, not a wall
       (re-find #"end the run unless the runner pays (\d+) \[credits?\]" l)
       (assoc :etr-unless-pay (n #"end the run unless the runner pays (\d+) \[credits?\]"))
-      (and (re-find #"end the run" l) (not (re-find #"end the run if" l))
+      ;; Mausolus-style labels: the parenthetical is the advanced version ("(and end the run)" only
+      ;; with 3+ hosted advancement counters; review 15: agendas behind a lone unadvanced Mausolus)
+      (re-find #"\(and end the run\)" l) (assoc :etr-if-adv 3)
+      (and (re-find #"end the run" l) (not (re-find #"end the run if" l)) (not (re-find #"\(and end the run\)" l))
            (not (re-find #"end the run unless the runner pays (\d+) \[credits?\]" l))
            (not (re-find #"if there are \d+ or more hosted advancement counters, end the run" l)))
       (assoc :etr true)
