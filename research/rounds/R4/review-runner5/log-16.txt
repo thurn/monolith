@@ -1,0 +1,345 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 10
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp pays 1 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 1 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Yusuf.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner is ending their turn 2 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 1.
+Corp pays 0 credits to rez Executive Boot Camp in Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp pays 1 credits and trashes Executive Boot Camp to use Executive Boot Camp to reveal Cybernetics Court, add it to HQ, and shuffle R&D.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 3 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 0 credits to rez Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner is ending their turn 3 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner is ending their turn 4 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Efficiency Committee and gains 2 agenda points.
+Corp is ending their turn 5 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner is ending their turn 5 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and spends 1 hosted agenda counter from on Efficiency Committee to use Efficiency Committee to gain clickclick.
+Corp spends click and spends 1 hosted agenda counter from on Efficiency Committee to use Efficiency Committee to gain clickclick.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 3 gain/draw decisions.
+Corp uses Fully Operational to gain 2 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp pays 0 credits to rez Cybernetics Court in Server 1.
+Corp spends click and spends 1 hosted agenda counter from on Efficiency Committee to use Efficiency Committee to gain clickclick.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 8 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner is ending their turn 6 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 8 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner is ending their turn 7 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Corp is ending their turn 8 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner is ending their turn 8 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp pays 1 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 9 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Runner passes ice protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Runner passes ice protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Runner passes ice protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Runner passes ice protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Vanilla protecting Server 2 at position 0.
+Runner encounters Vanilla protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner is ending their turn 9 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Efficiency Committee and gains 2 agenda points.
+Corp wins the game.

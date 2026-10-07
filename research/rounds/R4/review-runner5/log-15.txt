@@ -1,0 +1,520 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 20
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 4 cards in the grip.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 2 with 12 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 12 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner has no further action.
+Corp uses Enigma to force the Runner to lose click, if able.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner is ending their turn 3 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 12 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 10 credits and 5 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 5 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 12 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click and pays 2 credits to install Consume.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 2 credits to rez Wraparound protecting Server 1 at position 1.
+Runner encounters Wraparound protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Wraparound to end the run.
+Corp resolves 1 unbroken subroutine on Wraparound ("[subroutine] End the run").
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes HQ Interface due to core damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 10 credits and 4 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 6 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Beale and gains 2 agenda points.
+Corp is ending their turn 6 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 10 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install Imp.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 6 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 10 credits and 4 cards in the grip.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner trashes Liberated Account.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Hippo.
+Runner spends click and pays 1 credits to install Paladin Poemu.
+Runner is ending their turn 7 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 11 credits and 3 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez IP Block protecting R&D at position 0.
+Runner encounters IP Block protecting R&D at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 12 credits and 4 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 9 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Marilyn Campaign in Server 2.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Liberated Account.
+Corp is ending their turn 9 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 14 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 9 with 14 credits and 4 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 10 with 5 credits and 4 cards in HQ.
+Corp uses Marilyn Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 14 credits and 4 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 2 credits to install Friday Chip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 4 credits to rez F2P protecting Server 2 at position 0.
+Runner encounters F2P protecting Server 2 at position 0.
+Runner removes Hippo from the game to use Hippo to trash F2P protecting Server 2 at position 0.
+Runner uses Consume to place 1 virus counter on itself.
+Runner uses Friday Chip to place 1 virus counter on itself.
+Corp uses NBN: Controlling the Message to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses NBN: Controlling the Message to give the Runner 1 tag.
+Runner pays 6 credits to increase the strength of MKUltra to 5 and break all subroutines on F2P.
+Runner has no further action.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Marilyn Campaign from Server 2.
+Runner pays 3 credits to trash Marilyn Campaign from Server 2.
+Corp uses Marilyn Campaign to shuffle itself into R&D instead of moving it to Archives.
+Runner uses Consume to place 1 virus counter on itself.
+Runner uses Friday Chip to place 1 virus counter on itself.
+Runner spends click to use Consume to gain 4 credits, removing 2 virus counters from itself.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Commercial Bankers Group from HQ.
+Runner pays 2 credits to trash Commercial Bankers Group from HQ.
+Runner uses Consume to place 1 virus counter on itself.
+Runner uses Friday Chip to place 1 virus counter on itself.
+Runner is ending their turn 10 with 3 credits and 3 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 11 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Liberated Account.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Liberated Account.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Liberated Account.
+Corp is ending their turn 11 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 5 credits and 3 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Friday Chip to move 1 virus counter to Consume.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Consume to gain 4 credits, removing 2 virus counters from itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 11 with 12 credits and 3 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 12 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 12 credits and 3 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Friday Chip to move 1 virus counter to Consume.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 14 credits and 4 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 13 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp is ending their turn 13 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 16 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Friday Chip to move 1 virus counter to Consume.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 13 with 7 credits and 4 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 14 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 7 credits and 4 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits from Paladin Poemu and 2 credits from their credit pool to install Paperclip.
+Runner spends click to use Consume to gain 4 credits, removing 2 virus counters from itself.
+Runner is ending their turn 14 with 13 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 15 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 13 credits and 3 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Daily Business Show from HQ.
+Runner pays 4 credits to trash Daily Business Show from HQ.
+Runner uses Consume to place 1 virus counter on itself.
+Runner uses Friday Chip to place 1 virus counter on itself.
+Runner is ending their turn 15 with 10 credits and 4 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 16 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 16 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 16 with 12 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Friday Chip to move 1 virus counter to Consume.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Consume to gain 4 credits, removing 2 virus counters from itself.
+Runner spends click and pays 4 credits to install Patchwork.
+[!] Patchwork - click on patchwork to manually resolve it (for tricks)
+Runner spends click to make a run on Server 1.
+Runner approaches Wraparound protecting Server 1 at position 1.
+Runner encounters Wraparound protecting Server 1 at position 1.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez IP Block protecting Server 1 at position 0.
+Runner encounters IP Block protecting Server 1 at position 0.
+Runner pays 3 credits to increase the strength of Paperclip to 4 and break all subroutines on IP Block.
+Runner has no further action.
+Runner passes IP Block protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Degree Mill from Server 1.
+Runner shuffles 2 cards (Black Orchestra and Consume) into the stack to steal Degree Mill from Server 1.
+Runner steals Degree Mill and gains 3 agenda points.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Patchwork to trash DreamNet to lower the install cost of Black Orchestra by 2 credits.
+Runner spends click and pays 1 credits from Paladin Poemu to install Black Orchestra.
+Runner is ending their turn 16 with 8 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 17 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 17 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 8 credits and 2 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Patchwork to trash Liberated Account to lower the play cost of Sure Gamble by 2 credits.
+Runner spends click and pays 3 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 17 with 13 credits and 4 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 18 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 18 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 18 with 13 credits and 4 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Patchwork to trash Paperclip to lower the install cost of Liberated Account by 2 credits.
+Runner spends click and pays 1 credits from Paladin Poemu and 3 credits from their credit pool to install Liberated Account.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 3 credits to rez Enigma protecting Server 1 at position 2.
+Runner encounters Enigma protecting Server 1 at position 2.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Wraparound protecting Server 1 at position 1.
+Runner encounters Wraparound protecting Server 1 at position 1.
+Runner pays 4 credits to use Paperclip to install Paperclip from the Heap.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches IP Block protecting Server 1 at position 0.
+Runner encounters IP Block protecting Server 1 at position 0.
+Runner pays 3 credits to increase the strength of Paperclip to 4 and break all subroutines on IP Block.
+Runner has no further action.
+Runner passes IP Block protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Beale from Server 1.
+Runner steals Project Beale and gains 2 agenda points.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Patchwork due to core damage.
+Runner is ending their turn 18 with 9 credits and 2 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 19 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 19 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 11 credits and 2 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Patchwork to trash Labor Rights to lower the install cost of Consume by 2 credits.
+Runner spends click and pays 0 credits to install Consume.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mumba Temple from HQ.
+Runner is ending their turn 19 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 20 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 20 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 9 credits and 3 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Enigma protecting Server 1 at position 2.
+Runner encounters Enigma protecting Server 1 at position 2.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Wraparound protecting Server 1 at position 1.
+Runner encounters Wraparound protecting Server 1 at position 1.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches IP Block protecting Server 1 at position 0.
+Runner encounters IP Block protecting Server 1 at position 0.
+Runner pays 3 credits to increase the strength of Paperclip to 4 and break all subroutines on IP Block.
+Runner has no further action.
+Runner passes IP Block protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Remastered Edition from Server 1.
+Runner steals Remastered Edition and gains 2 agenda points.
+Runner wins the game.
+Runner uses Paladin Poemu to add 1 credits to itself.

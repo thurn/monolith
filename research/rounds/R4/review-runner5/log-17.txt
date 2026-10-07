@@ -1,0 +1,636 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 25
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses IP Block from HQ.
+Runner is ending their turn 1 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 2 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Paperclip from the top of the stack, trashes them, and gains 1 credits.
+Runner adds I've Had Worse to the grip.
+Runner adds I've Had Worse to the grip.
+Runner adds Knobkierie to the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 2 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 3 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 2 credits to install Consume.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Scarcity of Resources from HQ.
+Runner is ending their turn 4 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 5 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 3.
+Corp pays 2 credits to rez Thimblerig protecting Server 1 at position 3.
+Runner encounters Thimblerig protecting Server 1 at position 3.
+Runner has no further action.
+Corp uses Thimblerig to end the run.
+Corp resolves 1 unbroken subroutine on Thimblerig ("[subroutine] End the run").
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Nisei MK II and gains 2 agenda points.
+Runner is ending their turn 5 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 4 credits and 4 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 1 at position 3 with ice protecting HQ at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Obokata Protocol and gains 3 agenda points.
+Corp is ending their turn 6 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 8 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 6 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 1 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting HQ at position 0 with ice protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses La Costa Grid from HQ.
+Runner is ending their turn 7 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 5 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 0 with ice protecting HQ at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends clickclick and pays 3 credits to play Celebrity Gift.
+Corp uses Celebrity Gift to reveal Border Control, IPO, La Costa Grid, NGO Front, and Scarcity of Resources from HQ and gain 10 credits.
+Corp is ending their turn 8 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 10 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 8 credits to rez Anansi protecting R&D at position 0.
+Runner encounters Anansi protecting R&D at position 0.
+Runner spends 3 hosted power counters from on D4v1d to use D4v1d to break all 3 subroutines on Anansi.
+Runner has no further action.
+Runner passes Anansi protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Bio Vault from R&D.
+Runner uses Consume to place 1 virus counter on itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Consume to gain 2 credits, removing 1 virus counter from itself.
+Runner is ending their turn 8 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 6 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting HQ at position 0 with Anansi protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Scarcity of Resources.
+Corp uses Scarcity of Resources to increase the install cost of resources by 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 12 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to install Hippo.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 5 credits to install Knobkierie.
+Runner is ending their turn 9 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 7 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 0 with Anansi protecting HQ at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 11 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Pelangi.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 10 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 11 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting HQ at position 0 with Anansi protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 12 credits and 5 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Consume.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Consume to gain 2 credits, removing 1 virus counter from itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Consume to do nothing.
+Runner is ending their turn 11 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 14 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 0 with Anansi protecting HQ at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 15 credits and 5 cards in the grip.
+Runner uses Consume to do nothing.
+Runner uses Consume to do nothing.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Consume.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 12 with 19 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 17 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting HQ at position 0 with Anansi protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 20 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 19 credits and 5 cards in the grip.
+Runner spends click to use Consume to gain 2 credits, removing 1 virus counter from itself.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Consume.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Consume to gain 2 credits, removing 1 virus counter from itself.
+Runner uses Consume to do nothing.
+Runner is ending their turn 13 with 23 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 20 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 0 with Anansi protecting HQ at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 23 credits and 5 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Consume.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Consume to gain 2 credits, removing 1 virus counter from itself.
+Runner uses Consume to do nothing.
+Runner uses Consume to do nothing.
+Runner is ending their turn 14 with 25 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 23 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting HQ at position 0 with Anansi protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 26 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 25 credits and 5 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Consume.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Consume to gain 2 credits, removing 1 virus counter from itself.
+Runner uses Consume to do nothing.
+Runner spends click to make a run on R&D.
+Runner approaches Thimblerig protecting R&D at position 0.
+Runner encounters Thimblerig protecting R&D at position 0.
+Runner removes Hippo from the game to use Hippo to trash Thimblerig protecting R&D at position 0.
+Runner uses Consume to place 1 virus counter on itself.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Thimblerig.
+Runner has no further action.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 15 with 24 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 26 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 24 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Hippo.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Consume.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Border Control protecting R&D at position 0.
+Runner encounters Border Control protecting R&D at position 0.
+Runner pays 4 credits to use Paperclip to install Paperclip from the Heap.
+Runner removes Hippo from the game to use Hippo to trash Border Control protecting R&D at position 0.
+Runner uses Consume to place 1 virus counter on itself.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 16 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 24 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 1 credits to play Scarcity of Resources.
+Scarcity of Resources is trashed.
+Corp uses Scarcity of Resources to increase the install cost of resources by 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 17 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 16 credits and 5 cards in the grip.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Border Control protecting R&D at position 0.
+Runner encounters Border Control protecting R&D at position 0.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Black Orchestra from the top of the stack, trashes them, and gains 1 credits.
+Runner adds Stimhack to the grip.
+Runner adds Street Peddler to the grip.
+Runner adds Dirty Laundry to the grip.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 17 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 20 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 10 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 2 credits to install Hippo.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches Border Control protecting R&D at position 0.
+Runner encounters Border Control protecting R&D at position 0.
+Runner removes Hippo from the game to use Hippo to trash Border Control protecting R&D at position 0.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits to trash Rashida Jaheem from R&D.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Stimhack due to core damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 18 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 19 with 24 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 8 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 19 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 20 with 26 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 20 with 29 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Border Control protecting R&D at position 0.
+Runner encounters Border Control protecting R&D at position 0.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 4 credits to trash La Costa Grid from R&D.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Imp due to core damage.
+Runner spends click to make a run on HQ.
+Runner approaches Anansi protecting HQ at position 0.
+Runner encounters Anansi protecting HQ at position 0.
+Runner spends 3 hosted power counters from on D4v1d to use D4v1d to break all 3 subroutines on Anansi.
+Runner has no further action.
+Runner passes Anansi protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Nisei MK II from HQ.
+Runner steals Nisei MK II and gains 2 agenda points.
+Scarcity of Resources is trashed.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 20 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 21 with 26 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 21 with 28 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 9 credits and 3 cards in the grip.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Border Control protecting R&D at position 0.
+Runner encounters Border Control protecting R&D at position 0.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 21 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 22 with 29 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 22 with 32 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 5 credits and 3 cards in the grip.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner is ending their turn 22 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 23 with 32 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 23 with 35 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 23 with 11 credits and 3 cards in the grip.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches Border Control protecting R&D at position 0.
+Runner encounters Border Control protecting R&D at position 0.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 23 with 12 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 24 with 36 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 24 with 39 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 24 with 12 credits and 3 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches Border Control protecting R&D at position 0.
+Runner encounters Border Control protecting R&D at position 0.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner uses Street Peddler to install Clone Chip, lowering its install cost by 1 credits. Clone Chip and Inject are trashed as a result.
+Runner pays 0 credits to install Clone Chip from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 24 with 14 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 25 with 40 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 25 with 43 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 25 with 14 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Border Control protecting R&D at position 0.
+Runner encounters Border Control protecting R&D at position 0.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals SSL Endorsement and gains 3 agenda points.
+Runner wins the game.

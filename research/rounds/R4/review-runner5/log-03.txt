@@ -1,0 +1,633 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 16
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner is ending their turn 2 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 3 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 13 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 4 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 10 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses NGO Front from Server 1.
+Runner pays 1 credits to trash NGO Front from Server 1.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Inject due to core damage.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 1.
+Corp pays 3 credits to rez Slot Machine protecting R&D at position 1.
+Runner encounters Slot Machine protecting R&D at position 1.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Hippo (Hardware), I've Had Worse (Event), and Sure Gamble (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 4 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 5 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 7 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 2 credits to rez IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 5 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Paperclip (Program), Knobkierie (Hardware), and Sure Gamble (Event) from the top of the stack.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click to install a card in the root of Server 3.
+Corp is ending their turn 6 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner is ending their turn 6 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Knobkierie (Hardware), Sure Gamble (Event), and Consume (Program) from the top of the stack.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Nisei MK II and gains 2 agenda points.
+Corp is ending their turn 7 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 8 credits to rez DNA Tracker protecting Server 3 at position 0.
+Runner encounters DNA Tracker protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses DNA Tracker to do 1 net damage and make the Runner lose 2 credits.
+Corp trashes Clone Chip due to net damage.
+Corp uses DNA Tracker to do 1 net damage and make the Runner lose 2 credits.
+Corp trashes Hippo due to net damage.
+Corp uses DNA Tracker to do 1 net damage and make the Runner lose 2 credits.
+Corp trashes I've Had Worse due to net damage.
+Runner uses I've Had Worse to draw 3 cards.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Corp resolves 3 unbroken subroutines on DNA Tracker ("[subroutine] Do 1 net damage and make the Runner lose 2 credits" and "[subroutine] Do 1 net damage and make the Runner lose 2 credits" and "[subroutine] Do 1 net damage and make the Runner lose 2 credits").
+Runner passes DNA Tracker protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Philotic Entanglement from Server 3.
+Runner steals Philotic Entanglement and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 1.
+Runner encounters Slot Machine protecting R&D at position 1.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Pelangi (Program), Liberated Account (Resource), and Stimhack (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Liberated Account (Resource), Stimhack (Event), and D4v1d (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Stimhack (Event), D4v1d (Program), and Daily Casts (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal D4v1d (Program), Daily Casts (Resource), and D4v1d (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Daily Casts (Resource), D4v1d (Program), and Self-modifying Code (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal D4v1d (Program), Self-modifying Code (Program), and Knobkierie (Hardware) from the top of the stack.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 2 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner is ending their turn 8 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Self-modifying Code (Program), Knobkierie (Hardware), and Stargate (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Knobkierie (Hardware), Stargate (Program), and Inject (Event) from the top of the stack.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 9 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner is ending their turn 9 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Stargate (Program), Inject (Event), and Liberated Account (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Inject (Event), Liberated Account (Resource), and Imp (Program) from the top of the stack.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner is ending their turn 10 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Obokata Protocol and gains 3 agenda points.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 1.
+Runner encounters Slot Machine protecting R&D at position 1.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Liberated Account (Resource), Imp (Program), and Yusuf (Program) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 11 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 12 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 0.
+Runner encounters IP Block protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner is ending their turn 12 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Imp (Program), Yusuf (Program), and Street Peddler (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Yusuf (Program), Street Peddler (Resource), and Street Peddler (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Street Peddler (Resource), Street Peddler (Resource), and Stimhack (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Street Peddler (Resource), Stimhack (Event), and Paperclip (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Stimhack (Event), Paperclip (Program), and Daily Casts (Resource) from the top of the stack.
+Corp pays 0 credits to rez Bio Vault in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Paperclip (Program), Daily Casts (Resource), and I've Had Worse (Event) from the top of the stack.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 13 with 11 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 1.
+Runner encounters Slot Machine protecting R&D at position 1.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Daily Casts (Resource), I've Had Worse (Event), and I've Had Worse (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 13 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 14 with 14 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal I've Had Worse (Event), I've Had Worse (Event), and Street Peddler (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal I've Had Worse (Event), Street Peddler (Resource), and Hippo (Hardware) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Street Peddler (Resource), Hippo (Hardware), and Dirty Laundry (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Hippo (Hardware), Dirty Laundry (Event), and Dirty Laundry (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Dirty Laundry (Event), Dirty Laundry (Event), and MKUltra (Program) from the top of the stack.
+Corp spends click and pays 1 credits to play Scarcity of Resources.
+Corp uses Scarcity of Resources to increase the install cost of resources by 2.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Dirty Laundry (Event), MKUltra (Program), and Sure Gamble (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal MKUltra (Program), Sure Gamble (Event), and Liberated Account (Resource) from the top of the stack.
+Corp spends click and pays 1 credits to play Scarcity of Resources.
+Scarcity of Resources is trashed.
+Corp uses Scarcity of Resources to increase the install cost of resources by 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 14 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 14 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 1.
+Runner encounters Slot Machine protecting R&D at position 1.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Sure Gamble (Event), Liberated Account (Resource), and Daily Casts (Resource) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Nisei MK II and gains 2 agenda points.
+Scarcity of Resources is trashed.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 14 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 15 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Liberated Account (Resource), Daily Casts (Resource), and Inject (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Daily Casts (Resource), Inject (Event), and Yusuf (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Inject (Event), Yusuf (Program), and Dirty Laundry (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Yusuf (Program), Dirty Laundry (Event), and Sure Gamble (Event) from the top of the stack.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 15 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 15 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Corp pays 4 credits to rez Border Control protecting Server 2 at position 1.
+Runner encounters Border Control protecting Server 2 at position 1.
+Runner has no further action.
+Corp uses Border Control to gain 2 credits.
+Corp uses Border Control to end the run.
+Corp resolves 2 unbroken subroutines on Border Control ("[subroutine] Gain 1 credits for each ice protecting this server" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 1.
+Runner encounters Slot Machine protecting R&D at position 1.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Dirty Laundry (Event), Sure Gamble (Event), and Paperclip (Program) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches Excalibur protecting R&D at position 0.
+Runner encounters Excalibur protecting R&D at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 16 with 14 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Nisei MK II and gains 2 agenda points.
+Corp wins the game.

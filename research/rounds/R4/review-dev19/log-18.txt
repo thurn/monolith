@@ -1,0 +1,306 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 12
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 2 credits to play Divert Power.
+Corp is ending their turn 1 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to install Propeller.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Mad Dash.
+Runner uses Mad Dash to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner suffers 1 meat damage from Mad Dash.
+Runner trashes Sure Gamble due to meat damage.
+Runner is ending their turn 1 with 8 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 2 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 8 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to install Engolo.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 4 credits and 3 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 3 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 4 credits and 4 cards in the grip.
+Runner spends click and pays 0 credits to install Ika.
+[!] Ika - [Erratum] Program: Icebreaker - Killer - Trojan
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 7 credits to rez Mlinzi protecting HQ at position 0.
+Runner encounters Mlinzi protecting HQ at position 0.
+Runner pays 2 credits to use Engolo to make Mlinzi gain Code Gate.
+Runner pays 4 credits to increase the strength of Ika to 5 and break all 3 subroutines on Mlinzi.
+Runner has no further action.
+Runner passes Mlinzi protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner is ending their turn 3 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp is ending their turn 4 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 0 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 4 with 5 credits and 3 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 5 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Regolith Mining License in Server 2.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp is ending their turn 5 with 14 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 7 credits to rez Mlinzi protecting R&D at position 0.
+Runner encounters Mlinzi protecting R&D at position 0.
+Runner pays 2 credits to use Engolo to make Mlinzi gain Code Gate.
+Runner pays 4 credits to increase the strength of Ika to 5 and break all 3 subroutines on Mlinzi.
+Runner has no further action.
+Runner passes Mlinzi protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 5 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp trashes Regolith Mining License.
+Corp is ending their turn 6 with 16 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 1 credits and 4 cards in the grip.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 6 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 16 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 6 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 10 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 8 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 10 credits and 6 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 18 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 9 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 18 credits and 6 cards in the grip.
+Runner spends click and pays 8 credits to install Endurance.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner spends click and pays 0 credits to install Misdirection.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 3 credits to rez Konjin protecting Server 1 at position 2.
+Runner encounters Konjin protecting Server 1 at position 2.
+Runner pays 2 credits to use Engolo to make Konjin gain Code Gate.
+Corp uses Konjin to start a psi game (Force the runner to encounter another ice).
+Runner pays 0 credits.
+Corp pays 0 credits.
+Runner has no further action.
+Runner passes Konjin protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 2 credits to rez Wave protecting Server 1 at position 1.
+Corp uses Wave to reveal Anansi from R&D and add it to HQ.
+Runner encounters Wave protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Anemone protecting Server 1 at position 0.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Pinhole Threading and Rigging Up due to net damage.
+Runner encounters Anemone protecting Server 1 at position 0.
+Runner spends 2 hosted power counters from on Endurance to use Endurance to break all 1 subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner uses Endurance to place 1 power counter on itself.
+Runner breaches Server 1.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 9 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 11 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Endurance to place 1 power counter on itself.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 12 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 11 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 11 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 12 credits and 6 cards in the grip.
+Runner spends click and pays 0 credits to play Mad Dash.
+Runner uses Mad Dash to make a run on HQ.
+Runner approaches Mlinzi protecting HQ at position 0.
+Runner encounters Mlinzi protecting HQ at position 0.
+Runner pays 2 credits to use Engolo to make Mlinzi gain Code Gate.
+Runner pays 5 credits to increase the strength of Engolo to 6 and break all 3 subroutines on Mlinzi.
+Runner has no further action.
+Runner passes Mlinzi protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Endurance to place 1 power counter on itself.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner trashes Aesop's Pawnshop, Beth Kilrain-Chang, Self-modifying Code, and Sure Gamble due to net damage.
+Runner suffers 4 net damage to steal Obokata Protocol from HQ.
+Runner steals Obokata Protocol and gains 3 agenda points.
+Runner adds Mad Dash to their score area as an agenda worth 1 agenda point.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 11 with 5 credits and 4 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 12 with 16 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits and lose click.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Mlinzi protecting HQ at position 0.
+Runner encounters Mlinzi protecting HQ at position 0.
+Runner pays 2 credits to use Engolo to make Mlinzi gain Code Gate.
+Runner spends 4 hosted power counters from on Endurance to use Endurance to break all 3 subroutines on Mlinzi.
+Runner has no further action.
+Runner passes Mlinzi protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Endurance to place 1 power counter on itself.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner trashes Creative Commission, Into the Depths, Into the Depths, and Stargate due to net damage.
+Runner suffers 4 net damage to steal Obokata Protocol from HQ.
+Runner steals Obokata Protocol and gains 3 agenda points.
+Runner wins the game.

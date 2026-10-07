@@ -1,0 +1,584 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 26
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Atman.
+Runner pays 3 credits to use Atman to place 3 power counters on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Adonis Campaign from HQ.
+Runner is ending their turn 1 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 8 credits to rez Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Vitruvius from HQ.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Adonis Campaign from HQ.
+Runner is ending their turn 4 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 5 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 5 credits to rez Viktor 2.0 protecting Server 1 at position 0.
+Runner encounters Viktor 2.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Viktor 2.0 to initiate a trace with strength 2 (Place 1 power counter).
+Corp pays 0 credits to increase trace strength to 2.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Viktor 2.0 to place 1 power counter on itself.
+Corp uses Viktor 2.0 to end the run.
+Corp resolves 2 unbroken subroutines on Viktor 2.0 ("[subroutine] Trace 2 - Place 1 power counter" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Adonis Campaign from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Efficiency Committee and gains 2 agenda points.
+Corp is ending their turn 7 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 12 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install Desperado.
+Runner is ending their turn 7 with 13 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 1 credits to play Green Level Clearance.
+Corp uses Green Level Clearance to gain 3 credits and draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 8 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 13 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner spends click and pays 2 credits to install Kati Jones.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 3 credits, to use Self-modifying Code to install Atman from the Stack.
+Runner pays 6 credits to use Atman to place 6 power counters on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp is ending their turn 9 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 1 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Corp uses Tollbooth to end the run.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Desperado to gain 1 credits.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 9 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Director Haas' Pet Project and gains 1 agenda point.
+Corp uses Director Haas' Pet Project to install a card from HQ in the root of Server 2 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp uses Director Haas' Pet Project to install a card from HQ in the root of Server 2.
+Corp trashes a card in Server 2.
+Corp uses Director Haas' Pet Project to install a card from Archives in the root of Server 2.
+Corp trashes a card in Server 2.
+Corp is ending their turn 10 with 1 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 10 with 3 credits and 3 cards in the grip.
+Runner spends click to use Kati Jones to gain 3 credits.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner uses Desperado to gain 1 credits.
+Runner breaches Server 2.
+Runner accesses Adonis Campaign from Server 2.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Desperado to gain 1 credits.
+Runner breaches HQ.
+Runner accesses Efficiency Committee from HQ.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner is ending their turn 10 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 1 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp is ending their turn 11 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 11 with 8 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Desperado to gain 1 credits.
+Runner breaches HQ.
+Runner accesses SanSan City Grid from HQ.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 10 credits and 3 cards in the grip.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Desperado to gain 1 credits.
+Runner breaches HQ.
+Runner accesses SanSan City Grid from HQ.
+Runner is ending their turn 12 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 13 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 11 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Datasucker.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Desperado to gain 1 credits.
+Runner breaches HQ.
+Runner accesses Accelerated Beta Test from HQ.
+Runner steals Accelerated Beta Test and gains 2 agenda points.
+Runner is ending their turn 13 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 14 with 12 credits and 5 cards in the grip.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 15 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 11 credits and 5 cards in the grip.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 15 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 16 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 10 credits and 5 cards in the grip.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 16 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 9 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 3.
+Corp pays 3 credits to rez Eli 1.0 protecting Server 1 at position 3.
+Runner encounters Eli 1.0 protecting Server 1 at position 3.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 8 credits to rez Heimdall 1.0 protecting HQ at position 0.
+Runner encounters Heimdall 1.0 protecting HQ at position 0.
+Runner pays 3 credits to use Atman to break all 3 subroutines on Heimdall 1.0.
+Runner has no further action.
+Runner passes Heimdall 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Desperado to gain 1 credits.
+Runner breaches HQ.
+Runner accesses Jackson Howard from HQ.
+Runner is ending their turn 17 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 8 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Eli 1.0 protecting Server 1 at position 3.
+Runner encounters Eli 1.0 protecting Server 1 at position 3.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Desperado to gain 1 credits.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 18 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Gila Hands Arcology and gains 1 agenda point.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 10 credits and 5 cards in the grip.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 19 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 20 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 20 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 9 credits and 5 cards in the grip.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 20 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 21 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 2.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 21 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 8 credits and 5 cards in the grip.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 21 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 22 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 22 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 7 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 2 credits, to use Self-modifying Code to install Atman from the Stack.
+Runner pays 2 credits to use Atman to place 2 power counters on itself.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Desperado to gain 1 credits.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 22 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 23 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp is ending their turn 23 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 23 with 1 credits and 5 cards in the grip.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Corp uses Tollbooth to end the run.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 23 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 24 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Efficiency Committee and gains 2 agenda points.
+Corp is ending their turn 24 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 24 with 3 credits and 5 cards in the grip.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 24 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 25 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 25 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 25 with 2 credits and 5 cards in the grip.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 25 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 26 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Vitruvius and gains 2 agenda points.
+Corp wins the game.
