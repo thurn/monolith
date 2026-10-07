@@ -1,0 +1,329 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 10
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp is ending their turn 1 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click and pays 0 credits to play Jailbreak.
+Runner uses Jailbreak to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Jailbreak to draw 1 card.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner accesses Congratulations! from HQ.
+Runner spends click and pays 1 credits to play Window of Opportunity.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Freedom of Information from HQ.
+Runner steals Freedom of Information and gains 2 agenda points.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Congratulations! from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Congratulations! from HQ.
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp is ending their turn 2 with 5 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 4 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 2 credits to rez Ping protecting Server 2 at position 0.
+Corp uses Ping to give the Runner 1 tag.
+Runner encounters Ping protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Ping to end the run.
+Corp resolves 1 unbroken subroutine on Ping ("[subroutine] End the run").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Ping protecting Server 1 at position 0.
+Corp uses Ping to give the Runner 1 tag.
+Runner encounters Ping protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ping to end the run.
+Corp resolves 1 unbroken subroutine on Ping ("[subroutine] End the run").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 2 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 1 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 2 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 0 credits and 4 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Post-Truth Dividend and gains 1 agenda point.
+Corp uses Post-Truth Dividend to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 4 credits and 4 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 1 credits to rez Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Starlit Knight from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner is ending their turn 4 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 15 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Tomorrow's Headline and gains 2 agenda points.
+Corp uses Tomorrow's Headline to give the Runner 1 tag.
+Corp is ending their turn 5 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 4 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Starlit Knight from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 5 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 21 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 6 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 10 credits and 4 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Congratulations! protecting HQ at position 0.
+Runner encounters Congratulations! protecting HQ at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting HQ at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner is ending their turn 6 with 14 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 31 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Witch Hunt and gains 2 agenda points.
+Corp uses Witch Hunt to take 1 bad publicity.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp uses Witch Hunt to give the Runner 3 tags.
+Corp is ending their turn 7 with 28 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 14 credits and 4 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 7 with 12 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 28 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 8 with 36 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 12 credits and 3 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Sang Kancil.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Docklands Pass.
+Runner is ending their turn 8 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 36 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 9 with 34 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 7 credits and 3 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to install Carmen.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 34 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Stoke the Embers and gains 2 agenda points.
+Corp wins the game.
+Corp uses Stoke the Embers to gain 3 credits.

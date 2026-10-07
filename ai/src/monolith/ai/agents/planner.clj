@@ -98,11 +98,14 @@
              (and (= :draw (:type a))
                   (let [sd (:active-player s)]
                     (and (>= (count (get-in s [sd :hand])) (or (get-in s [sd :hand-size :total]) 5))
+                         ;; digging is allowed only up to one card over the limit (archetype review: the Corp drew
+                         ;; three over and discarded agendas into an open Archives)
+                         (or (> (count (get-in s [sd :hand])) (or (get-in s [sd :hand-size :total]) 5))
                          ;; digging is still right for a missing breaker type / an open central without ice in hand
                          (not (if (= sd :runner)
                                 (seq (s1/missing-breaker-types s))
                                 (and (some #(empty? (get-in s [:corp :servers % :ices])) [:hq :rd])
-                                     (not-any? #(= "ICE" (:type %)) (get-in s [:corp :hand]))))))))
+                                     (not-any? #(= "ICE" (:type %)) (get-in s [:corp :hand]))))))))))
              ;; an event whose cost trashes one of our programs (Spec Work) when every program is a breaker
              ;; no other installed breaker covers (modern Runner review 2: Unity, the only decoder, trashed)
              (and (= "play" (:command a)) title

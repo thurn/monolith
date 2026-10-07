@@ -347,6 +347,7 @@
     :replacement (:replacement opts)
     :tagged (+ (get-in obs [:runner :tag :base] 0) (get-in obs [:runner :tag :additional] 0))
     :w-damage (:w-damage opts 2.0)
+    :w-tag (or (:w-tag opts) 1.0)
     :w-program (or (:w-program opts) 0.0)
     :rez-tax (or (:rez-tax opts) 0.0)
     ;; Leech-style counters: the encountered ice gets -1 strength per counter (approximate: not

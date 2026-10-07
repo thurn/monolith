@@ -598,6 +598,9 @@
      :ap-value (* urgency (or (w env :run-ap-value) (w env :ap-value))
                   (if-let [k (w env :run-ap-eval)] (* k (get-in env [:weights :eval :agenda-points] 1.0)) 1.0))
      :w-damage (w env :w-damage)
+     ;; :w-tag: a tag's cost in the run calculator (default 1; the evaluator uses 2.5): archetype reviews,
+     ;; tags from Ping/N-Pot/Vasilisa accepted run after run against NBN
+     :w-tag (w env :w-tag)
      :hand (count (get-in (:obs env) [:runner :hand]))
      :remote-ice-prior (w env :remote-ice-prior)
      :w-program (w env :w-program)
