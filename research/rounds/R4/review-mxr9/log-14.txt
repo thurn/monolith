@@ -1,0 +1,232 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 7
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 1 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click and pays 3 credits to install Sang Kancil.
+Runner spends click and pays 1 credits to play Tread Lightly.
+Runner uses Tread Lightly to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Gaslight from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner is ending their turn 1 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 2 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 3 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tomorrow's Headline from HQ.
+Runner steals Tomorrow's Headline and gains 2 agenda points.
+Corp uses Tomorrow's Headline to give the Runner 1 tag.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Gaslight from HQ.
+Runner is ending their turn 2 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Stoke the Embers and gains 2 agenda points.
+Corp uses Stoke the Embers to gain 3 credits.
+Corp uses Stoke the Embers to place 1 advancement counter on ice protecting R&D at position 0.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 3 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 3 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Gaslight from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner is ending their turn 3 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 1 credits and 3 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Ping protecting Server 1 at position 0.
+Corp uses Ping to give the Runner 1 tag.
+Runner encounters Ping protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ping to end the run.
+Corp resolves 1 unbroken subroutine on Ping ("[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner is ending their turn 4 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Shipment from Vladisibirsk.
+Corp uses Shipment from Vladisibirsk to place 1 advancement counter on a card in Server 1.
+Corp uses Shipment from Vladisibirsk to place 1 advancement counter on a card in Server 1.
+Corp uses Shipment from Vladisibirsk to place 1 advancement counter on a card in Server 1.
+Corp uses Shipment from Vladisibirsk to place 1 advancement counter on a card in Server 1.
+Corp scores Stoke the Embers and gains 2 agenda points.
+Corp uses Stoke the Embers to gain 3 credits.
+Corp uses Stoke the Embers to place 1 advancement counter on a card in Server 2.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 5 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 1 credits and 3 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Behold! from Server 2.
+Corp pays 4 credits to use Behold! to give the Runner 2 tags.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Gaslight from HQ.
+Runner is ending their turn 5 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp pays 0 credits to rez Gaslight in Server 3.
+Corp pays 0 credits to rez Behold! in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp scores Freedom of Information and gains 2 agenda points.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 6 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 1 credits and 3 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Flood the Market from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Flood the Market from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner is ending their turn 6 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 3 cards in HQ.
+Corp uses Gaslight to add Game Over from R&D to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Tomorrow's Headline and gains 2 agenda points.
+Corp wins the game.
+Corp uses Tomorrow's Headline to give the Runner 1 tag.

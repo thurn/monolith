@@ -1,0 +1,156 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Ping protecting HQ at position 0.
+Corp uses Ping to give the Runner 1 tag.
+Runner encounters Ping protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ping to end the run.
+Corp resolves 1 unbroken subroutine on Ping ("[subroutine] End the run").
+Runner spends click and pays 3 credits to install Tremolo.
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 4 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click and pays 2 credits to install Cezve.
+[!] Cezve - Recurring credits usage not restricted
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 3 credits to use Tremolo to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 3 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Doomscroll protecting Server 1 at position 0.
+Runner encounters Doomscroll protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Doomscroll to give the Runner 1 tag.
+Corp uses Doomscroll to do 1 net damage.
+Corp trashes Sure Gamble due to net damage.
+Corp uses Doomscroll to do 2 net damage.
+Corp trashes Jailbreak and Masterwork (v37) due to net damage.
+Corp resolves 3 unbroken subroutines on Doomscroll ("[subroutine] Give the Runner 1 tag" and "[subroutine] Do 1 net damage" and "[subroutine] Do 2 net damage if the runner has 2 tags").
+Runner passes Doomscroll protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Tomorrow's Headline from Server 1.
+Runner steals Tomorrow's Headline and gains 2 agenda points.
+Corp uses Tomorrow's Headline to give the Runner 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 3 credits to use Tremolo to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Witch Hunt from HQ.
+Runner steals Witch Hunt and gains 2 agenda points.
+Corp uses Witch Hunt to take 1 bad publicity.
+Runner is ending their turn 3 with 3 credits and 1 card in the grip.
+[hr]
+Corp started their turn 4 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Oppo Research.
+Corp uses Oppo Research to give the Runner 2 tags.
+Corp pays 5 credits to use Oppo Research to give the Runner 2 tags.
+Corp is ending their turn 4 with 0 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 3 credits and 1 card in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Stoke the Embers and gains 2 agenda points.
+Runner is ending their turn 4 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 3 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Window of Opportunity.
+Runner uses Window of Opportunity to derez Doomscroll protecting Server 1 at position 0.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Post-Truth Dividend from Server 1.
+Runner steals Post-Truth Dividend and gains 1 agenda point.
+Runner wins the game.

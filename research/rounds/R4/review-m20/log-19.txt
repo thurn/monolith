@@ -1,0 +1,875 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 14
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp is ending their turn 1 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Cat's Cradle.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Petty Cash.
+Corp uses Petty Cash to gain 5 [credits].
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 1.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 2 with 9 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Nico Campaign from Server 1.
+Runner pays 2 credits to trash Nico Campaign from Server 1.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner is ending their turn 2 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 5 credits and 1 card in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Wave from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Wave from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Wave from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Wave from HQ.
+Runner is ending their turn 3 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Archives.
+Corp is ending their turn 4 with 4 credits and 1 card in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 1.
+Corp pays 3 credits to rez Wave protecting HQ at position 1.
+Corp uses Wave to reveal Ablative Barrier from R&D and add it to HQ.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Ingatan from HQ.
+Runner steals Project Ingatan and gains 2 agenda points.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Ablative Barrier from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Ablative Barrier from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Ablative Barrier from HQ.
+Runner is ending their turn 4 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 5 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click to install a card in the root of Server 3.
+Corp is ending their turn 5 with 5 credits and 1 card in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 2 credits to rez Ablative Barrier protecting Server 3 at position 0.
+Runner encounters Ablative Barrier protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Ablative Barrier to end the run.
+Corp resolves 1 unbroken subroutine on Ablative Barrier ("[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner is ending their turn 5 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 6 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Megaprix Qualifier and gains 1 agenda point.
+Corp uses Haas-Bioroid: Precision Design to add Hedge Fund in Archives to HQ.
+Corp is ending their turn 6 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 11 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner is ending their turn 6 with 12 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp is ending their turn 7 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 7 with 12 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Wave from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 6 credits to rez Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Cat's Cradle.
+Corp pays 2 credits to use Ansel 1.0 to install ice from HQ protecting Server 3.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner is ending their turn 7 with 13 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 2 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 8 with 13 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp pays 3 credits to use Ansel 1.0 to install ice from HQ protecting Server 3.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp pays 4 credits to use Ansel 1.0 to install ice from HQ protecting Server 3.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install Nico Campaign from Archives in the root of Server 4 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 8 with 14 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 2 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp is ending their turn 9 with 0 credits and 1 card in HQ.
+[hr]
+Runner started their turn 9 with 14 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Nico Campaign from Server 2.
+Runner pays 2 credits to trash Nico Campaign from Server 2.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install Nico Campaign from Archives in the root of Server 5 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 9 with 13 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 3 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Megaprix Qualifier and gains 1 agenda point.
+Corp uses Haas-Bioroid: Precision Design to add Petty Cash in Archives to HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 13 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 6 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner is ending their turn 10 with 14 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp pays 2 credits to rez Nico Campaign in Server 5.
+Corp pays 2 credits to rez Nico Campaign in Server 4.
+Corp spends click and pays 0 credits to install ice protecting Server 4.
+Corp is ending their turn 11 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 11 with 14 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 5.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Nico Campaign from Server 5.
+Runner pays 2 credits to trash Nico Campaign from Server 5.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 7 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install Nico Campaign from Archives in the root of Server 8 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner is ending their turn 11 with 13 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 10 credits and 2 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp pays 2 credits to rez Nico Campaign in Server 8.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp is ending their turn 12 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 12 with 13 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 8.
+Runner will continue the run.
+Runner approaches Server 8.
+Runner breaches Server 8.
+Runner accesses Nico Campaign from Server 8.
+Runner pays 2 credits to trash Nico Campaign from Server 8.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install Nico Campaign from Archives in the root of Server 9 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sprint from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner is ending their turn 12 with 12 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 13 credits and 3 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Megaprix Qualifier and gains 1 agenda point.
+Corp uses Haas-Bioroid: Precision Design to add Hedge Fund in Archives to HQ.
+Corp pays 2 credits to rez Nico Campaign in Server 9.
+Corp pays 2 credits to rez Otto Campaign in Server 7.
+Corp spends click to install a card in the root of Server 3.
+Corp is ending their turn 13 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 12 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 9.
+Runner will continue the run.
+Runner approaches Server 9.
+Runner breaches Server 9.
+Runner accesses Nico Campaign from Server 9.
+Runner pays 2 credits to trash Nico Campaign from Server 9.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install Nico Campaign from Archives in the root of Server 10 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting HQ at position 0.
+Runner encounters Ansel 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Petty Cash from HQ.
+Runner is ending their turn 13 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 14 with 13 credits and 4 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp trashes Nico Campaign and draws 1 card.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp wins the game.

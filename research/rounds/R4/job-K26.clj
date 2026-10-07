@@ -1,5 +1,5 @@
 ;; RC26 pre-registered held-out confirmation (protocol: LOG.md 2026-10-04 09:15; gate 2026-10-07: two modern sets pooled >= 3.5,
-;; Runner-only modern set >= 3.2). Frozen bd (b6ba88c), the code of review-m17/m18/mxr8. Launch only if the gate is met. Puzzles (RC18 and :s1ref), the
+;; Runner-only modern set >= 3.2). Frozen bd (b6ba88c), the code of review-m17/m18/mxr8. Launch only if the gate is met. Puzzles (RC26 and :s1ref), the
 ;; pre-registered review set (seeds 910000-910019), the pre-registered replication set (seeds 910020-910039, same matchups),
 ;; then T2 (seeds 900000-900299, own null).
 (require 'monolith.ai.confirm 'monolith.ai.evalset 'monolith.ai.sweep 'monolith.ai.gamelog)
