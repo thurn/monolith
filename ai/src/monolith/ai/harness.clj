@@ -38,6 +38,21 @@
                (into {} (for [[k srv] servers]
                           [k (update srv :content (fn [cs] (mapv #(if (= (:cid %) (:cid c)) (assoc % :monolith-known true) %) cs)))])))))))
 
+(defn- remember-returned!
+  "A rezzed installed card that returns to HQ (Descent at the Corp's turn start) is public: with
+  :hq-memory the Runner knows it is in HQ (modern review 18: R&D run into a known, unbreakable
+  Descent six turns in a row, each reinstall looking like a fresh unknown ice)."
+  [before state]
+  (when *hq-memory*
+    ;; the engine gives a card a new cid when it moves to HQ, so match the new HQ cards by title
+    (let [installed (fn [s] (frequencies (for [[_ srv] (get-in s [:corp :servers]) c (concat (:ices srv) (:content srv)) :when (:rezzed c)] (:title c))))
+          gone (merge-with - (installed before) (installed @state))
+          old-cids (set (map :cid (get-in before [:corp :hand])))
+          new-cards (remove #(old-cids (:cid %)) (get-in @state [:corp :hand]))
+          returned (set (for [c new-cards :when (pos? (get gone (:title c) 0))] (:cid c)))]
+      (when (seq returned)
+        (swap! state update-in [:corp :hand] (fn [cs] (mapv #(if (returned (:cid %)) (assoc % :monolith-known true) %) cs)))))))
+
 (defn- result [g n stall t0 extra]
   (let [s @(:state g)]
     (merge
@@ -102,7 +117,7 @@
                           err (try (engine/command! g side (:command action) (:args action)) nil
                                    (catch Throwable t t))]
                       (conj! log idx)
-                      (when-not err (remember-access! state))
+                      (when-not err (remember-access! state) (remember-returned! before state))
                       (when *on-step* (*on-step* g d action))
                       (cond
                         ;; command! restored the state: drop the throwing action and re-ask (stall

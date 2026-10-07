@@ -1,0 +1,145 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 4
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to install Carmen.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 0 credits to rez Loot Box protecting HQ at position 0.
+Runner encounters Loot Box protecting HQ at position 0.
+Runner has no further action.
+Corp uses Loot Box to force the runner to pay 2 credits.
+Runner pays 2 credits due to Loot Box subroutine.
+Corp uses Loot Box to reveal Concerto, Tread Lightly, and Afterimage from the top of the stack.
+Corp uses Loot Box to add Concerto to the Grip, gain 0 credits, shuffle the Stack and trash itself.
+Corp resolves 2 unbroken subroutines on Loot Box ("[subroutine] End the run unless the Runner pays 2 credits" and "[subroutine] Reveal the top 3 cards of the Stack").
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Flood the Market from HQ.
+Runner is ending their turn 1 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 3 credits to play Flood the Market.
+Corp uses Flood the Market to do nothing.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click and pays 2 credits to install Cezve.
+[!] Cezve - Recurring credits usage not restricted
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click and pays 0 credits to play Concerto.
+Runner uses Concerto to reveal Daily Casts from the top of the stack and move Daily Casts into the grip and place 3 credits on itself.
+Runner uses Concerto to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Shipment from Vladisibirsk from HQ.
+Runner spends click and pays 1 credits to install Underdome Irregulars.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Freedom of Information from HQ.
+Runner steals Freedom of Information and gains 2 agenda points.
+Runner uses Underdome Irregulars to trash itself.
+Runner is ending their turn 2 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Oppo Research.
+Corp uses Oppo Research to give the Runner 2 tags.
+Corp is ending their turn 3 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 3 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 1 credits to rez Congratulations! protecting R&D at position 0.
+Runner encounters Congratulations! protecting R&D at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting R&D at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Behold!.
+Corp pays 4 credits to use Behold! to give the Runner 2 tags.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Stoke the Embers from HQ.
+Runner steals Stoke the Embers and gains 2 agenda points.
+Runner is ending their turn 3 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 0 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 0 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 4 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click and pays 2 credits to install Docklands Pass.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click and pays 0 credits to play Jailbreak.
+Runner uses Jailbreak to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner uses Jailbreak to draw 1 card.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Shipment from Vladisibirsk from HQ.
+Runner accesses Witch Hunt from HQ.
+Runner steals Witch Hunt and gains 2 agenda points.
+Corp uses Witch Hunt to take 1 bad publicity.
+Runner accesses Game Over from HQ.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches Congratulations! protecting R&D at position 0.
+Runner encounters Congratulations! protecting R&D at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting R&D at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Tomorrow's Headline and gains 2 agenda points.
+Runner wins the game.
+Corp uses Tomorrow's Headline to give the Runner 1 tag.
+Runner uses Bravado to gain 7 credits.

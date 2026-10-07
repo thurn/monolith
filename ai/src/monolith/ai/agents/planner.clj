@@ -93,6 +93,11 @@
              (and (= "rez" (:command a)) title (srv/trap-damage title 0))
              (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))
              (s1/duplicate-unique-install? s a)
+             ;; "your action phase ends" (Oppo Research): only with the last click (modern review 17: played
+             ;; with the first click, two clicks lost at 13 credits)
+             (and (= "play" (:command a)) title
+                  (re-find #"(?i)your action phase ends" (str (:text (cards/printed title))))
+                  (> (or (get-in s [(:active-player s) :click]) 0) 1))
              ;; click-draw at the maximum hand size: the card (or another) is discarded at end of turn
              ;; unless something is played; play first (T3 proxy: ~3 forced discards per game per side)
              (and (= :draw (:type a))

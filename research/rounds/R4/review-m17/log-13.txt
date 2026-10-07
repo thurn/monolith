@@ -1,0 +1,250 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 8
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Stoneship Chart Room.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Echelon.
+Runner trashes Stoneship Chart Room to use Stoneship Chart Room to draw 2 cards.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 1 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 2 credits to play Your Digital Life.
+Corp uses Your Digital Life to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 5 credits to rez Grubber protecting HQ at position 0.
+Corp uses Grubber to take 1 bad publicity.
+Runner encounters Grubber protecting HQ at position 0.
+Runner has no further action.
+Corp uses Grubber to force the runner to pay 3 credits.
+Runner pays 3 credits due to Grubber subroutine.
+Corp uses Grubber to end the run.
+Corp resolves 2 unbroken subroutines on Grubber ("[subroutine] End the run unless the Runner pays 3 credits" and "[subroutine] End the run unless the Runner pays 3 credits").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits.
+Runner is ending their turn 2 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner spends click and pays 1 credits to install Simulchip.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 2 credits, to use Self-modifying Code to install Gauss from the Stack.
+Runner trashes Simulchip, and then pays 0 credits, to use Simulchip to install Self-modifying Code from the Heap (paying 3 credits less).
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 1 credits and 4 cards in the grip.
+Runner spends click and pays 0 credits to install Stoneship Chart Room.
+Runner trashes Stoneship Chart Room to use Stoneship Chart Room to draw 2 cards.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 4 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 0 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 2 credits to rez Virtual Service Agent protecting Server 1 at position 2.
+[!] Virtual Service Agent - Might be incorrect if decoder is uninstalled
+Runner encounters Virtual Service Agent protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner passes Virtual Service Agent protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 1 credits to rez Paywall protecting Server 1 at position 1.
+Runner encounters Paywall protecting Server 1 at position 1.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Unsmiling Tsarevna protecting Server 1 at position 0.
+Corp uses Unsmiling Tsarevna to let the Runner gain 2 credits to prevent them from breaking more than 1 printed subroutine on this ice per encounter for the remainder of this run.
+Runner encounters Unsmiling Tsarevna protecting Server 1 at position 0.
+Runner pays 1 credits to use Echelon to break 1 Sentry subroutine on Unsmiling Tsarevna ("[subroutine] Do 2 net damage").
+Runner has no further action.
+Corp uses Unsmiling Tsarevna to give the Runner 1 tag.
+Corp uses Unsmiling Tsarevna to draw 2  cards.
+Corp resolves 2 unbroken subroutines on Unsmiling Tsarevna ("[subroutine] Give the Runner 1 tag" and "[subroutine] You may draw 2 cards").
+Runner passes Unsmiling Tsarevna protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Embedded Reporting from Server 1.
+Runner steals Embedded Reporting and gains 2 agenda points.
+Runner uses Tāo Salonga: Telepresence Magician to swap the positions of Grubber protecting HQ at position 0 and Paywall protecting Server 1 at position 1.
+Runner is ending their turn 5 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 1 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Embedded Reporting and gains 2 agenda points.
+Runner uses Tāo Salonga: Telepresence Magician to swap the positions of Grubber protecting Server 1 at position 1 and Paywall protecting HQ at position 0.
+Runner spends click to make a run on Server 1.
+Runner approaches Virtual Service Agent protecting Server 1 at position 2.
+Runner encounters Virtual Service Agent protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner passes Virtual Service Agent protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Paywall protecting Server 1 at position 1.
+Runner encounters Paywall protecting Server 1 at position 1.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1credits from bad publicity due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Unsmiling Tsarevna protecting Server 1 at position 0.
+Runner encounters Unsmiling Tsarevna protecting Server 1 at position 0.
+Runner pays 1 credits to use Echelon to break 1 Sentry subroutine on Unsmiling Tsarevna ("[subroutine] Do 2 net damage").
+Runner pays 1 credits to use Echelon to break 1 Sentry subroutine on Unsmiling Tsarevna ("[subroutine] Give the Runner 1 tag").
+Runner has no further action.
+Corp uses Unsmiling Tsarevna to draw 2  cards.
+Corp resolves 1 unbroken subroutine on Unsmiling Tsarevna ("[subroutine] You may draw 2 cards").
+Runner passes Unsmiling Tsarevna protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Embedded Reporting from Server 1.
+Runner steals Embedded Reporting and gains 2 agenda points.
+Runner uses Tāo Salonga: Telepresence Magician to swap the positions of Grubber protecting HQ at position 0 and Paywall protecting Server 1 at position 1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 2 credits and 7 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 7 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 1 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 7 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 0 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Virtual Service Agent protecting Server 1 at position 2.
+Runner encounters Virtual Service Agent protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner passes Virtual Service Agent protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Grubber protecting Server 1 at position 1.
+Runner encounters Grubber protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Grubber to force the runner to pay 3 credits.
+Runner pays 1credits from bad publicity and 2 credits from their credit pool due to Grubber subroutine.
+Corp uses Grubber to force the runner to pay 3 credits.
+Runner pays 3 credits due to Grubber subroutine.
+Corp resolves 2 unbroken subroutines on Grubber ("[subroutine] End the run unless the Runner pays 3 credits" and "[subroutine] End the run unless the Runner pays 3 credits").
+Runner passes Grubber protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Unsmiling Tsarevna protecting Server 1 at position 0.
+Runner encounters Unsmiling Tsarevna protecting Server 1 at position 0.
+Runner pays 1 credits to use Echelon to break 1 Sentry subroutine on Unsmiling Tsarevna ("[subroutine] Do 2 net damage").
+Runner has no further action.
+Corp uses Unsmiling Tsarevna to give the Runner 1 tag.
+Corp uses Unsmiling Tsarevna to draw 2  cards.
+Corp resolves 2 unbroken subroutines on Unsmiling Tsarevna ("[subroutine] Give the Runner 1 tag" and "[subroutine] You may draw 2 cards").
+Runner passes Unsmiling Tsarevna protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Next Big Thing from Server 1.
+Runner steals Next Big Thing and gains 3 agenda points.
+Runner wins the game.
