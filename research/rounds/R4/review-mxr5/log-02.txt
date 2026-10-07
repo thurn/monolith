@@ -1,0 +1,151 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Utae.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 7 credits to rez Ivik protecting HQ at position 0.
+Runner encounters Ivik protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ivik to do 2 net damage.
+Corp trashes Odore and Utae due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp uses Ivik to end the run.
+Corp resolves 2 unbroken subroutines on Ivik ("[subroutine] Do 2 net damage" and "[subroutine] End the run").
+Runner is ending their turn 1 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Phoneutria protecting R&D at position 0.
+Runner encounters Phoneutria protecting R&D at position 0.
+Runner has no further action.
+Corp uses Phoneutria to do 1 net damage.
+Corp trashes Mystic Maemi due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp uses Phoneutria to do 1 net damage.
+Corp trashes Botulus due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp resolves 2 unbroken subroutines on Phoneutria ("[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").
+Runner passes Phoneutria protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 4 credits and 4 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 3 with 1 credits and 4 cards in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play The Price.
+Runner uses Strike Fund to gain 2 credits.
+Runner uses The Price to trash Solidarity Badge, Strike Fund, The Price, and Paladin Poemu from the top of the stack.
+Runner pays 0 credits to use The Price to install Solidarity Badge from the Heap (paying 3 credits less).
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner is ending their turn 3 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 9 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Phoneutria protecting R&D at position 0.
+Runner encounters Phoneutria protecting R&D at position 0.
+Runner has no further action.
+Corp uses Phoneutria to do 1 net damage.
+Corp trashes Running Hot due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp uses Phoneutria to do 1 net damage.
+Corp trashes Buffer Drive due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp resolves 2 unbroken subroutines on Phoneutria ("[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").
+Runner passes Phoneutria protecting R&D at position 0.
+Corp uses Phoneutria to give the Runner 1 tag.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Odore.
+Runner is ending their turn 4 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 4 credits and 5 cards in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 4 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 4 credits to rez Karunā protecting Server 2 at position 0.
+Runner encounters Karunā protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Karunā to do 2 net damage.
+Corp trashes Botulus and Fermenter due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner uses Karunā to continue the run.
+Corp uses Karunā to do 2 net damage.
+Corp trashes Mystic Maemi and Running Hot due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp resolves 2 unbroken subroutines on Karunā ("[subroutine] Do 2 net damage. The Runner may jack out" and "[subroutine] Do 2 net damage").
+Runner passes Karunā protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Urtica Cipher from Server 2.
+Corp uses Urtica Cipher to do 2 net damage.
+Corp trashes Stargate due to net damage.
+Runner is flatlined.
+Corp wins the game.

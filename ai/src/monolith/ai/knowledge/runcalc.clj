@@ -53,7 +53,9 @@
 (defn- encounter
   "Runner's best utility facing a known rezzed ice model at index i."
   [ctx i st ice]
-  (let [ice (if (pos? (:strength-reduce ctx 0)) (update ice :strength #(max 0 (- (or % 0) (:strength-reduce ctx)))) ice)
+  (let [;; Paywall: credits lost on encounter, before anything is broken
+        st (if-let [n (:encounter-lose ice)] (update st :credits #(max 0 (- % n))) st)
+        ice (if (pos? (:strength-reduce ctx 0)) (update ice :strength #(max 0 (- (or % 0) (:strength-reduce ctx)))) ice)
         ice (if (:tag-etr ice)
               (update ice :subs #(into (vec %) (repeat (+ (or (:tagged st) 0) (or (:tags st) 0)) {:etr true})))
               ice)
@@ -84,6 +86,13 @@
                        (:no-access b) (assoc :no-access true)
                        (:heap b) (update :heaped (fnil conj #{}) (:title b))
                        (seq to-fire) (fire-subs (assoc ice :subs (vec to-fire) :unbroken-damage nil)))})))
+              ;; N-Pot/F2P: pay the ice's own price per subroutine
+              (when-let [{:keys [cost untagged-only]} (:self-break ice)]
+                (let [n (count (remove :broken (:subs ice)))
+                      c (* cost n)]
+                  (when (and (pos? n) (<= c (:credits st))
+                             (not (and untagged-only (pos? (+ (or (:tagged st) 0) (or (:tags st) 0))))))
+                    [{:how [:self-break c] :st (update st :credits - c)}])))
               [{:how [:fire] :st (fire-subs st ice)}])]
     (apply max-key :u
            (for [{:keys [how st]} opts]

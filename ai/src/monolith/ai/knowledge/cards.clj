@@ -108,10 +108,25 @@
         (when applies
           {:n (parse-long n) :exempt (if (re-find #"(?i)except using killers" txt) #{"Sentry"} #{})})))))
 
+(defn ice-text-extras
+  "Encounter effects from ice text the subroutine parse misses: :encounter-lose (Paywall: the Runner loses N on
+  encounter) and :self-break {:cost X :untagged-only bool} (N-Pot, F2P: the Runner may pay X to break 1 subroutine)."
+  [title]
+  (let [txt (str/replace (str (:text (printed title))) #"<[^>]*>" "")]
+    (cond-> {}
+      (re-find #"(?i)when the runner encounters this ice, they lose (\d+)\[credit\]" txt)
+      (assoc :encounter-lose (parse-long (second (re-find #"(?i)when the runner encounters this ice, they lose (\d+)\[credit\]" txt))))
+      (re-find #"(?i)(\d+)\[credit\]: break 1 subroutine on this ice\. only the runner can use this ability" txt)
+      (assoc :self-break {:cost (parse-long (second (re-find #"(?i)(\d+)\[credit\]: break 1 subroutine on this ice" txt)))
+                          :untagged-only (boolean (re-find #"(?i)only if they are not tagged" txt))}))))
+
+(def ice-text-extras* (memoize ice-text-extras))
+
 (defn ice-model
   "Run-calculator view of a known ice."
   [card]
   (let [p (printed (:title card))]
+    (merge (ice-text-extras* (:title card))
     {:title (:title card)
      :max-break (max-break card)
      :tag-etr (boolean (re-find #"(?i)subroutines for the remainder of this run[^.]*\. X is equal to the number of tags" (str (:text p))))
@@ -121,7 +136,7 @@
      :unbroken-damage (unbroken-damage (:title card))
      :advancements (or (:advance-counter card) 0)
      :rez-cost (or (:cost p) 0)
-     :rezzed (boolean (:rezzed card))}))
+     :rezzed (boolean (:rezzed card))})))
 
 (defn printed-ice-model
   "Model of an ice title as it would be once rezzed in a given server (remote? adds Palisade-like bonuses)."
@@ -130,6 +145,7 @@
         bonus (if (and remote? (re-find #"(?i)protecting a remote server, it gets \+(\d+) strength" (str (:text p))))
                 (parse-long (second (re-find #"(?i)protecting a remote server, it gets \+(\d+) strength" (str (:text p)))))
                 0)]
+    (merge (ice-text-extras* title)
     {:title title
      :strength (+ (or (:strength p) 0) bonus)
      :subtypes (set (:subtypes p))
@@ -139,7 +155,7 @@
      :max-break (max-break title)
      ;; Starlit Knight: one more ETR subroutine per Runner tag (threat 4; assumed active)
      :tag-etr (boolean (re-find #"(?i)subroutines for the remainder of this run[^.]*\. X is equal to the number of tags" (str (:text p))))
-     :rez-cost (or (:cost p) 0)}))
+     :rez-cost (or (:cost p) 0)})))
 
 ;;; Breakers
 

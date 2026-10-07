@@ -890,6 +890,9 @@
         how (:how ev)
         breaks (acts env :break)]
     (cond
+      (= :self-break (first how))
+      (or (act-where env #(and (= :ability (:type %)) (= "runner-ability" (:command %))))
+          (act env :continue))
       (= :break (first how))
       (or (act-where env #(and (= :break (:type %)) (= (second how) (card-title %))))
           ;; no full auto-break (a break limit: Afshar on HQ, Tsarevna, Hammer): pump, then break by hand

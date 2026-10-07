@@ -12,6 +12,7 @@
    [game.core.card :refer [agenda? asset? corp? event? get-card hardware? ice? in-hand? installed?
                            operation? program? resource? rezzed? upgrade? get-counters]]
    [game.core.diffs :refer [ability-playable? playable?]]
+   [game.core.card-defs :refer [card-def]]
    [game.core.flags :refer [can-advance? can-score? can-rez?]]
    [game.core.installing :refer [corp-can-pay-and-install?]]
    [game.core.payment :refer [can-pay? ->c]]
@@ -268,6 +269,12 @@
                         (:playable (ability-playable? ab i state :runner c)))]
          (act :runner "ability" {:card (card-ref c) :ability i}
               (str (:title c) ": " (or (:label ab) (:msg ab) i)) :ability))
+       ;; the encountered ice's own Runner abilities (N-Pot: 3[credit] to break a subroutine; F2P)
+       (when ice
+         (for [[i ab] (map-indexed vector (:runner-abilities (card-def ice)))
+               :when (:playable (ability-playable? ab i state :runner ice))]
+           (act :runner "runner-ability" {:card (card-ref ice) :ability i}
+                (str (:title ice) ": " (or (:label ab) "runner ability")) :ability)))
        ;; an ability that already set up an end-of-encounter effect (Banner) is not offered again
        (let [used (set (keep #(when (= :end-of-encounter (:duration %)) (:cid (:card %))) (:events s)))]
          (remove #(used (get-in % [:args :card :cid])) (ability-actions state :runner {:clicks? false})))
