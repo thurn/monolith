@@ -1,5 +1,13 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-07 12:40 (R4, autonomous phase)
+
+- **Best agent:** RC29 (`rounds/R4/job-BI.clj`, frozen `bi` = `e98ec32`): RC26 spec + 4 re-determinized rerank samples (`:redet`) both sides, Corp `:rich-credit` 10, Runner `:kill-threat` 2.0, `:w-tag` 3.5, `:tag-exposure`; on code with today's fixes (unaffordable-ice chance node, full mid-turn planner budget, `:aid` and "Manually" no-op prunes, Sprint/Bloop/Oppo/Pinhole rules, Descent memory, known HQ kills).
+- **Ladder:** T3 puzzles met (dev 21/21, held-out 13/13 on RC25 spec). Modern gate: RC29 two-sided sets pooled **3.70** (m23 3.7, m24 3.7) ✓, Runner-only set 3.00 (bar 3.2) ✗, so no held-out shot yet. Earlier held-out T3 reviews: RC1 2.80 … RC18 3.00/3.30. T2 last measured on RC18 (Corp g_c +0.40, bar +0.85).
+- **Running:** BK (RC30 review sets m25/m26/mxr12 = RC29 spec + Archives value fixes + no resource installs while tagged); BJ (RC28 knobs: Corp `:rich-credit` 10 vs 15, Runner `:kill-threat` 2 vs 1, 300 seeds).
+- **Next 3:** (1) score m25/m26/mxr12; if pooled ≥ 3.5 and Runner-only ≥ 3.2, copy `job-K29.clj` for RC30 and run held-out confirmation + replication; (2) Runner facechecks without matching breakers (most frequent remaining Runner note); (3) A/B the tagged-resource prune (RC30 smoke Runner dipped to 0.625 on 8 games).
+- **Lessons today:** never `require … :reload` a namespace list that includes the harness (protocol reset → every game stalls); replays of games are not reproducible across code changes that alter the legal-action list; decision noise came from single determinizations, not rollout counts.
+
 ## Status 2026-10-07 07:15 (R4, autonomous phase; header previously mislabeled 10:30)
 
 - **Best agent:** RC23 candidate (`rounds/R4/job-AW.clj`): RC12 spec + Corp `:rd-exposure` 1.0, `:score-margin` 30, no Runner-model knobs in the Corp weights; Runner `:w-damage` 3.0, `:w-tag` 2.0; on code with ~40 modern-card fixes.
