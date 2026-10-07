@@ -370,10 +370,14 @@
                   [s1-rule s1a] (when s1-margin (s1/decide (assoc ctx :obs o :weights weights :mem (atom {}))))
                   ;; S1's safety rules (ice an open central, clear tags, keep cards, take a kill or a score)
                   ;; can demand a larger margin before the plan overrides them
-                  margin (if (and s1-strong-margin (#{:protect-centrals :react-centrals :remove-tag :safety-draw :kill
-                                                       :score :advance-to-score :seamless :dig-breakers :dig-ice} s1-rule))
+                  margin (cond
+                           ;; :score-margin: scoring now (or advancing to score now) is hard to override; rollouts
+                           ;; let S1 score next turn, so delaying looks free to the plan (puzzle d-credit-then-advance)
+                           (and (:score-margin weights) (#{:score :advance-to-score :seamless} s1-rule)) (:score-margin weights)
+                           (and s1-strong-margin (#{:protect-centrals :react-centrals :remove-tag :safety-draw :kill
+                                                    :score :advance-to-score :seamless :dig-breakers :dig-ice} s1-rule))
                            s1-strong-margin
-                           s1-margin)
+                           :else s1-margin)
                   plan-once (fn []
                               (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))]
                                 (try (plan sm side {:weights weights :decks decks :rng rng :beam beam

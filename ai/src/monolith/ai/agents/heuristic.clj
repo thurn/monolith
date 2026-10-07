@@ -541,7 +541,7 @@
        (select-best env (fn [c] (if (= "ICE" (:type c)) (ice-score (:title c)) 0)))
        ;; trashing/discarding our own HQ cards as a cost or effect (Anemone, Cultivate): never an agenda
        ;; (archetype review: agendas sent to an open Archives)
-       (and (seq (acts env :select)) (re-find #"(?i)trash|discard" msg))
+       (and (seq (acts env :select)) (re-find #"(?i)trash|discard" msg) (not (re-find #"(?i)^Trash ice protecting" msg)))
        (select-best env (fn [c] (if (= "Agenda" (:type c)) -1 (- 11 (hand-card-value env c)))))
        ;; free install subroutines (Ansel 1.0, Drafter): ice first, then economy assets; never an agenda
        ;; (modern review 1: first-listed choices installed over the Corp's own cards)
@@ -554,7 +554,15 @@
                                     -1))))
        (re-find #"(?i)^Choose a location to install (.+)" msg)
        (let [t (second (re-find #"(?i)^Choose a location to install (.+)" msg))
-             cs (remove #(re-find #"(?i)cancel" (str (:label %))) (acts env :choice))
+             cs0 (remove #(re-find #"(?i)cancel" (str (:label %))) (acts env :choice))
+             ;; ice only where the install cost (one per ice already there) is affordable: otherwise the engine
+             ;; asks which of our own ice to trash (review m9: Ansel's sub trashed both ice on two servers)
+             cs (if (= "ICE" (ptype t))
+                  (let [ok (filter #(or (re-find #"(?i)^New remote" (str (:label %)))
+                                        (<= (count (srv/ices obs (srv/server-key (:label %)))) (credits env)))
+                                   cs0)]
+                    (if (seq ok) ok cs0))
+                  cs0)
              by (fn [re] (first (filter #(re-find re (str (:label %))) cs)))
              nice (fn [lbl] (count (srv/ices obs (srv/server-key lbl))))]
          (if (= "ICE" (ptype t))

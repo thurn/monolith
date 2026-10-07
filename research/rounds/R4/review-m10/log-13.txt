@@ -1,0 +1,112 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 3
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 2 credits to install Gauss.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Virtual Service Agent protecting HQ at position 0.
+[!] Virtual Service Agent - Might be incorrect if decoder is uninstalled
+Runner encounters Virtual Service Agent protecting HQ at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner passes Virtual Service Agent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tomorrow's Headline from HQ.
+Runner steals Tomorrow's Headline and gains 2 agenda points.
+Corp uses Tomorrow's Headline to give the Runner 1 tag.
+Runner is ending their turn 1 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to play Oppo Research.
+Corp uses Oppo Research to give the Runner 2 tags.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp is ending their turn 2 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Virtual Service Agent protecting HQ at position 0.
+Runner encounters Virtual Service Agent protecting HQ at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner passes Virtual Service Agent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Next Big Thing from HQ.
+Runner steals Next Big Thing and gains 3 agenda points.
+Runner uses Tāo Salonga: Telepresence Magician to swap the positions of Virtual Service Agent protecting HQ at position 0 and ice protecting R&D at position 0.
+Runner is ending their turn 2 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 12 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Telework Contract.
+Corp spends click and pays 2 credits to play Oppo Research.
+Corp uses Oppo Research to give the Runner 2 tags.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp pays 5 credits to use Oppo Research to give the Runner 2 tags.
+Corp is ending their turn 3 with 5 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 7 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Virtual Service Agent protecting HQ at position 0.
+[!] Virtual Service Agent - Might be incorrect if decoder is uninstalled
+Runner encounters Virtual Service Agent protecting HQ at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Next Big Thing from HQ.
+Runner steals Next Big Thing and gains 3 agenda points.
+Runner wins the game.
