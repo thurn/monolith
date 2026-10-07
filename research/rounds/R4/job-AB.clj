@@ -1,4 +1,4 @@
-;; Corp-side ablation on corp-proxy (NEH/asset dev Corps resembling held-out), frozen ab, 300 paired seeds, Corp side only:
+;; Corp-side ablation on corp-proxy (NEH/asset dev Corps resembling held-out), frozen ad (db55cb5), 300 paired seeds, Corp side only:
 ;; RC8's Corp (null) vs RC1's Corp options and RC8 minus each Corp option. Question: which current Corp options cost
 ;; held-out-like Corp strength (RC7 held-out g_c +0.55 vs bar +0.85; RC1 +1.07 on older code).
 (require 'monolith.ai.evalset 'monolith.ai.sweep)

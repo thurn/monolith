@@ -1,0 +1,469 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 16
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Yusuf.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Building Blocks from HQ.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Paperclip due to core damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Building Blocks from HQ.
+Runner is ending their turn 1 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner is ending their turn 2 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 3 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 4 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Building Blocks from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Preemptive Action from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Preemptive Action from HQ.
+Runner is ending their turn 3 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 4 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Border Control protecting Server 1 at position 0.
+Runner encounters Border Control protecting Server 1 at position 0.
+Runner pays 4 credits to use Paperclip to install Paperclip from the Heap.
+Runner spends 2 virus counters from Yusuf to use Yusuf to break all 2 subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner declines to pay to steal SDS Drone Deployment.
+Runner spends click to make a run on Server 1.
+Runner approaches Border Control protecting Server 1 at position 0.
+Runner encounters Border Control protecting Server 1 at position 0.
+Runner spends 2 virus counters from Yusuf to use Yusuf to break all 2 subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner declines to pay to steal SDS Drone Deployment.
+Runner spends click to make a run on Server 1.
+Runner approaches Border Control protecting Server 1 at position 0.
+Runner encounters Border Control protecting Server 1 at position 0.
+Runner spends 2 virus counters from Yusuf to use Yusuf to break all 2 subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner declines to pay to steal SDS Drone Deployment.
+Runner spends click to make a run on Server 1.
+Runner approaches Border Control protecting Server 1 at position 0.
+Runner encounters Border Control protecting Server 1 at position 0.
+Runner spends 2 virus counters from Yusuf to use Yusuf to break all 2 subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner declines to pay to steal SDS Drone Deployment.
+Runner is ending their turn 4 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 0 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Border Control protecting Server 1 at position 0.
+Runner encounters Border Control protecting Server 1 at position 0.
+Runner spends 2 virus counters from Yusuf to use Yusuf to break all 2 subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner declines to pay to steal SDS Drone Deployment.
+Runner spends click to make a run on Server 1.
+Runner approaches Border Control protecting Server 1 at position 0.
+Runner encounters Border Control protecting Server 1 at position 0.
+Runner spends 2 virus counters from Yusuf to use Yusuf to break all 2 subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner declines to pay to steal SDS Drone Deployment.
+Runner spends click to make a run on Server 1.
+Runner approaches Border Control protecting Server 1 at position 0.
+Runner encounters Border Control protecting Server 1 at position 0.
+Runner spends 2 virus counters from Yusuf to use Yusuf to break all 2 subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner declines to pay to steal SDS Drone Deployment.
+Runner spends click to make a run on Server 1.
+Runner approaches Border Control protecting Server 1 at position 0.
+Runner encounters Border Control protecting Server 1 at position 0.
+Runner spends 2 virus counters from Yusuf to use Yusuf to break all 2 subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner declines to pay to steal SDS Drone Deployment.
+Runner is ending their turn 5 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores SDS Drone Deployment and gains 3 agenda points.
+Corp uses SDS Drone Deployment to trash Paperclip.
+Corp is ending their turn 6 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 0 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Marcus Batty from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Marcus Batty from HQ.
+Runner is ending their turn 6 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 8 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Border Control to HQ and gain 4 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 0 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 4 credits to rez Mausolus protecting Server 2 at position 0.
+Runner encounters Mausolus protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Mausolus to gain 1 credits.
+Corp uses Mausolus to do 1 net damage.
+Corp trashes Liberated Account due to net damage.
+Corp uses Mausolus to give the Runner 1 tag.
+Corp resolves 3 unbroken subroutines on Mausolus ("[subroutine] Gain 1 credits (Gain 3 credits)" and "[subroutine] Do 1 net damage (Do 3 net damage)" and "[subroutine] Give the Runner 1 tag (and end the run)").
+Runner passes Mausolus protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 2.
+Runner accesses SSL Endorsement from Server 2.
+Runner steals SSL Endorsement and gains 3 agenda points.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 9 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Mausolus to HQ and gain 4 credits.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click to install a card in the root of Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp is ending their turn 8 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 2 credits and 3 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 4 credits to rez Mausolus protecting Server 3 at position 0.
+Runner encounters Mausolus protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Mausolus to gain 1 credits.
+Corp uses Mausolus to do 1 net damage.
+Corp trashes Self-modifying Code due to net damage.
+Corp uses Mausolus to give the Runner 1 tag.
+Corp resolves 3 unbroken subroutines on Mausolus ("[subroutine] Gain 1 credits (Gain 3 credits)" and "[subroutine] Do 1 net damage (Do 3 net damage)" and "[subroutine] Give the Runner 1 tag (and end the run)").
+Runner passes Mausolus protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 3.
+Runner accesses Hostile Takeover from Server 3.
+Runner steals Hostile Takeover and gains 1 agenda point.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 12 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Mausolus to HQ and gain 4 credits.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp spends click to install a card in the root of Server 4.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 1 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 4.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 4 credits to rez Mausolus protecting Server 4 at position 0.
+Runner encounters Mausolus protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Mausolus to gain 1 credits.
+Corp uses Mausolus to do 1 net damage.
+Corp trashes Paperclip due to net damage.
+Corp uses Mausolus to give the Runner 1 tag.
+Corp resolves 3 unbroken subroutines on Mausolus ("[subroutine] Gain 1 credits (Gain 3 credits)" and "[subroutine] Do 1 net damage (Do 3 net damage)" and "[subroutine] Give the Runner 1 tag (and end the run)").
+Runner passes Mausolus protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 4.
+Runner accesses NGO Front from Server 4.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 9 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 16 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Mausolus to HQ and gain 4 credits.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp pays 0 credits to rez NGO Front in Server 4.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 0 credits and 3 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 10 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 23 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 11 with 28 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 0 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 11 with 0 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 12 with 28 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 6 (new remote).
+Corp spends click to install a card in the root of Server 6.
+Corp pays 0 credits to rez NGO Front in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp is ending their turn 12 with 27 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 0 credits and 2 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 6.
+Runner approaches ice protecting Server 6 at position 0.
+Corp pays 3 credits to rez Afshar protecting Server 6 at position 0.
+Runner encounters Afshar protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 24 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance NGO Front in Server 5.
+Corp spends 1 hosted advancement counter from on NGO Front and trashes NGO Front to use NGO Front to gain 5 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp is ending their turn 13 with 26 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 2 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner is ending their turn 13 with 3 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 14 with 26 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores SSL Endorsement and gains 3 agenda points.
+Corp spends click to install a card in the root of Server 6.
+Corp is ending their turn 14 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 3 credits and 2 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 14 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 15 with 24 credits and 5 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to install ice protecting Server 4.
+Corp is ending their turn 15 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 7 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner trashes Liberated Account.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 15 with 21 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 16 with 24 credits and 5 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores SDS Drone Deployment and gains 3 agenda points.
+Corp wins the game.
