@@ -1,0 +1,36 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 1
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 2 credits to rez Regolith Mining License in Server 1.
+Corp is ending their turn 1 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Mad Dash.
+Runner uses Mad Dash to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Regolith Mining License from Server 1.
+Runner pays 3 credits to trash Regolith Mining License from Server 1.
+Runner suffers 1 meat damage from Mad Dash.
+Runner trashes Rigging Up due to meat damage.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Anemone protecting R&D at position 0.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Dirty Laundry and Sure Gamble due to net damage.
+Runner encounters Anemone protecting R&D at position 0.
+Runner has no further action.
+Corp uses Anemone to do 1 net damage.
+Corp trashes  due to net damage.
+Runner is flatlined.
+Corp wins the game.
+Corp resolves 1 unbroken subroutine on Anemone ("[subroutine] Do 1 net damage").

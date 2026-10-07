@@ -1,0 +1,191 @@
+Review the CORP's play in this game.
+Winner: corp (Flatline), turn 7
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Weyland Consortium: Building a Better World to gain 1 credits.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 4 credits to install Ninja.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Hostile Takeover and gains 1 agenda point.
+Corp uses Hostile Takeover to gain 7 credits and take 1 bad publicity.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 3 with 14 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 3 credits to rez Enigma protecting Server 2 at position 0.
+Runner encounters Enigma protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Enigma to force the Runner to lose click, if able.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Private Security Force and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 11 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Weyland Consortium: Building a Better World to gain 1 credits.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 4 with 15 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 1 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 4 credits to install Gordian Blade.
+Runner is ending their turn 4 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 15 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 5 with 12 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 0 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Corp pays 4 credits and forfeits 1 agenda (Hostile Takeover) to rez Archer protecting Server 2 at position 1.
+Runner encounters Archer protecting Server 2 at position 1.
+Runner has no further action.
+Corp uses Archer to gain 2 credits.
+Corp uses Archer to trash Gordian Blade.
+Corp uses Archer to trash Ninja.
+Corp uses Archer to end the run.
+Corp resolves 4 unbroken subroutines on Archer ("[subroutine] Gain 2 credits" and "[subroutine] Trash a program" and "[subroutine] Trash a program" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Weyland Consortium: Building a Better World to gain 1 credits.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Priority Requisition and gains 3 agenda points.
+Corp uses Priority Requisition to rez Data Raven protecting HQ at position 0 at no cost.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 6 with 14 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Data Raven protecting HQ at position 0.
+Runner encounters Data Raven protecting HQ at position 0.
+Corp uses Data Raven to force the runner to take 1 tag on encountering it.
+Runner has no further action.
+Corp uses Data Raven to initiate a trace with strength 3 (Place 1 power counter).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Data Raven to place 1 power counter on itself.
+Corp resolves 1 unbroken subroutine on Data Raven ("[subroutine] Trace 3 - Place 1 power counter").
+Runner passes Data Raven protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Gabriel Santiago: Consummate Professional to gain 2 credits.
+Runner breaches HQ.
+Runner accesses Snare! from HQ.
+Corp pays 4 credits to use Snare! to give the Runner 1 tag and do 3 net damage.
+Corp trashes Femme Fatale, Special Order, and Special Order due to net damage.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches Data Raven protecting HQ at position 0.
+Runner encounters Data Raven protecting HQ at position 0.
+Corp uses Data Raven to force the runner to take 1 tag on encountering it.
+Runner has no further action.
+Corp uses Data Raven to initiate a trace with strength 3 (Place 1 power counter).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Data Raven to place 1 power counter on itself.
+Corp resolves 1 unbroken subroutine on Data Raven ("[subroutine] Trace 3 - Place 1 power counter").
+Runner passes Data Raven protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Archived Memories from HQ.
+Runner is ending their turn 6 with 1 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 7 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Scorched Earth.
+Corp uses Scorched Earth to do 4 meat damage.
+Corp trashes  due to meat damage.
+Runner is flatlined.
+Corp wins the game.

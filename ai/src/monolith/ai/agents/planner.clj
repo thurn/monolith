@@ -266,6 +266,15 @@
                            acts (if (and (:no-naked-agendas weights) (= side :corp))
                                   (remove #(naked-agenda-install? snap %) acts)
                                   acts)
+                           ;; :central-ice-first: no ice on a remote while HQ or R&D has none (reviews 19-21:
+                           ;; R&D bare for 5-8 turns in half the Corp games, first ice spent on a remote)
+                           acts (if (and (:central-ice-first weights) (= side :corp)
+                                         (some #(empty? (get-in snap [:corp :servers % :ices])) [:hq :rd]))
+                                  (let [kept (remove #(and (= "play" (:command %)) (= "ICE" (cards/ctype (get-in % [:args :card :title])))
+                                                           (not (#{"HQ" "R&D"} (get-in % [:args :server]))))
+                                                     acts)]
+                                    (if (seq kept) kept acts))
+                                  acts)
                            acts (if (and (:prune-runs weights) (= side :runner) (some #(= :run (:type %)) acts))
                                   (remove-pointless-runs snap acts weights decks)
                                   acts)

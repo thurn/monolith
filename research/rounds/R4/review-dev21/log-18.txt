@@ -1,0 +1,144 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 2 credits to rez Regolith Mining License in Server 1.
+Corp is ending their turn 1 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 0 credits, to use Self-modifying Code to install Ika from the Stack.
+[!] Ika - [Erratum] Program: Icebreaker - Killer - Trojan
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Anemone protecting HQ at position 0.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Into the Depths and Sure Gamble due to net damage.
+Runner encounters Anemone protecting HQ at position 0.
+Runner pays 1 credits to use Ika to break all 1 subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner declines to pay to steal Obokata Protocol.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to play Deuces Wild.
+Runner uses Deuces Wild to gain 3 credits.
+Runner uses Deuces Wild to draw 2 cards.
+Runner is ending their turn 1 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 0 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp is ending their turn 2 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Anemone protecting HQ at position 0.
+Runner encounters Anemone protecting HQ at position 0.
+Runner pays 1 credits to use Ika to break all 1 subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner trashes Apocalypse, Creative Commission, Endurance, and Pinhole Threading due to net damage.
+Runner suffers 4 net damage to steal Obokata Protocol from HQ.
+Runner steals Obokata Protocol and gains 3 agenda points.
+Runner is ending their turn 2 with 4 credits and 1 card in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp trashes Regolith Mining License.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 15 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 4 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Stoneship Chart Room.
+Runner trashes Stoneship Chart Room to use Stoneship Chart Room to draw 2 cards.
+Runner spends click to make a run on HQ.
+Runner approaches Anemone protecting HQ at position 0.
+Runner encounters Anemone protecting HQ at position 0.
+Runner pays 1 credits to use Ika to break all 1 subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner is ending their turn 3 with 3 credits and 4 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 4 with 15 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner spends click and pays 0 credits to play Mad Dash.
+Runner uses Mad Dash to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Longevity Serum from Archives.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner adds Mad Dash to their score area as an agenda worth 1 agenda point.
+Runner spends click and pays 0 credits to install Misdirection.
+Runner is ending their turn 4 with 4 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 5 with 17 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 20 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 4 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 8 credits to rez DNA Tracker protecting R&D at position 0.
+Runner encounters DNA Tracker protecting R&D at position 0.
+Runner has no further action.
+Corp uses DNA Tracker to do 1 net damage and make the Runner lose 2 credits.
+Corp trashes Dirty Laundry due to net damage.
+Corp uses DNA Tracker to do 1 net damage and make the Runner lose 2 credits.
+Corp trashes Engolo due to net damage.
+Corp uses DNA Tracker to do 1 net damage and make the Runner lose 2 credits.
+Corp trashes Endurance due to net damage.
+Corp resolves 3 unbroken subroutines on DNA Tracker ("[subroutine] Do 1 net damage and make the Runner lose 2 credits" and "[subroutine] Do 1 net damage and make the Runner lose 2 credits" and "[subroutine] Do 1 net damage and make the Runner lose 2 credits").
+Runner passes DNA Tracker protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Send a Message and gains 3 agenda points.
+Runner wins the game.
