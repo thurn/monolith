@@ -75,7 +75,7 @@
                  {:qty 3 :card "Urtica Cipher"} {:qty 2 :card "Front Company"} {:qty 2 :card "Public Health Portal"}
                  {:qty 2 :card "La Costa Grid"}]}
   :runner {:identity {:title "Hoshiko Shiro: Untold Protagonist"}
-           :cards [{:qty 2 :card "Corsair"} {:qty 2 :card "Odore"} {:qty 2 :card "Utae"} {:qty 2 :card "Fermenter"} {:qty 1 :card "Stargate"}
+           :cards [{:qty 2 :card "Rising Tide"} {:qty 2 :card "Odore"} {:qty 2 :card "Utae"} {:qty 2 :card "Fermenter"} {:qty 1 :card "Stargate"}
                    {:qty 2 :card "Botulus"} {:qty 1 :card "Leech"}
                    {:qty 3 :card "Sure Gamble"} {:qty 3 :card "Strike Fund"} {:qty 2 :card "Steelskin Scarring"} {:qty 2 :card "The Price"}
                    {:qty 2 :card "Running Hot"}

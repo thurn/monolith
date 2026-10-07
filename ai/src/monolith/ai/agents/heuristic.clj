@@ -418,11 +418,22 @@
         run (:run obs)
         target (first (:server run))]
     (or
-     ;; rez the approached ice when affordable; on an empty, valueless remote keep a reserve
-     (act-where env #(and (= :rez (:type %)) (= "ICE" (ptype (card-title %)))
-                          (or (#{:hq :rd} target)
-                              (seq (srv/content obs target))
-                              (>= (- (credits env) (cards/play-cost (card-title %))) (w env :corp-rez-reserve)))))
+     ;; rez the approached ice when affordable; on an empty, valueless remote keep a reserve. Elsewhere
+     ;; keep enough to rez the scoring remote's ice, unless this server holds agendas (archetype review:
+     ;; 7 credits on Ivik for HQ left the remote's ice unrezzable and its agendas were stolen)
+     (let [agenda-here (or (seq (srv/content obs target))
+                           (and (= :hq target) (some #(= "Agenda" (:type %)) (get-in obs [:corp :hand]))))
+           remote-need (reduce max 0 (for [[k sv] (srv/remotes obs)
+                                           :when (and (not= k target)
+                                                      (some #(or (= "Agenda" (:type %)) (pos? (or (:advance-counter %) 0))) (:content sv)))
+                                           c (:ices sv) :when (not (:rezzed c))]
+                                       (cards/play-cost (:title c))))]
+       (act-where env #(and (= :rez (:type %)) (= "ICE" (ptype (card-title %)))
+                            (let [left (- (credits env) (cards/play-cost (card-title %)))]
+                              (and (or agenda-here (<= (cards/play-cost (card-title %)) 3) (>= left remote-need))
+                                   (or (#{:hq :rd} target)
+                                       (seq (srv/content obs target))
+                                       (>= left (w env :corp-rez-reserve))))))))
      ;; rez upgrades in the attacked server just before the Runner approaches it
      (when (and (= :movement (:phase run)) (zero? (:position run 0)))
        (act-where env #(and (= :rez (:type %)) (= "Upgrade" (ptype (card-title %)))

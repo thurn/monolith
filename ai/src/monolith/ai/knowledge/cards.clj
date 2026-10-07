@@ -114,6 +114,7 @@
   (let [p (printed (:title card))]
     {:title (:title card)
      :max-break (max-break card)
+     :tag-etr (boolean (re-find #"(?i)subroutines for the remainder of this run[^.]*\. X is equal to the number of tags" (str (:text p))))
      :strength (or (:current-strength card) (:strength card) (:strength p) 0)
      :subtypes (set (or (:subtypes card) (:subtypes p)))
      :subs (ice-subs card)
@@ -136,6 +137,8 @@
      :unbroken-damage (unbroken-damage title)
      :rez-damage (rez-damage title)
      :max-break (max-break title)
+     ;; Starlit Knight: one more ETR subroutine per Runner tag (threat 4; assumed active)
+     :tag-etr (boolean (re-find #"(?i)subroutines for the remainder of this run[^.]*\. X is equal to the number of tags" (str (:text p))))
      :rez-cost (or (:cost p) 0)}))
 
 ;;; Breakers
@@ -209,7 +212,8 @@
         {:title (:title card)
          :cid (:cid card)
          :breaks (let [b (:breaks brk)] (if (contains? b "All") :all b))
-         :n (max 1 (or (:break brk) 1))
+         ;; :break 0 = "break any number of subroutines" (Odore, Switchblade)
+         :n (let [b (:break brk)] (if (and b (zero? b)) 99 (max 1 (or b 1))))
          :break-cost (credit-cost (:break-cost brk))
          :pump (when pmp (let [p (or (:pump pmp) 0)] (if (and (zero? p) (:pump-bonus pmp)) (max 1 icebreakers) p)))
          :pump-cost (when pmp (credit-cost (:cost pmp)))
