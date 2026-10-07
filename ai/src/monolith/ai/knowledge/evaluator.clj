@@ -135,7 +135,9 @@
             pool (keep :title (concat (get-in s [:corp :hand]) (get-in s [:corp :deck])))
             kills (count (filter (fn [t] (when-let [{:keys [dmg per-tag min-tags cost]} (meat-op* t)]
                                            (and (>= tags min-tags) (<= cost cr)
-                                                (> (if per-tag (* dmg tags) dmg) grip))))
+                                                ;; >= : a hand wiped to 0 is one more damage from dead, and two
+                                                ;; copies kill (review 15: tagged at 4 cards vs Scorched Earth)
+                                                (>= (if per-tag (* dmg tags) dmg) grip))))
                                  pool))
             n (count pool)
             h (inc (count (get-in s [:corp :hand])))]
