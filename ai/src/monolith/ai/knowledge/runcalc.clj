@@ -54,6 +54,9 @@
   "Runner's best utility facing a known rezzed ice model at index i."
   [ctx i st ice]
   (let [opts (concat
+              ;; the two cheapest break options only: with heap, hardware and hosted break sources the
+              ;; full product over breakers x pooled unrezzed ice blew up (a 58-minute review game)
+              (take 2 (sort-by #(nth (:how %) 2)
               (for [b (:breakers ctx)
                     :when (or (nil? (:only-cid b)) (= (:only-cid b) (:cid ice)))
                     :let [ic (if (and (:heap b) (not (contains? (:heaped st) (:title b)))) (:install-cost b 0) 0)
@@ -61,7 +64,7 @@
                     :when (and c (<= c (:credits st)))]
                 {:how [:break (:title b) c] :st (cond-> (update st :credits - c)
                                                   (:no-access b) (assoc :no-access true)
-                                                  (:heap b) (update :heaped (fnil conj #{}) (:title b)))})
+                                                  (:heap b) (update :heaped (fnil conj #{}) (:title b)))})))
               [{:how [:fire] :st (fire-subs st ice)}])]
     (apply max-key :u
            (for [{:keys [how st]} opts]
@@ -85,7 +88,10 @@
       :else
       ;; chance node over affordable candidates; if none affordable, the ice stays unrezzed
       (let [pool (:pool ctx)
-            affordable (filter (fn [[t _]] (>= (:corp-credits st) (+ (:rez-cost (cards/printed-ice-model t (:remote? ctx))) rez-bonus))) pool)
+            affordable (->> pool
+                            (filter (fn [[t _]] (>= (:corp-credits st) (+ (:rez-cost (cards/printed-ice-model t (:remote? ctx))) rez-bonus))))
+                            ;; the 8 most likely titles: bounds the chance-node branching
+                            (sort-by (comp - val)) (take 8))
             total (reduce + 0 (vals affordable))]
         (if (zero? total)
           (best (walk ctx (inc i) st))
@@ -99,7 +105,20 @@
                 [u pr] (if (= :worst (:mode ctx)) [(second worst) (nth worst 2)] [ev pv])]
             (best {:u u :p pr :how [:unknown]})))))))
 
-(defn walk [ctx i st]
+(def ^:dynamic *memo* nil)
+
+(declare walk*)
+
+(defn walk
+  "Memoized on [i st] within one evaluate call: many orders of breaks and pooled unrezzed ice reach
+  the same run state, and the full tree is exponential in the number of unrezzed ice."
+  [ctx i st]
+  (if-let [m *memo*]
+    (let [k [i st]]
+      (or (get @m k) (let [r (walk* ctx i st)] (swap! m assoc k r) r)))
+    (walk* ctx i st)))
+
+(defn- walk* [ctx i st]
   (if (>= i (count (:ices ctx)))
     ;; reached the server: pay any approach toll, then success
     (let [toll (:toll ctx 0)]
@@ -126,7 +145,8 @@
         ctx (merge {:w-damage 2.0 :w-tag 1.0 :w-program 0.0 :mode :expected :value 0.0} opts
                    {:ices entries :credits0 credits :corp-credits0 (:corp-credits opts 0)})
         st {:credits credits :damage 0 :corp-credits (:corp-credits opts 0) :tagged (:tagged opts 0)}]
-    (walk ctx 0 st)))
+    (binding [*memo* (atom {})]
+      (walk ctx 0 st))))
 
 (defn run-utility
   "Utility of running vs not running (0). Positive = worth it."
