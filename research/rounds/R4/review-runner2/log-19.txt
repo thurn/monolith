@@ -1,0 +1,156 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 1 credits to play Dedication Ceremony.
+Corp is ending their turn 1 with 8 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install Paperclip, lowering its install cost by 1 credits. Imp and Inject are trashed as a result.
+Runner pays 3 credits to install Paperclip from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 8 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner is ending their turn 2 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 5 credits to play Violet Level Clearance.
+Corp uses Violet Level Clearance to gain 8 credits and draw 4 cards.
+Corp discards 4 from HQ at end of turn.
+Corp is ending their turn 3 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 4 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Architect protecting HQ at position 0.
+Runner encounters Architect protecting HQ at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp pays 0 credits to use Architect to install ice from  position 1 of R&D protecting Archives.
+Corp pays 1 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting Archives.
+Corp uses Architect to install Cyberdex Virus Suite from Archives in the root of Archives.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Vitruvius from HQ.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner is ending their turn 3 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 12 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 1 gain/draw decision.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to play Archived Memories.
+Corp uses Archived Memories to add Cybernetics Court in Archives to HQ.
+Corp is ending their turn 4 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on HQ.
+Runner approaches Architect protecting HQ at position 0.
+Runner encounters Architect protecting HQ at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp pays 0 credits to use Architect to install ice from  position 1 of R&D protecting Archives.
+Corp uses Architect to install a card from HQ in the root of Server 1 (new remote).
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Jeeves Model Bioroids from HQ.
+Runner is ending their turn 4 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 13 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 2 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Architect protecting HQ at position 0.
+Runner encounters Architect protecting HQ at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp uses Architect to install a card from  position 1 of R&D in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Architect to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner spends click to make a run on HQ.
+Runner approaches Architect protecting HQ at position 0.
+Runner encounters Architect protecting HQ at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp uses Architect to install a card from  position 2 of R&D in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Architect to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Vitruvius from HQ.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner wins the game.

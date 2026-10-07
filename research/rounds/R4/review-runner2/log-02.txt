@@ -1,0 +1,719 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 20
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Mystic Maemi and Paperclip from the stack and draw 1 card.
+Runner spends click and pays 0 credits to play Labor Rights.
+Runner trashes Dirty Laundry, Rezeki, and Liberated Account from the top of the stack.
+Runner shuffles Dirty Laundry, Liberated Account, and Mystic Maemi from the heap into the stack, and draws 1 card.
+Runner removes Labor Rights from the game instead of trashing it.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 1 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paladin Poemu and Falsified Credentials from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 10 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Liberated Account and Political Operative from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner has no further action.
+Corp uses Gatekeeper to draw 0 cards.
+Corp uses Gatekeeper to reveal Cyberdex Sandbox and Cyberdex Sandbox from HQ, and shuffle them into R&D.
+Corp uses Gatekeeper to end the run.
+Corp resolves 2 unbroken subroutines on Gatekeeper ("[subroutine] Draw cards, reveal and shuffle agendas" and "[subroutine] End the run").
+Runner is ending their turn 3 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 9 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash MKUltra and I've Had Worse from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to play Deuces Wild.
+Runner uses Deuces Wild to gain 3 credits.
+Runner uses Deuces Wild to draw 2 cards.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 2 credits to install Hippo.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 6 credits to rez Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner pays 2 credits to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Black Orchestra.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 4 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 12 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Black Orchestra and Moshing from the stack and draw 1 card.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 2 credits to play Deuces Wild.
+Runner uses Deuces Wild to gain 3 credits.
+Runner uses Deuces Wild to draw 2 cards.
+Runner spends click, pays 0 credits, and trashes 3 cards (Botulus, Deuces Wild, and I've Had Worse) from the grip to play Moshing.
+Runner uses Moshing to draw 3 cards and gain 3 credits.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 3 credits to rez Drafter protecting Server 1 at position 1.
+Runner encounters Drafter protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Cyberdex Sandbox from Server 1.
+Runner steals Cyberdex Sandbox and gains 2 agenda points.
+Runner is ending their turn 5 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 12 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Dirty Laundry and Zer0 from the stack and draw 1 card.
+Runner spends click and pays 0 credits to install PAD Tap.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Hippo.
+Corp uses Ansel 1.0 to install a card from Archives in the root of Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on Server 1.
+Runner approaches Drafter protecting Server 1 at position 1.
+Runner encounters Drafter protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Drafter to install a card from HQ in the root of Archives.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Magnet protecting Server 1 at position 0.
+Runner encounters Magnet protecting Server 1 at position 0.
+Runner pays 3 credits from Overclock to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 2 credits from Overclock and 1 credits from their credit pool to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Advanced Assembly Lines from Server 1.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 6 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 11 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Stargate and Daily Casts from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Rezeki.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Black Orchestra.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Archives.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 7 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 14 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paperclip and I've Had Worse from the stack and draw 1 card.
+Runner uses Rezeki to gain 1 credits.
+Runner spends click and pays 1 credits to install Paladin Poemu.
+Runner spends click and pays 1 credits to install Mystic Maemi.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Black Orchestra.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Archives.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 8 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 13 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Hippo and Mining Accident from the stack and draw 1 card.
+Runner uses Rezeki to gain 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click and pays 3 credits to install DJ Fenris.
+Runner uses DJ Fenris to host Armand "Geist" Walker: Tech Lord.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash DJ Fenris.
+ DJ Fenris has left play: Armand "Geist" Walker: Tech Lord is trashed.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits from Mystic Maemi and 1 credits from their credit pool to play Mining Accident.
+Runner uses Mining Accident to force the Corp to pay 5 credits.
+Corp pays 5 credits.
+Runner removes Mining Accident from the game instead of trashing it.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 12 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 12 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash PAD Tap and Citadel Sanctuary from the stack and draw 1 card.
+Runner uses Rezeki to gain 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 2 credits to install Rezeki.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner is ending their turn 10 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 9 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Dirty Laundry and Labor Rights from the stack and draw 1 card.
+Runner uses Rezeki to gain 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Rezeki to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits from Mystic Maemi and 4 credits from their credit pool to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Liberated Account.
+Corp uses Ansel 1.0 to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 6 credits to install Maw.
+Runner is ending their turn 11 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 15 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 12 with 12 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Daily Casts and Zer0 from the stack and draw 1 card.
+Runner uses Rezeki to gain 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Rezeki to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Liberated Account.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Archives.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Maw to force the Corp to trash a random card from HQ.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Corp pays 2 credits to rez Manegarm Skunkworks in the root of Archives.
+Corp pays 0 credits to rez Anoetic Void in the root of Archives.
+Corp pays 3 credits to rez Crisium Grid in the root of Archives.
+Corp pays 2 credits to rez Manegarm Skunkworks in the root of Archives.
+Manegarm Skunkworks in the root of Archives is trashed.
+Runner approaches Archives.
+Corp pays 2 credits and trashes 2 cards from HQ to use Anoetic Void to end the run.
+Runner spends click and pays 0 credits to play Labor Rights.
+Runner trashes Mining Accident, MKUltra, and Botulus from the top of the stack.
+Runner shuffles Black Orchestra, Black Orchestra, and Botulus from the heap into the stack, and draws 1 card.
+Runner removes Labor Rights from the game instead of trashing it.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 6 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 13 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 16 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Sure Gamble and PAD Tap from the stack and draw 1 card.
+Runner uses Rezeki to gain 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Rezeki to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner pays 2 credits from Paladin Poemu to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash MKUltra.
+Corp pays 0 credits to use Ansel 1.0 to install ice from HQ protecting Archives.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Maw to force the Corp to trash a random card from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Stargate.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 13 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 10 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 14 with 10 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 14 with 15 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Black Orchestra and Gachapon from the stack and draw 1 card.
+Runner uses Rezeki to gain 1 credits.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Rezeki to gain 1 credits.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits from Mystic Maemi and 2 credits from their credit pool to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner pays 1 credits from Paladin Poemu and 1 credits from their credit pool to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Gachapon.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Maw to force the Corp to trash a random card from HQ.
+Runner is ending their turn 14 with 23 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 15 with 12 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 15 with 23 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Moshing and Dirty Laundry from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner pays 1 credits from Paladin Poemu and 1 credits from their credit pool to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash MKUltra.
+Corp uses Ansel 1.0 to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Maw to force the Corp to trash a random card from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click and pays 2 credits to install Hippo.
+Runner is ending their turn 15 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 16 with 15 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 16 with 17 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash MKUltra and Gachapon from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 2 credits to install Botulus on Ansel 1.0 protecting R&D at position 0.
+[!] Botulus - [Erratum] Program: Virus - Trojan
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 3 credits to rez Gatekeeper protecting Server 1 at position 2.
+Runner encounters Gatekeeper protecting Server 1 at position 2.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner removes Hippo from the game to use Hippo to trash Gatekeeper protecting Server 1 at position 2.
+Runner pays 6 credits to increase the strength of Black Orchestra to 6 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner will continue the run.
+Runner approaches Drafter protecting Server 1 at position 1.
+Runner encounters Drafter protecting Server 1 at position 1.
+Runner pays 2 credits to use MKUltra to install MKUltra from the Heap.
+Runner pays 2 credits to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Drafter to add a card in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Magnet protecting Server 1 at position 0.
+Runner encounters Magnet protecting Server 1 at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Advanced Assembly Lines from Server 1.
+Runner uses Maw to force the Corp to trash a random card from HQ.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Black Orchestra.
+Corp uses Ansel 1.0 to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp is ending their turn 17 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 1 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Black Orchestra.
+Corp uses Ansel 1.0 to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Maw to force the Corp to trash a random card from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits from Paladin Poemu and 2 credits from their credit pool to install Black Orchestra.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Black Orchestra.
+Corp uses Ansel 1.0 to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 17 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 18 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 18 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 18 with 3 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 4 credits to rez Border Control protecting Server 2 at position 0.
+Runner encounters Border Control protecting Server 2 at position 0.
+Runner pays 4 credits to use Paperclip to install Paperclip from the Heap.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Cyberdex Sandbox from Server 2.
+Runner steals Cyberdex Sandbox and gains 2 agenda points.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Botulus.
+Corp uses Ansel 1.0 to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Cyberdex Virus Suite.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner uses Maw to force the Corp to trash a random card from HQ.
+Runner is ending their turn 18 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 19 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 19 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 19 with 3 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches Border Control protecting Server 2 at position 0.
+Runner encounters Border Control protecting Server 2 at position 0.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Luminal Transubstantiation from Server 2.
+Runner steals Luminal Transubstantiation and gains 2 agenda points.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ansel 1.0 protecting R&D at position 0.
+Runner encounters Ansel 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash MKUltra.
+Corp uses Ansel 1.0 to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Maw to force the Corp to trash a random card from HQ.
+Runner spends click to make a run on Archives.
+Runner approaches ice protecting Archives at position 0.
+Corp pays 4 credits to rez Border Control protecting Archives at position 0.
+Runner encounters Border Control protecting Archives at position 0.
+Runner pays 4 credits to use Paperclip to install Paperclip from the Heap.
+Runner has no further action.
+Corp uses Border Control to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp uses Border Control to end the run.
+Corp resolves 2 unbroken subroutines on Border Control ("[subroutine] Gain 1 credits for each ice protecting this server" and "[subroutine] End the run").
+Runner is ending their turn 19 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 20 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 20 with 2 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 20 with 3 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash the top 2 cards from the stack and draw 1 card - but the stack is empty.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Runner passes ice protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Border Control protecting Server 2 at position 0.
+Runner encounters Border Control protecting Server 2 at position 0.
+Runner pays 2 credits to increase the strength of Paperclip to 3 and break all subroutines on Border Control.
+Runner has no further action.
+Runner passes Border Control protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Cyberdex Sandbox from Server 2.
+Runner steals Cyberdex Sandbox and gains 2 agenda points.
+Runner wins the game.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.

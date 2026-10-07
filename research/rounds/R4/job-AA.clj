@@ -1,5 +1,6 @@
-;; Frozen aa (9516b80): always-on fixes since y (bypass events valued by the ice they skip, bounce subs cost like
-;; program trash, stealth-only breakers need stealth credits) + two options: :core-damage (eval) and :tag-threat (w).
+;; Frozen ab (f94ea33): always-on fixes since y (bypass events valued by the ice they skip, bounce subs cost like
+;; program trash, stealth-only breakers need stealth credits, Euler cost, Ansel subs, Obokata at grip, Archives traps,
+;; Ika self-host pruned, Aesop targets, phase 1.2 fallback) + two options: :core-damage (eval) and :tag-threat (w).
 ;; RC8 = RC7 + both. Dev reviews 15 + 16 for RC8 (gate: pooled >= 3.5), then dev-mix A/B, 300 paired seeds:
 ;; RC7 (null) vs + core-damage, + tag-threat, RC8.
 (require 'monolith.ai.gamelog 'monolith.ai.evalset 'monolith.ai.sweep)
