@@ -828,7 +828,6 @@
     (cond
       (= :break (first how))
       (or (act-where env #(and (= :break (:type %)) (= (second how) (card-title %))))
-          (first breaks)
           ;; no full auto-break (a break limit: Afshar on HQ, Tsarevna, Hammer): pump, then break by hand
           ;; with the planned breaker; the subroutine prompt picks ETR first (modern Runner review 1:
           ;; Afshar's subroutines left to fire 20 times while Buzzsaw could break the ETR)
@@ -836,10 +835,13 @@
                 ice (last ices)
                 b (some #(when (= t (:title %)) %) (srv/icebreakers obs))
                 weak (and b ice (< (or (:strength b) 0) (or (:current-strength ice) (:strength (cards/printed (:title ice))) 0))
-                          (not (:min-ice-strength b)) (not (:ignore-strength b)))
+                          (not (:min-ice-strength b)) (not (:ignore-strength b)) (not (:etr-only b)))
                 mine (filter #(and (#{:ability :click-ability} (:type %)) (= t (card-title %))) (:actions env))]
             (or (when weak (first (filter #(label-is % #"(?i)strength") mine)))
-                (first (filter #(label-is % #"(?i)break") mine))))
+                (first (filter #(label-is % #"(?i)break") mine))
+                ;; Banner-style: its one ability stops the run-ending subroutines
+                (when (:etr-only b) (first mine))))
+          (first breaks)
           (act env :continue))
       :else (act env :continue))))
 

@@ -176,6 +176,12 @@
   (for Unity-style X pumps). Heap breakers (Paperclip, Black Orchestra) pump and break with one
   payment: :combined {:cost c-or-:x :pump p-or-:x :break b-or-:x}."
   [card icebreakers]
+  (if-let [[_ cost ty] (re-find #"(?i)(\d+)\[credit\]: subroutines on the (barrier|code gate|sentry) you are encountering cannot end the run"
+                                (str/replace (str (:text (printed (:title card)))) #"<[^>]*>" ""))]
+    ;; Banner: one payment stops a barrier's subroutines from ending the run; the others still fire
+    {:title (:title card) :cid (:cid card) :breaks #{(if (= "code gate" (str/lower-case ty)) "Code Gate" (str/capitalize ty))} :n 99 :break-cost (parse-long cost)
+     :etr-only true :pump nil :pump-cost nil :temporary false
+     :strength (or (:current-strength card) (:strength card) (:strength (printed (:title card))) 0)}
   (let [abs (:abilities (card-def card))
         ;; skip conditional break abilities when an unconditional one exists (Euler's 0[credit] break
         ;; works only the turn it is installed; its real cost is 2[credit] for up to 2 subroutines)
@@ -219,7 +225,7 @@
       (when-let [types (subtype-breaks (:title card))]
         {:title (:title card) :cid (:cid card) :breaks types :n 1 :break-cost 1
          :pump (when pmp (or (:pump pmp) 1)) :pump-cost (when pmp (credit-cost (:cost pmp)))
-         :strength strength :temporary false}))))
+         :strength strength :temporary false})))))
 
 (defn can-break-type? [breaker ice]
   (and (or (nil? (:min-ice-strength breaker)) (>= (or (:strength ice) 0) (:min-ice-strength breaker)))

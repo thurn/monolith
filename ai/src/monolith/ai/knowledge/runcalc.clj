@@ -64,10 +64,16 @@
                           {:keys [n exempt]} (:max-break ice)
                           limited (and n (not (some exempt (cards/breaker-types (:title b)))))
                           live (remove :broken (:subs ice))
-                          [to-break to-fire] (if limited
-                                               (split-at n (sort-by #(if (or (:etr %) (:etr-if-tagged %) (:etr-unless-pay %)) 0 1) live))
-                                               [live nil])
-                          c (some-> (cards/break-cost b (assoc ice :subs (vec to-break))) (+ ic))]
+                          etr? #(or (:etr %) (:etr-if-tagged %) (:etr-unless-pay %) (:etr-if-adv %) (:etr-if-credits<= %))
+                          [to-break to-fire] (cond
+                                               ;; Banner: only the run-ending subroutines are stopped
+                                               (:etr-only b) [(filter etr? live) (remove etr? live)]
+                                               limited (split-at n (sort-by #(if (etr? %) 0 1) live))
+                                               :else [live nil])
+                          c (if (:etr-only b)
+                              (when (and (cards/can-break-type? b ice) (<= (or (:strength ice) 0) (or (:strength b) 0)))
+                                (+ ic (if (seq to-break) (:break-cost b) 0)))
+                              (some-> (cards/break-cost b (assoc ice :subs (vec to-break))) (+ ic)))]
                     :when (and c (<= c (:credits st)))]
                 {:how [:break (:title b) c]
                  :st (cond-> (update st :credits - c)

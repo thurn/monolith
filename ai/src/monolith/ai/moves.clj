@@ -268,7 +268,9 @@
                         (:playable (ability-playable? ab i state :runner c)))]
          (act :runner "ability" {:card (card-ref c) :ability i}
               (str (:title c) ": " (or (:label ab) (:msg ab) i)) :ability))
-       (ability-actions state :runner {:clicks? false})
+       ;; an ability that already set up an end-of-encounter effect (Banner) is not offered again
+       (let [used (set (keep #(when (= :end-of-encounter (:duration %)) (:cid (:card %))) (:events s)))]
+         (remove #(used (get-in % [:args :card :cid])) (ability-actions state :runner {:clicks? false})))
        [(act :runner "continue" {} "let subroutines fire" :continue)])
       (let [unfired (and ice (rezzed? ice) (some #(and (not (:broken %)) (not (:fired %))) (:subroutines ice)))]
         (if unfired
