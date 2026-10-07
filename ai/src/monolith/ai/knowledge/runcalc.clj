@@ -53,7 +53,8 @@
 (defn- encounter
   "Runner's best utility facing a known rezzed ice model at index i."
   [ctx i st ice]
-  (let [opts (concat
+  (let [ice (if (pos? (:strength-reduce ctx 0)) (update ice :strength #(max 0 (- (or % 0) (:strength-reduce ctx)))) ice)
+        opts (concat
               ;; the two cheapest break options only: with heap, hardware and hosted break sources the
               ;; full product over breakers x pooled unrezzed ice blew up (a 58-minute review game)
               (take 2 (sort-by #(nth (:how %) 2)

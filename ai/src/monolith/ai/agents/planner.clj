@@ -107,6 +107,15 @@
                                 (seq (s1/missing-breaker-types s))
                                 (and (some #(empty? (get-in s [:corp :servers % :ices])) [:hq :rd])
                                      (not-any? #(= "ICE" (:type %)) (get-in s [:corp :hand]))))))))
+             ;; an event whose cost trashes one of our programs (Spec Work) when every program is a breaker
+             ;; no other installed breaker covers (modern Runner review 2: Unity, the only decoder, trashed)
+             (and (= "play" (:command a)) title
+                  (re-find #"(?i)additional cost[^.]*trash 1 installed program" (str (:text (cards/printed title))))
+                  (let [progs (get-in s [:runner :rig :program])]
+                    (every? (fn [c] (and (cards/icebreaker? (:title c))
+                                         (some (fn [t] (not-any? #(and (not= (:cid %) (:cid c)) (contains? (cards/breaker-types (:title %)) t)) progs))
+                                               (cards/breaker-types (:title c)))))
+                            progs)))
              ;; Ika-style self-hosting outside a run: 2 credits a time, repeated to no effect
              ;; (dev runner review 2: ~34 credits re-hosting Ika on the same Anansi)
              (and (not (:run s)) (re-find #"(?i)host on a piece of ice" (str (:label a))))))))

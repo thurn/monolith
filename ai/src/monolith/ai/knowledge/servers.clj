@@ -348,7 +348,13 @@
     :tagged (+ (get-in obs [:runner :tag :base] 0) (get-in obs [:runner :tag :additional] 0))
     :w-damage (:w-damage opts 2.0)
     :w-program (or (:w-program opts) 0.0)
-    :rez-tax (or (:rez-tax opts) 0.0)}))
+    :rez-tax (or (:rez-tax opts) 0.0)
+    ;; Leech-style counters: the encountered ice gets -1 strength per counter (approximate: not
+    ;; spent across the run's ice)
+    :strength-reduce (reduce + 0 (for [c (get-in obs [:runner :rig :program])
+                                       :when (re-find #"(?i)virus counter: the ice you are encountering gets -1 strength"
+                                                      (str/replace (str (:text (cards/printed (:title c)))) #"<[^>]*>" ""))]
+                                   (get-in c [:counter :virus] 0)))}))
 
 (defn corp-server-safety
   "From the Corp's own observation: the Runner's best utility for a run on k worth `value`, assuming
