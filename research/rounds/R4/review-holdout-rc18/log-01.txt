@@ -1,0 +1,506 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 20
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Trick Shot.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 7 credits to rez Data Loop protecting R&D at position 0.
+Runner encounters Data Loop protecting R&D at position 0.
+Corp uses Data Loop to add 2 cards from the grip to the top of the stack.
+Runner has no further action.
+Corp uses Data Loop to end the run.
+Corp resolves 2 unbroken subroutines on Data Loop ("[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Cohort Guidance Program from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Moon Pool from HQ.
+Runner is ending their turn 1 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 3 cards in the grip.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits and lose click.
+Runner is ending their turn 2 with 5 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 3 credits to rez Moon Pool in Server 1.
+Corp uses Moon Pool to trash 2 cards from HQ.
+Corp uses Moon Pool to reveal Cohort Guidance Program and Fujii Asset Retrieval from Archives and shuffle them into R&D.
+Corp uses Moon Pool to decline to place advancement counters.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 4 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 2 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits.
+Runner is ending their turn 3 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 4 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 11 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 16 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 22 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 22 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 28 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 0 credits to rez Spin Doctor in Server 2.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp uses Spin Doctor to shuffle Hedge Fund into R&D.
+Corp spends click to install a card in the root of Server 3.
+Corp is ending their turn 7 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 28 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 32 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 32 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Spree.
+Runner uses Spree to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 2 credits to rez Tatu-Bola protecting Server 3 at position 0.
+Runner encounters Tatu-Bola protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Tatu-Bola to end the run.
+Corp resolves 1 unbroken subroutine on Tatu-Bola ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 34 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 34 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Spree.
+Runner uses Spree to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 36 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp spends click to install a card in the root of Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Fujii Asset Retrieval and gains 3 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Environmental Testing due to net damage.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Simulchip and Simulchip due to net damage.
+Corp is ending their turn 10 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 36 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 37 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp is ending their turn 11 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 11 with 37 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 4.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 7 credits to rez Data Loop protecting Server 4 at position 0.
+Runner encounters Data Loop protecting Server 4 at position 0.
+Corp uses Data Loop to add 2 cards from the grip to the top of the stack.
+Runner has no further action.
+Corp uses Data Loop to end the run.
+Corp resolves 2 unbroken subroutines on Data Loop ("[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sting! from HQ.
+Runner steals Sting! and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Self-modifying Code due to net damage.
+Corp uses Sting! to deal 1 net damage.
+Corp trashes Hannah "Wheels" Pilintra due to net damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Cohort Guidance Program from HQ.
+Runner pays 2 credits to trash Cohort Guidance Program from HQ.
+Runner is ending their turn 11 with 35 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 12 with 0 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 35 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sting! from HQ.
+Runner steals Sting! and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Simulchip due to net damage.
+Corp uses Sting! to deal 1 net damage.
+Corp trashes Environmental Testing due to net damage.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Crisium Grid from HQ.
+Runner pays 5 credits to trash Crisium Grid from HQ.
+Runner is ending their turn 12 with 30 credits and 1 card in the grip.
+[hr]
+Corp started their turn 13 with 1 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 13 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 30 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Ika.
+[!] Ika - [Erratum] Program: Icebreaker - Killer - Trojan
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Vampyronassa from HQ.
+Runner is ending their turn 13 with 30 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 14 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 5.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 14 with 30 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 5.
+Runner approaches ice protecting Server 5 at position 0.
+Runner passes ice protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Prāna Condenser from Server 5.
+Runner pays 4 credits to trash Prāna Condenser from Server 5.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 14 with 26 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp scores Fujii Asset Retrieval and gains 3 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Sure Gamble due to net damage.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Deep Dive and Sure Gamble due to net damage.
+Corp is ending their turn 15 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 26 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Moon Pool from HQ.
+Runner pays 3 credits to trash Moon Pool from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 15 with 23 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 16 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 16 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 23 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mindscaping from HQ.
+Runner accesses The Holo Man from the root of HQ.
+Runner pays 2 credits to trash The Holo Man from the root of HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Snare! from HQ.
+Runner pays 0 credits to trash Snare! from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mindscaping from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tatu-Bola from HQ.
+Runner is ending their turn 16 with 21 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 17 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp is ending their turn 17 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 17 with 21 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Cohort Guidance Program from HQ.
+Runner pays 2 credits to trash Cohort Guidance Program from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tatu-Bola from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mindscaping from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mindscaping from HQ.
+Runner is ending their turn 17 with 19 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 18 with 1 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 18 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 19 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mindscaping from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mindscaping from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tatu-Bola from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 18 with 19 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 19 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 6 (new remote).
+Corp spends click to install a card in the root of Server 6.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 19 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 19 with 19 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Gauss.
+Runner spends click to make a run on Server 3.
+Runner approaches Tatu-Bola protecting Server 3 at position 0.
+Runner encounters Tatu-Bola protecting Server 3 at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Tatu-Bola.
+Runner has no further action.
+Runner passes Tatu-Bola protecting Server 3 at position 0.
+Corp uses Tatu-Bola to swap Tatu-Bola protecting Server 3 at position 0 with a piece of ice from HQ and gain 4 credits.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses House of Knives from Server 3.
+Runner steals House of Knives and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Fermenter due to net damage.
+Runner is ending their turn 19 with 16 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 20 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores House of Knives and gains 1 agenda point.
+Corp wins the game.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Deep Dive due to net damage.
