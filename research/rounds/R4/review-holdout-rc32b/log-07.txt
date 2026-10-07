@@ -1,0 +1,468 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 19
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Byte! from Server 1.
+Corp pays 4 credits to use Byte! to give the Runner 1 tag and do 3 net damage.
+Corp trashes Devil Charm, Fencer Fueno, and Simulchip due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 4 credits and 3 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 2 with 1 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 3 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Flyswatter protecting HQ at position 0.
+Corp uses Flyswatter to purge virus counters.
+Runner encounters Flyswatter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Flyswatter to end the run.
+Corp resolves 1 unbroken subroutine on Flyswatter ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 8 credits and 5 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 3 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Steelskin Scarring.
+Runner uses Steelskin Scarring to draw 3 cards.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 3 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 4 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 12 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Bling.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 13 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Gourmand.
+Runner uses Bling to host Devil Charm.
+Runner spends click to make a run on Server 3.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Byte! from Server 3.
+Corp pays 4 credits to use Byte! to give the Runner 1 tag and do 3 net damage.
+Corp trashes Chisel, Gachapon, and Paladin Poemu due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner pays 0 credits to trash Byte! from Server 3.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 5 with 11 credits and 2 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Runner uses Bling to trash Devil Charm.
+Corp started their turn 6 with 6 credits and 5 cards in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 13 credits and 2 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Audrey v2.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 6 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores False Lead and gains 1 agenda point.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 9 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play The Price.
+Runner uses Steelskin Scarring to draw 2 cards.
+Runner uses The Price to trash Chisel, Steelskin Scarring, Paladin Poemu, and Bling from the top of the stack.
+Runner pays 0 credits to use The Price to install Chisel from the Heap (paying 3 credits less) on ice protecting R&D at position 0.
+[!] Chisel - [Erratum] Program: Virus - Trojan
+Runner uses Bling to host The Price.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 9 credits and 5 cards in the grip.
+[hr]
+Runner uses Bling to trash The Price.
+Corp started their turn 8 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 9 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner uses Bling to host Fermenter.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner trashes Gachapon to use Gachapon to set aside Ashen Epilogue, Botulus, Cookbook, Fermenter, Gachapon, and Pinhole Threading from the top of the stack.
+Runner pays 0 credits to use Gachapon to install Botulus from among the set-aside cards (paying 2 credits less) on ice protecting Server 2 at position 0.
+[!] Botulus - [Erratum] Program: Virus - Trojan
+Runner uses Bling to host Fermenter.
+Runner uses Gachapon to shuffle Ashen Epilogue, Cookbook, and Fermenter into the stack and remove Gachapon and Pinhole Threading from the game.
+Runner spends click and pays 1 credits to install Simulchip.
+Runner is ending their turn 8 with 8 credits and 4 cards in the grip.
+[hr]
+Runner uses Bling to trash Fermenter and Fermenter.
+Corp started their turn 9 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 8 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 1 credits to play The Price.
+Runner uses The Price to trash The Twinning, Cookbook, Gourmand, and Gourmand from the top of the stack.
+Runner pays 0 credits to use The Price to install The Twinning from the Heap (paying 3 credits less).
+Runner uses Bling to host Cookbook.
+Runner is ending their turn 9 with 8 credits and 4 cards in the grip.
+[hr]
+Runner uses Bling to trash Cookbook.
+Corp started their turn 10 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 8 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner trashes Simulchip and trashes 1 installed program (Gourmand), and then pays 0 credits, to use Simulchip to install Chisel from the Heap (paying 3 credits less) on ice protecting Server 2 at position 0.
+[!] Chisel - [Erratum] Program: Virus - Trojan
+Runner uses Bling to host Pinhole Threading.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 11 credits and 5 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Runner uses Bling to trash Pinhole Threading.
+Corp started their turn 11 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 11 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Anemone protecting R&D at position 0.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Chisel and Lago Paranoá Shelter due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner encounters Anemone protecting R&D at position 0.
+Runner uses Chisel to place 1 virus counter on itself.
+Runner has no further action.
+Corp uses Anemone to do 1 net damage.
+Corp trashes Botulus due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp resolves 1 unbroken subroutine on Anemone ("[subroutine] Do 1 net damage").
+Runner passes Anemone protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 11 with 13 credits and 2 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 12 with 12 credits and 4 cards in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 2.
+Corp spends click and pays 3 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 15 credits and 2 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Anemone protecting R&D at position 0.
+Runner encounters Anemone protecting R&D at position 0.
+Runner uses Chisel to place 1 virus counter on itself.
+Runner has no further action.
+Corp uses Anemone to do 1 net damage.
+Corp trashes Illumination due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp resolves 1 unbroken subroutine on Anemone ("[subroutine] Do 1 net damage").
+Runner passes Anemone protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Devil Charm.
+Runner is ending their turn 12 with 14 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 13 with 8 credits and 5 cards in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 3 from HQ at end of turn.
+Corp is ending their turn 13 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 14 credits and 2 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Anemone protecting R&D at position 0.
+Runner encounters Anemone protecting R&D at position 0.
+Runner uses Chisel to trash Anemone protecting R&D at position 0.
+ Anemone protecting R&D at position 0 has left play: Chisel is trashed.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 2 credits to install Lago Paranoá Shelter.
+Runner is ending their turn 13 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 14 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Mindscaping.
+Corp uses Mindscaping to gain 4 credits and draw 2 cards.
+Corp uses Mindscaping to add 1 card from HQ to the top of R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 11 credits and 3 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Cohort Guidance Program from R&D.
+Runner uses Audrey v2 to place 1 virus counter on itself.
+Runner spends click and pays 3 credits to install Buffer Drive.
+Runner is ending their turn 14 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 15 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 7 credits and 3 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Flyswatter protecting HQ at position 0.
+Runner encounters Flyswatter protecting HQ at position 0.
+Runner removes Devil Charm from the game to use Devil Charm to give -6 strength to Flyswatter protecting HQ at position 0 for the remainder of the run.
+Runner spends 1 hosted virus counter from on Audrey v2 to use Audrey v2 to break all 1 subroutines on Flyswatter.
+Runner has no further action.
+Runner passes Flyswatter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Fujii Asset Retrieval from HQ.
+Runner steals Fujii Asset Retrieval and gains 3 agenda points.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Bling and Simulchip due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 15 with 8 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 16 with 16 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 8 credits and 2 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 16 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 21 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 8 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click and pays 1 credits to install Fermenter.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and trashes Fermenter to use Fermenter to gain 2 credits.
+Runner is ending their turn 17 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 21 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 9 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses See How They Run from Archives.
+Runner steals See How They Run and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 18 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 24 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 11 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses See How They Run from Archives.
+Runner steals See How They Run and gains 2 agenda points.
+Runner wins the game.

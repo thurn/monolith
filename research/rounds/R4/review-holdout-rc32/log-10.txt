@@ -1,0 +1,336 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 15
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 10 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click and pays 3 credits to install Unity.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp is ending their turn 2 with 12 credits and 1 card in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 3 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Border Control protecting Server 1 at position 0.
+Runner encounters Border Control protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Border Control to gain 1 credits.
+Corp uses Border Control to end the run.
+Corp resolves 2 unbroken subroutines on Border Control ("[subroutine] Gain 1 credits for each ice protecting this server" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance ice protecting HQ at position 0.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp is ending their turn 3 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 3 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Send a Message and gains 3 agenda points.
+Corp uses Send a Message to rez Akhet protecting R&D at position 0 at no cost.
+Corp is ending their turn 4 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp pays 0 credits to rez NGO Front in Server 1.
+Corp spends 1 hosted advancement counter from on NGO Front and trashes NGO Front to use NGO Front to gain 5 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 14 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 13 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 19 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 14 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 0 credits to rez Spin Doctor in Server 2.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp uses Spin Doctor to shuffle Hedge Fund and NGO Front into R&D.
+Corp spends click to install a card in the root of Server 1.
+Corp pays 0 credits to rez Spin Doctor in Server 1.
+Corp uses Spin Doctor to draw 2 cards.
+Corp uses Spin Doctor to shuffle Subliminal Messaging into R&D.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 19 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 23 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp pays 0 credits to rez Spin Doctor in Server 4.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp pays 0 credits to rez Clearinghouse in Server 3.
+Corp spends click and pays 10 credits to play Government Subsidy.
+Corp uses Government Subsidy to gain 15 credits.
+Corp is ending their turn 7 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 23 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 27 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 19 credits and 5 cards in HQ.
+Corp uses Clearinghouse to do 1 meat damage for each hosted advancement counter.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting HQ.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance ice protecting HQ at position 2.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Akhet protecting R&D at position 0.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp is ending their turn 8 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 27 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 31 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Akhet protecting R&D at position 0.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Akhet protecting R&D at position 0.
+Corp is ending their turn 9 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 31 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 35 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp pays 0 credits to rez NGO Front in Server 5.
+Corp spends click and pays 0 credits to install ice protecting Server 5.
+Corp uses Spin Doctor to shuffle Clearinghouse and Government Subsidy into R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 10 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 35 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 39 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance ice protecting Server 5 at position 0.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance NGO Front in Server 5.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends 1 hosted advancement counter from on NGO Front and trashes NGO Front to use NGO Front to gain 5 credits.
+Corp spends click to install a card in the root of Server 5.
+Corp is ending their turn 11 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 39 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click and pays 0 credits to play Mutual Favor.
+Runner uses Mutual Favor to add Aumakua from the stack to the grip and shuffle the stack.
+Runner spends click and pays 3 credits to install Aumakua.
+[!] Aumakua - [Erratum] Whenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.
+Runner spends click and pays 2 credits to play Inside Job.
+Runner uses Inside Job to make a run on Server 5.
+Runner approaches ice protecting Server 5 at position 0.
+Corp pays 7 credits to rez Pharos protecting Server 5 at position 0.
+Runner encounters Pharos protecting Server 5 at position 0.
+Runner uses Inside Job to bypass Pharos protecting Server 5 at position 0.
+Runner bypasses Pharos.
+Runner passes Pharos protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Wall to Wall from Server 5.
+Runner pays 3 credits to trash Wall to Wall from Server 5.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 11 with 31 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 12 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 31 credits and 4 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 34 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp is ending their turn 13 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 34 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 38 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores SDS Drone Deployment and gains 3 agenda points.
+Corp uses SDS Drone Deployment to trash Unity.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 38 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches ice protecting R&D at position 1.
+Corp pays 4 credits to rez Winchester protecting R&D at position 1.
+Runner encounters Winchester protecting R&D at position 1.
+Runner has no further action.
+Corp uses Winchester to initiate a trace with strength 4 (Trash a program).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Winchester to trash Aumakua.
+Corp uses Winchester to initiate a trace with strength 3 (Trash a piece of hardware).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp resolves 2 unbroken subroutines on Winchester ("[subroutine] Trace 4 - Trash a program" and "[subroutine] Trace 3 - Trash a piece of hardware").
+Runner passes Winchester protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches Akhet protecting R&D at position 0.
+Runner encounters Akhet protecting R&D at position 0.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on ice protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner uses Bravado to gain 7 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Curupira.
+Runner spends click to make a run on Server 5.
+Runner approaches Pharos protecting Server 5 at position 0.
+Runner encounters Pharos protecting Server 5 at position 0.
+Runner uses Curupira to place 1 power counter on itself.
+Runner pays 7 credits to increase the strength of Curupira to 5 and break all 3 subroutines on Pharos.
+Runner has no further action.
+Runner passes Pharos protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses SDS Drone Deployment from Server 5.
+Runner declines to pay to steal SDS Drone Deployment.
+Runner is ending their turn 14 with 32 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp scores SDS Drone Deployment and gains 3 agenda points.
+Corp wins the game.

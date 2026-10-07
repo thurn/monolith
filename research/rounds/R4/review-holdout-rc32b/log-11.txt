@@ -1,0 +1,351 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 16
+
+Corp takes a mulligan.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp pays 0 credits to rez Spin Doctor in Server 1.
+Corp uses Spin Doctor to draw 2 cards.
+Corp uses Spin Doctor to shuffle R&D.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp is ending their turn 2 with 11 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 10 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 11 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 3 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 14 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Flyswatter protecting Server 1 at position 0.
+Corp uses Flyswatter to purge virus counters.
+Runner encounters Flyswatter protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Flyswatter to end the run.
+Corp resolves 1 unbroken subroutine on Flyswatter ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Fujii Asset Retrieval and gains 3 agenda points.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Ashen Epilogue and Simulchip due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp is ending their turn 4 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 17 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 19 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 19 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 23 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 1 credits to rez Bladderwort in Server 1.
+Corp is ending their turn 6 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 23 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 27 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 4 cards in HQ.
+Corp uses Bladderwort to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 7 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 27 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 31 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 7 credits and 4 cards in HQ.
+Corp uses Bladderwort to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp pays 1 credits to rez Bladderwort in Server 2.
+Corp spends click and pays 3 credits to play Petty Cash.
+Corp uses Petty Cash to gain 5 [credits].
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp is ending their turn 8 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 8 with 31 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 35 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 9 credits and 3 cards in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 35 credits and 5 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 38 credits and 5 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 10 with 13 credits and 5 cards in HQ.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp pays 3 credits to rez Moon Pool in Server 5.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 40 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 10 with 43 credits and 5 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 11 with 14 credits and 5 cards in HQ.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Petty Cash.
+Corp uses Petty Cash to gain 5 [credits].
+Corp pays 0 credits to rez Spin Doctor in Server 4.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click to install a card in the root of Server 6 (new remote).
+Corp pays 1 credits to rez Phật Gioan Baotixita in Server 6.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 11 with 21 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 43 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 47 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 21 credits and 5 cards in HQ.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 7 (new remote).
+Corp pays 1 credits to rez Bladderwort in Server 7.
+Corp uses Spin Doctor to shuffle Hansei Review and Hedge Fund into R&D.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp is ending their turn 12 with 32 credits and 1 card in HQ.
+[hr]
+Runner started their turn 12 with 47 credits and 5 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses False Lead from Archives.
+Runner steals False Lead and gains 1 agenda point.
+Corp uses Phật Gioan Baotixita to do 1 net damage.
+Corp trashes Fermenter due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 49 credits and 5 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 13 with 32 credits and 1 card in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 8 (new remote).
+Corp spends click to install a card in the root of Server 8.
+Corp uses Moon Pool to trash 1 card from HQ.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp uses Moon Pool to reveal Cohort Guidance Program and Longevity Serum from Archives and shuffle them into R&D.
+Corp uses Moon Pool to place 1 advancement counter on a card in Server 8.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 13 with 35 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 13 with 51 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to make a run on Server 8.
+Runner approaches ice protecting Server 8 at position 0.
+Corp pays 3 credits to rez Semak-samun protecting Server 8 at position 0.
+Runner encounters Semak-samun protecting Server 8 at position 0.
+Runner has no further action.
+Corp uses Semak-samun to end the run.
+Corp resolves 1 unbroken subroutine on Semak-samun ("[subroutine] End the run unless the Runner pays Suffer 3 net damage").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 13 with 53 credits and 5 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 14 with 32 credits and 2 cards in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 8.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 8.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 8.
+Corp scores See How They Run and gains 2 agenda points.
+Corp uses Phật Gioan Baotixita to do 1 net damage.
+Corp trashes Lago Paranoá Shelter due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp uses See How They Run to give the runner 1 tag.
+Corp uses See How They Run to start a psi game (do 1 core damage / do 1 net damage).
+Corp pays 0 credits.
+Runner pays 0 credits.
+Corp uses See How They Run to do 1 net damage.
+Corp trashes Devil Charm due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp is ending their turn 14 with 32 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 53 credits and 3 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Audrey v2.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 1.
+Corp pays 3 credits to rez Anemone protecting R&D at position 1.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Bling and Gachapon due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner encounters Anemone protecting R&D at position 1.
+Runner has no further action.
+Corp uses Anemone to do 1 net damage.
+Corp trashes Chisel due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp resolves 1 unbroken subroutine on Anemone ("[subroutine] Do 1 net damage").
+Runner passes Anemone protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Semak-samun protecting R&D at position 0.
+Runner encounters Semak-samun protecting R&D at position 0.
+Runner has no further action.
+Corp uses Semak-samun to end the run.
+Corp resolves 1 unbroken subroutine on Semak-samun ("[subroutine] End the run unless the Runner pays Suffer 3 net damage").
+Runner is ending their turn 14 with 48 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 15 with 26 credits and 4 cards in HQ.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 8.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 8.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 8.
+Corp is ending their turn 15 with 27 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 15 with 48 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 8.
+Runner approaches Semak-samun protecting Server 8 at position 0.
+Runner encounters Semak-samun protecting Server 8 at position 0.
+Runner has no further action.
+Corp uses Semak-samun to end the run.
+Corp resolves 1 unbroken subroutine on Semak-samun ("[subroutine] End the run unless the Runner pays Suffer 3 net damage").
+Runner is ending their turn 15 with 48 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 16 with 27 credits and 4 cards in HQ.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp uses Bladderwort to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 8.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 8.
+Corp scores See How They Run and gains 2 agenda points.
+Corp wins the game.
