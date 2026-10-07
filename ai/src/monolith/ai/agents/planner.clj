@@ -91,7 +91,12 @@
              ;; unless something is played; play first (T3 proxy: ~3 forced discards per game per side)
              (and (= :draw (:type a))
                   (let [sd (:active-player s)]
-                    (>= (count (get-in s [sd :hand])) (or (get-in s [sd :hand-size :total]) 5))))
+                    (and (>= (count (get-in s [sd :hand])) (or (get-in s [sd :hand-size :total]) 5))
+                         ;; digging is still right for a missing breaker type / an open central without ice in hand
+                         (not (if (= sd :runner)
+                                (seq (s1/missing-breaker-types s))
+                                (and (some #(empty? (get-in s [:corp :servers % :ices])) [:hq :rd])
+                                     (not-any? #(= "ICE" (:type %)) (get-in s [:corp :hand]))))))))
              ;; Ika-style self-hosting outside a run: 2 credits a time, repeated to no effect
              ;; (dev runner review 2: ~34 credits re-hosting Ika on the same Anansi)
              (and (not (:run s)) (re-find #"(?i)host on a piece of ice" (str (:label a))))))))

@@ -42,7 +42,9 @@
         ;; (dev review 13: a known Cobra fired three times once Cloak was gone)
         usable? #(or (not (re-find #"(?i)spend credits only from <strong>stealth" (str (:text (cards/printed (:title %))))))
                      (pos? @stealth))
-        bs (filter #(and (cards/icebreaker? (:title %)) (usable? %)) (:program (get-in obs [:runner :rig])))
+        ;; D4v1d-style programs break ice without the Icebreaker subtype
+        breaker? #(or (cards/icebreaker? %) (re-find #"(?i)break ice subroutine" (str (:text (cards/printed %)))))
+        bs (filter #(and (breaker? (:title %)) (usable? %)) (:program (get-in obs [:runner :rig])))
         ;; heap breakers (Paperclip, Black Orchestra, MKUltra) in the heap can be installed mid-encounter:
         ;; usable at their install cost once per run (review-runner2: a Magnet remote looked impassable)
         installed (set (map :title bs))

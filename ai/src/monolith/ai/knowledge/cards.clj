@@ -185,6 +185,8 @@
          :no-access (boolean (re-find #"(?i)you cannot access cards for the remainder of this run" (str (:text (printed (:title card))))))
          :counters (into {} (for [k (distinct (remove nil? [bk pk]))] [k (counters-available card k)]))
          :strength strength
+         ;; D4v1d: breaks only ice of strength N or more, whatever its own strength
+         :min-ice-strength (some-> (re-find #"(?i)a piece of ice that has a strength of (\d+) or greater" (str (:text (printed (:title card))))) second parse-long)
          :temporary (boolean (:additional-ability brk))})
       ;; X-credit breakers (Matryoshka): 1 credit per subroutine
       xbrk
@@ -194,14 +196,15 @@
          :strength strength :temporary false}))))
 
 (defn can-break-type? [breaker ice]
-  (or (= :all (:breaks breaker))
-      (some (:subtypes ice) (:breaks breaker))))
+  (and (or (nil? (:min-ice-strength breaker)) (>= (or (:strength ice) 0) (:min-ice-strength breaker)))
+       (or (= :all (:breaks breaker))
+           (some (:subtypes ice) (:breaks breaker)))))
 
 (defn break-cost
   "Credits for breaker to fully break ice (all unbroken subs), or nil if impossible."
   [breaker ice]
   (when (can-break-type? breaker ice)
-    (let [gap (max 0 (- (:strength ice) (:strength breaker)))
+    (let [gap (if (:min-ice-strength breaker) 0 (max 0 (- (:strength ice) (:strength breaker))))
           nsubs (count (remove :broken (:subs ice)))]
       (if-let [{:keys [cost pump break]} (:combined breaker)]
         (if (= :x cost)

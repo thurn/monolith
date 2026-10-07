@@ -1,0 +1,681 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 26
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Consume from the top of the stack, trashes them, and gains 1 credits.
+Runner adds Street Peddler to the grip.
+Runner adds Dirty Laundry to the grip.
+Runner adds I've Had Worse to the grip.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Knobkierie due to core damage.
+Runner is ending their turn 1 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Slot Machine protecting HQ at position 0.
+Runner encounters Slot Machine protecting HQ at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal I've Had Worse (Event), Paperclip (Program), and Black Orchestra (Program) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Nisei MK II from HQ.
+Runner steals Nisei MK II and gains 2 agenda points.
+Runner is ending their turn 2 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Scarcity of Resources.
+Corp uses Scarcity of Resources to increase the install cost of resources by 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to install Street Peddler.
+Runner uses Street Peddler to trash Black Orchestra, I've Had Worse, and Paperclip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 4 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 4 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 14 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 3 credits to play Celebrity Gift.
+Corp uses Celebrity Gift to reveal La Costa Grid, NGO Front, Rashida Jaheem, and Thimblerig from HQ and gain 8 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 3 cards in the grip.
+Runner spends click and pays 8 credits to install Liberated Account.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Yusuf from the top of the stack, trashes them, and gains 1 credits.
+Runner adds Hippo to the grip.
+Runner adds Daily Casts to the grip.
+Runner adds Sure Gamble to the grip.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 5 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to install Pelangi.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 12 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 23 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Scarcity of Resources.
+Scarcity of Resources is trashed.
+Corp uses Scarcity of Resources to increase the install cost of resources by 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 7 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 12 credits and 4 cards in the grip.
+Runner spends click and pays 5 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 2 credits to install Hippo.
+Runner is ending their turn 7 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 28 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 31 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 9 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 2 credits to install Street Peddler.
+Runner is ending their turn 8 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 32 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 9 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 10 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Slot Machine protecting HQ at position 0.
+Runner encounters Slot Machine protecting HQ at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Sure Gamble (Event), Paperclip (Program), and Imp (Program) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses La Costa Grid from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 31 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 34 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 8 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 14 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 34 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 37 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 14 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses Street Peddler to install Knobkierie, lowering its install cost by 1 credits. Dirty Laundry and Stimhack are trashed as a result.
+Runner pays 4 credits to install Knobkierie from among the set-aside cards (paying 1 credits less).
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 11 with 19 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 38 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 41 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 19 credits and 4 cards in the grip.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Pelangi.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 12 with 12 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 42 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 45 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 12 credits and 3 cards in the grip.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner trashes Liberated Account.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Pelangi.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on HQ.
+Runner approaches Slot Machine protecting HQ at position 0.
+Runner encounters Slot Machine protecting HQ at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Inject (Event), Daily Casts (Resource), and Street Peddler (Resource) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner declines to pay to steal Obokata Protocol.
+Runner is ending their turn 13 with 13 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 14 with 49 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 52 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 13 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Pelangi.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on HQ.
+Runner approaches Slot Machine protecting HQ at position 0.
+Runner encounters Slot Machine protecting HQ at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Daily Casts (Resource), Street Peddler (Resource), and Clone Chip (Hardware) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 12 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 55 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 58 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 12 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Pelangi.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 2 credits to install Imp.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner is ending their turn 15 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 16 with 59 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 16 with 64 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 11 credits and 4 cards in the grip.
+Runner spends click and pays 5 credits to install Daily Casts.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Slot Machine protecting HQ at position 0.
+Runner encounters Slot Machine protecting HQ at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Yusuf (Program), Stargate (Program), and Liberated Account (Resource) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Knobkierie to place 1 virus counter on Imp.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner declines to pay to steal Obokata Protocol.
+Runner is ending their turn 16 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 17 with 68 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 71 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 7 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 2 credits to install Street Peddler.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Imp.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 17 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 18 with 72 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 75 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 7 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Imp.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 18 with 12 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 19 with 75 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 78 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 12 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Imp.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on HQ.
+Runner approaches Slot Machine protecting HQ at position 0.
+Runner encounters Slot Machine protecting HQ at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Clone Chip (Hardware), Liberated Account (Resource), and Self-modifying Code (Program) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner declines to pay to steal Obokata Protocol.
+Runner spends click to make a run on HQ.
+Runner approaches Slot Machine protecting HQ at position 0.
+Runner encounters Slot Machine protecting HQ at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Liberated Account (Resource), Self-modifying Code (Program), and Daily Casts (Resource) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Border Control from HQ.
+Runner is ending their turn 19 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 20 with 81 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 20 with 84 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 9 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 20 with 15 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 21 with 84 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 21 with 87 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 15 credits and 4 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Imp.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on HQ.
+Runner approaches Slot Machine protecting HQ at position 0.
+Runner encounters Slot Machine protecting HQ at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Self-modifying Code (Program), Daily Casts (Resource), and I've Had Worse (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Border Control from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 21 with 14 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 22 with 87 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 22 with 90 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 14 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Knobkierie to place 1 virus counter on Imp.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Street Peddler to install Stargate, lowering its install cost by 1 credits. Liberated Account and MKUltra are trashed as a result.
+Runner pays 3 credits to install Stargate from among the set-aside cards (paying 1 credits less).
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Daily Casts (Resource), I've Had Worse (Event), and Inject (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 22 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 23 with 90 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 23 with 93 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 23 with 3 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal I've Had Worse (Event), Inject (Event), and Clone Chip (Hardware) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 23 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 24 with 96 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 24 with 99 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 24 with 3 credits and 3 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Clone Chip (Hardware), Stimhack (Event), and Clone Chip (Hardware) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 24 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 25 with 103 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 25 with 101 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 25 with 1 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Slot Machine protecting HQ at position 0.
+Runner encounters Slot Machine protecting HQ at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Self-modifying Code (Program), Daily Casts (Resource), and Inject (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bio Vault from HQ.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Daily Casts (Resource), Inject (Event), and Liberated Account (Resource) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Nisei MK II and gains 2 agenda points.
+Scarcity of Resources is trashed.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 25 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 26 with 105 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Obokata Protocol and gains 3 agenda points.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 26 with 102 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 26 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Slot Machine protecting HQ at position 0.
+Runner encounters Slot Machine protecting HQ at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Liberated Account (Resource), Self-modifying Code (Program), and Inject (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner trashes Clone Chip, Daily Casts, Stimhack, and Yusuf due to net damage.
+Runner suffers 4 net damage to steal Obokata Protocol from HQ.
+Runner steals Obokata Protocol and gains 3 agenda points.
+Runner wins the game.

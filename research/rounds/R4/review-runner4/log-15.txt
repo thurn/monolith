@@ -1,0 +1,346 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 14
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner has no further action.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner is ending their turn 2 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Marilyn Campaign in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner is ending their turn 3 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 4 cards in HQ.
+Corp uses Marilyn Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Wraparound protecting R&D at position 0.
+Runner encounters Wraparound protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Marilyn Campaign from Server 2.
+Runner pays 3 credits to trash Marilyn Campaign from Server 2.
+Corp uses Marilyn Campaign to shuffle itself into R&D instead of moving it to Archives.
+Corp uses NBN: Controlling the Message to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses NBN: Controlling the Message to give the Runner 1 tag.
+Runner is ending their turn 4 with 2 credits and 4 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 5 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp is ending their turn 5 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 4 credits and 4 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Wraparound protecting R&D at position 0.
+Runner encounters Wraparound protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Enigma protecting HQ at position 0.
+Runner encounters Enigma protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Malia Z0L0K4 from HQ.
+Runner is ending their turn 5 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 6 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 1 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Wraparound protecting R&D at position 0.
+Runner encounters Wraparound protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Bellona and gains 3 agenda points.
+Corp uses Bellona to gain 5 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 2 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Wraparound protecting R&D at position 0.
+Runner encounters Wraparound protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 8 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 0 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Enigma protecting Server 1 at position 0.
+Runner encounters Enigma protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Enigma to force the Runner to lose click, if able.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 2 credits and 5 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 9 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 2 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Enigma protecting Server 1 at position 0.
+Runner encounters Enigma protecting Server 1 at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Bellona from Server 1.
+Runner declines to pay to steal Bellona.
+Runner is ending their turn 9 with 2 credits and 5 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 10 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Bellona and gains 3 agenda points.
+Corp uses Bellona to gain 5 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 4 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on R&D.
+Runner approaches Wraparound protecting R&D at position 0.
+Runner encounters Wraparound protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Remastered Edition and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 10 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 4 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Wraparound protecting R&D at position 0.
+Runner encounters Wraparound protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 11 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 2 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Wraparound protecting R&D at position 0.
+Runner encounters Wraparound protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 13 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 0 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Wraparound protecting R&D at position 0.
+Runner encounters Wraparound protecting R&D at position 0.
+Runner pays 1 credits to increase the strength of Paperclip to 2 and break all subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 13 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Degree Mill and gains 3 agenda points.
+Corp wins the game.
