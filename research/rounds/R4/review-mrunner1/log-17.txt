@@ -1,0 +1,538 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 23
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 4 credits to install Buzzsaw.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 4 cards in the grip.
+Runner spends click and pays 4 credits to install Banner.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 10 credits to play Government Subsidy.
+Corp uses Government Subsidy to gain 15 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on ice protecting Server 1 at position 0.
+Corp uses Akhet to end the run.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner is ending their turn 3 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 10 credits to play Government Subsidy.
+Corp uses Government Subsidy to gain 15 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 4 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner has no further action.
+Corp uses Tree Line to gain 1 credits and end the run.
+Corp resolves 1 unbroken subroutine on Tree Line ("[subroutine] Gain 1 credits and end the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 4 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 14 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 10 credits to play Government Subsidy.
+Corp uses Government Subsidy to gain 15 credits.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Boi-tatá.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 17 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 20 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 0 credits to install Fencer Fueno.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 6 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 20 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 10 credits and 3 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 1 credits to install Leech.
+Runner is ending their turn 7 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 23 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 21 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 10 credits and 3 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 8 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 21 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 11 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click and pays 1 credits to install Paladin Poemu.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 14 credits and 4 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 10 with 24 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 13 credits and 4 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 3.
+Corp pays 2 credits to rez Descent protecting Server 1 at position 3.
+Runner encounters Descent protecting Server 1 at position 3.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting Server 1 at position 3.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 3 credits to rez Afshar protecting Server 1 at position 2.
+Runner encounters Afshar protecting Server 1 at position 2.
+Runner pays 1 credits to use Buzzsaw to break all 2 subroutines on Afshar.
+Runner has no further action.
+Runner passes Afshar protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 5 credits to rez Envelopment protecting Server 1 at position 1.
+Runner encounters Envelopment protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Envelopment to end the run.
+Corp resolves 1 unbroken subroutine on Envelopment ("[subroutine] End the run").
+Runner uses Raindrops Cut Stone to draw 1 card and gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 15 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 11 with 17 credits and 5 cards in HQ.
+Corp uses Descent to add Descent protecting Server 1 at position 3 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp is ending their turn 11 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 14 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 2 credits to install Bling.
+Runner is ending their turn 11 with 14 credits and 4 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 12 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Transport Monopoly and gains 2 agenda points.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 13 credits and 4 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Raindrops Cut Stone to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 1 credits to install Cookbook.
+Runner is ending their turn 12 with 15 credits and 4 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 13 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp is ending their turn 13 with 16 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 14 credits and 4 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 5 credits to rez Ballista protecting Server 2 at position 0.
+Runner encounters Ballista protecting Server 2 at position 0.
+Runner pays 5 credits to increase the strength of Boi-tatá to 4 and break all  subroutines on Ballista.
+Runner has no further action.
+Runner passes Ballista protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Divested Trust from Server 2.
+Runner steals Divested Trust and gains 1 agenda point.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 11 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 14 with 11 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 14 with 13 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 14 with 10 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Afshar protecting Server 1 at position 2.
+Runner encounters Afshar protecting Server 1 at position 2.
+Runner pays 1 credits to use Buzzsaw to break all 2 subroutines on Afshar.
+Runner has no further action.
+Runner passes Afshar protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Envelopment protecting Server 1 at position 1.
+Runner encounters Envelopment protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Envelopment to trash Envelopment.
+Corp resolves 1 unbroken subroutine on Envelopment ("[subroutine] Trash this ice").
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Afshar protecting Server 1 at position 0.
+Runner encounters Afshar protecting Server 1 at position 0.
+Runner pays 1 credits to use Buzzsaw to break all 2 subroutines on Afshar.
+Runner has no further action.
+Runner passes Afshar protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses SDS Drone Deployment from Server 1.
+Runner trashes 1 installed program (Banner) to steal SDS Drone Deployment from Server 1.
+Runner steals SDS Drone Deployment and gains 3 agenda points.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 3 credits from Paladin Poemu and 1 credits from their credit pool to install Banner.
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner is ending their turn 14 with 13 credits and 3 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 15 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 15 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 15 with 12 credits and 3 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 14 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 16 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends clickclick and pays 1 credits to play Secure and Protect.
+Corp uses Secure and Protect to reveal Descent from R&D and install it, paying 3 credits less.
+Corp pays 0 credits to use Secure and Protect to install ice from R&D protecting Archives.
+Corp is ending their turn 16 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 16 with 13 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits from Paladin Poemu to install Leech.
+Runner uses Cookbook to place 1 virus counter on Leech.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 15 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 17 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 2 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 17 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 17 with 14 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 2.
+Corp pays 3 credits to rez Akhet protecting Server 2 at position 2.
+Runner encounters Akhet protecting Server 2 at position 2.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Afshar protecting Server 1 at position 0.
+Corp uses Akhet to end the run.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner spends click and pays 3 credits to install The Twinning.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 17 with 14 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 18 with 1 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 18 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 18 with 13 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 18 with 19 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 19 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Divested Trust and gains 1 agenda point.
+Corp is ending their turn 19 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 18 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 4 credits to install Stargate.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 19 with 19 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 20 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp is ending their turn 20 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 20 with 18 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner trashes Gachapon to use Gachapon to set aside Mystic Maemi, Paladin Poemu, Privileged Access, Running Hot, Strike Fund, and Strike Fund from the top of the stack.
+Runner pays 0 credits to use Gachapon to install Mystic Maemi from among the set-aside cards (paying 2 credits less).
+Runner uses Bling to host Gachapon.
+Runner uses Gachapon to shuffle Paladin Poemu, Privileged Access, and Running Hot into the stack and remove Strike Fund and Strike Fund from the game.
+Runner uses The Twinning to place a power counter on itself.
+Runner spends click and pays 1 credits from Paladin Poemu to install Mystic Maemi.
+Mystic Maemi is trashed.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Stargate to make a run on R&D.
+Runner approaches Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner has no further action.
+Corp uses Tree Line to gain 1 credits and end the run.
+Corp resolves 1 unbroken subroutine on Tree Line ("[subroutine] Gain 1 credits and end the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 20 with 18 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Runner uses Bling to trash Gachapon.
+Corp started their turn 21 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Transport Monopoly and gains 2 agenda points.
+Corp is ending their turn 21 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 17 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses The Twinning to place a power counter on itself.
+Runner spends click and pays 1 credits from Paladin Poemu and 3 credits from their credit pool to install Buzzsaw.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Trickster Taka.
+Runner is ending their turn 21 with 14 credits and 4 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 22 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 22 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 13 credits and 4 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Trickster Taka to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner approaches ice protecting Archives at position 0.
+Runner passes ice protecting Archives at position 0.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 22 with 15 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 23 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Transport Monopoly and gains 2 agenda points.
+Corp wins the game.

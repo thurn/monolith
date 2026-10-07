@@ -247,9 +247,16 @@
                            (= "Asset" (ptype (card-title %))) (econ-asset? (card-title %)))))))
 
 (defn c-rez-econ
+  "Rez an economy asset, unless it sits in an iceless remote the Runner can afford to trash (it would be
+  trashed before paying out: modern review 1, Nico Campaign)."
   [env]
-  (act-where env #(and (= :rez (:type %)) (econ-asset? (card-title %))
-                       (>= (credits env) (+ (cards/play-cost (card-title %)) 0)))))
+  (let [obs (:obs env)]
+    (act-where env #(and (= :rez (:type %)) (econ-asset? (card-title %))
+                         (>= (credits env) (+ (cards/play-cost (card-title %)) 0))
+                         (let [c (find-card obs (get-in % [:args :card :cid]))
+                               [_ k] (:zone c)]
+                           (not (and k (str/starts-with? (name k) "remote") (empty? (srv/ices obs k))
+                                     (>= (get-in obs [:runner :credit] 0) (or (cards/trash-cost (card-title %)) 99)))))))))
 
 (defn c-install-ambush
   "Install an ambush (advanceable trap) into a new remote as a decoy."
@@ -515,6 +522,31 @@
                                   (if (and c (= "Agenda" (:type c))) (- 10 (adv-need c)) 0))))
        (re-find #"(?i)ice to install" msg)
        (select-best env (fn [c] (if (= "ICE" (:type c)) (ice-score (:title c)) 0)))
+       ;; free install subroutines (Ansel 1.0, Drafter): ice first, then economy assets; never an agenda
+       ;; (modern review 1: first-listed choices installed over the Corp's own cards)
+       (re-find #"(?i)^Choose a card to install" msg)
+       (select-best env (fn [c] (let [t (:title c)]
+                                  (case (:type c)
+                                    "ICE" (+ 10 (ice-score t))
+                                    "Asset" (if (or (cards/load-credits t) (re-find #"(?i)gain \d+\[credit\]" (card-text t))) 5 1)
+                                    "Upgrade" 1
+                                    -1))))
+       (re-find #"(?i)^Choose a location to install (.+)" msg)
+       (let [t (second (re-find #"(?i)^Choose a location to install (.+)" msg))
+             cs (remove #(re-find #"(?i)cancel" (str (:label %))) (acts env :choice))
+             by (fn [re] (first (filter #(re-find re (str (:label %))) cs)))
+             nice (fn [lbl] (count (srv/ices obs (srv/server-key lbl))))]
+         (if (= "ICE" (ptype t))
+           ;; bare central first, then the remote holding cards with the least ice, then the weaker central
+           (or (first (filter #(and (#{"HQ" "R&D"} (:label %)) (zero? (nice (:label %)))) cs))
+               (first (sort-by #(nice (:label %))
+                               (filter #(and (re-find #"^Server" (str (:label %)))
+                                             (seq (srv/content obs (srv/server-key (:label %)))))
+                                       cs)))
+               (first (sort-by #(nice (:label %)) (filter #(#{"HQ" "R&D"} (:label %)) cs)))
+               (first cs))
+           ;; anything else: a new remote (an existing remote's card would be trashed), upgrades excepted
+           (or (by #"(?i)^New remote") (first cs))))
        (re-find #"(?i)rez 1 installed piece of ice, ignoring all costs" (str (:text (cards/printed src))))
        (select-best env (fn [c] (if (= "ICE" (:type c)) (cards/play-cost (:title c)) 0)))
        (re-find #"(?i)ability\?|draw \d+ cards\?" msg) (choice env #"^Yes")

@@ -1,0 +1,633 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 24
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 4 credits to install Buzzsaw.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner is ending their turn 1 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click and pays 0 credits to install Gachapon.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner trashes Gachapon to use Gachapon to set aside Cookbook, Leech, Mystic Maemi, Sure Gamble, The Twinning, and Wildcat Strike from the top of the stack.
+Runner pays 0 credits to use Gachapon to install Cookbook from among the set-aside cards (paying 2 credits less).
+Runner uses Gachapon to shuffle Leech, Mystic Maemi, and Sure Gamble into the stack and remove The Twinning and Wildcat Strike from the game.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Descent protecting R&D at position 0.
+Runner encounters Descent protecting R&D at position 0.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 4 credits and 4 cards in HQ.
+Corp uses Descent to add Descent protecting R&D at position 0 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 4 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 1 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Akhet protecting R&D at position 0.
+Runner encounters Akhet protecting R&D at position 0.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Afshar protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner is ending their turn 5 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp is ending their turn 6 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner uses Raindrops Cut Stone to draw 2 cards and gain 3 credits.
+Runner spends click and pays 3 credits to install Boi-tatá.
+Runner is ending their turn 6 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 7 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 0 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install Fencer Fueno.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 3.
+Runner passes ice protecting Server 1 at position 3.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 2 credits to rez Descent protecting Server 1 at position 2.
+Runner encounters Descent protecting Server 1 at position 2.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 3 credits to rez Afshar protecting Server 1 at position 1.
+Runner encounters Afshar protecting Server 1 at position 1.
+Runner pays 1 credits to use Buzzsaw to break all 2 subroutines on Afshar.
+Runner has no further action.
+Runner passes Afshar protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Divested Trust from Server 1.
+Runner steals Divested Trust and gains 1 agenda point.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner is ending their turn 7 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 0 credits and 5 cards in HQ.
+Corp uses Descent to add Descent protecting Server 1 at position 2 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 8 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 0 credits and 4 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 8 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 0 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 2 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 10 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 10 with 2 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 11 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 3 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 12 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 2 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 2 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 13 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 13 with 2 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 14 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 3 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 15 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 2 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 2 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 16 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 3 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 17 with 25 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 28 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 2 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner trashes Gachapon to use Gachapon to set aside Fencer Fueno, Raindrops Cut Stone, Running Hot, Sure Gamble, Sure Gamble, and Trickster Taka from the top of the stack.
+Runner pays 0 credits to use Gachapon to install Fencer Fueno from among the set-aside cards (paying 2 credits less).
+Fencer Fueno is trashed.
+Runner uses Gachapon to shuffle Raindrops Cut Stone, Running Hot, and Sure Gamble into the stack and remove Sure Gamble and Trickster Taka from the game.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 28 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 31 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 2 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 18 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 31 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 34 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 2 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 19 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 20 with 34 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 20 with 37 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 2 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 20 with 2 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 21 with 37 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 21 with 40 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Transport Monopoly from Archives.
+Runner steals Transport Monopoly and gains 2 agenda points.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 21 with 2 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 22 with 40 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 22 with 43 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Transport Monopoly from Archives.
+Runner steals Transport Monopoly and gains 2 agenda points.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner is ending their turn 22 with 2 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 23 with 43 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 23 with 46 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 23 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 23 with 2 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 24 with 46 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 24 with 49 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 24 with 1 credits and 5 cards in the grip.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to make a run on HQ.
+Runner approaches Afshar protecting HQ at position 0.
+Runner encounters Afshar protecting HQ at position 0.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses SDS Drone Deployment from Archives.
+Runner trashes 1 installed program (Boi-tatá) to steal SDS Drone Deployment from Archives.
+Runner steals SDS Drone Deployment and gains 3 agenda points.
+Runner wins the game.
+Runner uses Fencer Fueno to add 1 credits to itself.
