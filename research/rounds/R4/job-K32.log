@@ -2,3 +2,4 @@
 :puzzles {:agent :s1ref, :dev 0.6666666666666666, :holdout 0.6923076923076923, :dev-failed [runner-win-by-stealing runner-trash-regolith runner-run-central-when-corp-broke d-hpt-per-tag-lethal d-credit-then-advance-to-score d-credit-up-for-bellona d-must-steal-before-corp-wins], :holdout-failed [h-mindscaping-damage-lethal h-credit-then-advance-to-score h-credit-up-for-bellona h-hq-when-corp-broke]}
 :review 20
 :review-b 20
+:t2 {:tag rc32, :corp 0.7833333333333333, :runner 0.75, :stalls 0}
