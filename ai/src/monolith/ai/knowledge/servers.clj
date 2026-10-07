@@ -177,6 +177,11 @@
                                dmg (if (>= dmg hand) runcalc/flatline-utility (- (* w-damage dmg)))
                                :else 0.5))))))))
 
+(defn- drip-credits
+  "Credits a Corp asset gains each turn from its text (PAD Campaign 1, Commercial Bankers Group 3)."
+  [t]
+  (some-> (re-find #"(?i)when your turn begins, (?:you may )?gain (\d+)\[credit\]" (str (:text (cards/printed t)))) second parse-long))
+
 (defn worth-trashing?
   "Whether the Runner should pay cost to trash installed Corp card c (title t) on access; shared by
   run valuation and the access prompt so they never disagree (which made Runners re-run servers)."
@@ -189,6 +194,9 @@
       (cards/load-credits t) (or (and (:rezzed c) (>= left (* 2 cost)) (>= (- cr cost) 1))
                                  (and (not (:rezzed c)) (>= (- cr cost) 3)))
       (re-find #"(?i)approaches this server" (str (:text (cards/printed t)))) (>= (- cr cost) 2)
+      ;; per-turn economy: trash it while it can still pay out (review-runner3: PAD Campaign and
+      ;; Commercial Bankers Group left alone by a rich Runner)
+      (drip-credits t) (>= (- cr cost) 3)
       :else (>= (- cr cost) 8))))
 
 (defn access-penalty
@@ -270,7 +278,10 @@
                               dmg (if (>= dmg (or hand 5)) runcalc/flatline-utility (- (* (or w-damage 2.0) dmg)))
                               ;; trashing an economy card denies the Corp its credits, but only if the
                               ;; access decision will actually trash it
-                              (worth-trashing? obs c tc) (max 0.5 (- (* 0.5 (+ (get-in c [:counter :credit] 0) 3)) tc))
+                              (worth-trashing? obs c tc) (max 0.5 (- (if-let [d (drip-credits (:title c))]
+                                                                      (* 6.0 d)
+                                                                      (* 0.5 (+ (get-in c [:counter :credit] 0) 3)))
+                                                                    tc))
                               :else 0.0))))))))))
 
 (defn extra-accesses

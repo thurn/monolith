@@ -24,6 +24,8 @@
                   (:tag sub) (update :tags (fnil inc 0))
                   (:trash-program sub) (update :trashed (fnil + 0) (:trash-program sub))
                   (:no-steal sub) (assoc :no-access true)
+                  ;; lost later runs this turn: priced like a lost click and a half
+                  (:lock-runs sub) (update :credits - 1.5)
                   (:etr sub) (assoc :ended true)
                   ;; tax ETR: pay when possible, else the run ends
                   (:etr-unless-pay sub) (as-> st' (if (>= (:credits st') (:etr-unless-pay sub))

@@ -49,6 +49,8 @@
       (re-find #"trash (1|an?) installed (runner )?card" l) (assoc :trash-program 1)
       ;; Ansel 1.0: unbroken, the run can still succeed but nothing can be stolen or trashed
       (re-find #"cannot steal or trash" l) (assoc :no-steal true)
+      ;; Excalibur: the rest of the turn's runs are lost (review-runner3: R&D into Excalibur first, every turn)
+      (re-find #"cannot make another run this turn" l) (assoc :lock-runs true)
       (re-find #"^gain (\d+) \[credits\]" l) (assoc :corp-gain (n #"gain (\d+)"))
       (re-find #"install" l) (assoc :corp-benefit 1))))
 
