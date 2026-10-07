@@ -682,6 +682,9 @@
     (for [a (acts env :play)
           :let [t (card-title a) txt (str (:text (cards/printed t)))]
           :when (re-find #"(?i)\brun\b" txt)
+          ;; Pinhole Threading: accesses a root card instead and cannot steal agendas; valued as a plain run it
+          ;; replaced runs on advanced remotes (job BC: S1 anchor chose it over a +34 Server 1 run)
+          :when (not (re-find #"(?i)if that card is an agenda, you cannot steal" txt))
           :let [hq-rd-only (re-find #"(?i)run HQ or R&D" txt)
                 cost (cards/play-cost t)
                 bonus-cr (or (some-> (re-find #"(?i)place (\d+)\[credit\] on this event" txt) second parse-long) 0)
