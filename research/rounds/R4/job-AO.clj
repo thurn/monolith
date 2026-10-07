@@ -1,3 +1,4 @@
+;; Rerun into eval-AO2.jsonl: the first run died at 239 rows to a JVM SIGSEGV in C2-compiled PersistentHashMap.valAt (job-AO-crash.log).
 ;; Corp combinations on corp-hard (job AL: every RC12 Corp option leans negative there; no-naked-agendas significantly,
 ;; +33/-17). Frozen an, Corp side, 300 paired seeds (310000-310299). RC12's Corp (null) vs: - runner knobs (the Corp's model
 ;; of the Runner: prune-runs, w-program, remote-ice-prior, hq-memory, dig-breakers; invisible to reviewers), that minus
@@ -13,7 +14,7 @@
       without (fn [c & ks] (update c :w #(apply dissoc % ks)))
       nork (without rc12c :prune-runs :w-program :remote-ice-prior :hq-memory :dig-breakers)
       cp (fn [tag c & [null?]] {:agent [:champion {:corp-opts c :runner-opts c}] :tag tag :seeds (range 310000 310300)
-                                :matchups hard :sides [:corp] :null? (boolean null?) :games-log (str R "/eval-AO.jsonl")})]
+                                :matchups hard :sides [:corp] :null? (boolean null?) :games-log (str R "/eval-AO2.jsonl")})]
   (println (monolith.ai.evalset/run-many
             {:threads 18
              :experiments [(cp "ao-rc12c" rc12c true) (cp "ao-nork" nork) (cp "ao-nork-rich" (without nork :rich-credit))

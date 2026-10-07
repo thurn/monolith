@@ -1,0 +1,19 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x000072aba04bf393, pid=32846, tid=32980
+#
+# JRE version: OpenJDK Runtime Environment (21.0.12.1+1) (build 21.0.12.1+1-1-24.04.4-Ubuntu)
+# Java VM: OpenJDK 64-Bit Server VM (21.0.12.1+1-1-24.04.4-Ubuntu, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, parallel gc, linux-amd64)
+# Problematic frame:
+# J 1975 c2 clojure.lang.PersistentHashMap.valAt(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object; (48 bytes) @ 0x000072aba04bf393 [0x000072aba04beca0+0x00000000000006f3]
+#
+# Core dump will be written. Default location: Determined by the following: "/wsl-capture-crash %t %E %p %s" (alternatively, falling back to /home/dthurn/monolith-frozen/an/ai/core.32846)
+#
+# An error report file with more information is saved as:
+# /home/dthurn/monolith-frozen/an/ai/hs_err_pid32846.log
+[667.886s][warning][os] Loading hsdis library failed
+#
+# If you would like to submit a bug report, please visit:
+#   https://bugs.launchpad.net/ubuntu/+source/openjdk-21
+#
