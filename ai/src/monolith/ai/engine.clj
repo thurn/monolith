@@ -49,12 +49,18 @@
    :worlds-2023-b-corp (:corp precon/worlds-2023-sokka-runs)
    :worlds-2023-b-runner (:runner precon/worlds-2023-sokka-runs)})
 
+(def modern-matchups
+  "Modern Standard dev matchups written for R4 (resources/monolith/ai/decks/modern.edn)."
+  (edn/read-string (slurp (io/resource "monolith/ai/decks/modern.edn"))))
+
 (def decks
   "Every bundled deck: base-decks (the NN vocabulary is pinned to these) plus each Worlds and
-  Classique matchup as :<matchup>-corp / :<matchup>-runner."
+  Classique matchup and each modern dev matchup as :<matchup>-corp / :<matchup>-runner."
   (into base-decks
-        (for [m precon/all-matchups side [:corp :runner]]
-          [(keyword (str (name m) "-" (name side))) (side (precon/matchup-by-key m))])))
+        (concat (for [m precon/all-matchups side [:corp :runner]]
+                  [(keyword (str (name m) "-" (name side))) (side (precon/matchup-by-key m))])
+                (for [[m sides] modern-matchups side [:corp :runner]]
+                  [(keyword (str (name m) "-" (name side))) (side sides)]))))
 
 (def stages
   {:A {:corp :gateway-beginner-corp :runner :gateway-beginner-runner}

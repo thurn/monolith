@@ -32,6 +32,10 @@
   at ~93%, too near the ceiling to show Corp differences). Chosen from dev results only (R4, 2026-10-07)."
   [:classique-2025-a :worlds-2017-a :worlds-2020-a :worlds-2018-b :classique-2022-a :worlds-2017-b :worlds-2019-a :worlds-2021-a])
 
+(def modern-mix
+  "Modern Standard dev matchups (R4): Standard card pool 2021-2025 like the held-out decks, different lists."
+  [:modern-a :modern-b :modern-c :modern-d])
+
 (def holdout-mix [:worlds-2023-a :worlds-2023-b :worlds-2024-a :worlds-2024-b :worlds-2025-a :worlds-2025-b])
 
 (defn deck-keys [m] [(keyword (str (name m) "-corp")) (keyword (str (name m) "-runner"))])
