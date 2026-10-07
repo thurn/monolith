@@ -7,6 +7,8 @@
     :repeat-failed-runs  runs on a server already run unsuccessfully this turn (Runner)
     :idle-turns          own turns with only credit clicks / free abilities
     :ignored-advanced-remote Runner turns ended with 5+ credits and an unrun remote holding an advanced card
+    :broke-facechecks    runs started with <= 2 credits into a server whose outermost ice is unrezzed
+    :no-info-archives    Archives runs when every card there is faceup and none is an agenda
   plus :flatlined (Runner lost by flatline) and :decked (Corp lost by decking).
   In an evalset row the tested agent plays (:side row); the other side is the opponent."
   (:require
@@ -15,7 +17,7 @@
    [monolith.ai.harness :as h]))
 
 (def ks [:rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls :tagged-ends
-         :open-central-with-ice :ignored-advanced-remote])
+         :open-central-with-ice :ignored-advanced-remote :broke-facechecks :no-info-archives])
 
 (defn- agenda-count [s zone]
   (count (filter #(= "Agenda" (:type %)) (get-in s [:corp zone]))))
@@ -74,6 +76,16 @@
                               (swap! installed update sd conj t)))
                           (when (and p (= :credit (:type a)) (>= (or (get-in p [sd :credit]) 0) 15)) (bump! sd :rich-credit-clicks 1))
                           (when (and (= :run (:type a)) (@failed (get-in a [:args :server]))) (bump! :runner :repeat-failed-runs 1))
+                          (when (and p (= :run (:type a)))
+                            (let [srv (str (get-in a [:args :server]))
+                                  k (case srv "HQ" :hq "R&D" :rd "Archives" :archives
+                                      (some->> (re-find #"Server (\d+)" srv) second (str "remote") keyword))
+                                  outer (last (get-in p [:corp :servers k :ices]))]
+                              (when (and outer (not (:rezzed outer)) (<= (or (get-in p [:runner :credit]) 0) 2))
+                                (bump! :runner :broke-facechecks 1))
+                              (when (and (= k :archives)
+                                         (every? #(and (:seen %) (not= "Agenda" (:type %))) (get-in p [:corp :discard])))
+                                (bump! :runner :no-info-archives 1))))
                           (when (and p (= :prompt (:kind d)) (re-find #"(?i)^discard down" (str (some-> (get-in p [sd :prompt]) first :msg))))
                             (bump! sd :forced-discards 1))
                           (when-let [k (and (:run s) (first (get-in s [:run :server])))]
