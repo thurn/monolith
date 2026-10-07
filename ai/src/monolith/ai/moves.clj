@@ -174,6 +174,9 @@
                      (not (re-find #"(?i)\(start of turn\)" (str (:label ab))))
                      ;; UI correction helpers ("manually place 1 virus counter"): free and repeatable
                      (not (and (string? (:msg ab)) (re-find #"(?i)manually" (:msg ab))))
+                     ;; ...also when only the label says so (AU Co.: "Manually place 1 power counter" filled the
+                     ;; planner's beam, modern review 16; The Collective's "Manually gain [Click]")
+                     (not (re-find #"(?i)^manually" (str (:label ab))))
                      (not (and (empty? (:cost ab)) (re-find #"(?i)^place 1 \w+ counter" (str (:label ab)))))
                      (if clicks? true (not (:action ab)))
                      (:playable (ability-playable? ab i state side c)))]
