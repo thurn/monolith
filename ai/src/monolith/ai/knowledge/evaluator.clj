@@ -249,6 +249,30 @@
                       0.0))]
     (- (+ (u :hq hq-v) (u :rd rd-v)))))
 
+(defn- econ-net
+  "Net credits an economy event/operation in hand yields when played (Sure Gamble, Hedge Fund:
+  9 - 5), from its text; nil for run events and conditional gains."
+  [title]
+  (let [p (cards/printed title)
+        t (str (:text p))]
+    (when (and (#{"Event" "Operation"} (:type p)) (not (re-find #"(?i)\brun\b|play only if" t)))
+      (when-let [[_ g] (re-find #"(?i)^gain (\d+)\[credit\]\.?$" (str/trim t))]
+        (let [net (- (parse-long g) (or (:cost p) 0))]
+          (when (pos? net) net))))))
+
+(def ^:private econ-net* (memoize econ-net))
+
+(defn- hand-econ
+  "With :hand-econ k: economy cards in hand at k x their net gain, full when castable now and half
+  when short of credits (the one-turn plan cannot see 'click to 5 now, Sure Gamble next turn';
+  reviews m27-m32: Runners at 0-2 credits holding Sure Gamble for turns)."
+  [s side k]
+  (let [cr (get-in s [side :credit] 0)]
+    (* k (reduce + 0.0 (for [c (get-in s [side :hand])
+                             :let [net (some-> (:title c) econ-net*)]
+                             :when net]
+                         (* net (if (>= cr (or (:cost (cards/printed (:title c))) 0)) 1.0 0.5)))))))
+
 (defn features
   "Named feature values (Corp perspective) of a full or determinized state map."
   [s w]
@@ -270,6 +294,7 @@
                  ;; :corp-poverty k: likewise for the Corp (27/50 Corp review notes: 0-3 credits, ice unrezzable)
                  (- (* (or (:corp-poverty w) 0.0) (min 5 (max 0 (get-in s [:corp :credit] 0))))))
      :hosted-credits (- (hosted-credits (filter :rezzed corp-installed)) (hosted-credits runner-installed))
+     :hand-econ (if-let [k (:hand-econ w)] (- (hand-econ s :corp k) (hand-econ s :runner k)) 0.0)
      ;; capped at the maximum hand sizes: lines are scored before the end-of-turn discard, so
      ;; cards beyond the limit would be counted and then thrown away (draw-into-discard)
      :hands (- (corp-hand-value (min (count corp-hand) (or (get-in s [:corp :hand-size :total]) 5) 7) (:corp-hand-curve w))
