@@ -1,0 +1,311 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 12
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 5 credits to rez Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Mestnichestvo to force the Runner to lose 3 credits.
+Corp uses Mestnichestvo to end the run.
+Corp resolves 2 unbroken subroutines on Mestnichestvo ("[subroutine] Make the Runner lose 3 credits" and "[subroutine] End the run").
+Runner is ending their turn 1 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 3 cards in the grip.
+Runner spends click and pays 0 credits to install Stoneship Chart Room.
+Runner trashes Stoneship Chart Room to use Stoneship Chart Room to draw 2 cards.
+Runner spends click and pays 3 credits to install Echelon.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Public Trail.
+Corp uses Public Trail to give the runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 4 cards in the grip.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Unity.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner is ending their turn 3 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Embedded Reporting and gains 2 agenda points.
+Runner uses Tāo Salonga: Telepresence Magician to swap the positions of ice protecting R&D at position 0 and Mestnichestvo protecting HQ at position 0.
+Runner is ending their turn 4 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp is ending their turn 5 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Vladisibirsk City Grid from HQ.
+Runner pays 4 credits to trash Vladisibirsk City Grid from HQ.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 5 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Next Big Thing from HQ.
+Runner steals Next Big Thing and gains 3 agenda points.
+Runner uses Tāo Salonga: Telepresence Magician to swap the positions of ice protecting HQ at position 0 and Mestnichestvo protecting R&D at position 0.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 6 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Oppo Research.
+Corp uses Oppo Research to give the Runner 2 tags.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp is ending their turn 7 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 10 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Federal Fundraising from HQ.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 7 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp is ending their turn 8 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 0 credits to play Spree.
+Runner uses Spree to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Vladisibirsk City Grid from HQ.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner trashes Telework Contract.
+Runner is ending their turn 8 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 3 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to install Mantle.
+[!] Mantle - Recurring credits usage not restricted
+Runner uses Mantle to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner trashes Telework Contract.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 9 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 6 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Mantle to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Grubber from HQ.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 10 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 4 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 1 credits from Mantle and 3 credits from their credit pool to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Paywall from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Stoneship Chart Room.
+Runner is ending their turn 11 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 1 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Embedded Reporting and gains 2 agenda points.
+Runner wins the game.

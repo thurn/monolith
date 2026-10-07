@@ -1,0 +1,153 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 1.
+Corp pays 2 credits to rez Otto Campaign in Server 2.
+Corp is ending their turn 1 with 1 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Marjanah.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Superconducting Hub from HQ.
+Runner steals Superconducting Hub and gains 1 agenda point.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Megaprix Qualifier from HQ.
+Runner steals Megaprix Qualifier and gains 1 agenda point.
+Runner is ending their turn 1 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 1 card in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 10 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Nico Campaign from Server 1.
+Runner pays 2 credits to trash Nico Campaign from Server 1.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install No Free Lunch.
+Runner trashes No Free Lunch to use No Free Lunch to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 6 credits and 3 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 11 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install No Free Lunch.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 2.
+Corp trashes Otto Campaign in Server 2.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Bloop from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Nico Campaign in Archives to HQ.
+Corp pays 0 credits to use Drafter to install ice from HQ protecting Archives.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Méliès City Luxury Line from HQ.
+Runner declines to pay to steal Méliès City Luxury Line.
+Runner is ending their turn 3 with 12 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 3.
+Corp is ending their turn 4 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 12 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Architect Deployment Test from Server 2.
+Runner steals Architect Deployment Test and gains 2 agenda points.
+Runner uses No Free Lunch to do nothing.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 3.
+Corp trashes Nico Campaign in Server 3.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Wage Workers from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp is ending their turn 5 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 12 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Méliès City Luxury Line from Server 3.
+Runner spends click to steal Méliès City Luxury Line from Server 3.
+Runner steals Méliès City Luxury Line and gains 3 agenda points.
+Runner wins the game.

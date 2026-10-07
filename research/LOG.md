@@ -532,3 +532,9 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - Also (`3f09fa5`): installed-but-unrezzed economy assets in an exposed remote are worth 0.3× (not 0.8×) in the evaluator (Nico Campaign installed naked and trashed repeatedly).
 - Job AO died at 239 rows to a JVM SIGSEGV (C2-compiled `PersistentHashMap.valAt`; a JDK/JIT fault, not our code); the machine sat idle for ~1 h before I noticed. Rerun into `eval-AO2.jsonl`. A job monitor now reports whenever the set of running jobs changes.
 - **Job AQ** (frozen `aq`): RC18 = RC17 − etr-guard + Runner `:w-damage` 3.0: review-modern7, review-modern8, review-mrunner4.
+
+### 2026-10-07 ~06:00 — RC18: modern gate met; held-out confirmation + replication launched
+
+- **RC18 modern reviews** (frozen `aq` = `3f09fa5`; RC18 = RC12 spec + Corp `:rd-exposure`, Runner `:w-damage` 3.0, on code with all modern-deck fixes): review-modern7 **3.50** (Corp 3.6, Runner 3.4), review-modern8 **3.70** (Corp 3.6, Runner 3.8) → pooled **3.60** (Corp 3.6, Runner 3.6, blunders 0.35); review-mrunner4 (Runner only) **3.30**. Gate met (pooled ≥ 3.5, Runner-only ≥ 3.2). Modern series (both sides): 2.70 → 3.40 → 3.00 → 3.10 → 3.60.
+- Remaining notes: HQ ice left unrezzed / HQ bare for many turns (Corp, 2 games), a broke start from installing three ice on turn 1; René never answering Akhet/Ballista in the scoring remote; Descent recurring to HQ and being rezzed again each turn while the Runner keeps forcing the rez.
+- **Job K18** (frozen `aq`, `job-K18.clj`): puzzles; held-out review set seeds 910000–910019 (pre-registered, one fresh reviewer); the pre-registered replication set seeds 910020–910039 (another fresh reviewer); T2 on holdout-mix 900000–900299 with its own null.

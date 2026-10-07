@@ -1,0 +1,58 @@
+Review the CORP's play in this game.
+Winner:  (), turn 2
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Pinhole Threading.
+Runner uses Pinhole Threading to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses the replacement effect from Pinhole Threading.
+Runner spends click and pays 1 credits to play Pinhole Threading.
+Runner uses Pinhole Threading to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses the replacement effect from Pinhole Threading.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 1 with 1 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp is ending their turn 2 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 2 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 1.
+Corp pays 6 credits to rez Ansel 1.0 protecting R&D at position 1.
+Runner encounters Ansel 1.0 protecting R&D at position 1.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Daily Casts.
+Corp trashes Ansel 1.0 protecting R&D at position 1 and ice protecting R&D at position 0.
+Corp pays 0 credits to use Ansel 1.0 to install ice from HQ protecting R&D.
+Corp resolves 2 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives").

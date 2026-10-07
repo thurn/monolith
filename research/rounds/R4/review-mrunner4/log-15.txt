@@ -1,0 +1,119 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 4
+
+Corp takes a mulligan.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 13 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Carpe Diem.
+Runner identifies their mark to be R&D.
+Runner uses Carpe Diem to gain 4 credits.
+Runner uses Carpe Diem to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Blueberry!™ Diesel.
+Runner looks at the top 2 cards of the stack and adds one to the bottom of the stack.
+Runner uses Blueberry!™ Diesel to draw 2 cards.
+Runner is ending their turn 1 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 13 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Mindscaping.
+Corp uses Mindscaping to gain 4 credits and draw 2 cards.
+Corp uses Mindscaping to add 1 card from HQ to the top of R&D.
+Corp spends click and pays 2 credits to play Mindscaping.
+Corp uses Mindscaping to gain 4 credits and draw 2 cards.
+Corp uses Mindscaping to add 1 card from HQ to the top of R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 12 credits and 5 cards in the grip.
+Runner spends clickclick and pays 1 credits to play Lie Low.
+Runner uses Lie Low to draw 4 cards.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 2 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 17 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 3 with 17 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 1 credits to play Carpe Diem.
+Runner identifies their mark to be HQ.
+Runner uses Carpe Diem to gain 4 credits.
+Runner uses Carpe Diem to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Anemone protecting HQ at position 0.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Blueberry!™ Diesel and Info Bounty due to net damage.
+Runner encounters Anemone protecting HQ at position 0.
+Runner has no further action.
+Corp uses Anemone to do 1 net damage.
+Corp trashes Daily Casts due to net damage.
+Corp resolves 1 unbroken subroutine on Anemone ("[subroutine] Do 1 net damage").
+Runner passes Anemone protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Prāna Condenser from HQ.
+Runner pays 4 credits to trash Prāna Condenser from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Revolver.
+Runner is ending their turn 3 with 7 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 4 with 14 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Hybrid Release and gains 1 agenda point.
+Corp uses Hybrid Release to install a card from Archives in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 4 with 11 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 2 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Docklands Pass.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Anemone protecting HQ at position 0.
+Runner encounters Anemone protecting HQ at position 0.
+Runner pays 2 credits and spends 1 hosted power counter from on Revolver to increase the strength of Revolver to 4 and break all  subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Longevity Serum from HQ.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner accesses Fujii Asset Retrieval from HQ.
+Runner steals Fujii Asset Retrieval and gains 3 agenda points.
+Runner wins the game.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Mu Safecracker and Sure Gamble due to net damage.
