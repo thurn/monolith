@@ -1,5 +1,15 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-07 10:30 (R4, autonomous phase)
+
+- **Best agent:** RC23 candidate (`rounds/R4/job-AW.clj`): RC12 spec + Corp `:rd-exposure` 1.0, `:score-margin` 30, no Runner-model knobs in the Corp weights; Runner `:w-damage` 3.0, `:w-tag` 2.0; on code with ~40 modern-card fixes.
+- **Ladder:** T2 met only by RC1 (RC18 held-out Corp g_c +0.40). T3 puzzles met. T3 review not met: held-out RC1 2.80, RC4 2.90, RC7 3.10, RC12 2.60, RC18 3.00 (replication set 3.30; RC18 level 3.15 over 20 games).
+- **Proxies:** the eight modern dev matchups (`sweep/modern-mix`), especially the four with held-out archetype identities (modern-e…h), track the held-out level (RC19 2.60 there ≈ held-out). Gate for the next held-out shot (pre-registered): two modern sets pooled ≥ 3.5 and a Runner-only modern set ≥ 3.2; a T3 pass must replicate on seeds 910020–910039.
+- **T2/T3 tension:** human-like Corp choices cost win rate against `:s1ref`; dropping the Runner-model knobs from the Corp weights recovered some (AT: +30/−15 on modern decks).
+- **Running:** AW (RC23 review sets). Monitor re-arm needed after 30 min.
+- **Next 3:** (1) score AW; fix top errors via constructed positions (`research/diag/position.clj`) and replays (`remotediag.clj`, `runnerplan.clj`); (2) when the gate is met: held-out confirmation + replication (copy `job-K18.clj`); (3) Bellona-style steal costs vs post-break credits (the one failing dev puzzle).
+- **Commit rule:** AI code only after a smoke run with 0 stalls (a paren error once broke every game).
+
 ## Status 2026-10-07 04:45 (R4, autonomous phase)
 
 - **Best agent:** RC18 candidate (RC12 spec + Corp `:rd-exposure`, Runner `:w-damage` 3.0; `rounds/R4/job-AQ.clj`), on code with ~20 modern-card knowledge fixes since RC12.
