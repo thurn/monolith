@@ -43,9 +43,19 @@
         usable? #(or (not (re-find #"(?i)spend credits only from <strong>stealth" (str (:text (cards/printed (:title %))))))
                      (pos? @stealth))
         bs (filter #(and (cards/icebreaker? (:title %)) (usable? %)) (:program (get-in obs [:runner :rig])))
+        ;; heap breakers (Paperclip, Black Orchestra, MKUltra) in the heap can be installed mid-encounter:
+        ;; usable at their install cost once per run (review-runner2: a Magnet remote looked impassable)
+        installed (set (map :title bs))
+        heap (->> (get-in obs [:runner :discard])
+                  (filter #(and (:title %) (cards/icebreaker? (:title %)) (not (installed (:title %)))
+                                (re-find #"(?i)install this program from your heap" (str (:text (cards/printed (:title %)))))))
+                  (reduce (fn [m c] (assoc m (:title c) c)) {}) vals)
         n (count bs)
         grip (count (get-in obs [:runner :hand]))]
-    (keep #(cards/breaker-model (assoc % :monolith-grip grip) n) bs)))
+    (concat (keep #(cards/breaker-model (assoc % :monolith-grip grip) n) bs)
+            (keep #(some-> (cards/breaker-model {:title (:title %) :monolith-grip grip} (inc n))
+                           (assoc :heap true :install-cost (cards/play-cost (:title %))))
+                  heap))))
 
 (defn visible-corp-titles
   "Corp card titles whose identity this observation shows (any zone)."

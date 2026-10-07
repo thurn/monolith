@@ -53,9 +53,12 @@
   [ctx i st ice]
   (let [opts (concat
               (for [b (:breakers ctx)
-                    :let [c (cards/break-cost b ice)]
+                    :let [ic (if (and (:heap b) (not (contains? (:heaped st) (:title b)))) (:install-cost b 0) 0)
+                          c (some-> (cards/break-cost b ice) (+ ic))]
                     :when (and c (<= c (:credits st)))]
-                {:how [:break (:title b) c] :st (cond-> (update st :credits - c) (:no-access b) (assoc :no-access true))})
+                {:how [:break (:title b) c] :st (cond-> (update st :credits - c)
+                                                  (:no-access b) (assoc :no-access true)
+                                                  (:heap b) (update :heaped (fnil conj #{}) (:title b)))})
               [{:how [:fire] :st (fire-subs st ice)}])]
     (apply max-key :u
            (for [{:keys [how st]} opts]
