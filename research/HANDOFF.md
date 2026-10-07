@@ -1,5 +1,13 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-07 01:30 (R4, autonomous phase)
+
+- **Best agent:** RC12 = RC7 + core-damage + tag-threat (both sides) + Runner rez-tax 0.5, run-ap-eval 1.0, run-click-credit 1.0 (`rounds/R4/job-K12.clj`, frozen `ah`). Dev reviews 21 + 22 pooled **3.50** (Corp 3.5, Runner 3.5); modern-deck Runner diagnostic 3.30.
+- **Ladder:** T2 met only by RC1 (RC7 held-out g_c +0.55 < 0.85; Runner fine). T3 puzzles met (RC7 13/13). T3 review: RC1 2.80, RC4 2.90, RC7 3.10 (Corp 3.8, Runner 2.4); **RC12's held-out confirmation (K12) is running**.
+- **Running:** K12 (puzzles → held-out review set → T2), AE (RC1's Corp on RC1's code, corp-proxy: code-regression test for the held-out Corp drop).
+- **Next 3:** (1) score K12's held-out review with one fresh reviewer; if T3 passes, report and continue on T2's Corp; (2) RC13 = RC12 + always-on fixes since `ah` (Stimhack prune, no-op prune, fast run calculator) + Corp central-ice-first: modern Runner set + 2 dev sets + dev-mix A/B; (3) held-out Corp T2: AE result, then bisect code changes since RC1 on a harder Corp set than corp-proxy.
+- **Method that worked this session:** Runner-only review sets on modern dev decks (Worlds 2019–2022) plus replays (`research/diag/remotediag.clj`, `icepool.clj`, `runnerplan.clj`), and uniform knowledge audits of every card in all deck lists. Each set costs ~10 min of compute and one reviewer.
+
 ## Status 2026-10-06 19:45 (R4, autonomous phase)
 
 - **Best agent:** RC7 = `{:corp-opts RC4 − dig-ice, :runner-opts RC4 + remote-denial 0.5 + run-urgency 0.3 + late-tag-removal}` (`rounds/R4/job-K7.clj`, frozen `y`). Dev reviews 13 + 14 pooled **3.50** (Corp 3.6, Runner 3.4) = gate met. Dev mix vs `:s1ref`: Corp ~0.94, Runner ~0.81.
