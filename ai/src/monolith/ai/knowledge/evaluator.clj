@@ -51,7 +51,7 @@
        (not-any? #(and (:rezzed %) (not= (:cid %) (:cid c)) (re-find #"(?i)harmonic" (str (:subtype (cards/printed (:title %))))))
                  (mapcat :ices (vals (get-in obs [:corp :servers]))))))
 
-(defn- ice-value [obs breakers server-weight ices]
+(defn- ice-value [obs w breakers server-weight ices]
   (reduce + 0.0
           (map-indexed
            (fn [i c]
@@ -59,6 +59,12 @@
              (let [m (if (and (:rezzed c) (:current-strength c)) (cards/ice-model c) (cards/printed-ice-model (:title c) false))
                    base (min 3.0 (+ 1.0 (* 0.3 (:strength m)) (if (some :etr (:subs m)) 0.8 0.0)))
                    base (if (harmonic-locked? obs c) (* 0.2 base) base)
+                   ;; :unaffordable-ice k: unrezzed ice the Corp cannot pay to rez now is worth k of its value
+                   ;; (reviews m22-m28: a broke Corp's unrezzed R&D ice let the Runner in 3-4 times a turn)
+                   base (if (and (:unaffordable-ice w) (not (:rezzed c))
+                                 (> (+ (:rez-cost m 0) 0) (get-in obs [:corp :credit] 0)))
+                          (* (:unaffordable-ice w) base)
+                          base)
                    covered (some #(cards/can-break-type? % m) breakers)]
                (* server-weight base (if covered 0.6 1.0) (nth [1.0 0.7 0.5 0.4 0.3] (min i 4)))))
            ices)))
@@ -332,7 +338,7 @@
                                                (= :archives k) 0.1
                                                (spare k) 0.15
                                                :else 0.7)]]
-                            (ice-value s breakers wt (:ices srv)))))
+                            (ice-value s w breakers wt (:ices srv)))))
      :rig (+ (* 4.0 (count covered))
              ;; with :grip-breakers, breakers in the grip for still-uncovered types count partly
              (if (:grip-breakers w)

@@ -1,0 +1,297 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 9
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez F2P protecting HQ at position 0.
+Runner encounters F2P protecting HQ at position 0.
+Runner has no further action.
+Corp uses F2P to add 1 installed card to the grip.
+Corp adds Telework Contract to the grip.
+Corp uses F2P to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on F2P ("[subroutine] Add an installed Runner card to the grip" and "[subroutine] Give the Runner 1 tag").
+Runner passes F2P protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oracle Thinktank from HQ.
+Runner steals Oracle Thinktank and gains 1 agenda point.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Corp uses Oracle Thinktank to give the Runner 1 tag.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 1 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 7 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits and lose click.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Vasilisa protecting R&D at position 0.
+Runner encounters Vasilisa protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vasilisa to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Vasilisa ("[subroutine] Give the Runner 1 tag").
+Runner passes Vasilisa protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 11 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches F2P protecting HQ at position 0.
+Runner encounters F2P protecting HQ at position 0.
+Runner has no further action.
+Corp uses F2P to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on F2P ("[subroutine] Add an installed Runner card to the grip" and "[subroutine] Give the Runner 1 tag").
+Runner passes F2P protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses IP Enforcement from HQ.
+Runner spends click to make a run on R&D.
+Runner approaches Vasilisa protecting R&D at position 0.
+Runner encounters Vasilisa protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vasilisa to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Vasilisa ("[subroutine] Give the Runner 1 tag").
+Runner passes Vasilisa protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 3 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click, pays 2 credits, and removes 1 tag to play Backroom Machinations.
+Corp uses Backroom Machinations to add itself to the score area as an agenda worth 1 agenda point.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 12 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Rigging Up.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Into the Depths.
+Runner uses Into the Depths to make a run on R&D.
+Runner approaches Vasilisa protecting R&D at position 0.
+Runner encounters Vasilisa protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vasilisa to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Vasilisa ("[subroutine] Give the Runner 1 tag").
+Runner passes Vasilisa protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Into the Depths to gain 4 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 3 credits to trash Daily Quest from R&D.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner is ending their turn 4 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click, pays 2 credits, and removes 1 tag to play Backroom Machinations.
+Corp uses Backroom Machinations to add itself to the score area as an agenda worth 1 agenda point.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 12 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Vasilisa protecting R&D at position 0.
+Runner encounters Vasilisa protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vasilisa to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Vasilisa ("[subroutine] Give the Runner 1 tag").
+Runner passes Vasilisa protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Artificial Cryptocrash and gains 2 agenda points.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Vasilisa protecting R&D at position 0.
+Runner encounters Vasilisa protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vasilisa to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Vasilisa ("[subroutine] Give the Runner 1 tag").
+Runner passes Vasilisa protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 5 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play IP Enforcement.
+Corp uses IP Enforcement to do nothing.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 10 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches F2P protecting HQ at position 0.
+Runner encounters F2P protecting HQ at position 0.
+Runner has no further action.
+Corp uses F2P to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on F2P ("[subroutine] Add an installed Runner card to the grip" and "[subroutine] Give the Runner 1 tag").
+Runner passes F2P protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hype Machine from HQ.
+Runner spends click to make a run on R&D.
+Runner approaches Vasilisa protecting R&D at position 0.
+Runner encounters Vasilisa protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vasilisa to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Vasilisa ("[subroutine] Give the Runner 1 tag").
+Runner passes Vasilisa protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 6 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 9 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Vasilisa protecting R&D at position 0.
+Runner encounters Vasilisa protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vasilisa to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Vasilisa ("[subroutine] Give the Runner 1 tag").
+Runner passes Vasilisa protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Public Trail.
+Corp uses Public Trail to give the runner 1 tag.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 8 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Vasilisa protecting R&D at position 0.
+Runner encounters Vasilisa protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vasilisa to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Vasilisa ("[subroutine] Give the Runner 1 tag").
+Runner passes Vasilisa protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches F2P protecting HQ at position 0.
+Runner encounters F2P protecting HQ at position 0.
+Runner has no further action.
+Corp uses F2P to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on F2P ("[subroutine] Add an installed Runner card to the grip" and "[subroutine] Give the Runner 1 tag").
+Runner passes F2P protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hype Machine from HQ.
+Runner is ending their turn 8 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play IP Enforcement.
+Corp uses IP Enforcement to do nothing.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 7 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Vasilisa protecting R&D at position 0.
+Runner encounters Vasilisa protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vasilisa to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Vasilisa ("[subroutine] Give the Runner 1 tag").
+Runner passes Vasilisa protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Next Big Thing and gains 3 agenda points.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Vasilisa protecting R&D at position 0.
+Runner encounters Vasilisa protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vasilisa to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Vasilisa ("[subroutine] Give the Runner 1 tag").
+Runner passes Vasilisa protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Kingmaking and gains 2 agenda points.
+Runner wins the game.
