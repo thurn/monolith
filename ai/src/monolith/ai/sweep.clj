@@ -27,6 +27,11 @@
   for the Runner against held-out Corps of that kind (R4)."
   [:worlds-2012-b :classique-2022-d :classique-2023-d :classique-2025-d :classique-2026-b :worlds-2013-a :worlds-2012-a :worlds-2022-b])
 
+(def corp-hard
+  "Dev matchups where the champion's Corp wins least vs :s1ref (64-88% on jobs X/Y/AD; corp-proxy sits
+  at ~93%, too near the ceiling to show Corp differences). Chosen from dev results only (R4, 2026-10-07)."
+  [:classique-2025-a :worlds-2017-a :worlds-2020-a :worlds-2018-b :classique-2022-a :worlds-2017-b :worlds-2019-a :worlds-2021-a])
+
 (def holdout-mix [:worlds-2023-a :worlds-2023-b :worlds-2024-a :worlds-2024-b :worlds-2025-a :worlds-2025-b])
 
 (defn deck-keys [m] [(keyword (str (name m) "-corp")) (keyword (str (name m) "-runner"))])
