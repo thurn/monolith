@@ -80,10 +80,12 @@
                 (range) subs)))))
 
 (defn unbroken-damage
-  "Net damage an ice does when its encounter ends without it being fully broken (Anansi), from text."
+  "Net damage an ice does when its encounter ends without it being fully broken (Anansi), from text;
+  Saisentan's chosen-type bonus counts as 1 more."
   [title]
-  (some-> (re-find #"(?i)if the runner did not fully break it, do (\d+) net damage" (str (:text (printed title))))
-          second parse-long))
+  (let [txt (str (:text (printed title)))]
+    (or (some-> (re-find #"(?i)if the runner did not fully break it, do (\d+) net damage" txt) second parse-long)
+        (when (re-find #"(?i)whenever you trash a card of the chosen type with net damage" txt) 1))))
 
 (defn rez-damage
   "Net damage the Corp can do when it rezzes this ice during a run (Anemone: trash a card from HQ to do 2)."

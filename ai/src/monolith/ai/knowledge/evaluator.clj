@@ -170,17 +170,26 @@
 
 (def ^:private econ-potential* (memoize econ-potential))
 
+(defn- exposed?
+  "Corp card in an iceless remote whose trash cost the Runner can pay."
+  [s c]
+  (let [[_ k] (:zone c)]
+    (boolean (and k (str/starts-with? (name k) "remote")
+                  (empty? (get-in s [:corp :servers k :ices]))
+                  (>= (get-in s [:runner :credit] 0) (or (cards/trash-cost (:title c)) 99))))))
+
 (defn- asset-econ
   "Corp economy assets: rezzed per-turn gainers at their potential (loaded credits on rezzed cards
-  are already in :hosted-credits); unrezzed ones at 0.8 x (potential - rez cost)."
-  [corp-installed]
+  are already in :hosted-credits); unrezzed ones at 0.8 x (potential - rez cost), 0.3 x when exposed
+  (modern reviews: Nico Campaign installed naked and trashed turn after turn)."
+  [s corp-installed]
   (reduce + 0.0 (for [c corp-installed
                       :when (= "Asset" (:type c))
                       :let [pot (econ-potential* (:title c))]
                       :when pot]
                   (if (:rezzed c)
                     (if (re-find #"(?i)when your turn begins, gain" (str (:text (cards/printed (:title c))))) pot 0.0)
-                    (* 0.8 (max 0.0 (- pot (cards/play-cost (:title c)))))))))
+                    (* (if (exposed? s c) 0.3 0.8) (max 0.0 (- pot (cards/play-cost (:title c)))))))))
 
 (defn- central-threat
   "Runner's expected gain next turn from running HQ and R&D, as the Corp knows them (its own HQ
@@ -264,7 +273,7 @@
      ;; agendas piling up in HQ (beyond 2 points) are a liability the static terms underrate:
      ;; they are not progressing and leak to HQ runs and hand-size discards
      :hq-flood (- (* 0.5 ap-value (max 0 (- (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand))) 2))))
-     :asset-econ (if (pos? (get-in w [:eval :asset-econ] 0.0)) (asset-econ corp-installed) 0.0)
+     :asset-econ (if (pos? (get-in w [:eval :asset-econ] 0.0)) (asset-econ s corp-installed) 0.0)
      ;; tagged Runner with a small grip against a deck that kills (credits-equivalent of ~0.1 win per 1.0 probability)
      :kill-threat (if (pos? (get-in w [:eval :kill-threat] 0.0)) (* 100.0 (kill-threat s)) 0.0)
      :central-threat (if (pos? (get-in w [:eval :central-threat] 0.0)) (central-threat s w) 0.0)
