@@ -161,9 +161,21 @@
                                             (and ev (or (<= v 0.05) (<= (:p ev 1.0) 0.0)
                                                         ;; flatline risk dominates (one sampled ice can hide it from the plan)
                                                         (< (:u ev 0.0) -20.0))))))))]
-    (remove #(or (and (= :run (:type %)) (get-in % [:args :server]) (pointless (get-in % [:args :server])))
-                 (doomed-run-event? s o env %))
-            acts)))
+    (let [env-a (assoc env :actions acts :mem (atom {}))
+          ;; run events that cost core damage (Stimhack): kept only where S1's event valuation (core
+          ;; damage included) beats a plain run on the same server. Run lines are scored when the run
+          ;; starts, before the damage, so the plan never sees it (review-runner6: Stimhack on
+          ;; unprotected R&D/Archives in 5 of 10 games)
+          dominated (memoize
+                     (fn [a]
+                       (let [txt (str (:text (cards/printed (get-in a [:args :card :title]))))]
+                         (when (re-find #"(?i)suffer \d+ core damage" txt)
+                           (let [ev (filter #(identical? a (second %)) (s1/event-run-options env-a))]
+                             (every? (fn [[u _ k]] (<= u (s1/server-run-utility env-a k {}))) ev))))))]
+      (remove #(or (and (= :run (:type %)) (get-in % [:args :server]) (pointless (get-in % [:args :server])))
+                   (doomed-run-event? s o env %)
+                   (and (= "play" (:command %)) (dominated %)))
+              acts))))
 
 (defn- signature [s side]
   (hash [(get-in s [side :click]) (get-in s [:corp :credit]) (get-in s [:runner :credit])

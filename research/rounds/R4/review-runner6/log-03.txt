@@ -1,0 +1,312 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 7
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Black Orchestra (Program), D4v1d (Program), and I've Had Worse (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal D4v1d (Program), I've Had Worse (Event), and Paperclip (Program) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal I've Had Worse (Event), Paperclip (Program), and Clone Chip (Hardware) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 12 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Scarcity of Resources.
+Corp uses Scarcity of Resources to increase the install cost of resources by 2.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Paperclip (Program), Clone Chip (Hardware), and Stimhack (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Clone Chip (Hardware), Stimhack (Event), and Stargate (Program) from the top of the stack.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Stimhack (Event), Stargate (Program), and Hippo (Hardware) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Nisei MK II and gains 2 agenda points.
+Scarcity of Resources is trashed.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Stargate (Program), Hippo (Hardware), and Dirty Laundry (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Hippo (Hardware), Dirty Laundry (Event), and Knobkierie (Hardware) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Dirty Laundry (Event), Knobkierie (Hardware), and Inject (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 18 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Knobkierie (Hardware), Inject (Event), and Sure Gamble (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Inject (Event), Sure Gamble (Event), and Sure Gamble (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Sure Gamble (Event), Sure Gamble (Event), and Street Peddler (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Sure Gamble (Event), Street Peddler (Resource), and Yusuf (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Street Peddler (Resource), Yusuf (Program), and Dirty Laundry (Event) from the top of the stack.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Yusuf (Program), Dirty Laundry (Event), and I've Had Worse (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Dirty Laundry (Event), I've Had Worse (Event), and Paperclip (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal I've Had Worse (Event), Paperclip (Program), and Daily Casts (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Paperclip (Program), Daily Casts (Resource), and Hippo (Hardware) from the top of the stack.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 0 credits to rez Rashida Jaheem in Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Daily Casts (Resource), Hippo (Hardware), and Inject (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Hippo (Hardware), Inject (Event), and Inject (Event) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Inject (Event), Inject (Event), and Hippo (Hardware) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Slot Machine protecting R&D at position 0.
+Runner encounters Slot Machine protecting R&D at position 0.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Inject (Event), Hippo (Hardware), and Knobkierie (Hardware) from the top of the stack.
+Runner has no further action.
+Corp uses Slot Machine to force the Runner to lose 3 credits.
+Corp uses Slot Machine to gain 3 credits.
+Corp resolves 3 unbroken subroutines on Slot Machine ("[subroutine] Runner loses 3 credits" and "[subroutine] Gain 3 credits" and "[subroutine] Place 3 advancement counters").
+Runner passes Slot Machine protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 28 credits and 5 cards in HQ.
+Corp uses Rashida Jaheem to gain 3 credits and draw 3 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends clickclick and pays 3 credits to play Celebrity Gift.
+Corp uses Celebrity Gift to reveal Bio Vault, Cyberdex Virus Suite, IPO, La Costa Grid, and NGO Front from HQ and gain 10 credits.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 4 with 37 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 1.
+Corp pays 2 credits to rez Thimblerig protecting R&D at position 1.
+Runner encounters Thimblerig protecting R&D at position 1.
+Runner has no further action.
+Corp uses Thimblerig to end the run.
+Corp resolves 1 unbroken subroutine on Thimblerig ("[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 8 credits to rez Anansi protecting HQ at position 0.
+Runner encounters Anansi protecting HQ at position 0.
+Runner has no further action.
+Corp uses Anansi to rearrange the top 5 cards of R&D.
+Corp uses Anansi to draw 1  card.
+Corp uses Anansi to does not draw 1 card.
+Corp uses Anansi to do 1 net damage.
+Corp trashes Imp due to net damage.
+Corp resolves 3 unbroken subroutines on Anansi ("[subroutine] Rearrange the top 5 cards of R&D" and "[subroutine] Draw 1 card, runner draws 1 card" and "[subroutine] Do 1 net damage").
+Corp uses Anansi to do 3 net damage.
+Corp trashes Clone Chip, D4v1d, and Self-modifying Code due to net damage.
+Runner passes Anansi protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner is ending their turn 4 with 0 credits and 1 card in the grip.
+[hr]
+Corp started their turn 5 with 28 credits and 6 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 1 with Anansi protecting HQ at position 0.
+Corp makes their mandatory start of turn draw.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Knobkierie (Hardware), Street Peddler (Resource), and MKUltra (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Street Peddler (Resource), MKUltra (Program), and Stimhack (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal MKUltra (Program), Stimhack (Event), and Consume (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Stimhack (Event), Consume (Program), and Street Peddler (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Consume (Program), Street Peddler (Resource), and Liberated Account (Resource) from the top of the stack.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 0 credits to rez NGO Front in Server 2.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Street Peddler (Resource), Liberated Account (Resource), and Stimhack (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Liberated Account (Resource), Stimhack (Event), and Pelangi (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Stimhack (Event), Pelangi (Program), and Liberated Account (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Pelangi (Program), Liberated Account (Resource), and I've Had Worse (Event) from the top of the stack.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp pays 0 credits to rez NGO Front in Server 3.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Liberated Account (Resource), I've Had Worse (Event), and Daily Casts (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal I've Had Worse (Event), Daily Casts (Resource), and Yusuf (Program) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Daily Casts (Resource), Yusuf (Program), and Liberated Account (Resource) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Yusuf (Program), Liberated Account (Resource), and Sure Gamble (Event) from the top of the stack.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Liberated Account (Resource), Sure Gamble (Event), and Daily Casts (Resource) from the top of the stack.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 29 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 0 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 30 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting HQ at position 0 with Anansi protecting R&D at position 1.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 6 with 35 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 2 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 6 with 9 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 7 with 35 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 1 with Anansi protecting HQ at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp spends click to install a card in the root of Server 4.
+Corp uses Slot Machine to put the top card of the stack to the bottom, then reveal Dirty Laundry (Event), Black Orchestra (Program), and D4v1d (Program) from the top of the stack.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp is ending their turn 7 with 34 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 9 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 4.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 8 credits to rez Anansi protecting Server 4 at position 0.
+Runner encounters Anansi protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Anansi to rearrange the top 5 cards of R&D.
+Corp uses Anansi to draw 1  card.
+Corp pays 2 credits to use Anansi to draw 1 card.
+Corp uses Anansi to do 1 net damage.
+Corp trashes Inject due to net damage.
+Corp resolves 3 unbroken subroutines on Anansi ("[subroutine] Rearrange the top 5 cards of R&D" and "[subroutine] Draw 1 card, runner draws 1 card" and "[subroutine] Do 1 net damage").
+Corp uses Anansi to do 3 net damage.
+Corp trashes Black Orchestra and Liberated Account due to net damage.
+Runner is flatlined.
+Corp wins the game.
+Runner passes Anansi protecting Server 4 at position 0.
