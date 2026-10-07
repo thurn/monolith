@@ -425,3 +425,20 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - The candidates were mostly Corp knobs; as Runner they act only through the evaluator/opponent model, so the Runner side was a weak test.
 - Side finding for the main track: RC1 is a large Corp gain head-to-head vs champion; on the Runner side rerank-anchor and hq-flood hurt, so a Runner `:runner-opts` without them is worth an A/B.
 - **Job X** (frozen `x`, fixed code, 300 paired seeds): RC4 Corp 0.933 / Runner 0.773; RC6 vs RC4 Corp +8/−7, Runner **+21/−15** (p=0.41), g +2.24/+2.59; corp-proxy RC6 vs RC4 **+10/−4** (p=0.18). RC6 is at least as strong as RC4 on both sides and better on the held-out-like Corp set. Job Y started automatically when X ended.
+
+### 2026-10-06 19:30 — Machine reboot; job Y results; job Z
+
+- The machine rebooted overnight (cause unknown; no OOM entries checked yet). Job Y had already finished; nothing was lost, but its results were not logged and dev reviews 13–14 were not scored.
+- **Job Y** (frozen `y`, 300 paired seeds, dev mix): RC6 Corp 0.943 / Runner 0.797 (g +2.34/+2.64); RC7 (= RC6 + late-tag-removal) vs RC6 Corp +1/−3 (p=0.63), Runner **+10/−6** (p=0.45). Neutral-positive; RC7 stays the candidate if its reviews agree.
+- Dev review sets 13 and 14 (RC7, seeds 200640–200679) generated; scoring them now with fresh Opus reviewers, one after the other.
+- **Job Z** (frozen `y`, 16 threads): search budget on RC7, paired with job Y's `y-rc7` rows: `z-big` (max-apps 6000, beam 8) and `z-rr2` (rerank rollouts two turns deep, 2 samples). Question: does more search fix the review-flagged Runner errors (they are mostly one-turn tactical: Siphon into known ice, steals into Punitive) without card-specific rules?
+
+### 2026-10-06 — Dev reviews 13 + 14 (RC7): pooled **3.50** — gate met; RC7 held-out confirmation launched
+
+- Dev review 13 (RC7, seeds 200640–200659, fresh Opus reviewer): candidate **3.60** (Corp 3.8, Runner 3.4), blunders 0.20, wasted 3.2; `:s1ref` 1.30.
+- Dev review 14 (seeds 200660–200679, another fresh reviewer): candidate **3.40** (Corp 3.4, Runner 3.4), blunders 0.40, wasted 5.1; `:s1ref` 2.10.
+- Pooled over 20 candidate games: **3.50** (Corp 3.6, Runner 3.4), blunders 0.30. The gate (pooled ≥ 3.5) is met, at its edge. The Runner rose from 2.9 (RC6, reviews 11–12) to 3.4; the remaining Runner notes: Stimhack (core damage) spent on runs that need no credits (4 games), sitting on 15–30 credits while not contesting a scoring remote, paying every turn to clear harmless tags (Joshua B., Data Ward), a known Cobra firing when Cloak's stealth credit was gone (Switchblade can only use stealth credits; our knowledge has no stealth model), tagged with a 3-card grip vs Weyland at end of turn (Scorched Earth). Corp: R&D/HQ left unprotected for several early turns (3 games), Hard-Hitting News with no follow-up.
+- Honest expectation: the held-out drop so far was ~0.3–0.7 (RC4 dev 3.60 → held-out 2.90, RC1 dev ~3.0 → 2.80), and NBN/Jinteki held-out decks punish the weaker Runner. A pass needs the held-out set to land at least at the dev level. Per protocol the gate decides, so the shot is taken now.
+- **Job K7** (frozen `y` = review code, `job-K7.clj`): RC7 puzzles (dev + held-out suites, and `:s1ref`), held-out review set seeds 910000–910019 (one fresh Opus reviewer), then T2 on `holdout-mix` seeds 900000–900299 with its own null. Bars unchanged.
+- Job Z (search budget) stopped at 87 rows to free the CPU; rerun after K7.
+- Code since `y` (master, for later candidates): Inside Job-style bypass events are valued by what bypassing the first ice saves (S1 run choice, server prompt), and pruned under `:prune-runs` when bypassing saves nothing anywhere (review 12: Inside Job twice past an Enigma Yog.0 breaks for 0); "add an installed Runner card to the grip" subroutines (Archangel and co.) cost like a trashed program in the run calculator (review 11: rig rebuilt and bounced each turn).
