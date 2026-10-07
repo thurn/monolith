@@ -24,6 +24,8 @@
     (cond-> {}
       (re-find #"end the run if the runner has (\d+)" l) (assoc :etr-if-credits<= (n #"has (\d+)"))
       (re-find #"end the run if the runner is tagged" l) (assoc :etr-if-tagged true)
+      ;; Piranhas: ETR while the Corp's HQ outnumbers the Runner's grip
+      (re-find #"end the run if there are more cards in hq than in the grip" l) (assoc :etr-if-hq-bigger true)
       (re-find #"if there are (\d+) or more hosted advancement counters, end the run" l)
       (assoc :etr-if-adv (n #"if there are (\d+) or more hosted advancement counters, end the run"))
       ;; "End the run unless the Runner pays N [Credits]" (Pop-up Window): a tax, not a wall

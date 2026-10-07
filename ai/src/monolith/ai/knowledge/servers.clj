@@ -58,6 +58,9 @@
             ;; non-icebreaker break sources ignore strength: break hardware (Endurance; Boomerang only on
             ;; its chosen ice) and Trojans hosted on ice (Botulus: only its host)
             (keep (fn [c] (when-let [m (and (re-find #"(?i)\bbreak (up to|1|any)" (str (:text (cards/printed (:title c)))))
+                                            ;; Poison Vial-style supplements break only after another breaker did
+                                            ;; (review-m13: Piranhas/Ping run as if Poison Vial alone broke them)
+                                            (not (re-find #"(?i)only if you have already broken a subroutine" (str (:text (cards/printed (:title c))))))
                                             (cards/breaker-model c n))]
                             (cond-> (assoc m :ignore-strength true)
                               (get-in c [:special :boomerang-target]) (assoc :only-cid (get-in c [:special :boomerang-target :cid])))))
@@ -338,6 +341,7 @@
     :breakers (icebreakers obs)
     :credits (+ (get-in obs [:runner :credit]) credits-bonus)
     :hand (count (get-in obs [:runner :hand]))
+    :corp-hand (count (get-in obs [:corp :hand]))
     :corp-credits (get-in obs [:corp :credit])
     :pool (ice-pool obs corp-decklist)
     :value value
