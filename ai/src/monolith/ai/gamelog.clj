@@ -41,11 +41,12 @@
   with the reviewed side alternating Corp/Runner so each agent is reviewed equally often on each
   side. Writes <dir>/log-XX.txt (shuffled by a fixed seed, no agent names) and
   beside it as <dir>-key.edn (the sealed mapping; never in the reviewer's directory). Returns the key."
-  [{:keys [candidate ref matchups seeds dir shuffle-seed threads] :or {ref :s1ref shuffle-seed 20261004 threads 3}}]
+  [{:keys [candidate ref matchups seeds dir shuffle-seed threads side-only] :or {ref :s1ref shuffle-seed 20261004 threads 3}}]
   (let [games (for [[i s] (map-indexed vector seeds)
                     :let [m (nth matchups (mod i (count matchups)))
                           reviewed (if (even? i) :candidate :ref)
-                          side (if (even? (quot i 2)) :corp :runner)
+                          ;; :side-only :runner reviews every game from the Runner side (diagnostic sets)
+                          side (or side-only (if (even? (quot i 2)) :corp :runner))
                           spec {:candidate candidate :ref ref}
                           me (spec reviewed)
                           other (spec (if (= reviewed :candidate) :ref :candidate))]]
