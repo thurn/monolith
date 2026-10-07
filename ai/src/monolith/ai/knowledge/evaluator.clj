@@ -264,7 +264,14 @@
                           eff (reduce + 0.0 (for [c (srv/ices s :rd)
                                                   :let [m (cards/printed-ice-model (:title c) false)]]
                                               (if (some #(cards/can-break-type? % m) breakers) 0.4 1.0)))]
-                      (- (* ap-value (/ rd-ap (double (max 1 (count deck)))) 3.0 (/ 0.7 (+ 1.0 (* 1.5 eff))))))
+                      (let [dens (/ rd-ap (double (max 1 (count deck))))
+                            ;; HQ's share: agendas the Corp will draw into HQ (~2 cards a turn), on top of the
+                            ;; agendas already there (:hq-exposure) (modern review 8: HQ bare until turn 10)
+                            hq-eff (reduce + 0.0 (for [c (srv/ices s :hq)
+                                                       :let [m (cards/printed-ice-model (:title c) false)]]
+                                                   (if (some #(cards/can-break-type? % m) breakers) 0.4 1.0)))]
+                        (- (+ (* ap-value dens 3.0 (/ 0.7 (+ 1.0 (* 1.5 eff))))
+                              (* ap-value dens 2.0 (/ 0.7 (+ 1.0 (* 1.5 hq-eff))))))))
                     0.0)
      :hq-agenda-cost (- (* 2.0 (reduce + 0 (for [c corp-hand :when (= "Agenda" (:type c))]
                                               (or (:advancementcost (cards/printed (:title c))) 5)))))
