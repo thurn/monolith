@@ -1,0 +1,283 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 10
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 1 credits to rez Commercial Bankers Group in Server 1.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp is ending their turn 1 with 4 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 1 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 4 credits and 3 cards in HQ.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 1 credits to rez Commercial Bankers Group in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 8 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 2 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 8 credits and 3 cards in HQ.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 1 credits to rez Commercial Bankers Group in Server 3.
+Corp is ending their turn 3 with 14 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 12 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 14 credits and 4 cards in HQ.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp is ending their turn 4 with 23 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 16 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 23 credits and 4 cards in HQ.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp pays 0 credits to rez Rashida Jaheem in Server 4.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp pays 2 credits to rez Jeeves Model Bioroids in Server 5.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 5 with 27 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 20 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Stimhack.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 8 credits to rez Tollbooth protecting Server 1 at position 0.
+Runner encounters Tollbooth protecting Server 1 at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner uses Stimhack to suffer 1 core damage.
+Runner trashes Hippo due to core damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 17 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 19 credits and 4 cards in HQ.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Rashida Jaheem to gain 3 credits and draw 3 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 6 (new remote).
+Corp spends click to install a card in the root of Server 6.
+Corp uses Jeeves Model Bioroids to gain click.
+Corp spends click to install a card in the root of Server 7 (new remote).
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp pays 2 credits to rez Marilyn Campaign in Server 7.
+Corp is ending their turn 6 with 23 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 17 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 6 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 23 credits and 4 cards in HQ.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Marilyn Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp uses Jeeves Model Bioroids to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores Project Beale and gains 2 agenda points.
+Corp spends click to install a card in the root of Server 6.
+Corp is ending their turn 7 with 28 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 9 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 6.
+Runner approaches ice protecting Server 6 at position 0.
+Corp pays 2 credits to rez IP Block protecting Server 6 at position 0.
+Runner encounters IP Block protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Server 6.
+Runner approaches IP Block protecting Server 6 at position 0.
+Runner encounters IP Block protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 7 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 26 credits and 4 cards in HQ.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Marilyn Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 8 (new remote).
+Corp pays 0 credits to rez Rashida Jaheem in Server 8.
+Corp uses Jeeves Model Bioroids to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp pays 0 credits to rez Mumbad Virtual Tour in Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp is ending their turn 8 with 32 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 5 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 6.
+Runner approaches IP Block protecting Server 6 at position 0.
+Runner encounters IP Block protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Server 6.
+Runner approaches IP Block protecting Server 6 at position 0.
+Runner encounters IP Block protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 8 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 32 credits and 5 cards in HQ.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Marilyn Campaign to gain 2 credits.
+Corp uses Rashida Jaheem to gain 3 credits and draw 3 cards.
+Corp makes their mandatory start of turn draw.
+Corp uses Jeeves Model Bioroids to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores Remastered Edition and gains 2 agenda points.
+Corp spends click to install a card in the root of Server 6.
+Corp spends 1 hosted agenda counter from on Remastered Edition to use Remastered Edition to place 1 advancement counter on a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp discards 3 from HQ at end of turn.
+Corp is ending their turn 9 with 40 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 6.
+Runner approaches IP Block protecting Server 6 at position 0.
+Runner encounters IP Block protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 6.
+Runner approaches IP Block protecting Server 6 at position 0.
+Runner encounters IP Block protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 6.
+Runner approaches IP Block protecting Server 6 at position 0.
+Runner encounters IP Block protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click to make a run on Server 6.
+Runner approaches IP Block protecting Server 6 at position 0.
+Runner encounters IP Block protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner is ending their turn 9 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 40 credits and 5 cards in HQ.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Commercial Bankers Group to gain 3 credits.
+Corp uses Marilyn Campaign to gain 2 credits.
+Corp uses Marilyn Campaign to shuffle itself into R&D instead of moving it to Archives.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp uses Jeeves Model Bioroids to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores Bellona and gains 3 agenda points.
+Corp wins the game.
+Corp uses Bellona to gain 5 credits.

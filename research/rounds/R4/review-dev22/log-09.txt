@@ -1,0 +1,501 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 18
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner has no further action.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner is ending their turn 1 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 9 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Datasucker.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 1 credits to rez Ice Wall protecting Server 1 at position 0.
+Runner encounters Ice Wall protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ice Wall to end the run.
+Corp resolves 1 unbroken subroutine on Ice Wall ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp is ending their turn 3 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 10 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Clone Chip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner is ending their turn 3 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Accelerated Beta Test and gains 2 agenda points.
+Corp uses Accelerated Beta Test to look at the top 3 cards of R&D.
+Corp uses Accelerated Beta Test to trash 3  cards from the top of R&D.
+Corp is ending their turn 4 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 10 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Efficiency Committee from Archives.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 7 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 3 credits to play Test Run.
+Runner uses Test Run to install a program from the stack.
+Runner pays 0 credits to use Test Run to install Atman from the Stack (ignoring all costs).
+Runner pays 1 credits to use Atman to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Clone Chip to do nothing.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 5 with 6 credits and 5 cards in the grip.
+[hr]
+Runner uses Atman to add an installed Atman to the top of the stack.
+Corp started their turn 6 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 6 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Clone Chip to do nothing.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Atman.
+Runner pays 1 credits to use Atman to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to play Green Level Clearance.
+Corp uses Green Level Clearance to gain 3 credits and draw 1 card.
+Corp is ending their turn 7 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 7 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 4 credits to rez Rototurret protecting Server 1 at position 2.
+Runner encounters Rototurret protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Rototurret to trash Atman.
+Corp uses Rototurret to end the run.
+Corp resolves 2 unbroken subroutines on Rototurret ("[subroutine] Trash a program" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner trashes Clone Chip, and then pays 2 credits, to use Clone Chip to install Atman from the Heap.
+Runner pays 0 credits to use Atman to place 0 power counters on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 1 credits to play Green Level Clearance.
+Corp uses Green Level Clearance to gain 3 credits and draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 9 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Gila Hands Arcology and gains 1 agenda point.
+Corp is ending their turn 9 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 15 credits and 5 cards in the grip.
+Runner uses Clone Chip to do nothing.
+Runner spends click and pays 2 credits to install Desperado.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner uses Desperado to gain 1 credits.
+Runner breaches Server 2.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 10 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 10 with 17 credits and 5 cards in the grip.
+Runner uses Clone Chip to do nothing.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Corp pays 3 credits to rez Viper protecting Server 2 at position 1.
+Runner encounters Viper protecting Server 2 at position 1.
+Runner has no further action.
+Corp uses Viper to initiate a trace with strength 3 (Force the Runner to lose click).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Viper to force the Runner to lose click, if able.
+Corp uses Viper to initiate a trace with strength 3 (End the run).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 1.
+The trace was successful.
+Corp uses Viper to end the run.
+Corp resolves 2 unbroken subroutines on Viper ("[subroutine] Trace 3 - Force the Runner to lose click" and "[subroutine] Trace 3 - End the run").
+Runner uses Clone Chip to do nothing.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 3 credits, to use Self-modifying Code to install Atman from the Stack.
+Runner pays 3 credits to use Atman to place 3 power counters on itself.
+Runner trashes Clone Chip, and then pays 0 credits, to use Clone Chip to install Self-modifying Code from the Heap.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 11 with 10 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Rototurret protecting Server 1 at position 2.
+Runner encounters Rototurret protecting Server 1 at position 2.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Rototurret.
+Runner has no further action.
+Runner passes Rototurret protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 3 credits to rez Eli 1.0 protecting Server 1 at position 1.
+Runner encounters Eli 1.0 protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 2 credits, to use Self-modifying Code to install Atman from the Stack.
+Runner pays 4 credits to use Atman to place 4 power counters on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches Viper protecting Server 2 at position 1.
+Runner encounters Viper protecting Server 2 at position 1.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Viper.
+Runner has no further action.
+Runner passes Viper protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner uses Desperado to gain 1 credits.
+Runner breaches Server 2.
+Runner accesses Project Vitruvius from Server 2.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Accelerated Beta Test and gains 2 agenda points.
+Corp uses Accelerated Beta Test to look at the top 3 cards of R&D.
+Corp pays 0 credits to use Accelerated Beta Test to install Wall of Static from R&D protecting Archives.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp uses Accelerated Beta Test to rez Wall of Static protecting Archives at position 0 at no cost.
+Corp uses Accelerated Beta Test to trash 2  cards from the top of R&D.
+Corp is ending their turn 13 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Eli 1.0.
+Runner has no further action.
+Runner passes Eli 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Desperado to gain 1 credits.
+Runner breaches HQ.
+Runner accesses Adonis Campaign from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 6 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Rototurret protecting Server 1 at position 2.
+Runner encounters Rototurret protecting Server 1 at position 2.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Rototurret.
+Runner has no further action.
+Runner passes Rototurret protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Eli 1.0 protecting Server 1 at position 1.
+Runner encounters Eli 1.0 protecting Server 1 at position 1.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Eli 1.0.
+Runner has no further action.
+Runner passes Eli 1.0 protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Ice Wall protecting Server 1 at position 0.
+Runner encounters Ice Wall protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ice Wall to end the run.
+Corp resolves 1 unbroken subroutine on Ice Wall ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner has no further action.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner is ending their turn 14 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Director Haas' Pet Project and gains 1 agenda point.
+Corp uses Director Haas' Pet Project to install Adonis Campaign from Archives in the root of Server 4 (new remote).
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp uses Director Haas' Pet Project to install a card from HQ in the root of Server 4.
+Corp trashes a card in Server 4.
+Corp uses Director Haas' Pet Project to install a card from Archives in the root of Server 4.
+Corp trashes a card in Server 4.
+Corp is ending their turn 15 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 4 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Eli 1.0.
+Runner has no further action.
+Runner passes Eli 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Desperado to gain 1 credits.
+Runner breaches HQ.
+Runner accesses Jackson Howard from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 16 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 6 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 4.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 5 credits to rez Ichi 1.0 protecting Server 4 at position 0.
+Runner encounters Ichi 1.0 protecting Server 4 at position 0.
+Runner pays 3 credits to use Atman to break all 3 subroutines on Ichi 1.0.
+Runner has no further action.
+Runner passes Ichi 1.0 protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner uses Desperado to gain 1 credits.
+Runner breaches Server 4.
+Runner accesses Adonis Campaign from Server 4.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner has no further action.
+Corp uses Enigma to force the Runner to lose click, if able.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner spends click to make a run on Archives.
+Runner approaches Wall of Static protecting Archives at position 0.
+Runner encounters Wall of Static protecting Archives at position 0.
+Runner pays 1 credits to use Atman to break all 1 subroutines on Wall of Static.
+Runner has no further action.
+Runner passes Wall of Static protecting Archives at position 0.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Desperado to gain 1 credits.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Efficiency Committee from Archives.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner is ending their turn 16 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 4 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Kati Jones.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner has no further action.
+Corp uses Enigma to force the Runner to lose click, if able.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Eli 1.0.
+Runner has no further action.
+Runner passes Eli 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Desperado to gain 1 credits.
+Runner breaches HQ.
+Runner accesses SanSan City Grid from HQ.
+Runner is ending their turn 17 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 18 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp uses Haas-Bioroid: Engineering the Future to gain 1 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 18 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 18 with 1 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches Viper protecting Server 2 at position 1.
+Runner encounters Viper protecting Server 2 at position 1.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Viper.
+Runner has no further action.
+Runner passes Viper protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 4 credits to rez Rototurret protecting Server 2 at position 0.
+Runner encounters Rototurret protecting Server 2 at position 0.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Rototurret.
+Runner has no further action.
+Runner passes Rototurret protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner uses Desperado to gain 1 credits.
+Runner breaches Server 2.
+Runner accesses Project Vitruvius from Server 2.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner wins the game.
