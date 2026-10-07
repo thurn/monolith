@@ -1,0 +1,204 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 6
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click and pays 5 credits to install Carmen.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends clickclick and pays 3 credits to play Flood the Market.
+Corp uses Flood the Market to do nothing.
+Corp is ending their turn 2 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install Cezve.
+[!] Cezve - Recurring credits usage not restricted
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner has no further action.
+Corp uses N-Pot to end the run.
+Corp resolves 1 unbroken subroutine on N-Pot ("[subroutine] End the run").
+Runner is ending their turn 2 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 4 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 1 credits to rez Congratulations! protecting R&D at position 0.
+Runner encounters Congratulations! protecting R&D at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting R&D at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Post-Truth Dividend and gains 1 agenda point.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Congratulations! protecting R&D at position 0.
+Runner encounters Congratulations! protecting R&D at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting R&D at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Increased Drop Rates.
+Corp uses Increased Drop Rates to force the Runner to take 1 tag.
+Runner is ending their turn 3 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 2 credits to play Oppo Research.
+Corp uses Oppo Research to give the Runner 2 tags.
+Corp is ending their turn 4 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 8 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to make a run on R&D.
+Runner approaches Congratulations! protecting R&D at position 0.
+Runner encounters Congratulations! protecting R&D at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting R&D at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to install Docklands Pass.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 4 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 13 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 5 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 7 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Ping protecting Server 1 at position 0.
+Corp uses Ping to give the Runner 1 tag.
+Runner encounters Ping protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Ping to end the run.
+Corp resolves 1 unbroken subroutine on Ping ("[subroutine] End the run").
+Runner is ending their turn 5 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Witch Hunt and gains 2 agenda points.
+Corp uses Witch Hunt to take 1 bad publicity.
+Corp uses Witch Hunt to Remove all tags, and then give the Runner 3 tags.
+Corp is ending their turn 6 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 11 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Congratulations! protecting R&D at position 0.
+Runner encounters Congratulations! protecting R&D at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting R&D at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Freedom of Information and gains 2 agenda points.
+Runner spends click and pays 1 credits to play Tread Lightly.
+Runner uses Tread Lightly to make a run on R&D.
+Runner approaches Congratulations! protecting R&D at position 0.
+Runner encounters Congratulations! protecting R&D at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting R&D at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Stoke the Embers and gains 2 agenda points.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to install Laser Pointer.
+Runner spends click to make a run on R&D.
+Runner approaches Congratulations! protecting R&D at position 0.
+Runner encounters Congratulations! protecting R&D at position 0.
+Runner has no further action.
+Corp uses Congratulations! to gain 2 credits. The Runner gains 1 credits.
+Corp resolves 1 unbroken subroutine on Congratulations! ("[subroutine] Gain 2 credits. The Runner gains 1 credits").
+Runner passes Congratulations! protecting R&D at position 0.
+Corp uses Congratulations! to gain 1 credits.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Witch Hunt and gains 2 agenda points.
+Runner wins the game.
+Corp uses Witch Hunt to take 1 bad publicity.
