@@ -1,0 +1,157 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 1 gain/draw decision.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click and pays 0 credits to play Archived Memories.
+Corp uses Archived Memories to add Fully Operational in Archives to HQ.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Yusuf.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner places 1 virus counter on Yusuf.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Consume from the top of the stack, trashes them, and gains 1 credits.
+Runner adds Street Peddler to the grip.
+Runner adds Stimhack to the grip.
+Runner adds Sure Gamble to the grip.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner is ending their turn 1 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 1 gain/draw decision.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 1 gain/draw decision.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner places 1 virus counter on Yusuf.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 3 cards in the grip.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Hagen protecting HQ at position 0.
+Runner encounters Hagen protecting HQ at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Architect protecting R&D at position 0.
+Runner encounters Architect protecting R&D at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp uses Architect to install a card from  position 1 of R&D in the root of Server 1 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Architect to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner places 1 virus counter on Yusuf.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 1 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 1.
+Runner accesses Efficiency Committee from Server 1.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Hagen protecting HQ at position 0.
+Runner encounters Hagen protecting HQ at position 0.
+Runner spends 4 virus counters from Yusuf to increase the strength of Yusuf to 5 and break all 2 subroutines on Hagen.
+Runner has no further action.
+Runner passes Hagen protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Efficiency Committee from HQ.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner approaches Architect protecting R&D at position 0.
+Runner encounters Architect protecting R&D at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp pays 0 credits to use Architect to install ice from  position 1 of R&D protecting Archives.
+Corp uses Architect to install a card from HQ in the root of Server 2.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner places 1 virus counter on Yusuf.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 4 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 1 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 0 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Server 2.
+Runner accesses Global Food Initiative from Server 2.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner wins the game.

@@ -1,0 +1,163 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Weyland Consortium: Building a Better World to gain 1 credits.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 1 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to install Crypsis.
+Runner spends click and pays 0 credits to play Easy Mark.
+Runner uses Easy Mark to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Priority Requisition and gains 3 agenda points.
+Runner is ending their turn 1 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to play Archived Memories.
+Corp uses Archived Memories to add Hedge Fund in Archives to HQ.
+Corp is ending their turn 2 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Forged Activation Orders.
+Runner uses Forged Activation Orders to force the Corp to rez Data Raven.
+Corp pays 4 credits to use Forged Activation Orders to rez Data Raven protecting R&D at position 0.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Shadow protecting HQ at position 0.
+Runner encounters Shadow protecting HQ at position 0.
+Runner has no further action.
+Corp uses Shadow to gain 2 credits.
+Corp uses Shadow to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Shadow to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on Shadow ("[subroutine] Gain 2 credits" and "[subroutine] Trace 3 - Give the Runner 1 tag").
+Runner passes Shadow protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Gabriel Santiago: Consummate Professional to gain 2 credits.
+Runner breaches HQ.
+Runner accesses Hostile Takeover from HQ.
+Runner steals Hostile Takeover and gains 1 agenda point.
+Runner is ending their turn 2 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Weyland Consortium: Building a Better World to gain 1 credits.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Data Raven protecting R&D at position 0.
+Runner encounters Data Raven protecting R&D at position 0.
+Corp uses Data Raven to force the runner to take 1 tag on encountering it.
+Runner has no further action.
+Corp uses Data Raven to initiate a trace with strength 3 (Place 1 power counter).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Data Raven to place 1 power counter on itself.
+Corp resolves 1 unbroken subroutine on Data Raven ("[subroutine] Trace 3 - Place 1 power counter").
+Runner passes Data Raven protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Shadow protecting HQ at position 0.
+Runner encounters Shadow protecting HQ at position 0.
+Runner has no further action.
+Corp uses Shadow to gain 2 credits.
+Corp uses Shadow to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Shadow to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on Shadow ("[subroutine] Gain 2 credits" and "[subroutine] Trace 3 - Give the Runner 1 tag").
+Runner passes Shadow protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Gabriel Santiago: Consummate Professional to gain 2 credits.
+Runner breaches HQ.
+Runner accesses Melange Mining Corp. from HQ.
+Runner is ending their turn 3 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 12 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 4 with 10 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 4 with 8 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Crypsis to place 1 virus counter on itself.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Runner passes ice protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 3 credits to rez Enigma protecting Server 2 at position 0.
+Runner encounters Enigma protecting Server 2 at position 0.
+Runner pays 4 credits to increase the strength of Crypsis to 2 and break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner uses Crypsis to remove 1 hosted virus counter.
+Runner spends 1 hosted virus counter from on Crypsis.
+Runner passes Enigma protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Private Security Force from Server 2.
+Runner steals Private Security Force and gains 2 agenda points.
+Runner is ending their turn 4 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 7 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Runner passes ice protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Enigma protecting Server 2 at position 0.
+Runner encounters Enigma protecting Server 2 at position 0.
+Runner pays 4 credits to increase the strength of Crypsis to 2 and break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner uses Crypsis to trash itself.
+Runner passes Enigma protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Private Security Force from Server 2.
+Runner steals Private Security Force and gains 2 agenda points.
+Runner wins the game.

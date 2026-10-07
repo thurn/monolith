@@ -1,0 +1,194 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 9
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp pays 1 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Violet Level Clearance.
+Corp uses Violet Level Clearance to gain 8 credits and draw 4 cards.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 1 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 0 credits to rez Executive Boot Camp in Server 1.
+Corp pays 1 credits and trashes Executive Boot Camp to use Executive Boot Camp to reveal Cybernetics Court, add it to HQ, and shuffle R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 8 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 4 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 3 with 10 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 14 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 0 credits to rez Cybernetics Court in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 15 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 4 with 10 credits and 3 cards in the grip.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner trashes Liberated Account.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 4 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 15 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 3.
+Corp trashes a card in Server 3.
+Corp pays 2 credits to rez Jeeves Model Bioroids in Server 3.
+Corp uses Jeeves Model Bioroids to gain click.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp spends click to install a card in the root of Server 4.
+Corp is ending their turn 5 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 17 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 4.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 0 credits to rez Vanilla protecting Server 4 at position 0.
+Runner encounters Vanilla protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Vanilla to end the run.
+Corp resolves 1 unbroken subroutine on Vanilla ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 13 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp uses Jeeves Model Bioroids to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp scores Project Vitruvius and gains 2 agenda points.
+Corp spends click to install a card in the root of Server 4.
+Corp pays 1 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting Server 4.
+Corp is ending their turn 6 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 20 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 24 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp uses Jeeves Model Bioroids to gain click.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Violet Level Clearance.
+Corp uses Violet Level Clearance to gain 8 credits and draw 4 cards.
+Corp is ending their turn 7 with 11 credits and 7 cards in HQ.
+[hr]
+Runner started their turn 7 with 24 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 28 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 11 credits and 7 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Jeeves Model Bioroids to gain click.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp pays 0 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp scores Project Vitruvius and gains 2 agenda points.
+Corp is ending their turn 8 with 8 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 8 with 28 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 32 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 8 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp uses Jeeves Model Bioroids to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Corp wins the game.
