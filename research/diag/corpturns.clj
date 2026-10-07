@@ -1,7 +1,8 @@
 ;; Replays a reviewed game (DIAG="<key.edn> log-NN.txt") and prints, for each Corp action, the Corp's
 ;; hand, credits and central ice counts.
 (require '[monolith.ai.harness :as h] '[clojure.edn :as edn])
-(let [[keyf file] (clojure.string/split (System/getenv "DIAG") #" ")
+(let [genv (fn [k] (or (System/getenv k) (some-> (ns-resolve (quote user) (symbol k)) deref)))
+      [keyf file] (clojure.string/split (genv "DIAG") #" ")
       g (some #(when (= file (:file %)) %) (edn/read-string (slurp keyf)))
       decks {:corp (keyword (str (name (:matchup g)) "-corp")) :runner (keyword (str (name (:matchup g)) "-runner"))}
       prev (atom nil)]
