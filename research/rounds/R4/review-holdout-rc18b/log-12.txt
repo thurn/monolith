@@ -1,0 +1,392 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 17
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Echelon.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Ping protecting HQ at position 0.
+Corp uses Ping to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner encounters Ping protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ping to end the run.
+Corp resolves 1 unbroken subroutine on Ping ("[subroutine] End the run").
+Runner spends click and pays 2 credits to install Gauss.
+Runner is ending their turn 1 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 1 credits to play Pivot.
+Corp uses Pivot to reveal Degree Mill from R&D and add it to HQ.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 2 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Ping protecting R&D at position 0.
+Corp uses Ping to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner encounters Ping protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ping to end the run.
+Corp resolves 1 unbroken subroutine on Ping ("[subroutine] End the run").
+Runner is ending their turn 2 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 0 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Degree Mill from HQ.
+Runner shuffles 2 cards (Echelon and Gauss) into the stack to steal Degree Mill from HQ.
+Runner steals Degree Mill and gains 3 agenda points.
+Runner is ending their turn 3 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 9 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to play Mindscaping.
+Corp uses Mindscaping to gain 4 credits and draw 2 cards.
+Corp uses Mindscaping to add 1 card from HQ to the top of R&D.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 7 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 6 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 7 credits and 6 cards in the grip.
+Runner spends click and pays 2 credits to play Bahia Bands.
+Runner uses Bahia Bands to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Bahia Bands to draw 2 cards.
+Runner uses Bahia Bands to install Bahia Bands from the grip, lowering the cost by 1.
+Runner pays 2 credits to use Bahia Bands to install DJ Fenris from the Grip (paying 1 credits less).
+Runner uses DJ Fenris to host Armand "Geist" Walker: Tech Lord.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 6 with 5 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 7 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 6 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 11 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 8 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Predictive Planogram.
+Corp uses Predictive Planogram to gain 3 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 11 credits and 6 cards in the grip.
+Runner spends click and pays 1 credits to install Fermenter.
+Runner spends click and pays 0 credits to install Stoneship Chart Room.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Armand "Geist" Walker: Tech Lord to draw 1 card.
+Runner trashes Stoneship Chart Room to use Stoneship Chart Room to draw 2 cards.
+Runner spends click and pays 2 credits to install Revolver.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 9 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 9 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 9 credits and 6 cards in the grip.
+Runner spends click and pays 2 credits to install Euler.
+Runner uses Armand "Geist" Walker: Tech Lord to draw 1 card.
+Runner spends click and trashes Fermenter to use Fermenter to gain 4 credits.
+Runner spends click and pays 2 credits to install Swift.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 9 with 9 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 10 with 25 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 28 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 9 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Cupellation.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits.
+Runner is ending their turn 10 with 13 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 11 with 28 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 13 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner pays 1 credits to use Cupellation to host Behold! on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 11 with 14 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 12 with 27 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Regolith Mining License in Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 26 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 14 credits and 6 cards in the grip.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Paricia.
+[!] Paricia - Recurring credits usage not restricted
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 12 with 13 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 13 with 26 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 13 credits and 6 cards in the grip.
+Runner uses Paricia to take 1 [Recurring Credits].
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Regolith Mining License from Server 2.
+Runner pays 1 credits from Paricia and 2 credits from their credit pool to trash Regolith Mining License from Server 2.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Swift to gain a [click].
+Runner uses Overclock to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner is ending their turn 13 with 18 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 14 with 24 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp spends click and pays 2 credits to play Oppo Research.
+Corp uses Oppo Research to give the Runner 2 tags.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp pays 5 credits to use Oppo Research to give the Runner 2 tags.
+Corp is ending their turn 14 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 18 credits and 6 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 14 with 10 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 15 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 10 credits and 6 cards in the grip.
+Runner uses Paricia to take 1 [Recurring Credits].
+Runner uses Paricia to take 1 [Recurring Credits].
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Simulchip.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits.
+Runner is ending their turn 15 with 15 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 16 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 15 credits and 6 cards in the grip.
+Runner spends click and pays 1 credits to install Dr. Nuka Vrolyck.
+Runner spends click and spends 1 hosted power counter from on Dr. Nuka Vrolyck to use Dr. Nuka Vrolyck to draw 3 cards.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner uses Paricia to take 1 [Recurring Credits].
+Runner uses Paricia to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Swift to gain a [click].
+Runner uses Dirty Laundry to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner discards 3 from the stack at end of turn.
+Runner is ending their turn 16 with 22 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 17 with 25 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 28 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 22 credits and 6 cards in the grip.
+Runner trashes Dr. Nuka Vrolyck.
+Runner spends click and spends 1 hosted power counter from on Dr. Nuka Vrolyck to use Dr. Nuka Vrolyck to draw 3 cards.
+Runner spends click and pays 1 credits to install Propeller.
+Runner spends click and pays 1 credits to play Pinhole Threading.
+Runner uses Swift to gain a [click].
+Runner uses Pinhole Threading to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses the replacement effect from Pinhole Threading.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits from Overclock and spends 1 hosted power counter from on Propeller to increase the strength of Propeller to 2 and break all  subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+ Cupellation has left play: Behold! is trashed.
+Runner uses Armand "Geist" Walker: Tech Lord to draw 1 card.
+Runner pays 1 credits from Overclock and trashes Cupellation to use Cupellation to access 2 additional cards from HQ.
+Runner accesses Orbital Superiority from HQ.
+Runner steals Orbital Superiority and gains 2 agenda points.
+Runner accesses Project Beale from HQ.
+Runner steals Project Beale and gains 2 agenda points.
+Runner wins the game.
+Runner accesses False Lead from HQ.

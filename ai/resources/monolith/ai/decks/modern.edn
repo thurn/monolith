@@ -63,4 +63,70 @@
                    {:qty 3 :card "Sure Gamble"} {:qty 3 :card "Blueberry!™ Diesel"} {:qty 2 :card "Carpe Diem"} {:qty 2 :card "Lie Low"}
                    {:qty 2 :card "Transfer of Wealth"} {:qty 2 :card "Tread Lightly"} {:qty 2 :card "Jailbreak"}
                    {:qty 2 :card "Docklands Pass"} {:qty 2 :card "Mu Safecracker"} {:qty 2 :card "Swift"} {:qty 2 :card "Pennyshaver"}
-                   {:qty 3 :card "Daily Casts"} {:qty 2 :card "Red Team"} {:qty 2 :card "Info Bounty"} {:qty 3 :card "No Free Lunch"}]}}}
+                   {:qty 3 :card "Daily Casts"} {:qty 2 :card "Red Team"} {:qty 2 :card "Info Bounty"} {:qty 3 :card "No Free Lunch"}]}}
+ ;; R4 2026-10-07: archetypes of the held-out matchups (their identities, my own lists; held-out games stay untraced)
+ :modern-e
+ {:corp {:identity {:title "AU Co.: The Gold Standard in Clones"}
+         :cards [{:qty 3 :card "Hybrid Release"} {:qty 3 :card "Project Yagi-Uda"} {:qty 3 :card "Sericulture Expansion"}
+                 {:qty 1 :card "Fujii Asset Retrieval"} {:qty 1 :card "Flower Sermon"}
+                 {:qty 3 :card "Tatu-Bola"} {:qty 2 :card "Karunā"} {:qty 3 :card "Diviner"} {:qty 2 :card "Hafrún"}
+                 {:qty 2 :card "Vicsek"} {:qty 2 :card "Ivik"} {:qty 2 :card "Phoneutria"}
+                 {:qty 3 :card "Hedge Fund"} {:qty 3 :card "Petty Cash"} {:qty 2 :card "Neurospike"} {:qty 1 :card "Cultivate"}
+                 {:qty 3 :card "Urtica Cipher"} {:qty 2 :card "Front Company"} {:qty 2 :card "Public Health Portal"}
+                 {:qty 2 :card "La Costa Grid"}]}
+  :runner {:identity {:title "Hoshiko Shiro: Untold Protagonist"}
+           :cards [{:qty 2 :card "Corsair"} {:qty 2 :card "Odore"} {:qty 2 :card "Utae"} {:qty 2 :card "Fermenter"} {:qty 1 :card "Stargate"}
+                   {:qty 2 :card "Botulus"} {:qty 1 :card "Leech"}
+                   {:qty 3 :card "Sure Gamble"} {:qty 3 :card "Strike Fund"} {:qty 2 :card "Steelskin Scarring"} {:qty 2 :card "The Price"}
+                   {:qty 2 :card "Running Hot"}
+                   {:qty 2 :card "Devil Charm"} {:qty 2 :card "Solidarity Badge"} {:qty 1 :card "Buffer Drive"}
+                   {:qty 3 :card "Paladin Poemu"} {:qty 2 :card "Mystic Maemi"} {:qty 2 :card "Cookbook"} {:qty 2 :card "Fencer Fueno"}
+                   {:qty 2 :card "Hannah \"Wheels\" Pilintra"}]}}
+ :modern-f
+ {:corp {:identity {:title "Epiphany Analytica: Nations Undivided"}
+         :cards [{:qty 3 :card "Oracle Thinktank"} {:qty 3 :card "Remastered Edition"} {:qty 2 :card "Kingmaking"}
+                 {:qty 2 :card "Artificial Cryptocrash"} {:qty 1 :card "Next Big Thing"}
+                 {:qty 3 :card "Funhouse"} {:qty 2 :card "Grubber"} {:qty 3 :card "Paywall"} {:qty 2 :card "F2P"} {:qty 2 :card "Capacitor"}
+                 {:qty 2 :card "Klevetnik"} {:qty 3 :card "Vasilisa"}
+                 {:qty 3 :card "Hedge Fund"} {:qty 2 :card "Public Trail"} {:qty 2 :card "Backroom Machinations"} {:qty 2 :card "IP Enforcement"}
+                 {:qty 3 :card "Daily Quest"} {:qty 3 :card "Tiered Subscription"} {:qty 2 :card "Hype Machine"}]}
+  :runner {:identity {:title "Arissana Rocha Nahu: Street Artist"}
+           :cards [{:qty 2 :card "Gauss"} {:qty 2 :card "Unity"} {:qty 2 :card "Living Mural"} {:qty 1 :card "Nanuq"}
+                   {:qty 2 :card "Self-modifying Code"} {:qty 1 :card "Sipa"}
+                   {:qty 3 :card "Sure Gamble"} {:qty 3 :card "Creative Commission"} {:qty 2 :card "Deep Dive"} {:qty 2 :card "Rigging Up"}
+                   {:qty 2 :card "Into the Depths"}
+                   {:qty 2 :card "Simulchip"} {:qty 2 :card "Aniccam"} {:qty 1 :card "Pantograph"}
+                   {:qty 3 :card "Telework Contract"} {:qty 2 :card "Daeg, First Net-Cat"} {:qty 3 :card "Daily Casts"}
+                   {:qty 2 :card "Dr. Nuka Vrolyck"} {:qty 1 :card "Environmental Testing"} {:qty 2 :card "Beatriz Friere Gonzalez"}]}}
+ :modern-g
+ {:corp {:identity {:title "Jinteki: Personal Evolution"}
+         :cards [{:qty 3 :card "Hybrid Release"} {:qty 2 :card "Longevity Serum"} {:qty 3 :card "Lotus Haze"} {:qty 2 :card "See How They Run"}
+                 {:qty 1 :card "Sisyphus Protocol"} {:qty 1 :card "Regenesis"}
+                 {:qty 3 :card "Anemone"} {:qty 2 :card "Saisentan"} {:qty 2 :card "Konjin"} {:qty 2 :card "Bathynomus"}
+                 {:qty 2 :card "Knowledge Seeker"} {:qty 2 :card "Semak-samun"} {:qty 2 :card "Hafrún"}
+                 {:qty 3 :card "Hedge Fund"} {:qty 2 :card "Neurospike"} {:qty 2 :card "Mitosis"} {:qty 2 :card "Bring Them Home"}
+                 {:qty 3 :card "Urtica Cipher"} {:qty 2 :card "Bladderwort"} {:qty 2 :card "Esca"} {:qty 2 :card "Mavirus"}]}
+  :runner {:identity {:title "Esâ Afontov: Eco-Insurrectionist"}
+           :cards [{:qty 2 :card "Abaasy"} {:qty 2 :card "Boi-tatá"} {:qty 2 :card "Rising Tide"} {:qty 2 :card "Fermenter"} {:qty 1 :card "Gourmand"}
+                   {:qty 1 :card "Leech"}
+                   {:qty 3 :card "Sure Gamble"} {:qty 3 :card "Wildcat Strike"} {:qty 2 :card "Finality"} {:qty 2 :card "Katorga Breakout"}
+                   {:qty 2 :card "Chastushka"} {:qty 2 :card "Scrounge"} {:qty 2 :card "Running Hot"}
+                   {:qty 2 :card "Marrow"} {:qty 2 :card "Ghosttongue"} {:qty 1 :card "Keiko"}
+                   {:qty 3 :card "Mystic Maemi"} {:qty 2 :card "Light the Fire!"} {:qty 2 :card "Stick and Poke"} {:qty 2 :card "Avgustina Ivanovskaya"}]}}
+ :modern-h
+ {:corp {:identity {:title "Near-Earth Hub: Broadcast Center"}
+         :cards [{:qty 3 :card "Tomorrow's Headline"} {:qty 2 :card "Freedom of Information"} {:qty 2 :card "Witch Hunt"}
+                 {:qty 2 :card "Stoke the Embers"} {:qty 2 :card "Post-Truth Dividend"}
+                 {:qty 3 :card "Ping"} {:qty 2 :card "Starlit Knight"} {:qty 2 :card "N-Pot"} {:qty 2 :card "Piranhas"} {:qty 2 :card "Doomscroll"}
+                 {:qty 3 :card "Congratulations!"} {:qty 2 :card "Loot Box"}
+                 {:qty 3 :card "Hedge Fund"} {:qty 2 :card "Oppo Research"} {:qty 2 :card "Game Over"} {:qty 2 :card "Shipment from Vladisibirsk"}
+                 {:qty 1 :card "Flood the Market"}
+                 {:qty 2 :card "Daily Quest"} {:qty 2 :card "Gaslight"} {:qty 2 :card "Behold!"} {:qty 2 :card "Increased Drop Rates"}]}
+  :runner {:identity {:title "Nyusha \"Sable\" Sintashta: Symphonic Prodigy"}
+           :cards [{:qty 2 :card "Tremolo"} {:qty 2 :card "Sang Kancil"} {:qty 1 :card "Afterimage"} {:qty 1 :card "Carmen"}
+                   {:qty 1 :card "Cezve"} {:qty 1 :card "Laser Pointer"}
+                   {:qty 3 :card "Sure Gamble"} {:qty 3 :card "Tread Lightly"} {:qty 2 :card "Maintenance Access"} {:qty 2 :card "Window of Opportunity"}
+                   {:qty 2 :card "Concerto"} {:qty 2 :card "Jailbreak"} {:qty 2 :card "Bravado"}
+                   {:qty 2 :card "Poison Vial"} {:qty 2 :card "Docklands Pass"} {:qty 1 :card "Masterwork (v37)"}
+                   {:qty 3 :card "Daily Casts"} {:qty 2 :card "The Back"} {:qty 2 :card "Debbie \"Downtown\" Moreira"} {:qty 2 :card "Info Bounty"}
+                   {:qty 2 :card "Underdome Irregulars"}]}}}

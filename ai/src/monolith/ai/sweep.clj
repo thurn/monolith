@@ -34,7 +34,7 @@
 
 (def modern-mix
   "Modern Standard dev matchups (R4): Standard card pool 2021-2025 like the held-out decks, different lists."
-  [:modern-a :modern-b :modern-c :modern-d])
+  [:modern-a :modern-b :modern-c :modern-d :modern-e :modern-f :modern-g :modern-h])
 
 (def holdout-mix [:worlds-2023-a :worlds-2023-b :worlds-2024-a :worlds-2024-b :worlds-2025-a :worlds-2025-b])
 
