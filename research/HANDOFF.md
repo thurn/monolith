@@ -1,6 +1,6 @@
 # Handoff: Netrunner AI research
 
-## Status 2026-10-07 10:30 (R4, autonomous phase)
+## Status 2026-10-07 07:15 (R4, autonomous phase; header previously mislabeled 10:30)
 
 - **Best agent:** RC23 candidate (`rounds/R4/job-AW.clj`): RC12 spec + Corp `:rd-exposure` 1.0, `:score-margin` 30, no Runner-model knobs in the Corp weights; Runner `:w-damage` 3.0, `:w-tag` 2.0; on code with ~40 modern-card fixes.
 - **Ladder:** T2 met only by RC1 (RC18 held-out Corp g_c +0.40). T3 puzzles met. T3 review not met: held-out RC1 2.80, RC4 2.90, RC7 3.10, RC12 2.60, RC18 3.00 (replication set 3.30; RC18 level 3.15 over 20 games).

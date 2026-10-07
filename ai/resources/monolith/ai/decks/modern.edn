@@ -5,7 +5,7 @@
  {:corp {:identity {:title "Haas-Bioroid: Precision Design"}
          :cards [{:qty 3 :card "Project Ingatan"} {:qty 2 :card "Méliès City Luxury Line"} {:qty 3 :card "Megaprix Qualifier"}
                  {:qty 2 :card "Architect Deployment Test"} {:qty 1 :card "Superconducting Hub"}
-                 {:qty 3 :card "Ansel 1.0"} {:qty 2 :card "Hagen"} {:qty 3 :card "Bloop"} {:qty 2 :card "Drafter"}
+                 {:qty 3 :card "Ansel 1.0"} {:qty 2 :card "Hagen"} {:qty 2 :card "Eli 1.0"} {:qty 1 :card "Tithe"} {:qty 2 :card "Drafter"}
                  {:qty 3 :card "Vertigo"} {:qty 2 :card "Wave"} {:qty 1 :card "Ablative Barrier"}
                  {:qty 3 :card "Hedge Fund"} {:qty 2 :card "Seamless Launch"} {:qty 2 :card "Sprint"} {:qty 2 :card "Petty Cash"}
                  {:qty 3 :card "Nico Campaign"} {:qty 2 :card "Otto Campaign"} {:qty 2 :card "Wage Workers"}

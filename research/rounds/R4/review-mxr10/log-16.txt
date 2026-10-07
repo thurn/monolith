@@ -1,0 +1,316 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 17
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 10 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 3 with 10 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 14 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 18 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 10 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 4 with 13 credits and 1 card in HQ.
+[hr]
+Runner started their turn 4 with 18 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 22 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 13 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp pays 3 credits to rez Public Health Portal in Server 2.
+Corp spends click and pays 0 credits to play Cultivate.
+Corp uses Cultivate to look at the top 5 cards of R&D.
+Corp uses Cultivate to trash a card from among the top 5 cards of R&D, add another one of those cards to HQ, and re-arrange the remainder.
+Corp is ending their turn 5 with 10 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 5 with 22 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 26 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 10 credits and 2 cards in HQ.
+Corp uses Public Health Portal to reveal Phoneutria from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 6 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 26 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 30 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 12 credits and 4 cards in HQ.
+Corp uses Public Health Portal to reveal Sericulture Expansion from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp is ending their turn 7 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 30 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 34 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 12 credits and 4 cards in HQ.
+Corp uses Public Health Portal to reveal Neurospike from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 8 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 34 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Phoneutria protecting Server 1 at position 0.
+Runner encounters Phoneutria protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Phoneutria to do 1 net damage.
+Corp trashes Mystic Maemi due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp uses Phoneutria to do 1 net damage.
+Corp trashes Fermenter due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp resolves 2 unbroken subroutines on Phoneutria ("[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").
+Runner passes Phoneutria protecting Server 1 at position 0.
+Runner will continue the run.
+Corp pays 3 credits to rez La Costa Grid in Server 1.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses La Costa Grid from Server 1.
+Runner pays 4 credits to trash La Costa Grid from Server 1.
+Runner accesses Sericulture Expansion from Server 1.
+Runner steals Sericulture Expansion and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 31 credits and 5 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 9 with 6 credits and 5 cards in HQ.
+Corp uses Public Health Portal to reveal Hybrid Release from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Petty Cash.
+Corp uses Petty Cash to gain 5 [credits].
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp pays 2 credits to rez Front Company in Server 3.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 9 with 8 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 9 with 33 credits and 5 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 9 with 36 credits and 5 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 10 with 8 credits and 3 cards in HQ.
+Corp spends 2 hosted power counters from on AU Co.: The Gold Standard in Clones to use AU Co.: The Gold Standard in Clones to look at the top 3 cards of R&D.
+Corp uses AU Co.: The Gold Standard in Clones to trash the top card from R&D and draw 2 cards.
+Corp uses Public Health Portal to reveal Tatu-Bola from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Hybrid Release and gains 1 agenda point.
+Corp uses Hybrid Release to install a card from Archives in the root of Server 4 (new remote).
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 10 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 36 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 40 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 12 credits and 5 cards in HQ.
+Corp uses Public Health Portal to reveal Diviner from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp pays 2 credits to rez Front Company in Server 4.
+Front Company in Server 3 is trashed.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 11 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 11 with 40 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 44 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 10 credits and 4 cards in HQ.
+Corp uses Public Health Portal to reveal Tatu-Bola from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Flower Sermon and gains 2 agenda points.
+Corp is ending their turn 12 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 44 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 48 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 9 credits and 5 cards in HQ.
+Corp uses Public Health Portal to reveal Sericulture Expansion from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends 1 hosted agenda counter from on Flower Sermon to use Flower Sermon to reveal Urtica Cipher and draw 2 cards.
+Corp uses Flower Sermon to add 1 card in HQ to the top of R&D.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 48 credits and 5 cards in the grip.
+Runner spends click to make a run on Archives.
+Corp uses Front Company to do 2 net damage.
+Corp trashes Fencer Fueno and Paladin Poemu due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Fujii Asset Retrieval from Archives.
+Runner steals Fujii Asset Retrieval and gains 3 agenda points.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Botulus and Strike Fund due to net damage.
+Runner uses Strike Fund to gain 2 credits.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 13 with 50 credits and 4 cards in the grip.
+[hr]
+Runner gains 2 credits and flips their identity to Hoshiko Shiro: Mahou Shoujo.
+Corp started their turn 14 with 9 credits and 5 cards in HQ.
+Corp uses Public Health Portal to reveal Ivik from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Sericulture Expansion and gains 2 agenda points.
+Corp spends click and pays 3 credits to play Neurospike.
+Corp uses Neurospike to do 2 net damage.
+Corp trashes Fencer Fueno and Hannah "Wheels" Pilintra due to net damage.
+Corp uses AU Co.: The Gold Standard in Clones to place 1 power counter on itself.
+Corp spends 1 hosted agenda counter from on Flower Sermon to use Flower Sermon to reveal Vicsek and draw 2 cards.
+Corp uses Flower Sermon to add 1 card in HQ to the top of R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 4.
+Corp is ending their turn 14 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 52 credits and 2 cards in the grip.
+Runner uses Hoshiko Shiro: Untold Protagonist to draw 1 card and lose 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 53 credits and 5 cards in the grip.
+[hr]
+Runner flips their identity to Hoshiko Shiro: Untold Protagonist.
+Corp started their turn 15 with 7 credits and 5 cards in HQ.
+Corp uses Public Health Portal to reveal Hafrún from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends 1 hosted agenda counter from on Flower Sermon to use Flower Sermon to reveal Petty Cash and draw 2 cards.
+Corp uses Flower Sermon to add 1 card in HQ to the top of R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 5 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 15 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 53 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 57 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 10 credits and 5 cards in HQ.
+Corp uses Public Health Portal to reveal Hafrún from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends 1 hosted agenda counter from on Flower Sermon to use Flower Sermon to reveal La Costa Grid and draw 2 cards.
+Corp uses Flower Sermon to add 1 card in HQ to the top of R&D.
+Corp spends click to install a card in the root of Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 0 credits to install ice protecting Server 6 (new remote).
+Corp is ending their turn 16 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 57 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 61 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 11 credits and 5 cards in HQ.
+Corp uses Public Health Portal to reveal Hafrún from the top of R&D and gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp scores Project Yagi-Uda and gains 2 agenda points.
+Corp wins the game.

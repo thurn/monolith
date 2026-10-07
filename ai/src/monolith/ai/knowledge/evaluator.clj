@@ -144,15 +144,22 @@
   1 - (1 - c/N)^(h+1)."
   [s]
   (let [tags (+ (get-in s [:runner :tag :base] 0) (get-in s [:runner :tag :additional] 0))
-        threat (max (get-in s [:runner :agenda-point] 0) (get-in s [:corp :agenda-point] 0))
-        ran (seq (get-in s [:runner (if (= :corp (:active-player s)) :register-last-turn :register) :successful-run]))
+        ;; threat next Corp turn: an advanced remote card may be scored first (modern review 22: Above the Law
+        ;; scored, then Measured Response at threat 4)
+        threat (max (get-in s [:runner :agenda-point] 0)
+                    (+ (get-in s [:corp :agenda-point] 0)
+                       (if (some (fn [[k srv]] (and (re-find #"remote" (name k)) (some #(pos? (or (:advance-counter %) 0)) (:content srv))))
+                                 (get-in s [:corp :servers]))
+                         2 0)))
+        ;; either register: at the Runner's end-turn step the current one is already cleared
+        ran (or (seq (get-in s [:runner :register :successful-run])) (seq (get-in s [:runner :register-last-turn :successful-run])))
         rcr (get-in s [:runner :credit] 0)]
     (if (and (zero? tags) (< threat 3))
       0.0
       (let [grip (count (get-in s [:runner :hand]))
             cr (+ 3 (get-in s [:corp :credit] 0))
             pool (keep :title (concat (get-in s [:corp :hand]) (get-in s [:corp :deck])))
-            kills (count (filter (fn [t] (when-let [{:keys [dmg per-tag min-tags cost needs-run unless-pay] :as op} (meat-op* t)]
+            kill? (fn [t] (when-let [{:keys [dmg per-tag min-tags cost needs-run unless-pay] :as op} (meat-op* t)]
                                            (and (>= tags min-tags) (<= cost cr)
                                                 ;; untagged kills (Measured Response, modern review 15)
                                                 (>= threat (or (:threat op) 0))
@@ -161,11 +168,15 @@
                                                 ;; >= : a hand wiped to 0 is one more damage from dead, and two
                                                 ;; copies kill (review 15: tagged at 4 cards vs Scorched Earth)
                                                 (>= (if per-tag (* dmg tags) dmg) grip))))
-                                 pool))
+            kills (count (filter kill? pool))
             n (count pool)
             h (inc (count (get-in s [:corp :hand])))]
-        (if (or (zero? kills) (zero? n)) 0.0
-            (- 1.0 (Math/pow (- 1.0 (/ kills (double n))) h)))))))
+        (cond
+          ;; a kill the Runner has seen in HQ (:hq-memory) is not a draw chance (modern review 22: Measured
+          ;; Response seen in HQ, turn ended at 2 credits, flatlined)
+          (some #(and (:monolith-known %) (:title %) (kill? (:title %))) (get-in s [:corp :hand])) 1.0
+          (or (zero? kills) (zero? n)) 0.0
+          :else (- 1.0 (Math/pow (- 1.0 (/ kills (double n))) h)))))))
 
 (defn- tag-punisher? [title]
   (boolean (re-find #"(?i)runner is tagged|for each tag|trash (1|a|an installed) resource|meat damage|if the runner has (a|any|\d+) tags?|tagged runner"
