@@ -1,5 +1,6 @@
 ;; :dig-full on RC33 code (frozen bt = 67a69e9): RC33 Runner vs RC33 Runner + :dig-full 3 (S1 digs for a missing breaker
-;; up to 3 cards past a full grip); modern decks, 300 paired seeds (420000-420299), Runner side, win rates + T3 proxies.
+;; up to 3 cards past a full grip); opponent: the RC33 champion Corp (s1ref A/Bs are saturated at ~88%); modern decks,
+;; 300 paired seeds (420000-420299), Runner side, win rates + T3 proxies.
 (require 'monolith.ai.evalset 'monolith.ai.sweep 'monolith.ai.blunders)
 (let [R "/home/dthurn/monolith/research/rounds/R4"
       ev {:kill-threat 1.0 :hq-flood 1.0 :scorable-agendas 2.5 :asset-econ 1.0 :core-damage 1.0}
@@ -15,6 +16,6 @@
                (update :runner-opts #(-> % (assoc :rerank-samples 4) (update :w assoc :redet true) (assoc-in [:eval :kill-threat] 2.0))))
       ex (fn [tag spec sides] {:agent [:champion spec] :tag tag :seeds (range 420000 420300) :matchups monolith.ai.sweep/modern-mix
                                :sides sides :games-log (str R "/eval-BT.jsonl") :null? false})]
-  (println (monolith.ai.evalset/run-many {:threads 12 :experiments [(ex "bt-rc33" rc28 [:runner]) (ex "bt-df3" (assoc-in rc28 [:runner-opts :w :dig-full] 3) [:runner])]}))
+  (println (monolith.ai.evalset/run-many {:threads 12 :opponent [:champion rc28] :experiments [(ex "bt-rc33" rc28 [:runner]) (ex "bt-df3" (assoc-in rc28 [:runner-opts :w :dig-full] 3) [:runner])]}))
   (println (monolith.ai.blunders/summarize (str R "/eval-BT.jsonl") #{"bt-rc33" "bt-df3"}))
   (flush))
