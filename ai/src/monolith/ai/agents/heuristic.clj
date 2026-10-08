@@ -151,8 +151,11 @@
   (let [obs (:obs env)
         installs (filter #(= "ICE" (ptype (card-title %))) (acts env :install))]
     (first
-     ;; R&D first: the Runner's usual first target (reviews: R&D bare for 3-5 turns while HQ was iced)
-     (for [server ["R&D" "HQ"]
+     ;; R&D first: the Runner's usual first target (reviews: R&D bare for 3-5 turns while HQ was iced);
+     ;; with :hq-first, HQ first while it holds an agenda (m35 log-10: Anemone on R&D, See How They Run
+     ;; and two more agendas taken from the open HQ by turn 3)
+     (for [server (if (and (w env :hq-first) (some #(= "Agenda" (ptype (:title %))) (get-in obs [:corp :hand])))
+                    ["HQ" "R&D"] ["R&D" "HQ"])
            :when (empty? (srv/ices obs (srv/server-key server)))
            a (sort-by #(- (ice-score (card-title %))) installs)
            :when (= server (get-in a [:args :server]))]
