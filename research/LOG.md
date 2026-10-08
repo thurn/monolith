@@ -666,3 +666,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - (1) Win-rate A/Bs against `:s1ref` are saturated (about 88%) and say little about losses to a competent Corp. For knobs that target strength, the opponent becomes the frozen RC33 champion, through `run-many :opponent [:champion RC33]` (about 2× the CPU per game).
   - (2) Look at the tag treadmill: should the run eval charge a tag at its real clearing cost when broke (2 credits + 1 click) and add resource-trash exposure? `:w-tag` 3.5 is a flat price.
   - (3) Keep game length in view, since slow wins rate low.
+- **Job BR result (300 paired seeds 400000–400299, modern decks, vs `:s1ref`; 1 stall in 1200):**
+  - **`:blind-facecheck` (Runner):** 0.880 vs 0.880 (+16/−16). Proxy `:blind-facechecks` **0.65 → 0.14 per game (−78%)**. Small side effects: broke-ends 3.43 → 3.70, tagged-ends 1.54 → 1.65, ignored-advanced-remote 0.85 → 0.87.
+  - **`:corp-poverty` 0.5 (Corp):** 0.893 vs 0.890 (+14/−15). Corp `:broke-ends` **1.97 → 1.67 (−15%)**; other proxies flat (rich-credit-clicks 0.60 → 0.54, open-central 0.58 → 0.63).
+  - **Decision:** both go into RC34. Each removes a behaviour the reviewer penalises (reasonless facechecks r = −0.48 with rating on candidate Runner games; economy collapse r = −0.47 / −0.37) at no measurable cost in strength.
+- **Job BT** launched on frozen `bt` (`67a69e9`): `:dig-full` 3 vs RC33 Runner, against the RC33 champion Corp.
