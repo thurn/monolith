@@ -1,0 +1,6 @@
+Compiling 1 source files to /home/dthurn/monolith-frozen/bv/ai/target/classes
+review-m35 20
+review-m36 20
+review-mrunner6 20
+{[bv-rc35 runner true] 193, [bv-rc35 runner false] 107}
+({:tag bv-rc35, :side :corp, :tested {:n 0}, :opponent {:repeat-failed-runs 0.0, :max-empty-iced-remotes 1.71, :tagged-ends 0.0, :reinstalls 0.0, :open-central-with-ice 0.56, :n 300, :idle-turns 1.06, :no-info-archives 0.0, :agendas-to-archives 0.03, :blind-facechecks 0.0, :broke-facechecks 0.0, :broke-ends 2.39, :decked 0.01, :ignored-advanced-remote 0.0, :rich-credit-clicks 0.02, :forced-discards 0.75}, :turns 14.6} {:tag bv-rc35, :side :runner, :tested {:repeat-failed-runs 0.0, :tagged-ends 1.76, :reinstalls 0.68, :flatlined 0.06, :open-central-with-ice 0.0, :n 300, :idle-turns 1.17, :no-info-archives 0.0, :agendas-to-archives 0.0, :blind-facechecks 0.29, :broke-facechecks 0.0, :broke-ends 3.5, :ignored-advanced-remote 1.09, :rich-credit-clicks 0.09, :forced-discards 1.66}, :opponent {:n 0}, :turns 14.6})
