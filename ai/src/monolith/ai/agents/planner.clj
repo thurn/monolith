@@ -404,6 +404,10 @@
                            (and s1-strong-margin (#{:protect-centrals :react-centrals :remove-tag :safety-draw :kill
                                                     :score :advance-to-score :seamless :dig-breakers :dig-ice} s1-rule))
                            s1-strong-margin
+                           ;; :ice-strong: S1's ice placements too (richdiag: the plan overrode "ice the scoring
+                           ;; remote" with credit clicks at 8-14 credits; m34 log-11: agenda installed before the ice)
+                           (and (:ice-strong weights) s1-strong-margin (#{:ice-scoring-remote :build-scoring-remote :more-ice} s1-rule))
+                           s1-strong-margin
                            :else s1-margin)
                   plan-once (fn []
                               (let [sm (sim/begin! @(:sim ctx) (.nextLong rng))]
