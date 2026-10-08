@@ -711,3 +711,15 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - **m35 log-11 (modern-c, rated 2):** six agendas in HQ (flood). The plan preferred install-and-advance into the iced Server 4 by only 0.3–1.7, below the S1 anchor margin. S1's `install-agenda` requires `remote-safe?`, so the Corp clicked for credits at 10–12 for turns. New opt-in `:flood-install n`: with n+ agendas in HQ, S1 installs into an iced scoring remote even when the remote is not safe. Replayed with n = 3, it installs Tomorrow's Headline in Server 4.
   - Smoke for both (Corp, 8 games): 0 stalls. Committed as `ba7bc0d`, for the next A/B after BW.
 - **Job BX** (frozen `bx` = `ba7bc0d`), chained to start when BW ends: RC35 Corp vs + `:flood-install` 3 vs + `:flood-install` 3 + `:hq-first`, against the RC33 champion Runner, 300 paired seeds 450000–450299.
+- **K35T2: T2 still MET on leak-fixed code** (RC35 vs `:s1ref`, held-out seeds 900000–900299, own null 0.590, 0 stalls; `holdout-rc35.jsonl`). Corp 0.773, Runner 0.737; g_c **+1.05** [+0.70, +1.47], g_r **+1.63** [+1.28, +2.05], bar ≥ +0.85. K32's leaky-code numbers were g_c +1.10 and g_r +1.68, so the leak did not prop up T2. The Corp lower CI bound is again under the bar; the pre-registered criterion is the point estimate.
+- **Job BW** (RC35 code, vs the RC33 champion, 300 paired seeds 440000–440299, 2 stalls of 1800):
+  - Corp `:hq-first`: 0.344 vs 0.338 (+34/−32, p = 0.90). Null on strength, proxies unchanged. It fixes specific review-visible errors (m35 log-10, m36 log-11), so I keep it in the BX arm that pairs it with flood-install and decide there.
+  - Corp `:dig-ice` re-test: 0.338 vs 0.338 (+9/−9). Null again; dropped for good.
+  - Runner `:runner-income` 3: 0.640 vs 0.600 (**+26/−14, p = 0.08**). It changes play only in decks with income companions: modern-b +12/−7, modern-e +8/−2, modern-g +6/−5, other matchups 0/0. Positive trend aimed at the weakest review slot (modern-b).
+  - **Runner `:runner-poverty` 1.5: 0.689 vs 0.602 (+71/−45, p = 0.02).** Broad: 7 of 8 matchups positive (only modern-d −2). Broke-ends 3.54 → **2.02** per game, which is the most common Runner review complaint. Costs: rich-credit-clicks 0.14 → 0.33, idle turns 1.22 → 1.34, ignored advanced remotes 1.09 → 1.34. BQ's 0.5 was null, so the effect needs a strong weight.
+  - The +8.7-point gain against the RC33 Corp is the largest single-knob Runner gain since RC28. Since this is a 2-of-4-arms search, I replicate before adopting.
+- **Job BY** (frozen `bx`; Runner code identical to `bw`), chained after BX: by-rc35, by-pov15 (replication), by-pi (`:runner-poverty` 1.5 + `:runner-income` 3), by-pov3 (dose step), Runner side only, vs the RC33 champion Corp, 300 paired seeds 460000–460299.
+- **Next:**
+  - If BY replicates pov15 (or pi beats it), RC36 = RC35 + the best Runner arm + whatever BX supports on the Corp.
+  - Then gate review sets on seeds from 202260, reviewed sequentially.
+  - Watch the review cost of more credit clicks: reviewers penalised passive Runners in m27–m31, while broke Runners were the more frequent complaint.
