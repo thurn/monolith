@@ -1,5 +1,26 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-08 06:50 (R4, autonomous phase)
+
+- **Best agent:** RC32/RC33 (same spec, `rounds/R4/job-BP.clj`). Candidate RC34 = RC33 + Runner `:blind-facecheck` + Corp `:corp-poverty` 0.5 (`job-BU.clj`, frozen `bu` = `9b9138a`).
+- **Ladder (held-out, pre-registered, K32 on RC32):** T2 met (g_c +1.10, g_r +1.68). T3 puzzles met. **T3 review not met: 3.00** (Corp 3.6, Runner 2.4).
+- **Overnight A/Bs** (BQ, BR, BS, BT; 300 paired seeds each) were all win-rate nulls:
+  - `:respect-kill`, `:runner-poverty`, `:hand-econ`: rejected.
+  - `:dig-full`: rejected (forced discards up).
+  - `:blind-facecheck`: facechecks −78%, into RC34.
+  - `:corp-poverty`: Corp broke turn-ends −15%, into RC34.
+- **Analysis of 420 reviewed dev games:**
+  - The rating mostly tracks the result (r = +0.78). Candidate wins average about 3.45–3.5 and losses about 2.0–2.3.
+  - So T3 needs both fewer losses and cleaner wins.
+  - The automated proxies predict ratings only weakly.
+  - Against `:s1ref` the win rate is saturated (~88%). Against the RC33 champion the Runner wins 63%, so strength A/Bs now use RC33 as the opponent.
+- **Running:** BU, which produces the RC34 gate review sets (m33, m34, mrunner5), then RC34 vs RC33 on 300 seeds.
+- **Next 3:**
+  - (1) Score m33, m34 and mrunner5 with one fresh Opus reviewer per set. If the gate passes (pooled ≥ 3.5, Runner-only ≥ 3.2), run K34 held-out confirmation plus replication.
+  - (2) Strength work aimed at Runner losses, measured against the RC33 Corp: uncontested scoring remotes, flatlines with a small grip.
+  - (3) The tag treadmill: repeat runs through tag ice, then paying to clear.
+- **Lesson:** always chain a completion waiter on long jobs. BT/BS finished at about 23:00 and the machine idled until 06:40.
+
 ## Status 2026-10-07 16:45 (R4, autonomous phase)
 
 - **Best agent:** RC32 (`rounds/R4/job-BO.clj`, frozen `bn` = `da85838`): RC31 spec + Corp `:unaffordable-ice` 0.35. Current code adds Piranhas/audit parses, central access risk, Tread Lightly targeting, variant dev decks (RC33 reviews: 3.05 pooled, not better).
