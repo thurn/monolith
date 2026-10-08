@@ -732,3 +732,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - In the other 8, S1 wanted draw, ice a scoring remote, build a scoring remote, install an ambush or trash a resource, and **the planner overrode S1 with the credit click**.
   - The plan's short horizon prices the spent credits above the board change. The planner's existing `:rich-credit` filter only acts at ≥ 15.
 - **Corp `:rich-credit` 10:** smoke 8 Corp games, 0 stalls, 7 wins, 0.63 idle turns. Added as arm by-rich10 (Corp side, with a by-rc35 Corp baseline) to job BY, which has not started yet. Earlier: 20 → 15 was +11/−8 (job R).
+- **New opt-in `:ice-strong`** (`fc36b7e`): S1's ice placements (`:ice-scoring-remote`, `:build-scoring-remote`, `:more-ice`) get the strong anchor margin (8 instead of 2).
+  - It targets both Corp patterns above: credit clicks that override S1's ice installs, and agendas installed before the remote is iced.
+  - In m34 log-11 (T16, 19 credits, five agendas plus Virtual Service Agent in hand), RC34 installed Tomorrow's Headline into the thin Server 2. With `:ice-strong` it installs Virtual Service Agent there first.
+  - Smoke: 8 Corp games, 0 stalls, 6 wins, idle turns 0.5.
+- **Job BY** now runs from frozen `by` = `fc36b7e`. Corp arms: by-rc35, by-rich10, by-is (`:ice-strong`), by-isr (both). Runner arms: by-rc35, by-pov15, by-pi, by-pov3. 300 paired seeds 460000–460299, vs the RC33 champion. About 2,400 games, roughly 6.5 h after BX ends.
