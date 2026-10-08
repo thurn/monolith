@@ -1,0 +1,376 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 13
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 12 credits and 5 cards in the grip.
+Runner spends click and pays 4 credits to install Banner.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Descent protecting HQ at position 0.
+Runner encounters Descent protecting HQ at position 0.
+Runner has no further action.
+Corp uses Descent to end the run.
+Corp resolves 1 unbroken subroutine on Descent ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 8 credits and 4 cards in HQ.
+Corp uses Descent to add Descent protecting HQ at position 0 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 3 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 9 credits and 5 cards in the grip.
+Runner spends click and pays 4 credits to install Buzzsaw.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 2 credits to rez Descent protecting Server 1 at position 1.
+Runner encounters Descent protecting Server 1 at position 1.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Tree Line protecting Server 1 at position 0.
+Runner encounters Tree Line protecting Server 1 at position 0.
+Runner pays 2 credits to use Banner to prevent Tree Line protecting Server 1 at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Tree Line to gain 1 credits and end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 1 unbroken subroutine on Tree Line ("[subroutine] Gain 1 credits and end the run").
+Runner passes Tree Line protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Above the Law from Server 1.
+Runner steals Above the Law and gains 2 agenda points.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Raindrops Cut Stone to gain 3 credits.
+Runner is ending their turn 3 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 3 cards in HQ.
+Corp uses Descent to add Descent protecting Server 1 at position 1 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 4 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 2 credits to rez Descent protecting Server 1 at position 1.
+Runner encounters Descent protecting Server 1 at position 1.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Tree Line protecting Server 1 at position 0.
+Runner encounters Tree Line protecting Server 1 at position 0.
+Runner pays 2 credits to use Banner to prevent Tree Line protecting Server 1 at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Tree Line to gain 1 credits and end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 1 unbroken subroutine on Tree Line ("[subroutine] Gain 1 credits and end the run").
+Runner passes Tree Line protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Transport Monopoly from Server 1.
+Runner steals Transport Monopoly and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 1 credits and 3 cards in HQ.
+Corp uses Descent to add Descent protecting Server 1 at position 1 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to install Paladin Poemu.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 5 credits to play Measured Response.
+Corp uses Measured Response to do 4 meat damage.
+Corp trashes Boi-tatá, Leech, Running Hot, and The Twinning due to meat damage.
+Corp is ending their turn 6 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 1 card in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 3 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Descent protecting HQ at position 0.
+Runner encounters Descent protecting HQ at position 0.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Descent from HQ.
+Runner spends click and pays 1 credits to install Cookbook.
+Runner is ending their turn 7 with 8 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 8 with 8 credits and 4 cards in HQ.
+Corp uses Descent to add Descent protecting HQ at position 0 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Measured Response.
+Runner spends 1 click and pays 13 credits to satisfy Measured Response.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 0 credits and 2 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Privileged Access.
+Runner uses Privileged Access to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses the replacement effect from Privileged Access.
+Runner uses Privileged Access to take 1 tag.
+Runner pays 1 credits from Paladin Poemu to use Privileged Access to install The Twinning from the Heap (paying 2 credits less).
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Cookbook.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Cookbook.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 1 credits and 3 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Descent from HQ.
+Runner is ending their turn 9 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Cookbook.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 3 credits and 4 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Descent from HQ.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 10 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 2 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Descent protecting HQ at position 0.
+Runner encounters Descent protecting HQ at position 0.
+Runner pays 1 credits to use Buzzsaw to break all 1 subroutines on Descent.
+Runner has no further action.
+Runner passes Descent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Akhet from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 2 credits and 5 cards in HQ.
+Corp uses Descent to add Descent protecting HQ at position 0 to HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 4 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Above the Law and gains 2 agenda points.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 12 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 9 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Envelopment protecting R&D at position 0.
+Runner encounters Envelopment protecting R&D at position 0.
+Runner pays 2 credits to use Banner to prevent Envelopment protecting R&D at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp uses Envelopment to trash Envelopment.
+Corp resolves 5 unbroken subroutines on Envelopment ("[subroutine] End the run" and "[subroutine] End the run" and "[subroutine] End the run" and "[subroutine] End the run" and "[subroutine] Trash this ice").
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Transport Monopoly and gains 2 agenda points.
+Runner wins the game.
+Runner uses Paladin Poemu to add 1 credits to itself.

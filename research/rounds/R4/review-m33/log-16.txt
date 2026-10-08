@@ -1,0 +1,393 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 11
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Docklands Pass.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Marjanah.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp is ending their turn 2 with 17 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1 (new remote).
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Vertigo from HQ.
+Runner accesses Hedge Fund from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click and pays 3 credits to install Carmen.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Otto Campaign from Server 1.
+Runner is ending their turn 2 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 14 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp pays 2 credits to rez Otto Campaign in Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp is ending their turn 3 with 16 credits and 1 card in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp pays 0 credits to use Drafter to install ice from HQ protecting Archives.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Hedge Fund from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 1 credits to install Flip Switch.
+Runner is ending their turn 3 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 16 credits and 1 card in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 0 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp pays 0 credits to use Drafter to install ice from HQ protecting Archives.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Tranquility Home Grid from HQ.
+Runner accesses Wage Workers from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp trashes Otto Campaign in Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 4 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Otto Campaign in Archives to HQ.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 15 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Sprint in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Hedge Fund from HQ.
+Runner accesses Sprint from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Flip Switch to do nothing.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 1 credits to rez Vertigo protecting Server 1 at position 0.
+Runner encounters Vertigo protecting Server 1 at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting Server 1 at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Megaprix Qualifier from Server 1.
+Runner declines to pay to steal Megaprix Qualifier.
+Runner is ending their turn 5 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 14 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Megaprix Qualifier and gains 1 agenda point.
+Corp uses Haas-Bioroid: Precision Design to add Sprint in Archives to HQ.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 6 with 11 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 6 with 11 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add a card in Archives to HQ.
+Corp pays 0 credits to use Drafter to install ice from HQ protecting Archives.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Otto Campaign from HQ.
+Runner pays 2 credits to trash Otto Campaign from HQ.
+Runner accesses Hedge Fund from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Otto Campaign in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sprint from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 6 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp pays 2 credits to rez Otto Campaign in Server 1.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp is ending their turn 7 with 17 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 12 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 5 credits to install Red Team.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp trashes Otto Campaign in Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Petty Cash from HQ.
+Runner accesses Tranquility Home Grid from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Vertigo protecting Server 1 at position 0.
+Runner encounters Vertigo protecting Server 1 at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting Server 1 at position 0.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Megaprix Qualifier from Server 1.
+Runner declines to pay to steal Megaprix Qualifier.
+Runner is ending their turn 7 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 17 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Megaprix Qualifier and gains 1 agenda point.
+Corp uses Haas-Bioroid: Precision Design to add Hedge Fund in Archives to HQ.
+Corp is ending their turn 8 with 14 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 8 with 11 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Otto Campaign in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Petty Cash from HQ.
+Runner accesses Tranquility Home Grid from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 2 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Vertigo protecting Server 1 at position 0.
+Runner encounters Vertigo protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Otto Campaign from Server 1.
+Runner pays 2 credits to trash Otto Campaign from Server 1.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Otto Campaign in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 8 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 14 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp pays 2 credits to rez Otto Campaign in Server 1.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 9 with 15 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 9 with 11 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 1 credits to rez Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 0 credits to install No Free Lunch.
+Runner is ending their turn 9 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 14 credits and 6 cards in HQ.
+Corp uses Otto Campaign to gain 2 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 18 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 10 with 12 credits and 5 cards in the grip.
+Runner uses No Free Lunch to do nothing.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 0.
+Runner encounters Vertigo protecting R&D at position 0.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp trashes Otto Campaign in Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Hedge Fund from HQ.
+Runner accesses Petty Cash from HQ.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 10 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 18 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp wins the game.

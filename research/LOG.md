@@ -676,3 +676,16 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - **BS, vs `:s1ref`:** `:hand-econ` 1.0 Corp 0.827 vs 0.837 (+30/−33); Runner 0.857 vs 0.877 (+24/−30, p = 0.50). Forced-discards rise on both sides (Corp 1.14 → 1.51, Runner 1.15 → 1.47), because economy cards are held. Rejected.
   - **The RC33 opponent restores headroom.** The RC33 Runner wins 63% against the RC33 Corp vs 88% against `:s1ref`, so strength A/Bs use it from now on.
 - **RC34** = RC33 + Runner `:blind-facecheck` + Corp `:corp-poverty` 0.5. **Job BU** (frozen `bu` = `9b9138a`, 14 threads): gate review sets review-m33 and review-m34 (both sides, seeds 202140–202179) and review-mrunner5 (Runner only, 202180–202199). Then RC34 vs RC33 head-to-head on 300 seeds (430000–430299) with the RC33 self-play null, as a strength check.
+- **RC34 gate reviews (job BU; one fresh Opus reviewer per set):**
+  - review-m33: candidate **3.50** (Corp 3.6, Runner 3.4; ref 2.10).
+  - review-m34: candidate **3.30** (Corp 3.2, Runner 3.4; ref 2.00).
+  - review-mrunner5 (Runner only): candidate **3.10** (ref 1.30).
+  - **Gate not met** (pooled 3.40 vs ≥ 3.5; Runner-only 3.10 vs ≥ 3.2). This is again inside the 3.05–3.70 band of RC29–RC34.
+  - Candidate notes: Banner overspend and draws into discards (modern-b Runner); Mitosis into naked remotes (modern-g Corp); a modern-c Corp repeatedly installing Tomorrow's Headline behind ice the Runner passes, then decking; a modern-a Corp sitting at 0 credits with central ice unrezzed.
+  - All 3 candidate Runner losses in mrunner5 end with the Corp's winning agenda in Server 1 scoring without a run.
+- **Bug: hidden-information leak in Runner HQ memory (since `6f45b4c`, 2026-10-04).**
+  - The HQ-access memory flag `:monolith-known` stayed on a card after the Corp installed it facedown. `observe` then showed the installed card's title, so a Runner that had seen Ablative Barrier in HQ "knew" the new facedown ice on Server 1 was Ablative Barrier.
+  - Trace (mrunner5 log-04, RC34 Runner T10): at 6 points against a Corp on 5, with a 2-advanced card in Server 1, "run Server 1" was pruned as certain failure (p = 0 against the "known" unbreakable barrier) and the Runner ran R&D. The Corp scored for the win.
+  - **Fix:** HQ/R&D access memory now uses its own flag `:monolith-hq`, which counts as known only while the card stays in HQ or R&D (`observe/known?`, also used by `sim/determinize!`). Server and Archives access memory is unchanged. Replayed, the plan's top line becomes "run Server 1" (43.0 vs 41.2 for the next).
+  - **Impact:** every champion Runner with `:hq-memory` (RC4 on) saw some facedown installs from HQ. The leak cuts both ways: it was cheating where the remote card was a known agenda, and it hurt where, as here, it hid a must-run.
+  - **The K32 T2 Runner result (g_r +1.68) was measured with the leak.** It has to be re-measured on fixed code before T2 is claimed. The Corp side (g_c +1.10) is unaffected, since the Corp agent does not use this memory.

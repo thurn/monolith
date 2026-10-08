@@ -1,0 +1,409 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 15
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp is ending their turn 1 with 10 credits and 2 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install No Free Lunch.
+Runner trashes No Free Lunch to use No Free Lunch to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 1 credits to play Carpe Diem.
+Runner identifies their mark to be HQ.
+Runner uses Carpe Diem to gain 4 credits.
+Runner uses Carpe Diem to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Hafrún protecting HQ at position 0.
+Runner encounters Hafrún protecting HQ at position 0.
+Runner has no further action.
+Corp uses Hafrún to end the run.
+Corp resolves 1 unbroken subroutine on Hafrún ("[subroutine] End the run").
+Runner is ending their turn 1 with 12 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 9 credits and 3 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 2 with 12 credits and 3 cards in the grip.
+Runner spends clickclick and pays 1 credits to play Lie Low.
+Runner uses Lie Low to draw 4 cards.
+Runner spends click and pays 1 credits to install Swift.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 15 credits and 4 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 3 with 11 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Tread Lightly.
+Runner uses Swift to gain a [click].
+Runner uses Tread Lightly to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click and pays 0 credits to play Blueberry!™ Diesel.
+Runner looks at the top 2 cards of the stack and adds one to the bottom of the stack.
+Runner uses Blueberry!™ Diesel to draw 2 cards.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 3 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 16 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Mindscaping.
+Corp uses Mindscaping to gain 4 credits and draw 2 cards.
+Corp uses Mindscaping to add 1 card from HQ to the top of R&D.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 11 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 7 credits to rez Vampyronassa protecting Server 1 at position 0.
+Runner encounters Vampyronassa protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Vampyronassa to force the Runner to lose 2 credits.
+Corp uses Vampyronassa to gain 2 credits.
+Corp uses Vampyronassa to do 2 net damage.
+Corp trashes Carpe Diem and Tremolo due to net damage.
+Corp uses Vampyronassa to draw 0 cards.
+Corp resolves 4 unbroken subroutines on Vampyronassa ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] Gain 2 credits" and "[subroutine] Do 2 net damage" and "[subroutine] Draw up to 2 cards").
+Runner passes Vampyronassa protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Hybrid Release from Server 1.
+Runner steals Hybrid Release and gains 1 agenda point.
+Runner is ending their turn 4 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 5 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install No Free Lunch.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 5 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 6 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Docklands Pass.
+Runner trashes No Free Lunch to use No Free Lunch to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 6 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 14 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Fujii Asset Retrieval and gains 3 agenda points.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Pennyshaver and Transfer of Wealth due to net damage.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 11 credits and 5 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 7 with 17 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Pennyshaver.
+Swift is trashed.
+Runner is ending their turn 7 with 21 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 2 credits to play Mindscaping.
+Corp uses Mindscaping to gain 4 credits and draw 2 cards.
+Corp uses Mindscaping to add 1 card from HQ to the top of R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp is ending their turn 8 with 14 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 21 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Revolver.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 2 credits to rez Diviner protecting Server 1 at position 1.
+Runner encounters Diviner protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Diviner to do 1 net damage.
+Corp trashes Shibboleth due to net damage.
+Corp uses Diviner to end the run.
+Corp resolves 1 unbroken subroutine on Diviner ("[subroutine] Do 1 net damage").
+Runner is ending their turn 8 with 23 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 12 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Longevity Serum and gains 2 agenda points.
+Corp uses Longevity Serum to trash 5 cards from HQ.
+Corp uses Longevity Serum to shuffle Hansei Review, Hansei Review, and Hedge Fund into R&D.
+Corp is ending their turn 9 with 9 credits and 0 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 9 with 23 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Tatu-Bola protecting R&D at position 0.
+Runner encounters Tatu-Bola protecting R&D at position 0.
+Runner has no further action.
+Corp uses Tatu-Bola to end the run.
+Corp resolves 1 unbroken subroutine on Tatu-Bola ("[subroutine] End the run").
+Runner spends click and pays 1 credits to play Tread Lightly.
+Runner uses Tread Lightly to make a run on HQ.
+Runner approaches Hafrún protecting HQ at position 0.
+Runner encounters Hafrún protecting HQ at position 0.
+Runner has no further action.
+Corp uses Hafrún to end the run.
+Corp resolves 1 unbroken subroutine on Hafrún ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 24 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 8 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click and pays 0 credits to install ice protecting Server 3.
+Corp is ending their turn 10 with 8 credits and 0 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 10 with 24 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Info Bounty.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 3 credits to rez Konjin protecting Server 3 at position 0.
+Runner encounters Konjin protecting Server 3 at position 0.
+Corp uses Konjin to start a psi game (Force the runner to encounter another ice).
+Runner pays 0 credits.
+Corp pays 0 credits.
+Runner has no further action.
+Runner passes Konjin protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches Server 3.
+Runner accesses Urtica Cipher from Server 3.
+Corp uses Urtica Cipher to do 2 net damage.
+Corp trashes Docklands Pass and Transfer of Wealth due to net damage.
+Runner pays 2 credits to trash Urtica Cipher from Server 3.
+Runner spends click and pays 1 credits to install Shibboleth.
+Runner is ending their turn 10 with 20 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 11 with 6 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Neurospike.
+Corp uses Neurospike to do nothing.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 11 with 3 credits and 0 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 11 with 20 credits and 2 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Tremolo.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Diviner protecting Server 1 at position 1.
+Runner encounters Diviner protecting Server 1 at position 1.
+Runner pays 3 credits to increase the strength of Shibboleth to 3 and break all  subroutines on Diviner.
+Runner has no further action.
+Runner passes Diviner protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Vampyronassa protecting Server 1 at position 0.
+Runner encounters Vampyronassa protecting Server 1 at position 0.
+Runner pays 8 credits to increase the strength of Shibboleth to 5 and break all 4 subroutines on Vampyronassa.
+Runner has no further action.
+Runner passes Vampyronassa protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches Server 1.
+Runner accesses Longevity Serum from Server 1.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner is ending their turn 11 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 4 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 12 with 4 credits and 4 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 12 with 6 credits and 3 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Hafrún protecting HQ at position 0.
+Runner encounters Hafrún protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Shibboleth to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Hedge Fund from HQ.
+Runner accesses Moon Pool from HQ.
+Runner spends click to use Pennyshaver to gain 4 credits.
+Runner is ending their turn 12 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Hybrid Release and gains 1 agenda point.
+Corp pays 0 credits to use Hybrid Release to install ice from Archives protecting Archives.
+Corp is ending their turn 13 with 3 credits and 4 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 13 with 11 credits and 3 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 4 credits to install Red Team.
+Runner spends click to make a run on HQ.
+Runner approaches Hafrún protecting HQ at position 0.
+Runner encounters Hafrún protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Shibboleth to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Hedge Fund from HQ.
+Runner accesses Moon Pool from HQ.
+Runner spends click and pays 0 credits to play Jailbreak.
+Runner uses Jailbreak to make a run on R&D.
+Runner approaches Tatu-Bola protecting R&D at position 0.
+Runner encounters Tatu-Bola protecting R&D at position 0.
+Runner pays 3 credits to use Tremolo to break all 1 subroutines on Tatu-Bola.
+Runner has no further action.
+Runner passes Tatu-Bola protecting R&D at position 0.
+Corp uses Tatu-Bola to swap Tatu-Bola protecting R&D at position 0 with a piece of ice from HQ and gain 4 credits.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Pennyshaver to place 1 credits.
+Runner uses Jailbreak to draw 1 card.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Hybrid Release and gains 1 agenda point.
+Runner is ending their turn 13 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 14 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 14 with 10 credits and 2 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 14 with 1 credits and 3 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Hafrún protecting HQ at position 0.
+Runner encounters Hafrún protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Shibboleth to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Anemone from HQ.
+Runner accesses Moon Pool from HQ.
+Runner uses Info Bounty to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 15 with 11 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Longevity Serum and gains 2 agenda points.
+Corp wins the game.

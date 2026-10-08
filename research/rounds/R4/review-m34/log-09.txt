@@ -1,0 +1,495 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 18
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Boi-tatá.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Abaasy.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 3 credits to play Mitosis.
+Corp uses Mitosis to install a card from HQ in the root of Server 2 (new remote), and place 2 Advancement counters on it.
+Corp uses Mitosis to install a card from HQ in the root of Server 3 (new remote), and place 2 Advancement counters on it.
+Corp spends click and pays 3 credits to play Neurospike.
+Corp uses Neurospike to do nothing.
+Corp is ending their turn 2 with 3 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Lotus Haze from Server 2.
+Runner steals Lotus Haze and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Stick and Poke due to net damage.
+Runner is ending their turn 2 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Sisyphus Protocol and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Gourmand due to net damage.
+Corp is ending their turn 3 with 0 credits and 1 card in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 3 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 0 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp is ending their turn 4 with 0 credits and 1 card in HQ.
+[hr]
+Runner started their turn 4 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to play Katorga Breakout.
+Runner uses Katorga Breakout to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Katorga Breakout to add Gourmand to the grip.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 4 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 0 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 5 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 0 credits to install Gourmand.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Anemone from HQ.
+Runner is ending their turn 5 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 6 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 8 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Leech.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 3 credits to trash Bladderwort from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses Bring Them Home from HQ.
+Runner is ending their turn 7 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp is ending their turn 8 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 4.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Urtica Cipher from Server 4.
+Corp uses Urtica Cipher to do 3 net damage.
+Corp trashes Avgustina Ivanovskaya, Mystic Maemi, and Scrounge due to net damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 8 with 7 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 9 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 6.
+Corp spends click to install a card in the root of Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp is ending their turn 9 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 7 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 6.
+Runner approaches ice protecting Server 6 at position 1.
+Corp pays 3 credits to rez Semak-samun protecting Server 6 at position 1.
+Runner encounters Semak-samun protecting Server 6 at position 1.
+Runner has no further action.
+Corp uses Semak-samun to end the run.
+Corp resolves 1 unbroken subroutine on Semak-samun ("[subroutine] End the run unless the Runner pays Suffer 3 net damage").
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 9 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores Lotus Haze and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Mystic Maemi due to net damage.
+Corp is ending their turn 10 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 7 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 10 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 6.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 8 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Katorga Breakout.
+Runner uses Katorga Breakout to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner uses Katorga Breakout to add Avgustina Ivanovskaya to the grip.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Longevity Serum and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Ghosttongue due to net damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 11 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores Hybrid Release and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Ghosttongue due to net damage.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses Bathynomus from HQ.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 4.
+Corp is ending their turn 13 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 6 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Hafrún protecting Server 1 at position 0.
+Corp uses Hafrún to trash 1 card from HQ to prevent subroutines from being broken by Abaasy abilities for the remainder of the run.
+Runner encounters Hafrún protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Hafrún to end the run.
+Corp resolves 1 unbroken subroutine on Hafrún ("[subroutine] End the run").
+Runner spends click and pays 3 credits to play Chastushka.
+Runner uses Chastushka to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner uses the replacement effect from Chastushka.
+Runner uses Chastushka to sabotage 4.
+Corp trashes 3 cards from HQ and 1 card from the top of R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Mavirus.
+Corp uses Mavirus to purge virus counters.
+Runner is ending their turn 13 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 14 with 0 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 14 with 0 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 14 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches Hafrún protecting Server 1 at position 0.
+Runner encounters Hafrún protecting Server 1 at position 0.
+Runner uses Abaasy to trash Avgustina Ivanovskaya to draw 1 card.
+Runner pays 3 credits to increase the strength of Abaasy to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting Server 1 at position 0.
+Corp trashes 1 card from HQ to use Sisyphus Protocol to make the runner encounter Hafrún protecting Server 1 at position 0 again.
+Runner encounters Hafrún protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Hafrún to end the run.
+Corp resolves 1 unbroken subroutine on Hafrún ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Hybrid Release from Archives.
+Runner steals Hybrid Release and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Light the Fire! due to net damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 14 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 5.
+Corp is ending their turn 15 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 15 with 1 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 5.
+Runner approaches ice protecting Server 5 at position 0.
+Runner passes ice protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Urtica Cipher from Server 5.
+Corp uses Urtica Cipher to do 2 net damage.
+Corp trashes Avgustina Ivanovskaya and Finality due to net damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 15 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 16 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 16 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 16 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Hafrún protecting Server 1 at position 0.
+Runner encounters Hafrún protecting Server 1 at position 0.
+Runner uses Abaasy to trash Marrow to draw 1 card.
+Runner pays 3 credits to increase the strength of Abaasy to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting Server 1 at position 0.
+Corp pays 1 credits to use Sisyphus Protocol to make the runner encounter Hafrún protecting Server 1 at position 0 again.
+Runner encounters Hafrún protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Hafrún to end the run.
+Corp resolves 1 unbroken subroutine on Hafrún ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 7 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 17 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 17 with 2 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Hafrún protecting Server 1 at position 0.
+Runner encounters Hafrún protecting Server 1 at position 0.
+Runner uses Abaasy to trash Mystic Maemi to draw 1 card.
+Runner pays 3 credits to increase the strength of Abaasy to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting Server 1 at position 0.
+Corp pays 1 credits to use Sisyphus Protocol to make the runner encounter Hafrún protecting Server 1 at position 0 again.
+Runner encounters Hafrún protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Hafrún to end the run.
+Corp resolves 1 unbroken subroutine on Hafrún ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 18 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 18 with 2 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Wildcat Strike.
+Corp uses Wildcat Strike to force the Runner to gain 6 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Runner passes ice protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Hafrún protecting Server 1 at position 0.
+Runner encounters Hafrún protecting Server 1 at position 0.
+Runner uses Abaasy to trash Running Hot to draw 1 card.
+Runner pays 3 credits to increase the strength of Abaasy to 3 and break all  subroutines on Hafrún.
+Runner has no further action.
+Runner passes Hafrún protecting Server 1 at position 0.
+Corp pays 1 credits to use Sisyphus Protocol to make the runner encounter Hafrún protecting Server 1 at position 0 again.
+Runner encounters Hafrún protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Hafrún to end the run.
+Corp resolves 1 unbroken subroutine on Hafrún ("[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches HQ.
+Runner accesses Longevity Serum from HQ.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner wins the game.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Scrounge due to net damage.

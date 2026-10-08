@@ -1,0 +1,267 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 12
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Mutual Favor.
+Runner uses Mutual Favor to add Carmen from the stack to the grip and shuffle the stack.
+Runner spends click and pays 5 credits to install Carmen.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Ablative Barrier protecting HQ at position 0.
+Runner encounters Ablative Barrier protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ablative Barrier to end the run.
+Corp resolves 1 unbroken subroutine on Ablative Barrier ("[subroutine] End the run").
+Runner is ending their turn 1 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 2.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp is ending their turn 2 with 1 credits and 1 card in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Wage Workers from Server 3.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 1 credits and 1 card in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp spends click to install a card in the root of Server 4.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 4 credits and 1 card in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 4 cards in the grip.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on Server 4.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 4 credits to rez Hagen protecting Server 4 at position 0.
+Runner encounters Hagen protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 0 credits and 1 card in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp scores Megaprix Qualifier and gains 1 agenda point.
+Corp uses Haas-Bioroid: Precision Design to add Hedge Fund in Archives to HQ.
+Corp is ending their turn 4 with 0 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 3 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp trashes Nico Campaign and draws 1 card.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Pennyshaver.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Nico Campaign in Archives to HQ.
+Corp is ending their turn 6 with 2 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 6 with 8 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 2 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 14 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner uses Bravado to gain 6 credits.
+Runner spends click to make a run on Server 5.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches Server 5.
+Runner accesses Nico Campaign from Server 5.
+Runner pays 2 credits to trash Nico Campaign from Server 5.
+Runner spends click to use Pennyshaver to gain 2 credits.
+Runner spends click and pays 0 credits to play Blueberry!™ Diesel.
+Runner looks at the top 2 cards of the stack and adds one to the bottom of the stack.
+Runner uses Blueberry!™ Diesel to draw 2 cards.
+Runner is ending their turn 7 with 21 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp is ending their turn 8 with 3 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 8 with 21 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 27 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 3 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 9 with 1 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 9 with 27 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Pinhole Threading.
+Runner uses Pinhole Threading to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner uses Pennyshaver to place 1 credits.
+Runner uses the replacement effect from Pinhole Threading.
+Runner accesses Architect Deployment Test from Server 4.
+Runner declines to pay to steal Architect Deployment Test.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches Server 1.
+Runner accesses Nico Campaign from Server 1.
+Runner pays 2 credits to trash Nico Campaign from Server 1.
+Runner spends click to use Pennyshaver to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 27 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 1 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp scores Architect Deployment Test and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Nico Campaign in Archives to HQ.
+Corp uses Architect Deployment Test to look at the top 5 cards of R&D.
+Corp uses Architect Deployment Test to install Tranquility Home Grid from  position 1 of R&D in the root of Server 6 (new remote).
+Corp uses Architect Deployment Test to rez Tranquility Home Grid in Server 6 at no cost.
+Corp spends click to install a card in the root of Server 4.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 10 with 0 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 10 with 27 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches Server 1.
+Runner accesses Otto Campaign from Server 1.
+Runner pays 2 credits to trash Otto Campaign from Server 1.
+Runner spends click to use Pennyshaver to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 29 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 0 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 6.
+Corp uses Tranquility Home Grid to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 2 credits to rez Nico Campaign in Server 6.
+Corp spends click and pays 1 credits to play Seamless Launch.
+Corp uses Seamless Launch to place 2 advancement counters on a card in Server 4.
+Corp is ending their turn 11 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 29 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 6.
+Runner will continue the run.
+Runner approaches Server 6.
+Runner uses Pennyshaver to place 1 credits.
+Runner breaches Server 6.
+Runner accesses Nico Campaign from Server 6.
+Runner pays 2 credits to trash Nico Campaign from Server 6.
+Runner accesses Tranquility Home Grid from Server 6.
+Runner pays 4 credits to trash Tranquility Home Grid from Server 6.
+Runner spends click to use Pennyshaver to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 27 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Archives.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp wins the game.
