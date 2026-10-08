@@ -1,0 +1,117 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 4
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to install a card from HQ in the root of Server 1 (new remote).
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Ingatan from HQ.
+Runner steals Project Ingatan and gains 2 agenda points.
+Runner uses Bravado to gain 7 credits.
+Runner is ending their turn 1 with 15 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 15 credits and 3 cards in the grip.
+Runner spends click and pays 0 credits to play Mutual Favor.
+Runner uses Mutual Favor to add Carmen from the stack to the grip and shuffle the stack.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Architect Deployment Test from Server 1.
+Runner steals Architect Deployment Test and gains 2 agenda points.
+Runner spends click and pays 3 credits to install Carmen.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 13 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Otto Campaign in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 13 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to install a card from HQ in the root of Server 2.
+Corp trashes Otto Campaign in Server 2.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Ingatan from HQ.
+Runner steals Project Ingatan and gains 2 agenda points.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Drafter protecting HQ at position 0.
+Runner encounters Drafter protecting HQ at position 0.
+Runner has no further action.
+Corp uses Drafter to add Otto Campaign in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 2.
+Corp trashes a card in Server 2.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tranquility Home Grid from HQ.
+Runner pays 4 credits to trash Tranquility Home Grid from HQ.
+Runner is ending their turn 3 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp is ending their turn 4 with 1 credits and 1 card in HQ.
+[hr]
+Runner started their turn 4 with 10 credits and 4 cards in the grip.
+Runner spends click and pays 0 credits to install Marjanah.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Méliès City Luxury Line from Server 2.
+Runner spends click to steal Méliès City Luxury Line from Server 2.
+Runner steals Méliès City Luxury Line and gains 3 agenda points.
+Runner wins the game.

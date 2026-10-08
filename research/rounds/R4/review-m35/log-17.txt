@@ -1,0 +1,374 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 14
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click and pays 4 credits to install Buzzsaw.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 4 credits to install Buzzsaw.
+Runner is ending their turn 1 with 0 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 10 credits to play Government Subsidy.
+Corp uses Government Subsidy to gain 15 credits.
+Corp spends clickclick and pays 1 credits to play Secure and Protect.
+Corp uses Secure and Protect to reveal Akhet from R&D and install it, paying 3 credits less.
+Corp pays 0 credits to use Secure and Protect to install ice from R&D protecting Archives.
+Corp is ending their turn 2 with 14 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Transport Monopoly and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 14 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 0 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 21 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 3 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Mystic Maemi.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 21 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner trashes Gachapon to use Gachapon to set aside Fencer Fueno, Paladin Poemu, Paladin Poemu, Strike Fund, Trickster Taka, and Trickster Taka from the top of the stack.
+Runner pays 0 credits to use Gachapon to install Fencer Fueno from among the set-aside cards (paying 2 credits less).
+Runner uses Gachapon to shuffle Paladin Poemu, Paladin Poemu, and Strike Fund into the stack and remove Trickster Taka and Trickster Taka from the game.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on ice protecting Archives at position 0.
+Corp uses Akhet to end the run.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner is ending their turn 5 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 20 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 5 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Envelopment protecting R&D at position 0.
+Runner encounters Envelopment protecting R&D at position 0.
+Runner has no further action.
+Corp uses Envelopment to end the run.
+Corp resolves 1 unbroken subroutine on Envelopment ("[subroutine] End the run").
+Runner spends click to make a run on Archives.
+Runner approaches ice protecting Archives at position 0.
+Corp pays 3 credits to rez Akhet protecting Archives at position 0.
+Runner encounters Akhet protecting Archives at position 0.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting Archives at position 0.
+Corp uses Akhet to end the run.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner spends click and pays 2 credits to install Bling.
+Runner is ending their turn 6 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 4 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 8 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 12 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 9 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 9 with 21 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 11 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on HQ.
+Runner approaches Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on ice protecting Server 1 at position 1.
+Corp uses Akhet to end the run.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner uses Raindrops Cut Stone to draw 2 cards and gain 3 credits.
+Runner spends click and pays 4 credits to install Stargate.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Paladin Poemu.
+Runner is ending their turn 9 with 10 credits and 4 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 10 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 9 credits and 4 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click and pays 1 credits from Paladin Poemu to install Leech.
+Runner spends click to make a run on R&D.
+Runner approaches Envelopment protecting R&D at position 0.
+Runner encounters Envelopment protecting R&D at position 0.
+Runner has no further action.
+Corp uses Envelopment to trash Envelopment.
+Corp resolves 1 unbroken subroutine on Envelopment ("[subroutine] Trash this ice").
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Leech to place 1 virus counter on itself.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 10 with 10 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 11 with 25 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 26 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 9 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 6 credits to rez Hammer protecting R&D at position 0.
+Runner encounters Hammer protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hammer to give the Runner 1 tag.
+Corp uses Hammer to trash Bling.
+Corp resolves 3 unbroken subroutines on Hammer ("[subroutine] Give the Runner 1 tag" and "[subroutine] Choose a resource or piece of hardware to trash" and "[subroutine] Choose a program to trash that is not a decoder, fracter or killer").
+Runner passes Hammer protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 10 credits and 5 cards in the grip.
+[hr]
+Runner uses Fencer Fueno to pay 1 credits.
+Corp started their turn 12 with 20 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 12 with 20 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 9 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to make a run on R&D.
+Runner approaches Hammer protecting R&D at position 0.
+Runner encounters Hammer protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hammer to give the Runner 1 tag.
+Corp uses Hammer to trash Fencer Fueno.
+Corp resolves 3 unbroken subroutines on Hammer ("[subroutine] Give the Runner 1 tag" and "[subroutine] Choose a resource or piece of hardware to trash" and "[subroutine] Choose a program to trash that is not a decoder, fracter or killer").
+Runner passes Hammer protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 3 credits to rez Afshar protecting Server 1 at position 1.
+Runner encounters Afshar protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Afshar to force the Runner to lose 2 credits.
+Corp uses Afshar to end the run.
+Corp resolves 2 unbroken subroutines on Afshar ("[subroutine] Make the Runner lose 2 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 17 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores SDS Drone Deployment and gains 3 agenda points.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 9 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Hammer protecting R&D at position 0.
+Runner encounters Hammer protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hammer to give the Runner 1 tag.
+Corp uses Hammer to trash Mystic Maemi.
+Corp resolves 3 unbroken subroutines on Hammer ("[subroutine] Give the Runner 1 tag" and "[subroutine] Choose a resource or piece of hardware to trash" and "[subroutine] Choose a program to trash that is not a decoder, fracter or killer").
+Runner passes Hammer protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Above the Law and gains 2 agenda points.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Hammer protecting R&D at position 0.
+Runner encounters Hammer protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hammer to give the Runner 1 tag.
+Corp uses Hammer to trash Paladin Poemu.
+Corp resolves 3 unbroken subroutines on Hammer ("[subroutine] Give the Runner 1 tag" and "[subroutine] Choose a resource or piece of hardware to trash" and "[subroutine] Choose a program to trash that is not a decoder, fracter or killer").
+Runner passes Hammer protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Above the Law and gains 2 agenda points.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 13 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 14 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 14 with 14 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 14 with 7 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Hammer protecting R&D at position 0.
+Runner encounters Hammer protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hammer to give the Runner 1 tag.
+Corp resolves 3 unbroken subroutines on Hammer ("[subroutine] Give the Runner 1 tag" and "[subroutine] Choose a resource or piece of hardware to trash" and "[subroutine] Choose a program to trash that is not a decoder, fracter or killer").
+Runner passes Hammer protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Divested Trust and gains 1 agenda point.
+Runner wins the game.

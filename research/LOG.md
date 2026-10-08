@@ -693,3 +693,15 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **Job BV** (frozen `bv` = `07489d6`, 16 threads): **RC35** = RC34 spec on the fixed code.
   - Gate review sets review-m35 and review-m36 (both sides, 202200–202239) and review-mrunner6 (Runner only, 202240–202259).
   - Then the RC35 Runner vs the RC33 champion Corp on 420000–420299. This is the same seeds and matchup as BT's RC33 arm on leaky code (0.630), so the fix's effect on strength is visible, confounded only by RC34's `:blind-facecheck`.
+- **RC35 gate reviews (job BV; first sets on leak-fixed code):**
+  - review-m35: candidate **2.80** (Corp 2.4, Runner 3.2).
+  - review-m36: **3.30** (Corp 3.6, Runner 3.0).
+  - review-mrunner6: **3.30** (Runner only; 9 of 10 won).
+  - Gate: pooled two-sided 3.05 ✗ (≥ 3.5), Runner-only 3.30 ✓ (≥ 3.2).
+  - **Pooled over RC34 + RC35 (four two-sided sets): Runner 3.25, Corp 3.20.**
+- **What the notes point to:**
+  - **m35 log-10 (modern-g Corp, rated 1):** S1's protect-centrals ices R&D before HQ by rule. The plan preferred HQ by 4.5, but the 8-point anchor margin kept S1's choice, and three agendas were taken from the open HQ by turn 3. New opt-in `:hq-first`: ice HQ first while it holds an agenda. Replayed, it installs Anemone on HQ. Smoke: 8 Corp games, 0 stalls.
+  - **m35 log-04 (bare R&D for 4 turns):** a hand of 5 agendas plus 2 economy operations, no ice. That is flood, not a decision error.
+  - **The modern-b Runner (Loup/Banner)** is the weakest slot by far: about 2.3 over m33–m36 (2,3,2,3,3,2,2,2), always broke with clicks spent on single credits. It is the only dev deck with recurring-income companions (Mystic Maemi, Paladin Poemu, Fencer Fueno), which the evaluator valued only at their install cost. New opt-in `:runner-income` k: installed "when your turn begins, place/gain N[credit]" cards are worth k × N. In the m32 log-12 position, installing Maemi (23.4) now outranks a credit click (21.7).
+  - Economy at 0–4 credits is still the most common Runner note in wins (mrunner6: 4 of 9 wins).
+- **Job BW (queued after BV):** Corp `:hq-first` and `:dig-ice` (re-test), Runner `:runner-income` 3, each vs RC35, all against the RC33 champion, 300 paired seeds 440000–440299.
