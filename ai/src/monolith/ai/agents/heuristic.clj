@@ -170,7 +170,10 @@
           hit (set (get-in obs [:runner :register-last-turn :successful-run]))
           installs (filter #(= "ICE" (ptype (card-title %))) (acts env :install))]
       (first
-       (for [[server k] [["R&D" :rd] ["HQ" :hq]]
+       ;; :hq-first: HQ first while it holds an agenda (m36 log-11: Next Big Thing revealed in HQ, the drawn
+       ;; ice went to R&D and NBT was stolen through HQ's single ice)
+       (for [[server k] (if (and (w env :hq-first) (some #(= "Agenda" (ptype (:title %))) (get-in obs [:corp :hand])))
+                          [["HQ" :hq] ["R&D" :rd]] [["R&D" :rd] ["HQ" :hq]])
              :when (and (hit k) (< (count (srv/ices obs k)) 2))
              a (sort-by #(- (ice-score (card-title %))) installs)
              :when (and (= server (get-in a [:args :server]))
@@ -205,7 +208,12 @@
                  after (dec (clicks env))
                  now-adv (min after (credits env))
                  next-need (- req now-adv)]
-           :when (and (<= next-need 3) (remote-safe? env k (* 5 (srv/ap (card-title a)))))]
+           :when (and (<= next-need 3)
+                      (or (remote-safe? env k (* 5 (srv/ap (card-title a))))
+                          ;; :flood-install n: with n+ agendas in HQ an iced remote beats HQ, where every access
+                          ;; can steal (m35 log-11: six agendas in HQ, Corp clicked for credits at 10-12 for turns)
+                          (when-let [n (w env :flood-install)]
+                            (>= (count (filter #(= "Agenda" (:type %)) (get-in obs [:corp :hand]))) n))))]
        a))))
 
 (defn c-advance-for-next-turn
