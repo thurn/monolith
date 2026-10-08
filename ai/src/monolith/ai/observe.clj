@@ -9,8 +9,16 @@
 
 (defn stub [c] (-> (select-keys c stub-keys) (assoc :hidden true)))
 
+(defn known?
+  "The Runner knows this Corp card's identity. :monolith-hq (accessed in HQ or R&D) holds only while
+  the card stays in HQ or R&D: once installed or trashed facedown it is anonymous again
+  (mrunner5 log-04: a seen Ablative Barrier, installed from HQ, showed through the facedown ice and
+  the Runner skipped a must-run on a 2-advanced remote at 6 points)."
+  [c]
+  (or (:monolith-known c) (and (:monolith-hq c) (#{:hand :deck} (first (:zone c))))))
+
 (defn- corp-card-visible-to-runner? [c]
-  (or (rezzed? c) (:seen c) (:monolith-known c) (and (= :discard (first (:zone c))) (not (:facedown c)) (:seen c))
+  (or (rezzed? c) (:seen c) (known? c) (and (= :discard (first (:zone c))) (not (:facedown c)) (:seen c))
       (#{:scored :current :play-area :rfg} (first (:zone c)))))
 
 (defn- redact-corp-installed [c]
@@ -36,10 +44,10 @@
   (let [s (apply dissoc s drop-keys)]
     (if (= side :runner)
       (-> s
-          (update-in [:corp :hand] #(mapv (fn [c] (if (:monolith-known c) c (stub c))) %))
-          (update-in [:corp :deck] #(mapv (fn [c] (if (:monolith-known c) c (stub c))) %))
+          (update-in [:corp :hand] #(mapv (fn [c] (if (known? c) c (stub c))) %))
+          (update-in [:corp :deck] #(mapv (fn [c] (if (known? c) c (stub c))) %))
           (update-in [:runner :deck] #(mapv stub %))
-          (update-in [:corp :discard] #(mapv (fn [c] (if (or (:seen c) (faceup? c) (:monolith-known c)) c (stub c))) %))
+          (update-in [:corp :discard] #(mapv (fn [c] (if (or (:seen c) (faceup? c) (known? c)) c (stub c))) %))
           (update-in [:corp :servers] redact-servers)
           (update :corp dissoc :prompt :prompt-state :selected))
       (-> s

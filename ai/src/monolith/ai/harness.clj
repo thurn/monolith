@@ -28,7 +28,7 @@
         c (:card p)]
     ;; HQ cards the Runner accessed are known to it while they stay in HQ (with :hq-memory)
     (when (and c *hq-memory* (#{:hand :deck} (first (:zone c))) (re-find #"^You accessed" (str (:msg p))))
-      (swap! state update-in [:corp (first (:zone c))] (fn [cs] (mapv #(if (= (:cid %) (:cid c)) (assoc % :monolith-known true) %) cs))))
+      (swap! state update-in [:corp (first (:zone c))] (fn [cs] (mapv #(if (= (:cid %) (:cid c)) (assoc % :monolith-hq true) %) cs))))
     ;; facedown Archives cards the Runner accessed stay facedown in the engine but are known
     (when (and c (= :discard (first (:zone c))) (re-find #"^You accessed" (str (:msg p))))
       (swap! state update-in [:corp :discard] (fn [cs] (mapv #(if (= (:cid %) (:cid c)) (assoc % :monolith-known true) %) cs))))
@@ -51,7 +51,7 @@
           new-cards (remove #(old-cids (:cid %)) (get-in @state [:corp :hand]))
           returned (set (for [c new-cards :when (pos? (get gone (:title c) 0))] (:cid c)))]
       (when (seq returned)
-        (swap! state update-in [:corp :hand] (fn [cs] (mapv #(if (returned (:cid %)) (assoc % :monolith-known true) %) cs)))))))
+        (swap! state update-in [:corp :hand] (fn [cs] (mapv #(if (returned (:cid %)) (assoc % :monolith-hq true) %) cs)))))))
 
 (defn- result [g n stall t0 extra]
   (let [s @(:state g)]

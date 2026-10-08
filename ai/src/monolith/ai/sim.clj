@@ -62,7 +62,7 @@
   (for [[k srv] (get-in s [:corp :servers])
         [zk kind] [[:ices :ice] [:content (if (srv/remote? k) :remote :root)]]
         [i c] (map-indexed vector (get srv zk))
-        :when (not (or (:rezzed c) (:seen c) (:monolith-known c)))]
+        :when (not (or (:rezzed c) (:seen c) (observe/known? c)))]
     [[:corp :servers k zk i] c kind]))
 
 (defn determinize!
@@ -97,15 +97,15 @@
                             s slots)
                   ;; facedown archives
                   s (reduce (fn [s [i c]]
-                              (if (or (:seen c) (:monolith-known c) (empty? pl)) s
+                              (if (or (:seen c) (observe/known? c) (empty? pl)) s
                                   (put s [:corp :discard i] c (.remove pl (int 0)))))
                             s (map-indexed vector (get-in s [:corp :discard])))
                   ;; HQ then R&D get the rest in random order
                   s (reduce (fn [s [i c]]
-                              (if (or (:monolith-known c) (empty? pl)) s (put s [:corp :hand i] c (.remove pl (int 0)))))
+                              (if (or (observe/known? c) (empty? pl)) s (put s [:corp :hand i] c (.remove pl (int 0)))))
                             s (map-indexed vector (get-in s [:corp :hand])))
                   s (reduce (fn [s [i c]]
-                              (if (or (:monolith-known c) (empty? pl)) s (put s [:corp :deck i] c (.remove pl (int 0)))))
+                              (if (or (observe/known? c) (empty? pl)) s (put s [:corp :deck i] c (.remove pl (int 0)))))
                             s (map-indexed vector (get-in s [:corp :deck])))]
               ;; own stack order is unknown
               (update-in s [:runner :deck] #(vec (shuffle-with % rng))))

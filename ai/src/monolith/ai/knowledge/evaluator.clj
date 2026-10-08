@@ -183,7 +183,7 @@
         (cond
           ;; a kill the Runner has seen in HQ (:hq-memory) is not a draw chance (modern review 22: Measured
           ;; Response seen in HQ, turn ended at 2 credits, flatlined)
-          (some #(and (:monolith-known %) (:title %) (kill? (:title %))) (get-in s [:corp :hand])) 1.0
+          (some #(and (or (:monolith-known %) (:monolith-hq %)) (:title %) (kill? (:title %))) (get-in s [:corp :hand])) 1.0
           (or (zero? kills) (zero? n)) 0.0
           :else (max (or floor 0.0) (- 1.0 (Math/pow (- 1.0 (/ kills (double n))) h)))))))))
 
