@@ -1,5 +1,22 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-08 15:55 (R4, autonomous phase)
+
+- **Best agent:** RC35 (`rounds/R4/job-BV.clj`, frozen `bv` = `07489d6`) = RC33 + Corp `:corp-poverty` 0.5 + Runner `:blind-facecheck`, on code with the HQ-memory leak fixed.
+- **Ladder:**
+  - **T2 re-measured on leak-fixed code (K35T2): still met.** g_c +1.05, g_r +1.63 (bar +0.85).
+  - T3 puzzles met (K32).
+  - T3 review not met: the last held-out score is 3.00 (K32). Dev gate for RC35 not met: pooled two-sided 3.05, Runner-only 3.30.
+- **Today's A/Bs** (vs the RC33 champion, 300 paired seeds each):
+  - **Runner `:runner-poverty` 1.5: +71/−45 (p = 0.02)**, 0.602 → 0.689, broke-ends −43%.
+  - Runner `:runner-income` 3: +26/−14 (p = 0.08).
+  - Nulls: Corp `:hq-first` (twice), `:dig-ice`, `:flood-install`.
+- **Running:** job BY (frozen `by` = `fc36b7e`, ends around 20:00). It replicates `:runner-poverty` 1.5 on new seeds, adds `:runner-poverty` 1.5 with `:runner-income` 3, and a 3.0 dose. On the Corp side it tests the new `:ice-strong` (S1's ice placements get the strong anchor margin; targets the Corp's ~4 credit clicks per game at 8–14 credits).
+- **Next 3:**
+  - (1) RC36 = RC35 + the best BY Runner arm + Corp `:hq-first` (+ `:ice-strong` if not negative).
+  - (2) Generate RC36 gate sets (two modern sets plus Runner-only, seeds from 202260) and review them sequentially.
+  - (3) If the gate passes, K36 held-out confirmation (copy `job-K32.clj`).
+
 ## Status 2026-10-08 06:50 (R4, autonomous phase)
 
 - **Best agent:** RC32/RC33 (same spec, `rounds/R4/job-BP.clj`). Candidate RC34 = RC33 + Runner `:blind-facecheck` + Corp `:corp-poverty` 0.5 (`job-BU.clj`, frozen `bu` = `9b9138a`).

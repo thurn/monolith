@@ -1,8 +1,7 @@
 ;; Runner and Corp follow-up on RC35 code (frozen by = fc36b7e: bx + opt-in :ice-strong; Runner code identical to bw), against the RC33 champion: replicate BW's
 ;; :runner-poverty 1.5 win (+71/-45, p=0.02) on fresh seeds, stack :runner-income 3 (BW +26/-14, p=0.08), and a dose step
-;; :runner-poverty 3.0; plus Corp :rich-credit 10 (RC35 Corp clicks for credits ~4x/game at 8-14 credits, the most common Corp
-;; review complaint; the planner overrides S1's ice/draw/install with the credit click), Corp :ice-strong (S1's ice placements get
-;; the strong anchor margin), and both; 300 paired seeds 460000-460299, win rates + proxies.
+;; :runner-poverty 3.0; plus Corp :ice-strong (S1's ice placements get the strong anchor margin; RC35 Corp clicks for credits
+;; ~4x/game at 8-14 credits, the planner overriding S1's ice installs). :rich-credit 10 dropped: job BJ already rejected it (p=0.01); 300 paired seeds 460000-460299, win rates + proxies.
 (require 'monolith.ai.sweep 'monolith.ai.evalset 'monolith.ai.blunders)
 (let [R "/home/dthurn/monolith/research/rounds/R4"
       ev {:kill-threat 1.0 :hq-flood 1.0 :scorable-agendas 2.5 :asset-econ 1.0 :core-damage 1.0}
@@ -19,13 +18,11 @@
       rc34 (-> rc28 (assoc-in [:corp-opts :w :corp-poverty] 0.5) (assoc-in [:runner-opts :w :blind-facecheck] true))]
   (println (monolith.ai.evalset/run-many
             {:threads 16 :opponent [:champion rc28]
-             :experiments (vec (for [[tag spec side] [["by-rc35" rc34 [:corp :runner]] ["by-rich10" (assoc-in rc34 [:corp-opts :w :rich-credit] 10) [:corp]]
-                                                      ["by-is" (assoc-in rc34 [:corp-opts :w :ice-strong] true) [:corp]]
-                                                      ["by-isr" (update-in rc34 [:corp-opts :w] assoc :ice-strong true :rich-credit 10) [:corp]]
+             :experiments (vec (for [[tag spec side] [["by-rc35" rc34 [:corp :runner]] ["by-is" (assoc-in rc34 [:corp-opts :w :ice-strong] true) [:corp]]
                                                       ["by-pov15" (assoc-in rc34 [:runner-opts :w :runner-poverty] 1.5) [:runner]]
                                                       ["by-pi" (update-in rc34 [:runner-opts :w] assoc :runner-poverty 1.5 :runner-income 3.0) [:runner]]
                                                       ["by-pov3" (assoc-in rc34 [:runner-opts :w :runner-poverty] 3.0) [:runner]]]]
                                  {:agent [:champion spec] :tag tag :seeds (range 460000 460300) :matchups monolith.ai.sweep/modern-mix
                                   :sides side :games-log (str R "/eval-BY.jsonl") :null? false}))}))
-  (println (monolith.ai.blunders/summarize (str R "/eval-BY.jsonl") #{"by-rc35" "by-rich10" "by-is" "by-isr" "by-pov15" "by-pi" "by-pov3"}))
+  (println (monolith.ai.blunders/summarize (str R "/eval-BY.jsonl") #{"by-rc35" "by-is" "by-pov15" "by-pi" "by-pov3"}))
   (flush))
