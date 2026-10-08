@@ -1,4 +1,4 @@
-;; Knob A/Bs on RC35 code (frozen bw), all against the RC33 champion (s1ref A/Bs are saturated): Corp :hq-first (ice HQ
+;; Knob A/Bs on RC35 code (frozen bw = d16c9c8), all against the RC33 champion (s1ref A/Bs are saturated): Corp :hq-first (ice HQ
 ;; first while it holds agendas; m35 log-10), Corp :dig-ice (re-test), Runner :runner-income 3 (recurring-income
 ;; resources; modern-b Runner rated ~2.3 in m33-m36); 300 paired seeds 440000-440299, modern decks, win rates + proxies.
 (require 'monolith.ai.sweep 'monolith.ai.evalset 'monolith.ai.blunders)
