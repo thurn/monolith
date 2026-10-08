@@ -773,7 +773,10 @@
             (when (>= (credits env) 5)
               (act-where env #(and (#{:ability :click-ability} (:type %))
                                    (re-find #"(?i)search your stack for (?:1|a) program" (str (:label %))))))
-            (when (< hand mx)
+            ;; :dig-full k: keep digging up to k cards past a full grip (the end-of-turn discard drops
+            ;; the deadest card; m32 log-05: 5 run events in grip, no fracter, 4 clicks spent running
+            ;; Debbie and Concerto into a rezzed Ping while the Corp scored)
+            (when (< hand (+ mx (or (w env :dig-full) 0)))
               (or (act-where env #(and (= :play (:type %))
                                  (re-find #"(?i)draw \d+ cards" (str (:text (cards/printed (card-title %)))))
                                  (<= (cards/play-cost (card-title %)) (credits env))))
