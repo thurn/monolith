@@ -689,3 +689,7 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - **Fix:** HQ/R&D access memory now uses its own flag `:monolith-hq`, which counts as known only while the card stays in HQ or R&D (`observe/known?`, also used by `sim/determinize!`). Server and Archives access memory is unchanged. Replayed, the plan's top line becomes "run Server 1" (43.0 vs 41.2 for the next).
   - **Impact:** every champion Runner with `:hq-memory` (RC4 on) saw some facedown installs from HQ. The leak cuts both ways: it was cheating where the remote card was a known agenda, and it hurt where, as here, it hid a must-run.
   - **The K32 T2 Runner result (g_r +1.68) was measured with the leak.** It has to be re-measured on fixed code before T2 is claimed. The Corp side (g_c +1.10) is unaffected, since the Corp agent does not use this memory.
+- Fix committed (`07489d6`) after a smoke run (16 games, 0 stalls, 12 wins). Job BU was stopped after 95 head-to-head games, since that run was on leaky code.
+- **Job BV** (frozen `bv` = `07489d6`, 16 threads): **RC35** = RC34 spec on the fixed code.
+  - Gate review sets review-m35 and review-m36 (both sides, 202200–202239) and review-mrunner6 (Runner only, 202240–202259).
+  - Then the RC35 Runner vs the RC33 champion Corp on 420000–420299. This is the same seeds and matchup as BT's RC33 arm on leaky code (0.630), so the fix's effect on strength is visible, confounded only by RC34's `:blind-facecheck`.
