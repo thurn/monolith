@@ -723,3 +723,12 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - If BY replicates pov15 (or pi beats it), RC36 = RC35 + the best Runner arm + whatever BX supports on the Corp.
   - Then gate review sets on seeds from 202260, reviewed sequentially.
   - Watch the review cost of more credit clicks: reviewers penalised passive Runners in m27–m31, while broke Runners were the more frequent complaint.
+- **Corp rich credit clicks, quantified** (replay of 120 bw-rc35 Corp games, `scratchpad/richclick.clj`):
+  - **4.2 credit clicks per game at ≥ 8 credits.** The blunder proxy counts only ≥ 15, which is why it read ~0.06.
+  - Credits at those clicks: 8–11 cover 391 of 505, 12–14 cover 109.
+  - At the time of the click: agenda in hand plus an iced empty remote 156; agenda in hand with no iced remote 169; ice in hand and no agenda 116; Hedge Fund or similar in hand 85.
+- **Who chooses them** (`scratchpad/richdiag.clj`, 30 sampled positions re-decided by the RC35 champion):
+  - The champion clicks for credits again in 12 of 30 positions. S1 itself picked the credit click in only 4 of those 12.
+  - In the other 8, S1 wanted draw, ice a scoring remote, build a scoring remote, install an ambush or trash a resource, and **the planner overrode S1 with the credit click**.
+  - The plan's short horizon prices the spent credits above the board change. The planner's existing `:rich-credit` filter only acts at ≥ 15.
+- **Corp `:rich-credit` 10:** smoke 8 Corp games, 0 stalls, 7 wins, 0.63 idle turns. Added as arm by-rich10 (Corp side, with a by-rc35 Corp baseline) to job BY, which has not started yet. Earlier: 20 → 15 was +11/−8 (job R).
