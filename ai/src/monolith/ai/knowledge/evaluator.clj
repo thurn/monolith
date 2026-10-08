@@ -273,6 +273,15 @@
                              :when net]
                          (* net (if (>= cr (or (:cost (cards/printed (:title c))) 0)) 1.0 0.5)))))))
 
+(defn- turn-income*
+  "Credits a Runner card adds each turn from its text (\"When your turn begins, place 1[credit] on this
+  resource\", \"... gain 1[credit]\"); 0 for loaded reserves, which :hosted-credits already counts."
+  [title]
+  (let [t (str (:text (cards/printed title)))]
+    (or (some-> (re-find #"(?i)when your turn begins[^.]*?, (?:place|gain) (\d+)\[credit\]" t) second parse-long) 0)))
+
+(def ^:private turn-income (memoize turn-income*))
+
 (defn features
   "Named feature values (Corp perspective) of a full or determinized state map."
   [s w]
@@ -295,6 +304,10 @@
                  (- (* (or (:corp-poverty w) 0.0) (min 5 (max 0 (get-in s [:corp :credit] 0))))))
      :hosted-credits (- (hosted-credits (filter :rezzed corp-installed)) (hosted-credits runner-installed))
      :hand-econ (if-let [k (:hand-econ w)] (- (hand-econ s :corp k) (hand-econ s :runner k)) 0.0)
+     ;; :runner-income k: installed Runner income cards (Mystic Maemi, Paladin Poemu: +1 per turn) at k
+     ;; turns of income; otherwise an install that pays back next turn scores as a pure cost (modern-b
+     ;; Runner reviews m33-m36: 0-4 credits for most of the game with Maemi held in the grip)
+     :runner-income (if-let [k (:runner-income w)] (- (* k (reduce + 0 (map #(turn-income (:title %)) runner-installed)))) 0.0)
      ;; capped at the maximum hand sizes: lines are scored before the end-of-turn discard, so
      ;; cards beyond the limit would be counted and then thrown away (draw-into-discard)
      :hands (- (corp-hand-value (min (count corp-hand) (or (get-in s [:corp :hand-size :total]) 5) 7) (:corp-hand-curve w))
