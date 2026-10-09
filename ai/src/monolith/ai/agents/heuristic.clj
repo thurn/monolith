@@ -438,6 +438,19 @@
                          (not (dud-op? (:obs env) (card-title %)))
                          (<= (cards/play-cost (card-title %)) (- (credits env) 3))))))
 
+(defn credit-for-econ
+  "With :credit-for-econ, click for a credit when an economy card in hand (gain >= 3) is unaffordable now but
+  affordable by next turn (this turn's clicks plus next turn's, one kept to play it) (m46 log-04: 0-3 credits for most of the game holding Hedge
+  Fund, drawing and playing Sprint instead of clicking up to it)."
+  [env side]
+  (when (w env :credit-for-econ)
+    (let [cr (credits env)
+          cl (clicks env)]
+      (when (some #(let [t (:title %) cost (cards/play-cost t)]
+                     (and (>= (cards/econ-gain t) 3) (> cost cr) (<= cost (+ cr cl 2))))
+                  (get-in (:obs env) [side :hand]))
+        (act env :credit)))))
+
 (def corp-turn-rules
   [[:kill c-kill]
    [:score c-score]
@@ -457,6 +470,7 @@
    [:install-econ-asset c-install-econ-asset]
    [:rez-econ c-rez-econ]
    [:more-ice c-more-ice]
+   [:credit-for-econ #(credit-for-econ % :corp)]
    [:install-ambush c-install-ambush]
    [:bluff-advance c-bluff-advance]
    [:trash-resource c-trash-resource]
@@ -925,6 +939,7 @@
    [:dig-breakers r-dig-breakers]
    [:run r-run]
    [:econ r-econ]
+   [:credit-for-econ #(credit-for-econ % :runner)]
    [:install-other r-install-other]
    [:install-generic r-install-generic]
    [:draw r-draw]
