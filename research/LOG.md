@@ -944,3 +944,11 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **review-f1 log-10 replay** (classique-2026-a, Corp turn 4: R&D bare under 3–4 R&D runs a turn, HQ holding 1 ice): the reviewed RC38 game put Tollbooth on HQ, a second ice.
   - With RC39's Corp (no `:etr-protect`, no `:potential-breakers`), S1's protect-centrals and the plan both put Tollbooth on R&D (plan 18.2 vs HQ 15.5).
   - Likely mechanism in RC38: `:etr-protect` counted HQ's lone non-ETR ice as no protection, and `:hq-first` (agenda in hand) then ordered HQ before the bare R&D. This is one concrete instance of the harm CH measured.
+- **Job CI** (fresh dev decks, 300 paired seeds 540000–540299, 7 stalls of 1800):
+  - **Corp vs `:s1ref`: saturated** (base 0.947), so win rates cannot separate the arms.
+    - `:dig-remote-ice`: +9/−10. Idle turns 0.56 → 0.44 but **forced discards 1.46 → 2.36**. It trades credit clicks for draw-and-discard, which the rubric names as waste too. Not adopted.
+    - `:prefer-etr`: +3/−0. Adopted.
+  - **Runner vs the RC33 champion** (base 0.471): `:grip-trash` +13/−12, `:avoid-tags` +2/−2. Neutral; adopted as review fixes.
+  - **Note:** RC39's Runner has **3.19 forced discards per game on the fresh decks** (about 0.8 on modern). This is a fresh-deck-specific waste the reviewers will see; diagnosing it next.
+- **RC39** = RC36's Corp + `:prefer-etr`; RC38's Runner + `:grip-trash` + `:avoid-tags`.
+- **Job CJ** (frozen `ci`, launched 12:53): gate sets review-m45, m46 (modern) and f3, f4 (fresh), two-sided; review-mrunner11 and frunner2, Runner only; seeds 202560–202679.
