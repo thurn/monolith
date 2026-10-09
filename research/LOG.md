@@ -863,3 +863,10 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Smoke: 8 Corp games, 0 stalls.
   - This also changes the current-code opponent (the RC33 champion) slightly from the next job on. `:s1ref` keeps its own `ref/cards.clj`. It is not in RC38's reviewed code (frozen `ce`).
 - Note: `econ-gain` is memoized, so in a fresh REPL call `engine/load!` before querying cards, or zeros get cached.
+- **RC38 review-m43: 3.70** (Corp 3.8, Runner 3.6; 10 of 10 won). **review-m44: 3.60** (Corp 3.6, Runner 3.6; 9 of 10 won).
+  - **Four-set pool: 3.68** (Corp 3.70, Runner 3.65; 39 of 40 won). Pre-registered pair m41 + m42: 3.70 ✓.
+  - RC38 wins nearly every review game against `:s1ref` (RC36/37 sets: 7–10 of 10).
+  - Remaining notes: R&D left bare early (m43 log-02 and log-10), idle credit turns, and the modern-b Trickster Taka tag loop (m43 log-17 rated 2, m44 log-17 rated 3).
+- **New opt-in `:avoid-tags`** (`63cbf37`): at a "Take N tag(s) or <other cost>" prompt, take the other option when the Corp could punish tags (a kill card in its decklist, or Runner resources and a Corp with ≥ 2 credits). Otherwise the Runner pays a click and 2 credits to clear the tag later.
+  - `r-remove-tag`'s kill-deck test is factored out as `kill-deck?`.
+  - Smoke: 8 modern-b Runner games, 0 stalls, 7 wins, tagged ends 0.25.
