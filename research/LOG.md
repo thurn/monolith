@@ -929,3 +929,15 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **New opt-in `:grip-trash`** (`4a91f82`; review-f1 log-12: Moshing's "trash 3 cards from your grip" took Black Orchestra, the only fracter). When every selectable card is in the grip and the prompt says trash or discard, the Runner selects by lowest `hand-card-value` (the Corp already did this).
   - Replayed: Black Orchestra (8) is kept and the duplicate MKUltra (1, a copy is installed) goes first.
   - Smoke (8 Runner games with `:avoid-tags`, vs `:s1ref`): 0 stalls, 5 wins.
+- **Job CH** (Corp vs `:s1ref` on corp-hard, 300 paired seeds 530000–530299, 0 stalls). RC38 Corp 0.810, compared with:
+  - RC38 − `:potential-breakers`: 0.833 (+18/−11, p = 0.27).
+  - RC38 − `:etr-protect`: 0.837 (**+12/−4, p = 0.08**).
+  - RC36 Corp: 0.830 (+28/−22).
+  - Against `:s1ref`, RC38's Corp additions all lean harmful. That is consistent with K38's T2 Corp miss (+25/−39 vs RC36 on held-out).
+  - **Decision:** both are dropped, and the Corp returns to RC36's options (Corp `:no-overdraw`, a null, also goes). Reported plainly: `:potential-breakers` and `:etr-protect` passed their RC33-champion A/Bs but not this check.
+- **RC39 base** = RC36's Corp + RC38's Runner (`:no-overdraw`, `:jackout-damage`, `:dig-room`).
+- **Job CI** (frozen `ci` = `1caf71f`, launched 07:58; fresh dev decks, 300 paired seeds 540000–540299):
+  - Corp vs `:s1ref`: base, + `:dig-remote-ice`, + `:prefer-etr`.
+  - Runner vs the RC33 champion: base, + `:grip-trash`, + `:avoid-tags`.
+  - About 1800 games, roughly 4.5 h.
+- **Plan:** RC39 = base + CI winners. Gate on fresh and modern sets (2 two-sided + 1 Runner-only each, reviewed sequentially). Take K39 only if both two-sided pools are ≥ 3.5.
