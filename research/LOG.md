@@ -800,3 +800,6 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - New opt-in **`:jackout-damage`** (`56edb66`): also jack out when the grip is ≤ 1 + the net damage of the ice's later subroutines.
   - Replayed, RC36 says "No" and RC36 + `:jackout-damage` says "Yes". Smoke: 8 Runner games, 0 stalls.
   - Added to job CA as arm ca-jo (Runner side); frozen `ca` advanced to `56edb66` before CA started.
+- **K36 T2 (pre-registered, held-out 900000–900299, own null 0.590, 0 stalls): T2 MET.** RC36 vs `:s1ref`: Corp 0.767, Runner 0.810; g_c **+1.05** [+0.68, +1.47], g_r **+2.20** [+1.79, +2.65]. RC35 was +1.05 / +1.63. The Runner economy knobs (`:runner-poverty`, `:runner-income`) add strength against `:s1ref` on held-out decks even though they were win-neutral against the RC33 champion on dev decks.
+- **Ladder after K36:** T2 met; T3 puzzles met (0.95 / 1.00); **T3 review not met: 3.40** (replication 3.50).
+- **Job CA** launched at 21:15 (frozen `ca` = `56edb66`).
