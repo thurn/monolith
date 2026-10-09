@@ -82,7 +82,8 @@
 (defn sensible?
   "Prunes actions no line should contain: installing over the Corp's own agenda/asset (which trashes
   it), rezzing an ambush (which only reveals it) and operations with no effect (s1/dud-op?)."
-  [s a]
+  ([s a] (sensible? s a nil))
+  ([s a weights]
   (let [title (get-in a [:args :card :title])
         typ (some-> title cards/ctype)]
     (not (or (and (= "play" (:command a)) (#{"Agenda" "Asset"} typ)
@@ -103,6 +104,14 @@
              (and (= :draw (:type a))
                   (let [sd (:active-player s)]
                     (and (>= (count (get-in s [sd :hand])) (or (get-in s [sd :hand-size :total]) 5))
+                         ;; :dig-remote-ice: a flooded Corp (agendas, no iced remote, no ice in hand) may dig one
+                         ;; card past the limit (review-f2 log-11: credit clicks at 15 credits with a hand of agendas)
+                         (not (and (:dig-remote-ice weights) (= sd :corp)
+                                   (<= (count (get-in s [:corp :hand])) (inc (or (get-in s [:corp :hand-size :total]) 5)))
+                                   (some #(= "Agenda" (:type %)) (get-in s [:corp :hand]))
+                                   (not-any? #(= "ICE" (:type %)) (get-in s [:corp :hand]))
+                                   (not-any? (fn [[k srv]] (and (str/starts-with? (name k) "remote") (seq (:ices srv)) (empty? (:content srv))))
+                                             (get-in s [:corp :servers]))))
                          ;; digging is allowed only up to one card over the limit (archetype review: the Corp drew
                          ;; three over and discarded agendas into an open Archives)
                          (or (> (count (get-in s [sd :hand])) (or (get-in s [sd :hand-size :total]) 5))
@@ -122,7 +131,7 @@
                             progs)))
              ;; Ika-style self-hosting outside a run: 2 credits a time, repeated to no effect
              ;; (dev runner review 2: ~34 credits re-hosting Ika on the same Anansi)
-             (and (not (:run s)) (re-find #"(?i)host on a piece of ice" (str (:label a))))))))
+             (and (not (:run s)) (re-find #"(?i)host on a piece of ice" (str (:label a)))))))))
 
 (defn- naked-agenda-install?
   "With :no-naked-agendas: installing an agenda into a server with no ice that cannot be scored
@@ -301,7 +310,7 @@
                            d (sim/decision sm)
                            acts (when (and d (= side (:side d)) (or (= :turn (:kind d)) (and branch-prompts (= :prompt (:kind d)))))
                                   (sim/legal sm d))
-                           acts (filter #(sensible? snap %) acts)
+                           acts (filter #(sensible? snap % weights) acts)
                            acts (if (and (:no-naked-agendas weights) (= side :corp))
                                   (remove #(naked-agenda-install? snap % (:etr-guard weights)) acts)
                                   acts)
@@ -413,7 +422,7 @@
                            s1-strong-margin
                            ;; :ice-strong: S1's ice placements too (richdiag: the plan overrode "ice the scoring
                            ;; remote" with credit clicks at 8-14 credits; m34 log-11: agenda installed before the ice)
-                           (and (:ice-strong weights) s1-strong-margin (#{:ice-scoring-remote :build-scoring-remote :more-ice} s1-rule))
+                           (and (:ice-strong weights) s1-strong-margin (#{:ice-scoring-remote :build-scoring-remote :more-ice :dig-remote-ice} s1-rule))
                            s1-strong-margin
                            :else s1-margin)
                   plan-once (fn []

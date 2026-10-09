@@ -202,6 +202,23 @@
                                  (<= (cards/play-cost (card-title %)) (credits env))))
             (act env :draw))))))
 
+(defn c-dig-remote-ice
+  "With :dig-remote-ice, a Corp holding an agenda with no iced remote to score it from and no ice in hand
+  digs for ice even at a full hand (review-f2 log-11: three agendas, no remote ice, 13-18 credits, three
+  credit clicks a turn for several turns)."
+  [env]
+  (when (w env :dig-remote-ice)
+    (let [obs (:obs env)
+          hand (get-in obs [:corp :hand])]
+      (when (and (some #(= "Agenda" (:type %)) hand)
+                 (empty? (scoring-remotes env))
+                 (not-any? #(= "ICE" (:type %)) hand)
+                 (>= (credits env) 3)
+                 (> (count (get-in obs [:corp :deck])) 5))
+        (or (act-where env #(and (= :play (:type %)) (re-find #"(?i)draw \d+ cards" (str (:text (cards/printed (card-title %)))))
+                                 (<= (cards/play-cost (card-title %)) (credits env))))
+            (act env :draw))))))
+
 (defn c-install-agenda
   "Install an agenda into a safe, empty, iced remote when it can be scored by next turn."
   [env]
@@ -431,6 +448,7 @@
    [:react-centrals c-react-centrals]
    [:dig-ice c-dig-ice]
    [:install-agenda c-install-agenda]
+   [:dig-remote-ice c-dig-remote-ice]
    [:advance-for-next-turn c-advance-for-next-turn]
    [:build-scoring-remote c-build-scoring-remote]
    [:econ-asset-ability c-econ-asset-ability]
@@ -569,6 +587,11 @@
      (prompt-common env)
      (lethal-damage-choice env)
      (cond
+       ;; :prefer-etr: "do 1 core damage or end the run" (Fairchild 3.0) ends the run unless the damage is
+       ;; lethal (above); the first-listed damage let two agendas be stolen (review-f1 log-11)
+       (and (w env :prefer-etr) (:run obs) (> (count (acts env :choice)) 1) (choice env #"(?i)^end the run"))
+       (choice env #"(?i)^end the run")
+
        (re-find #"(?i)advancement counters on" msg)
        (select-best env (fn [c] (let [c (find-card obs (:cid c))]
                                   (if (and c (= "Agenda" (:type c))) (- 10 (adv-need c)) 0))))
