@@ -764,3 +764,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **RC36 review-m37:** candidate **3.80** (Corp 3.6, Runner 4.0), `:s1ref` 1.80.
   - The candidate won all 10 games (RC34/RC35 sets: 7–9 of 10). Since the rating tracks the result, part of this is a lucky set.
   - Remaining notes: an advanced Flower Sermon in a naked remote (log-02), a revealed agenda left in a naked remote for two turns (log-04), and idle credit clicks at 10–15 credits (log-19). The Runner notes are minor: tags left on, low-credit facechecks.
+- **RC36 review-m38:** candidate **3.60** (Corp 3.4, Runner 3.8; 9 of 10 won), `:s1ref` 1.60.
+  - The one loss (log-10, modern-g Corp, rated 2): a repeated naked Mitosis install, then Longevity Serum behind one cheap ice against a 26-credit Runner, then an agenda in open Archives.
+  - **m37 + m38 pooled: 3.70 ≥ 3.5 ✓** (Corp 3.5, Runner 3.9). This is the second-best two-sided pool after RC29's 3.70; RC32 was 3.65.
+  - mrunner7 (Runner only, bar 3.2) is being reviewed.
+- `job-K36.clj` is prepared: K32's pre-registered held-out protocol with the RC36 spec, run from frozen `by`. It runs puzzles, the held-out review on 910000–910019, replication on 910020–910039, and T2 on 900000–900299. It launches only if mrunner7 ≥ 3.2.

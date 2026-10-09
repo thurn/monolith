@@ -1,0 +1,152 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 4
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner uses Raindrops Cut Stone to draw 2 cards and gain 3 credits.
+Runner is ending their turn 1 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 15 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner trashes Gachapon to use Gachapon to set aside Banner, Cookbook, Fencer Fueno, Fencer Fueno, Strike Fund, and The Twinning from the top of the stack.
+Runner pays 2 credits to use Gachapon to install Banner from among the set-aside cards (paying 2 credits less).
+Runner uses Gachapon to shuffle Cookbook, Fencer Fueno, and Fencer Fueno into the stack and remove Strike Fund and The Twinning from the game.
+Runner spends click and pays 1 credits to install Mystic Maemi.
+Runner spends click to make a run on HQ.
+Runner approaches Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner pays 2 credits to use Banner to prevent Akhet protecting HQ at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Transport Monopoly from HQ.
+Runner steals Transport Monopoly and gains 2 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner pays 2 credits to use Banner to prevent Akhet protecting HQ at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Above the Law from HQ.
+Runner steals Above the Law and gains 2 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner is ending their turn 2 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 1 credits to play Secure and Protect.
+Corp uses Secure and Protect to reveal Hammer from R&D and install it, paying 3 credits less.
+Corp pays 0 credits to use Secure and Protect to install ice from R&D protecting Archives.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 9 credits and 3 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner pays 2 credits to use Banner to prevent Akhet protecting HQ at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Government Subsidy from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner pays 2 credits to use Banner to prevent Akhet protecting HQ at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Government Subsidy from HQ.
+Runner is ending their turn 3 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click and pays 10 credits to play Government Subsidy.
+Corp uses Government Subsidy to gain 15 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 15 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner pays 2 credits to use Banner to prevent Akhet protecting HQ at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses SDS Drone Deployment from HQ.
+Runner trashes 1 installed program (Banner) to steal SDS Drone Deployment from HQ.
+Runner steals SDS Drone Deployment and gains 3 agenda points.
+Runner wins the game.
+Runner uses Mystic Maemi to add 1 credits to itself.
