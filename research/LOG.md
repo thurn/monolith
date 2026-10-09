@@ -776,3 +776,10 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **K36 launched** (`job-K36.clj`, frozen `by` = `fc36b7e`, the reviewed code and spec): puzzles, held-out review set 910000–910019, replication 910020–910039, T2 900000–900299 with own null.
 - BZ's strength check was stopped after 38 games so K36 gets the CPU; it can be rerun from `job-BZ.clj`'s second half. Held-out games will be scored only, never mined for card-specific fixes.
 - **K36 puzzles (pre-registered): RC36 dev 20/21 (0.95; miss: runner-run-central-when-corp-broke), held-out 13/13 (1.00); `:s1ref` 0.67 / 0.69. Puzzle criterion met.** The held-out review set was generated at 20:22, and one fresh Opus reviewer is scoring it.
+- **K36 held-out T3 review (pre-registered, seeds 910000–910019): RC36 candidate 3.40 ✗** (bar ≥ 3.5).
+  - Corp 3.6, Runner 3.2; serious blunders 0.70; 9 of 10 won (one Corp loss, rated 2). `:s1ref` 1.40.
+  - Held-out series: RC1 2.80 … RC18 3.00/3.30, RC32 3.00, **RC36 3.40**. The best so far, but **T3 is not passed.**
+  - The gap to the bar is one rating point across 10 games, and is mostly on the Runner side (two Runner wins rated 2 and 3).
+  - Per protocol, the held-out notes are not mined for card-specific fixes.
+- The replication set (910020–910039) is being scored by a fresh reviewer. It is reported alongside for information, but the verdict stays with the first set; I will not re-roll the held-out bar.
+- T2 for RC36 (900000–900299, own null) is running in K36.

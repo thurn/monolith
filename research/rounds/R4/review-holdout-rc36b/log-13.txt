@@ -1,0 +1,450 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 15
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 3 credits to install Matryoshka.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Strike Fund.
+Runner uses Strike Fund to gain 4 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Ping protecting HQ at position 0.
+Corp uses Ping to give the Runner 1 tag.
+Runner encounters Ping protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ping to end the run.
+Corp resolves 1 unbroken subroutine on Ping ("[subroutine] End the run").
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Virtual Service Agent protecting R&D at position 0.
+[!] Virtual Service Agent - Might be incorrect if decoder is uninstalled
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Raindrops Cut Stone to draw 1 card and gain 3 credits.
+Runner is ending their turn 2 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 10 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ping to end the run.
+Corp resolves 1 unbroken subroutine on Ping ("[subroutine] End the run").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 4 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 5 credits to rez Mestnichestvo protecting Server 1 at position 0.
+Runner encounters Mestnichestvo protecting Server 1 at position 0.
+Runner pays 1 credits to use Matryoshka to increase its strength from 2 to 3.
+Runner pays 1 credits to use Matryoshka to increase its strength from 3 to 4.
+Runner has no further action.
+Corp uses Mestnichestvo to force the Runner to lose 3 credits.
+Corp uses Mestnichestvo to end the run.
+Corp resolves 2 unbroken subroutines on Mestnichestvo ("[subroutine] Make the Runner lose 3 credits" and "[subroutine] End the run").
+Runner uses Raindrops Cut Stone to draw 2 cards and gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 4 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 7 credits and 5 cards in the grip.
+Runner spends click to use Matryoshka to host Matryoshka on itself.
+Runner spends click to make a run on Server 1.
+Runner approaches Mestnichestvo protecting Server 1 at position 0.
+Runner encounters Mestnichestvo protecting Server 1 at position 0.
+Runner pays 4 credits and turns 1 hosted copy of Matryoshka facedown to increase the strength of Matryoshka to 4 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Offworld Office from Server 1.
+Runner steals Offworld Office and gains 2 agenda points.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 5 credits and 4 cards in the grip.
+Runner uses Matryoshka to turn all cards hosted on itself face-up.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Mestnichestvo protecting Server 1 at position 0.
+Runner encounters Mestnichestvo protecting Server 1 at position 0.
+Runner pays 4 credits and turns 1 hosted copy of Matryoshka facedown to increase the strength of Matryoshka to 4 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Artificial Cryptocrash from Server 1.
+Runner steals Artificial Cryptocrash and gains 2 agenda points.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp is ending their turn 7 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 4 credits and 4 cards in the grip.
+Runner uses Matryoshka to turn all cards hosted on itself face-up.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Mestnichestvo protecting Server 1 at position 0.
+Runner encounters Mestnichestvo protecting Server 1 at position 0.
+Runner pays 4 credits and turns 1 hosted copy of Matryoshka facedown to increase the strength of Matryoshka to 4 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Stoke the Embers from Server 1.
+Runner steals Stoke the Embers and gains 2 agenda points.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner has no further action.
+Corp uses Ping to end the run.
+Corp resolves 1 unbroken subroutine on Ping ("[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 7 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 2 credits to play Oppo Research.
+Corp uses Oppo Research to give the Runner 2 tags.
+Corp is ending their turn 8 with 1 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 8 with 0 credits and 4 cards in the grip.
+Runner uses Matryoshka to turn all cards hosted on itself face-up.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits and turns 1 hosted copy of Matryoshka facedown to use Matryoshka to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses B-1001 from HQ.
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 8 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 1 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 0 credits and 4 cards in the grip.
+Runner uses Matryoshka to turn all cards hosted on itself face-up.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Stoke the Embers and gains 2 agenda points.
+Corp uses Stoke the Embers to gain 3 credits.
+Corp uses Stoke the Embers to place 1 advancement counter on Mestnichestvo protecting Server 1 at position 0.
+Corp is ending their turn 10 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 1 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Matryoshka to host Matryoshka on itself.
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 10 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 2 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 11 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits and turns 1 hosted copy of Matryoshka facedown to use Matryoshka to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Virtual Service Agent from HQ.
+Runner is ending their turn 12 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 4 credits and 4 cards in the grip.
+Runner uses Matryoshka to turn all cards hosted on itself face-up.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 13 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play IP Enforcement.
+Corp uses IP Enforcement to do nothing.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 5 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits and turns 1 hosted copy of Matryoshka facedown to use Matryoshka to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Federal Fundraising from HQ.
+Runner is ending their turn 14 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 14 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 5 credits and 5 cards in the grip.
+Runner uses Matryoshka to turn all cards hosted on itself face-up.
+Runner spends click to make a run on R&D.
+Runner approaches Virtual Service Agent protecting R&D at position 0.
+Runner encounters Virtual Service Agent protecting R&D at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Stoke the Embers and gains 2 agenda points.
+Runner wins the game.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.

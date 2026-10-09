@@ -1,0 +1,731 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 21
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click and pays 0 credits to play Mutual Favor.
+Runner uses Mutual Favor to add Aumakua from the stack to the grip and shuffle the stack.
+Runner spends click and pays 3 credits to install Aumakua.
+[!] Aumakua - [Erratum] Whenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.
+Runner spends click and pays 0 credits to install No Free Lunch.
+Runner trashes No Free Lunch to use No Free Lunch to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 3 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 5 credits to rez Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner has no further action.
+Corp uses Mestnichestvo to force the Runner to lose 3 credits.
+Corp uses Mestnichestvo to end the run.
+Corp resolves 2 unbroken subroutines on Mestnichestvo ("[subroutine] Make the Runner lose 3 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 3 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner has no further action.
+Corp uses Tree Line to gain 1 credits and end the run.
+Corp resolves 1 unbroken subroutine on Tree Line ("[subroutine] Gain 1 credits and end the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Boomerang.
+Runner uses Boomerang to target Mestnichestvo protecting HQ at position 0.
+Runner is ending their turn 3 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 3 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Mystic Maemi.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner trashes Boomerang to use Boomerang to break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner accesses Winchester from HQ.
+Runner uses Boomerang to shuffle a copy of Boomerang back into the Stack.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 4 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 7 credits and 3 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 4 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to install Boomerang.
+Runner uses Boomerang to target Mestnichestvo protecting HQ at position 0.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits from Mystic Maemi and 1 credits from their credit pool to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner trashes Boomerang to use Boomerang to break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Winchester from HQ.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner uses Boomerang to shuffle a copy of Boomerang back into the Stack.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 6 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 14 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 10 credits and 4 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 1 credits from Mystic Maemi and 1 credits from their credit pool to play Bahia Bands.
+Runner uses Bahia Bands to make a run on R&D.
+Runner approaches Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Tree Line.
+Runner has no further action.
+Runner passes Tree Line protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Bahia Bands to draw 2 cards.
+Runner uses Bahia Bands to install Bahia Bands from the grip, lowering the cost by 1.
+Runner pays 1 credits to use Bahia Bands to install Info Bounty from the Grip (paying 1 credits less).
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 2 credits to use Aumakua to break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner accesses Pharos from HQ.
+Runner uses Info Bounty to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 2 credits to use Aumakua to break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Rime from HQ.
+Runner is ending their turn 7 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 17 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 20 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 9 credits and 4 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends clickclick and pays 1 credits from Mystic Maemi to play Diversion of Funds.
+Runner uses Diversion of Funds to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 2 credits to use Aumakua to break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses the replacement effect from Diversion of Funds.
+Runner uses Diversion of Funds to force the Corp to lose 5 credits,  and gain 5 credits.
+Runner spends click and pays 4 credits to install The Class Act.
+Runner spends click to make a run on R&D.
+Runner approaches Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Tree Line.
+Runner has no further action.
+Runner passes Tree Line protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 8 with 9 credits and 2 cards in the grip.
+[hr]
+Runner uses The Class Act to draw 4 cards.
+Runner uses The Class Act to add the third card on the top of the stack to the bottom.
+Corp started their turn 9 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 9 credits and 6 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 2 credits to install Miss Bones.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Tree Line.
+Runner has no further action.
+Runner passes Tree Line protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Send a Message and gains 3 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Info Bounty to gain 2 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner pays 1 credits to use Aumakua to break all 1 subroutines on Tree Line.
+Runner has no further action.
+Runner passes Tree Line protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner trashes 1 installed program (Aumakua) to steal SDS Drone Deployment from R&D.
+Runner steals SDS Drone Deployment and gains 3 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 9 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 21 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 13 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Info Bounty to gain 2 credits.
+Runner spends click and pays 1 credits from Mystic Maemi and 1 credits from their credit pool to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner has no further action.
+Corp uses Tree Line to gain 1 credits and end the run.
+Corp resolves 1 unbroken subroutine on Tree Line ("[subroutine] Gain 1 credits and end the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the second card on the top of the stack to the bottom.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install WAKE Implant v2A-JRJ.
+Runner uses WAKE Implant v2A-JRJ to suffer 1 meat damage.
+Runner trashes Bravado due to meat damage.
+Runner is ending their turn 10 with 13 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 13 credits and 4 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the first card on the top of the stack to the bottom.
+Runner spends click and pays 3 credits to install Echelon.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 11 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 25 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 12 with 22 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 12 with 10 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the second card on the top of the stack to the bottom.
+Runner spends click and pays 2 credits to install Cezve.
+[!] Cezve - Recurring credits usage not restricted
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 22 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 13 with 22 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 13 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 4 credits to rez Winchester protecting Server 1 at position 2.
+Runner encounters Winchester protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Winchester to initiate a trace with strength 4 (Trash a program).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Winchester to trash Cezve.
+Corp uses Winchester to initiate a trace with strength 3 (Trash a piece of hardware).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Winchester to trash WAKE Implant v2A-JRJ.
+Corp resolves 2 unbroken subroutines on Winchester ("[subroutine] Trace 4 - Trash a program" and "[subroutine] Trace 3 - Trash a piece of hardware").
+Runner passes Winchester protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 5 credits to rez Mestnichestvo protecting Server 1 at position 1.
+Runner encounters Mestnichestvo protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Mestnichestvo to force the Runner to lose 3 credits.
+Corp uses Mestnichestvo to end the run.
+Corp resolves 2 unbroken subroutines on Mestnichestvo ("[subroutine] Make the Runner lose 3 credits" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the second card on the top of the stack to the bottom.
+Runner is ending their turn 13 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 13 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Send a Message and gains 3 agenda points.
+Corp uses Send a Message to rez Pharos protecting Server 1 at position 0 at no cost.
+Corp is ending their turn 14 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 8 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the first card on the top of the stack to the bottom.
+Runner spends click and pays 3 credits to install Unity.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner accesses Bio Vault from HQ.
+Runner uses Info Bounty to gain 2 credits.
+Runner uses Miss Bones to gain 12 credits for trashing installed cards.
+Runner trashes Miss Bones.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Subliminal Messaging from HQ.
+Runner spends click and pays 1 credits to play Pinhole Threading.
+Runner uses Pinhole Threading to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses the replacement effect from Pinhole Threading.
+Runner is ending their turn 14 with 14 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 10 credits to play Government Subsidy.
+Corp uses Government Subsidy to gain 15 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 14 credits and 4 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the second card on the top of the stack to the bottom.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Info Bounty to gain 2 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tree Line from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Subliminal Messaging from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 12 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner accesses Tree Line from HQ.
+Runner uses Info Bounty to gain 2 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner has no further action.
+Corp uses Tree Line to gain 1 credits and end the run.
+Corp resolves 1 unbroken subroutine on Tree Line ("[subroutine] Gain 1 credits and end the run").
+Runner uses Bravado to gain 6 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the second card on the top of the stack to the bottom.
+Runner spends click and pays 3 credits to install The Twinning.
+Runner is ending their turn 16 with 13 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 17 with 20 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 13 credits and 4 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the first card on the top of the stack to the bottom.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click and pays 2 credits to install Hermes.
+Runner is ending their turn 17 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 23 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 26 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 14 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the first card on the top of the stack to the bottom.
+Runner spends click and pays 2 credits to install Boomerang.
+Runner uses Boomerang to target Mestnichestvo protecting HQ at position 0.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner trashes Boomerang to use Boomerang to break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tree Line from HQ.
+Runner uses Boomerang to shuffle a copy of Boomerang back into the Stack.
+Runner is ending their turn 18 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 26 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 29 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 14 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click and pays 1 credits to install Paladin Poemu.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Akhet from HQ.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tree Line from HQ.
+Runner is ending their turn 19 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 20 with 29 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 20 with 32 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 6 credits and 4 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the first card on the top of the stack to the bottom.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner uses Info Bounty to gain 2 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 20 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 21 with 32 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp uses Weyland Consortium: Built to Last to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 21 with 32 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 10 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Mestnichestvo protecting HQ at position 0.
+Runner encounters Mestnichestvo protecting HQ at position 0.
+Runner pays 4 credits to increase the strength of Unity to 5 and break all 2 subroutines on Mestnichestvo.
+Runner has no further action.
+Runner passes Mestnichestvo protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses The Class Act to add the second card on the top of the stack to the bottom.
+Runner spends click and pays 2 credits to play Inside Job.
+Runner uses Inside Job to make a run on R&D.
+Runner approaches Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner uses Inside Job to bypass Tree Line protecting R&D at position 0.
+Runner bypasses Tree Line.
+Runner passes Tree Line protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Send a Message and gains 3 agenda points.
+Runner wins the game.

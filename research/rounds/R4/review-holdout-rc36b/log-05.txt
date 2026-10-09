@@ -1,0 +1,261 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 10
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 2 credits to install Gauss.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 1 with 10 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 2 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 10 credits and 2 cards in the grip.
+Runner spends click and pays 0 credits to install Stoneship Chart Room.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner trashes Stoneship Chart Room to use Stoneship Chart Room to draw 2 cards.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to install Cupellation.
+Runner is ending their turn 2 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 9 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 3 credits, to use Self-modifying Code to install Echelon from the Stack.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Mindscaping.
+Corp uses Mindscaping to gain 4 credits and draw 2 cards.
+Corp uses Mindscaping to add 1 card from HQ to the top of R&D.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Behold!.
+Corp pays 4 credits to use Behold! to give the Runner 2 tags.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 4 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 14 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 2 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 17 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 4 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Virtual Service Agent protecting HQ at position 0.
+[!] Virtual Service Agent - Might be incorrect if decoder is uninstalled
+Runner encounters Virtual Service Agent protecting HQ at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner passes Virtual Service Agent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Behold! from HQ.
+Corp pays 4 credits to use Behold! to give the Runner 2 tags.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Virtual Service Agent protecting HQ at position 0.
+Runner encounters Virtual Service Agent protecting HQ at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Behold! from HQ.
+Corp pays 4 credits to use Behold! to give the Runner 2 tags.
+Runner is ending their turn 6 with 3 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 7 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 3 credits and 6 cards in the grip.
+Runner spends click and pays 2 credits to install Euler.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 4 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 8 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 4 credits and 6 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 5 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 9 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 5 credits and 6 cards in the grip.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Virtual Service Agent protecting HQ at position 0.
+Runner encounters Virtual Service Agent protecting HQ at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner passes Virtual Service Agent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Degree Mill from HQ.
+Runner shuffles 2 cards (Cupellation and Echelon) into the stack to steal Degree Mill from HQ.
+Runner steals Degree Mill and gains 3 agenda points.
+Runner spends click to make a run on HQ.
+Runner approaches Virtual Service Agent protecting HQ at position 0.
+Runner encounters Virtual Service Agent protecting HQ at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Degree Mill from HQ.
+Runner shuffles 2 cards (Euler and Gauss) into the stack to steal Degree Mill from HQ.
+Runner steals Degree Mill and gains 3 agenda points.
+Runner is ending their turn 9 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 21 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Stoneship Chart Room.
+Corp is ending their turn 10 with 15 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on HQ.
+Runner approaches Virtual Service Agent protecting HQ at position 0.
+Runner encounters Virtual Service Agent protecting HQ at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner passes Virtual Service Agent protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oracle Thinktank from HQ.
+Runner steals Oracle Thinktank and gains 1 agenda point.
+Runner wins the game.
+Corp uses Oracle Thinktank to give the Runner 1 tag.
