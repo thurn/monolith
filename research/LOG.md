@@ -803,3 +803,10 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **K36 T2 (pre-registered, held-out 900000–900299, own null 0.590, 0 stalls): T2 MET.** RC36 vs `:s1ref`: Corp 0.767, Runner 0.810; g_c **+1.05** [+0.68, +1.47], g_r **+2.20** [+1.79, +2.65]. RC35 was +1.05 / +1.63. The Runner economy knobs (`:runner-poverty`, `:runner-income`) add strength against `:s1ref` on held-out decks even though they were win-neutral against the RC33 champion on dev decks.
 - **Ladder after K36:** T2 met; T3 puzzles met (0.95 / 1.00); **T3 review not met: 3.40** (replication 3.50).
 - **Job CA** launched at 21:15 (frozen `ca` = `56edb66`).
+- **Runner run-failure audit** (`scratchpad/hopeless.clj`, 100 by-pi Runner games, 1563 runs):
+  - 81% succeed.
+  - Of the 303 failures, **236 are facechecks** (only unrezzed ice at run start) and 67 involved rezzed ice. Runs into servers with rezzed ice succeed 88%.
+  - Plain runs are 252 of the failures. Click abilities and run events are rare (Debbie- or Stargate-style runs about 5 per 100 games), so extending `prune-runs` to them would buy little.
+  - S1's run-calc p = 0 is no "hopeless" label: 329 of the 385 runs it rates p = 0 succeed, mostly because the Corp does not rez.
+  - The review complaints about repeated runs into known unbreakable ice (Starlit Knight, Descent) are real but rare per game. No knob from this.
+- **Theme counts over 60 candidate Runner reviews (m33–m38, mrunner5–7):** economy/broke 25, facecheck 18, repeated runs 18, tags 17 (clearing only 5), flatline/net damage 9, overdraw 5. RC36's `:runner-poverty` targets the first; CA tests `:no-overdraw` and `:jackout-damage`.
