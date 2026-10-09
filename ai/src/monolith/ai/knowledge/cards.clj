@@ -302,7 +302,12 @@
   "Net credits from playing an economy operation/event, parsed from text (0 if none)."
   [title]
   (let [p (printed title)
-        g (some-> (re-find #"(?i)^gain (\d+)\[credit\]" (str (:text p))) second parse-long)]
+        t (str (:text p))
+        ;; also behind a first-line play restriction (m41 log-19: Petty Cash "Play only if ..." read as
+        ;; non-economy, held for 10 turns at 0-3 credits)
+        g (some-> (or (re-find #"(?i)^gain (\d+)\[credit\]" t)
+                      (when (re-find #"(?i)^play only [^\n]*\n" t) (re-find #"(?im)^gain (\d+)\[credit\]" t)))
+                  second parse-long)]
     (if g (- g (or (:cost p) 0)) 0)))
 
 (defn load-credits [title]
