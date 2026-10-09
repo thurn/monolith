@@ -791,7 +791,16 @@
               (or (act-where env #(and (= :play (:type %))
                                  (re-find #"(?i)draw \d+ cards" (str (:text (cards/printed (card-title %)))))
                                  (<= (cards/play-cost (card-title %)) (credits env))))
-                  (act env :draw))))))))
+                  (act env :draw)))
+            ;; :dig-room: a full grip makes room first, an economy event or a cheap non-breaker install, so
+            ;; the dig can follow (mrunner8 log-11/19, m40 log-17: breakers gone, full grip of economy, no dig)
+            (when (and (w env :dig-room) (>= hand mx))
+              (or (act-where env #(and (= :play (:type %)) (pos? (cards/econ-gain (card-title %)))
+                                       (<= (cards/play-cost (card-title %)) (credits env))))
+                  (first (sort-by #(cards/play-cost (card-title %))
+                                  (filter #(and (= :install (:type %)) (not (cards/icebreaker? (card-title %)))
+                                                (<= (cards/play-cost (card-title %)) (- (credits env) 2)))
+                                          (:actions env)))))))))))
 
 (defn missing-breaker-types
   "Ice types among rezzed Corp ice that the Runner's installed breakers cannot break."
