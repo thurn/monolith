@@ -761,3 +761,6 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Gate as before: pooled two-sided ≥ 3.5 and Runner-only ≥ 3.2.
 - **`:ice-strong` proxy check** (replay of 150 Corp games per arm from BY, credit clicks at ≥ 8 credits): by-rc35 585 vs by-is **419 (−28%)**. Clicks made while holding ice: 236 → **106 (−55%)**. Clicks with an agenda in hand and an iced empty remote: 347 → 231. The fix does what it was built for, at no win-rate cost.
 - review-m37 generated at 20:06. A fresh Opus reviewer is scoring it; m38 and mrunner7 follow sequentially.
+- **RC36 review-m37:** candidate **3.80** (Corp 3.6, Runner 4.0), `:s1ref` 1.80.
+  - The candidate won all 10 games (RC34/RC35 sets: 7–9 of 10). Since the rating tracks the result, part of this is a lucky set.
+  - Remaining notes: an advanced Flower Sermon in a naked remote (log-02), a revealed agenda left in a naked remote for two turns (log-04), and idle credit clicks at 10–15 credits (log-19). The Runner notes are minor: tags left on, low-credit facechecks.

@@ -1,0 +1,348 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 10
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Mayfly.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 1 credits to rez Paywall protecting HQ at position 0.
+Runner encounters Paywall protecting HQ at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1 credits due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Post-Truth Dividend from HQ.
+Runner steals Post-Truth Dividend and gains 1 agenda point.
+Runner uses Tāo Salonga: Telepresence Magician to swap the positions of ice protecting R&D at position 0 and Paywall protecting HQ at position 0.
+Runner is ending their turn 1 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to play Your Digital Life.
+Corp uses Your Digital Life to gain 3 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1 credits due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 11 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 4 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1 credits due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to install Mantle.
+[!] Mantle - Recurring credits usage not restricted
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mantle to take 1 [Recurring Credits].
+Runner spends click and pays 1 credits to install Simulchip.
+Runner is ending their turn 3 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 11 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Post-Truth Dividend and gains 1 agenda point.
+Corp uses Post-Truth Dividend to draw 1 card.
+Runner uses Tāo Salonga: Telepresence Magician to swap the positions of ice protecting HQ at position 0 and Paywall protecting R&D at position 0.
+Corp is ending their turn 4 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 1 credits and 4 cards in the grip.
+Runner uses Mantle to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Paywall protecting HQ at position 0.
+Runner encounters Paywall protecting HQ at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1 credits due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Predictive Planogram from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click and pays 4 credits to play Public Trail.
+Corp uses Public Trail to give the runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp spends click and pays 0 credits to play Predictive Planogram.
+Corp uses Predictive Planogram to gain 3 credits.
+Corp is ending their turn 5 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 4 cards in the grip.
+Runner uses Mantle to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Paywall protecting HQ at position 0.
+Runner encounters Paywall protecting HQ at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1 credits due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oppo Research from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to play Your Digital Life.
+Corp uses Your Digital Life to gain 4 credits.
+Corp is ending their turn 6 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 5 credits and 4 cards in the grip.
+Runner spends click and pays 0 credits to install Stoneship Chart Room.
+Runner trashes Stoneship Chart Room to use Stoneship Chart Room to draw 2 cards.
+Runner uses Mantle to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner has no further action.
+Corp uses Funhouse to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Funhouse ("[subroutine] Give the Runner 1 tag unless they pay 4 credits").
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Embedded Reporting and gains 2 agenda points.
+Runner uses Tāo Salonga: Telepresence Magician to swap the positions of Funhouse protecting R&D at position 0 and Paywall protecting HQ at position 0.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner trashes Simulchip and trashes 1 installed program (Mantle), and then pays 0 credits, to use Simulchip to install Mantle from the Heap (paying 3 credits less).
+[!] Mantle - Recurring credits usage not restricted
+Runner uses Mantle to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 9 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Oppo Research.
+Corp uses Oppo Research to give the Runner 2 tags.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp pays 5 credits to use Oppo Research to give the Runner 2 tags.
+Corp is ending their turn 7 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 9 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1 credits due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Funhouse protecting HQ at position 0.
+Runner encounters Funhouse protecting HQ at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner has no further action.
+Corp uses Funhouse to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Funhouse ("[subroutine] Give the Runner 1 tag unless they pay 4 credits").
+Runner passes Funhouse protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Spin Doctor from HQ.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits.
+Runner is ending their turn 7 with 12 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 12 credits and 4 cards in the grip.
+Runner uses Mantle to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Paywall protecting R&D at position 0.
+Runner encounters Paywall protecting R&D at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1 credits due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches Funhouse protecting HQ at position 0.
+Runner encounters Funhouse protecting HQ at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner has no further action.
+Corp uses Funhouse to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Funhouse ("[subroutine] Give the Runner 1 tag unless they pay 4 credits").
+Runner passes Funhouse protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Next Big Thing from HQ.
+Runner steals Next Big Thing and gains 3 agenda points.
+Runner uses Tāo Salonga: Telepresence Magician to swap the positions of Funhouse protecting HQ at position 0 and Paywall protecting R&D at position 0.
+Runner is ending their turn 8 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 8 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Public Trail.
+Corp uses Public Trail to give the runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp spends click and pays 0 credits to play Predictive Planogram.
+Corp uses Predictive Planogram to gain 3 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 9 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 9 with 9 credits and 5 cards in the grip.
+Runner uses Mantle to take 1 [Recurring Credits].
+Runner spends click, pays 1 credits, and trashes 1 installed program (Mantle) to play Spec Work.
+Runner uses Spec Work to gain 4 credits and draw 2 cards.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner has no further action.
+Corp uses Funhouse to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Funhouse ("[subroutine] Give the Runner 1 tag unless they pay 4 credits").
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Paywall protecting HQ at position 0.
+Runner encounters Paywall protecting HQ at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1 credits due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Federal Fundraising from HQ.
+Runner pays 2 credits to trash Federal Fundraising from HQ.
+Runner is ending their turn 9 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 11 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 10 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 13 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner has no further action.
+Corp uses Funhouse to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Funhouse ("[subroutine] Give the Runner 1 tag unless they pay 4 credits").
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 4 credits to install Stargate.
+Runner spends click to make a run on HQ.
+Runner approaches Paywall protecting HQ at position 0.
+Runner encounters Paywall protecting HQ at position 0.
+Corp uses Paywall to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Paywall to force the runner to pay 1 credits.
+Runner pays 1 credits due to Paywall subroutine.
+Corp resolves 1 unbroken subroutine on Paywall ("[subroutine] End the run unless the Runner pays 1 credits").
+Runner passes Paywall protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tomorrow's Headline from HQ.
+Runner steals Tomorrow's Headline and gains 2 agenda points.
+Runner wins the game.
