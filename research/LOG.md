@@ -952,3 +952,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - **Note:** RC39's Runner has **3.19 forced discards per game on the fresh decks** (about 0.8 on modern). This is a fresh-deck-specific waste the reviewers will see; diagnosing it next.
 - **RC39** = RC36's Corp + `:prefer-etr`; RC38's Runner + `:grip-trash` + `:avoid-tags`.
 - **Job CJ** (frozen `ci`, launched 12:53): gate sets review-m45, m46 (modern) and f3, f4 (fresh), two-sided; review-mrunner11 and frunner2, Runner only; seeds 202560–202679.
+- **Fresh-deck Runner forced discards** (`scratchpad/overdraw2.clj`, 80 ci-rc39 Runner games: 243 discard prompts):
+  - Only 21 of the turns had a basic draw. The source is hand-size loss from core damage (Stimhack, Fairchild's core sub, MaxX decks), plus draw effects.
+  - New opt-in `:no-overdraw-events` (`55873c6`): prunes "draw(s) N cards" events and abilities that would end the turn over the limit.
+  - Smoke on 4 fresh Runner decks: forced discards **7.0 → 6.9**, a null. Not adopted.
+  - So the CI proxy (3.19 per game) mostly measures shrunken hand sizes, not waste. The underlying review theme is accepting repeated core damage (frunner1 log-07: three core damage from runs through an unbreakable Fairchild).
