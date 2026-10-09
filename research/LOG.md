@@ -979,3 +979,11 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - The fresh decks become a mining pool too, so their predictive value will erode. Fresh-2 decks (other Classique/Worlds lists, unused) will replace them for the gate after one round.
   - Undo: revert to the modern gate.
 - **Next:** CK (`:credit-for-econ`) ends around 15:45. Then RC40 = RC39 (+ `:credit-for-econ` if not negative), with 4 fresh two-sided sets + 1 fresh Runner-only set on new seeds. K40 only if the fresh pool is ≥ 3.5.
+- **Job CK** (frozen `ck`, 300 paired seeds 550000–550299, 4 stalls of 1200): `:credit-for-econ` is a null on both sides.
+  - Corp vs `:s1ref` on corp-hard: 0.880 vs 0.880 (+7/−7).
+  - Runner vs the RC33 champion on fresh decks: 0.448 vs 0.458 (+41/−44). Rich credit clicks 0.12 → 0.02; ignored advanced remotes 1.03 → 1.26; forced discards 3.20 → 3.30.
+  - **Decision:** not adopted, since there is no gain and a slight cost in remote contesting. **RC40 = RC39's spec.**
+- **Job CL** (frozen `ck`, launched 16:35): RC40 gate sets on fresh decks. Four two-sided sets, review-f5 to f8 (202680–202759), and review-frunner3, Runner only (202760–202779).
+  - Pre-registered gate (new rule): the f5–f8 pool ≥ 3.5 and frunner3 ≥ 3.2.
+  - Also reported: the six-set pool with RC39's f3/f4, and the two-set Runner-only pool with frunner2. These are not used for the decision, since f3/f4 helped pick RC39.
+- Meanwhile: mining frunner2's candidate notes (all 10 rated 3–4, 8 wins). The repeated themes are an uncontested scoring remote (logs 04, 10, 15), full-grip runs into net damage (02), and core damage from Fairchild (07, 11).
