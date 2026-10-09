@@ -1096,7 +1096,15 @@
          (when (seq ns) (apply min-key #(Math/abs (- (val-of %) target)) ns)))
 
        (re-find #"(?i)Jack out\?" msg)
-       (choice env (if (<= (count (get-in obs [:runner :hand])) 2) #"^Yes" #"^No"))
+       (let [hand (count (get-in obs [:runner :hand]))
+             ;; :jackout-damage: also jack out when the ice's later subroutines would leave at most 1 card
+             ;; (mrunner7 log-15: continued through Karunā's second sub at 3 cards, flatlined by Fujii on 1)
+             later (when (w env :jackout-damage)
+                     (let [subs (:subs (cards/printed-ice-model src false))
+                           texts (rest (str/split (str (:text (cards/printed src))) #"\[subroutine\]"))
+                           i (first (keep-indexed (fn [i t] (when (re-find #"(?i)jack out" t) i)) texts))]
+                       (when (and i subs) (reduce + 0 (keep :net (drop (inc i) subs))))))]
+         (choice env (if (or (<= hand 2) (and later (pos? later) (<= hand (inc later)))) #"^Yes" #"^No")))
 
        (and (choice env #"(?i)^Pay") (choice env #"(?i)^End the run"))
        (let [toll (or (some-> (re-find #"(\d+)" (str (:label (choice env #"(?i)^Pay")))) second parse-long) 0)]
