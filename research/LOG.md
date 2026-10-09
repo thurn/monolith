@@ -791,3 +791,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Runner: overdraw into discards, breakerless facechecks into iced remotes, continuing through damage subs with a small grip.
   - Corp: agendas in naked or one-ice remotes (Mitosis), idle credit clicks.
   - Each fix gets a 300-seed A/B vs the RC33 champion plus dev reviews, before a K37 shot.
+- **Runner overdraw diagnosis** (`scratchpad/overdraw.clj`, 100 by-pi Runner games): 142 discard-down prompts, and 100 of those turns included a basic draw taken at a full hand, often as the last click.
+  - Likely cause: the planner scores the end-of-line state before the end-of-turn discard, so a 6th card looks like +1 card.
+  - New opt-in **`:no-overdraw`** (`b32251f`): the planner drops the basic draw at or above maximum hand size whenever another action exists, both sides.
+  - Smoke (RC36 + `:no-overdraw`, 16 games vs `:s1ref`): 0 stalls, Runner forced discards 0.38 per game.
+- **Job CA** (frozen `ca` = `b32251f`, chained after K36): RC36 vs RC36 + `:no-overdraw`, both sides, vs the RC33 champion, 300 paired seeds 480000–480299. Its ca-rc36 arm also replaces BZ's stopped strength check.
