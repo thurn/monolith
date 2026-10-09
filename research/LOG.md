@@ -775,3 +775,4 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **RC36 MEETS THE GATE:** two-sided pool 3.70 (≥ 3.5) and Runner-only 3.20 (≥ 3.2, exactly at the bar).
 - **K36 launched** (`job-K36.clj`, frozen `by` = `fc36b7e`, the reviewed code and spec): puzzles, held-out review set 910000–910019, replication 910020–910039, T2 900000–900299 with own null.
 - BZ's strength check was stopped after 38 games so K36 gets the CPU; it can be rerun from `job-BZ.clj`'s second half. Held-out games will be scored only, never mined for card-specific fixes.
+- **K36 puzzles (pre-registered): RC36 dev 20/21 (0.95; miss: runner-run-central-when-corp-broke), held-out 13/13 (1.00); `:s1ref` 0.67 / 0.69. Puzzle criterion met.** The held-out review set was generated at 20:22, and one fresh Opus reviewer is scoring it.
