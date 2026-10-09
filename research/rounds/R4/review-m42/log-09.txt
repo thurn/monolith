@@ -1,0 +1,176 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 7
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Abaasy.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install Gourmand.
+Runner is ending their turn 1 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click and pays 3 credits to play Neurospike.
+Corp uses Neurospike to do nothing.
+Corp is ending their turn 2 with 10 credits and 1 card in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Mystic Maemi.
+Runner is ending their turn 2 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 3 with 9 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 3 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 3 credits to rez Bathynomus protecting Server 2 at position 0.
+Runner encounters Bathynomus protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Bathynomus to do 3 net damage.
+Corp trashes Finality, Ghosttongue, and Rising Tide due to net damage.
+Corp resolves 1 unbroken subroutine on Bathynomus ("[subroutine] Do 3 net damage").
+Runner passes Bathynomus protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Lotus Haze from Server 2.
+Runner steals Lotus Haze and gains 2 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Wildcat Strike due to net damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 3 with 6 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 4 with 6 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Bring Them Home.
+Corp uses Bring Them Home to reveal Mystic Maemi and Sure Gamble from the Grip and place them on the top of the stack (in a random order).
+Corp is ending their turn 4 with 6 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 0 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 6 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 5 with 6 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 4 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches Bathynomus protecting Server 2 at position 0.
+Runner encounters Bathynomus protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Bathynomus to do 3 net damage.
+Corp trashes Fermenter, Sure Gamble, and Wildcat Strike due to net damage.
+Corp resolves 1 unbroken subroutine on Bathynomus ("[subroutine] Do 3 net damage").
+Runner passes Bathynomus protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Hybrid Release from Server 2.
+Runner steals Hybrid Release and gains 1 agenda point.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Light the Fire! due to net damage.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 6 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp is ending their turn 6 with 6 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 6 with 11 credits and 3 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches Bathynomus protecting Server 2 at position 0.
+Runner encounters Bathynomus protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Bathynomus to do 3 net damage.
+Corp trashes Leech, Mystic Maemi, and Running Hot due to net damage.
+Corp resolves 1 unbroken subroutine on Bathynomus ("[subroutine] Do 3 net damage").
+Runner passes Bathynomus protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Longevity Serum from Server 2.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Chastushka due to net damage.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 12 credits and 1 card in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 7 with 5 credits and 1 card in HQ.
+[hr]
+Runner started their turn 7 with 12 credits and 1 card in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches Bathynomus protecting Server 2 at position 0.
+Runner encounters Bathynomus protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Bathynomus to do 3 net damage.
+Corp trashes Finality, Katorga Breakout, and Rising Tide due to net damage.
+Corp resolves 1 unbroken subroutine on Bathynomus ("[subroutine] Do 3 net damage").
+Runner passes Bathynomus protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Lotus Haze from Server 2.
+Runner steals Lotus Haze and gains 2 agenda points.
+Runner wins the game.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Mystic Maemi due to net damage.

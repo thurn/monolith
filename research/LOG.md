@@ -856,3 +856,10 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **Job CF** (frozen `ce`, launched 05:07):
   - Six RC38 gate sets: review-m41–m44 (two-sided, 202380–202459) and review-mrunner9–10 (Runner only, 202460–202499).
   - Then RC38 vs RC37 on both sides, vs the RC33 champion, 300 paired seeds 520000–520299.
+- **RC38 review-m41: 3.50** (Corp 3.4, Runner 3.6; 10 of 10 won). **review-m42: 3.90** (Corp 4.0, Runner 3.8; 10 of 10 won, 0 serious blunders). Running pool 3.70.
+- **Bug fix** (`cards/econ-gain`, always on): Gain lines behind a first-line "Play only …" restriction now count as economy.
+  - Petty Cash had parsed as 0, so m41 log-19's Corp (rated 2) sat at 0–3 credits for ten turns holding it. The same goes for Peace in Our Time, Successful Demonstration and Too Big to Fail.
+  - Cards with "additional cost" lines or other first lines (Guinea Pig, IPO, currents) are unchanged.
+  - Smoke: 8 Corp games, 0 stalls.
+  - This also changes the current-code opponent (the RC33 champion) slightly from the next job on. `:s1ref` keeps its own `ref/cards.clj`. It is not in RC38's reviewed code (frozen `ce`).
+- Note: `econ-gain` is memoized, so in a fresh REPL call `engine/load!` before querying cards, or zeros get cached.
