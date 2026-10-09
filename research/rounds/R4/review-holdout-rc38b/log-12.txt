@@ -1,0 +1,557 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 15
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to play Diesel.
+Runner uses Diesel to draw 3 cards.
+Runner spends click and pays 3 credits to install Echelon.
+Runner spends click and pays 2 credits to install Gauss.
+Runner is ending their turn 1 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 1 credits to play Pivot.
+Corp uses Pivot to reveal Degree Mill from R&D and add it to HQ.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 2 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Trick Shot.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Ping protecting R&D at position 0.
+Corp uses Ping to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits from Trick Shot to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Trick Shot to place 2 credits on itself and access 1 additional card in R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Behold!.
+Corp pays 4 credits to use Behold! to give the Runner 2 tags.
+Runner uses Trick Shot to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner is ending their turn 2 with 3 credits and 4 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 3 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Ping protecting HQ at position 0.
+Corp uses Ping to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Spin Doctor from HQ.
+Runner is ending their turn 3 with 5 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 4 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 6 cards in the grip.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 4 with 6 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 5 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Trick Shot.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits from Trick Shot to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Trick Shot to place 2 credits on itself and access 1 additional card in R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Trick Shot to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 2 credits to rez Virtual Service Agent protecting Server 1 at position 1.
+[!] Virtual Service Agent - Might be incorrect if decoder is uninstalled
+Runner encounters Virtual Service Agent protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner passes Virtual Service Agent protecting Server 1 at position 1.
+Runner jacks out.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Behold! from HQ.
+Corp pays 4 credits to use Behold! to give the Runner 2 tags.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Behold! from HQ.
+Corp pays 4 credits to use Behold! to give the Runner 2 tags.
+Runner is ending their turn 5 with 3 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 6 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Behold! from HQ.
+Corp declines to use Behold!.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 4 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 7 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 4 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Orbital Superiority and gains 2 agenda points.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 7 with 6 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 8 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 6 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to install Simulchip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 8 with 5 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 9 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Predictive Planogram.
+Corp uses Predictive Planogram to gain 3 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 5 credits and 6 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals False Lead and gains 1 agenda point.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 9 with 1 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 10 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 1 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 10 with 3 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 11 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 3 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 3 credits to trash Regolith Mining License from R&D.
+Runner is ending their turn 11 with 5 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 12 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 5 credits and 6 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Behold! from HQ.
+Corp pays 4 credits to use Behold! to give the Runner 2 tags.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 5 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 13 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 13 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 5 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to play Trick Shot.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits from Trick Shot to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Trick Shot to place 2 credits on itself and access 1 additional card in R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner steals False Lead and gains 1 agenda point.
+Runner uses Trick Shot to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 3.
+Corp pays 4 credits to rez Unsmiling Tsarevna protecting Server 1 at position 3.
+Corp uses Unsmiling Tsarevna to let the Runner gain 2 credits to prevent them from breaking more than 1 printed subroutine on this ice per encounter for the remainder of this run.
+Runner encounters Unsmiling Tsarevna protecting Server 1 at position 3.
+Runner pays 1 credits from Trick Shot to use Echelon to break 1 Sentry subroutine on Unsmiling Tsarevna ("[subroutine] Do 2 net damage").
+Runner has no further action.
+Corp uses Unsmiling Tsarevna to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp uses Unsmiling Tsarevna to draw 2  cards.
+Corp resolves 2 unbroken subroutines on Unsmiling Tsarevna ("[subroutine] Give the Runner 1 tag" and "[subroutine] You may draw 2 cards").
+Runner passes Unsmiling Tsarevna protecting Server 1 at position 3.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 4 credits to rez Unsmiling Tsarevna protecting Server 1 at position 2.
+Corp uses Unsmiling Tsarevna to let the Runner gain 2 credits to prevent them from breaking more than 1 printed subroutine on this ice per encounter for the remainder of this run.
+Runner encounters Unsmiling Tsarevna protecting Server 1 at position 2.
+Runner pays 1 credits from Trick Shot to use Echelon to break 1 Sentry subroutine on Unsmiling Tsarevna ("[subroutine] Do 2 net damage").
+Runner has no further action.
+Corp uses Unsmiling Tsarevna to give the Runner 1 tag.
+Corp uses Unsmiling Tsarevna to draw 2  cards.
+Corp resolves 2 unbroken subroutines on Unsmiling Tsarevna ("[subroutine] Give the Runner 1 tag" and "[subroutine] You may draw 2 cards").
+Runner passes Unsmiling Tsarevna protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Virtual Service Agent protecting Server 1 at position 1.
+Runner encounters Virtual Service Agent protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Virtual Service Agent protecting Server 1 at position 0.
+[!] Virtual Service Agent - Might be incorrect if decoder is uninstalled
+Runner encounters Virtual Service Agent protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Virtual Service Agent to force the Runner to lose 1 credits.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses False Lead from Server 1.
+Runner steals False Lead and gains 1 agenda point.
+Runner spends click to make a run on R&D.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Behold! from HQ.
+Corp pays 4 credits to use Behold! to give the Runner 2 tags.
+Runner is ending their turn 13 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 1 credits and 9 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to play Oppo Research.
+Corp uses Oppo Research to give the Runner 2 tags.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp discards 4 from HQ at end of turn.
+Corp is ending their turn 14 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 5 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Ping protecting R&D at position 0.
+Runner encounters Ping protecting R&D at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner trashes Simulchip and trashes 1 installed program (Self-modifying Code), and then pays 1 credits, to use Simulchip to install K2CP Turbine from the Heap (paying 3 credits less).
+Runner spends click to make a run on HQ.
+Runner approaches Ping protecting HQ at position 0.
+Runner encounters Ping protecting HQ at position 0.
+Runner pays 1 credits to use Gauss to break all 1 subroutines on Ping.
+Runner has no further action.
+Runner passes Ping protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Behold! from HQ.
+Corp declines to use Behold!.
+Runner is ending their turn 14 with 4 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 15 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 15 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 4 credits and 6 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Server 1.
+Runner approaches Unsmiling Tsarevna protecting Server 1 at position 3.
+Runner encounters Unsmiling Tsarevna protecting Server 1 at position 3.
+Runner has no further action.
+Corp uses Unsmiling Tsarevna to give the Runner 1 tag.
+Corp uses NBN: Reality Plus to gain 2 credits.
+Corp uses Unsmiling Tsarevna to do 2 net damage.
+Corp trashes Bahia Bands and Deep Dive due to net damage.
+Corp uses Unsmiling Tsarevna to draw 2  cards.
+Corp resolves 3 unbroken subroutines on Unsmiling Tsarevna ("[subroutine] Give the Runner 1 tag" and "[subroutine] Do 2 net damage" and "[subroutine] You may draw 2 cards").
+Runner passes Unsmiling Tsarevna protecting Server 1 at position 3.
+Runner will continue the run.
+Runner approaches Unsmiling Tsarevna protecting Server 1 at position 2.
+Runner encounters Unsmiling Tsarevna protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Unsmiling Tsarevna to give the Runner 1 tag.
+Corp uses Unsmiling Tsarevna to do 2 net damage.
+Corp trashes Overclock and Overclock due to net damage.
+Corp uses Unsmiling Tsarevna to draw 2  cards.
+Corp resolves 3 unbroken subroutines on Unsmiling Tsarevna ("[subroutine] Give the Runner 1 tag" and "[subroutine] Do 2 net damage" and "[subroutine] You may draw 2 cards").
+Runner passes Unsmiling Tsarevna protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Virtual Service Agent protecting Server 1 at position 1.
+Runner encounters Virtual Service Agent protecting Server 1 at position 1.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Virtual Service Agent protecting Server 1 at position 0.
+Runner encounters Virtual Service Agent protecting Server 1 at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Virtual Service Agent ("[subroutine] Make the Runner lose 1 credits").
+Corp uses Virtual Service Agent to give the Runner 1 tag.
+Runner passes Virtual Service Agent protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Beale from Server 1.
+Runner steals Project Beale and gains 2 agenda points.
+Runner wins the game.

@@ -878,3 +878,21 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **K38 launched** at 05:29 (`job-K38.clj`, frozen `ce` = `058071c`, exactly the reviewed code and spec): puzzles, held-out review 910000–910019, replication 910020–910039, T2 900000–900299 with own null.
   - Job CF's strength check was stopped at 60 games for the CPU.
   - Not in K38: the `econ-gain` fix (`9815906`) and `:avoid-tags` (`63cbf37`), both newer than the reviewed code.
+- **K38 puzzles (pre-registered): RC38 dev 20/21 (0.95), held-out 13/13 (1.00); `:s1ref` 0.67 / 0.69. Met.**
+- **K38 held-out T3 review (910000–910019): RC38 3.30 ✗** (Corp 3.2, Runner 3.4; serious blunders 0.70; 8 of 10 won), `:s1ref` 1.60. T3 not passed. The replication set is being scored.
+- **A systematic dev → held-out drop:**
+
+  | Candidate | Dev gate pool | Held-out |
+  |---|---|---|
+  | RC32 | 3.65 | 3.00 |
+  | RC36 | 3.70 | 3.40 |
+  | RC38 | 3.68 | 3.30 |
+
+  The drop (~0.35) is three times the noise of each pair's difference, in the same direction every time.
+  - **Interpretation:** the fixes since the modern phase began (m23+) were mined from the 8 `modern-mix` dev decks, and part of their review gain does not transfer to new decks.
+  - This is the deck-overfitting the HANDOFF warned about, now on the review metric rather than win rate.
+- **Response:**
+  - **Job CG** (frozen `ce` = RC38, chained after K38): review sets on dev decks never reviewed or mined in the modern phase (Worlds 2021–22, Classique 2025–26): review-f1, review-f2 (two-sided) and review-frunner1 (Runner only), seeds 202500–202559.
+  - If RC38 also drops there (~3.3), the fresh dev decks become the new mining pool and a transfer gate.
+  - From now on, a candidate must pass the gate on the modern and the fresh decks before a held-out shot.
+  - Held-out games stay unmined.

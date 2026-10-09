@@ -1,0 +1,81 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 3
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 1 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 11 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 3 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 15 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Anemone protecting Server 1 at position 0.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Diesel and Spec Work due to net damage.
+Runner encounters Anemone protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Anemone to do 1 net damage.
+Corp trashes Deep Dive due to net damage.
+Corp resolves 1 unbroken subroutine on Anemone ("[subroutine] Do 1 net damage").
+Runner passes Anemone protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Regenesis from Server 1.
+Runner steals Regenesis and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Coalescence due to net damage.
+Runner accesses Tranquility Home Grid from Server 1.
+Runner pays 4 credits to trash Tranquility Home Grid from Server 1.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Trick Shot.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Trick Shot to place 2 credits on itself and access 1 additional card in R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits from Trick Shot to trash Spin Doctor from R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Fujii Asset Retrieval and gains 3 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Paricia due to net damage.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Burner due to net damage.
+Runner is flatlined.
+Corp wins the game.
