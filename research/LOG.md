@@ -746,3 +746,16 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - **Decision:** `:flood-install` is not adopted. `:hq-first` has now been win-neutral twice (BW +34/−32, BX) and fixes review-visible errors (m35 log-10, m36 log-11), so RC36 takes it as a review fix. Undo: drop the key.
 - Job BY launched at 15:44 (frozen `by`).
 - **Correction:** I added a by-rich10 arm above, saying `:rich-credit` 10 was untested. That is wrong. Job BJ (RC28 era) rejected Corp `:rich-credit` 10 vs 15 at **+21/−7 for 15 (p = 0.01)**, and 10 did not even cut 15+ credit clicks. BY was stopped 6 min after launch (0 games written) and relaunched at 15:50 without by-rich10 and by-isr: Corp arms by-rc35 and by-is, Runner arms by-rc35, by-pov15, by-pi and by-pov3 (1,500 games, about 4 h). The lesson: grep the log for a knob's history before queuing it.
+- **Job BY** (frozen `by`, vs the RC33 champion, 300 paired seeds 460000–460299, 3 stalls of 1800):
+  - **Runner `:runner-poverty` 1.5 did not replicate on win rate:** 0.667 vs 0.673 (+44/−46). Pooled with BW: +115/−91 (p ≈ 0.11). BW's +71/−45 was the best of four arms, so part of it was selection luck.
+  - **Its proxy effect did replicate:** broke-ends 3.39 → 2.13 (BW 3.54 → 2.02).
+  - `:runner-poverty` 1.5 + `:runner-income` 3: 0.697 (+51/−44, p = 0.54), broke-ends 2.15.
+  - `:runner-poverty` 3.0: 0.670 (+47/−48), broke-ends 1.61, ignored advanced remotes 1.50 (vs 1.06). There is no extra gain from the higher dose.
+  - **Corp `:ice-strong`:** 0.350 vs 0.350 (+24/−24). Win-neutral; idle turns 1.06 → 0.96.
+- **RC36** = RC35 + Corp `:hq-first`, `:ice-strong` + Runner `:runner-poverty` 1.5, `:runner-income` 3.
+  - Every component is win-neutral or better against the RC33 champion. Each was chosen for a review theme: the Runner's broke turns (−37%, the most frequent Runner note), HQ icing with agendas in HQ, and ice ahead of credit clicks.
+  - Undo: drop the four keys.
+- **Job BZ** (frozen `by`, launched 20:05):
+  - RC36 gate sets review-m37 and review-m38 (both sides, 202260–202299) and review-mrunner7 (Runner only, 202300–202319).
+  - Then RC36 vs RC35 against the RC33 champion on both sides, 470000–470299, as a combined strength check.
+  - Gate as before: pooled two-sided ≥ 3.5 and Runner-only ≥ 3.2.
