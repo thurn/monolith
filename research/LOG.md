@@ -926,3 +926,6 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - **`:prefer-etr`:** at a Corp "X or end the run" choice during a run, end the run (lethal damage still wins first).
   - Corp `:no-overdraw` was a null in CA (+10/−10) and blocks exactly this dig, so the next candidate drops it for the Corp.
   - Smoke (8 Corp games on fresh decks vs `:s1ref`): 0 stalls, 7 wins, idle turns 0.25. Agendas to Archives 0.5 per game: watch.
+- **New opt-in `:grip-trash`** (`4a91f82`; review-f1 log-12: Moshing's "trash 3 cards from your grip" took Black Orchestra, the only fracter). When every selectable card is in the grip and the prompt says trash or discard, the Runner selects by lowest `hand-card-value` (the Corp already did this).
+  - Replayed: Black Orchestra (8) is kept and the duplicate MKUltra (1, a copy is installed) goes first.
+  - Smoke (8 Runner games with `:avoid-tags`, vs `:s1ref`): 0 stalls, 5 wins.
