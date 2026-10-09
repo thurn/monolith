@@ -783,3 +783,11 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Per protocol, the held-out notes are not mined for card-specific fixes.
 - The replication set (910020–910039) is being scored by a fresh reviewer. It is reported alongside for information, but the verdict stays with the first set; I will not re-roll the held-out bar.
 - T2 for RC36 (900000–900299, own null) is running in K36.
+- **K36 replication set (910020–910039): RC36 candidate 3.50** (Corp 3.2, Runner 3.8; serious blunders 0.30), `:s1ref` 1.60.
+  - Both held-out sets pooled: **3.45** (Corp 3.4, Runner 3.5). The weak side flips between sets (Runner 3.2 then 3.8, Corp 3.6 then 3.2), so the per-side splits are within noise.
+  - **Verdict:** T3 review not met (first set 3.40 < 3.5). RC36 sits just under the bar. A single 10-game set has SD ≈ 0.3, so passing both sets reliably needs a true mean of about 3.8.
+  - **Multiple-shots caveat:** this is the 8th held-out shot at the same seeds with different agents. The replication requirement is what protects against a lucky pass, and I keep it.
+- **Next:** raise the true mean on dev data only. The dev themes still common in RC36's reviews:
+  - Runner: overdraw into discards, breakerless facechecks into iced remotes, continuing through damage subs with a small grip.
+  - Corp: agendas in naked or one-ice remotes (Mitosis), idle credit clicks.
+  - Each fix gets a 300-seed A/B vs the RC33 champion plus dev reviews, before a K37 shot.
