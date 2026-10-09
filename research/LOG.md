@@ -837,3 +837,14 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - `r-dig-breakers` only digs below a full grip; `:dig-full` (dig past it) was rejected in BT for forced discards.
   - New opt-in **`:dig-room`** (`156f2ee`): when a breaker type is missing and the grip is full, first play an economy event or install the cheapest non-breaker card. Smoke: 8 Runner games, 0 stalls.
   - Added to job CD as cd-dr (Runner side). CD now runs from frozen `ce` = `156f2ee` after CC.
+- **New opt-in `:etr-protect`** (`058071c`; m40 log-04: R&D behind a lone Wave; log-19: HQ behind only Vertigo):
+  - `c-protect-centrals` treats a central whose ice has no end-the-run subroutine as unprotected, and then installs only ETR ice there.
+  - Smoke: 8 Corp games, 0 stalls, 6 wins.
+- **Job CC stopped** at 104 of 1200 games, about 4 h short. A package-regression check is low value: each component was neutral or better alone, and RC36's held-out T2 rose. The CPU goes to CD instead. Partial CC games are kept but not analysed (no conclusions from partial runs).
+- **Job CD** launched at 01:22 (frozen `ce` = `058071c`, 300 paired seeds 500000–500299, vs the RC33 champion):
+  - Corp arms: cd-rc37, cd-pb (`:potential-breakers`), cd-etr (`:etr-protect`).
+  - Runner arms: cd-rc37, cd-dr (`:dig-room`).
+  - About 1500 games, roughly 5 h.
+- **Gate measurement change for the next candidate (RC38):** generate 4 two-sided sets and 2 Runner-only sets (40 candidate two-sided games instead of 20).
+  - Reviews are cheap (about 3 min each), and 40 games halve the noise (SE ≈ 0.15).
+  - The pre-registered gate (the first two two-sided sets pooled ≥ 3.5, Runner-only ≥ 3.2) is still reported. The held-out shot is taken only if the all-sets pool is also ≥ 3.5.
