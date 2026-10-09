@@ -848,3 +848,11 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **Gate measurement change for the next candidate (RC38):** generate 4 two-sided sets and 2 Runner-only sets (40 candidate two-sided games instead of 20).
   - Reviews are cheap (about 3 min each), and 40 games halve the noise (SE ≈ 0.15).
   - The pre-registered gate (the first two two-sided sets pooled ≥ 3.5, Runner-only ≥ 3.2) is still reported. The held-out shot is taken only if the all-sets pool is also ≥ 3.5.
+- **Job CD** (frozen `ce`, vs the RC33 champion, 300 paired seeds 500000–500299, 1 stall of 1500):
+  - **Runner `:dig-room`: 0.723 vs 0.663 (+52/−34, p = 0.07)**. No proxy costs: forced discards 0.81 → 0.77, broke-ends 1.96 → 2.05.
+  - **Corp `:potential-breakers`: 0.361 vs 0.344 (+39/−34, p = 0.64).** The old rejection (job B2, +18/−35 on old code) does not reproduce. Open centrals with ice in hand 0.48 → 0.27; broke-ends 2.03 → 1.92.
+  - Corp `:etr-protect`: 0.361 (+33/−28, p = 0.61). Neutral.
+- **RC38** = RC37 + Corp `:potential-breakers`, `:etr-protect` + Runner `:dig-room`. Undo: drop the keys.
+- **Job CF** (frozen `ce`, launched 05:07):
+  - Six RC38 gate sets: review-m41–m44 (two-sided, 202380–202459) and review-mrunner9–10 (Runner only, 202460–202499).
+  - Then RC38 vs RC37 on both sides, vs the RC33 champion, 300 paired seeds 520000–520299.
