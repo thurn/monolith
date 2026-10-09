@@ -1,5 +1,20 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-09 01:25 (R4, autonomous phase)
+
+- **Best agent:** RC36 (`rounds/R4/job-K36.clj`, frozen `by` = `fc36b7e`) = RC35 + Corp `:hq-first`, `:ice-strong` + Runner `:runner-poverty` 1.5, `:runner-income` 3. RC37 (+ `:no-overdraw`, `:jackout-damage`; frozen `ca`) is equivalent within review noise.
+- **Ladder (held-out, pre-registered, K36 on RC36):**
+  - **T2 met:** g_c +1.05, g_r +2.20.
+  - **T3 puzzles met:** 0.95 / 1.00.
+  - **T3 review not met: 3.40** (bar 3.5), the best held-out score so far. The replication set gave 3.50, pooled 3.45.
+  - Dev gates: RC36 passed (3.70 / 3.20); RC37 did not (3.45 / 3.20).
+  - The agent's true review mean is about 3.4–3.45. A reliable pass needs about +0.3.
+- **Running:** job CD (ends around 06:30). Corp `:potential-breakers` (re-test; agendas behind weak ice) and `:etr-protect` (non-ETR ice on centrals); Runner `:dig-room` (rebuild breakers from a full grip). All vs the RC33 champion, 300 paired seeds.
+- **Next 3:**
+  - (1) RC38 = RC37 + the CD winners (or review-motivated neutrals).
+  - (2) Generate 4 two-sided and 2 Runner-only dev sets for RC38 and review them sequentially. Take the held-out shot (K38) only if the full pool is ≥ 3.5.
+  - (3) Keep mining dev notes. Open themes: the Corp's idle credit clicks and weak economy, the Runner's tag treadmill (Trickster Taka) and repeated runs into known unbreakable ice.
+
 ## Status 2026-10-08 15:55 (R4, autonomous phase)
 
 - **Best agent:** RC35 (`rounds/R4/job-BV.clj`, frozen `bv` = `07489d6`) = RC33 + Corp `:corp-poverty` 0.5 + Runner `:blind-facecheck`, on code with the HQ-memory leak fixed.
