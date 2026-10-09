@@ -156,9 +156,16 @@
      ;; and two more agendas taken from the open HQ by turn 3)
      (for [server (if (and (w env :hq-first) (some #(= "Agenda" (ptype (:title %))) (get-in obs [:corp :hand])))
                     ["HQ" "R&D"] ["R&D" "HQ"])
-           :when (empty? (srv/ices obs (srv/server-key server)))
+           :let [ices (srv/ices obs (srv/server-key server))]
+           ;; :etr-protect: ice without an end-the-run subroutine does not protect (m40 log-04: R&D behind a
+           ;; lone Wave; m40 log-19: HQ behind only Vertigo, two agendas lost)
+           :when (or (empty? ices)
+                     (and (w env :etr-protect)
+                          (not-any? #(some :etr (:subs (cards/printed-ice-model (:title %) false))) (remove :hidden ices))
+                          (not-any? :hidden ices)))
            a (sort-by #(- (ice-score (card-title %))) installs)
-           :when (= server (get-in a [:args :server]))]
+           :when (and (= server (get-in a [:args :server]))
+                      (or (empty? ices) (some :etr (:subs (cards/printed-ice-model (card-title a) false)))))]
        a))))
 
 (defn c-react-centrals
