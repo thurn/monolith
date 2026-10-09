@@ -870,3 +870,11 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **New opt-in `:avoid-tags`** (`63cbf37`): at a "Take N tag(s) or <other cost>" prompt, take the other option when the Corp could punish tags (a kill card in its decklist, or Runner resources and a Corp with ≥ 2 credits). Otherwise the Runner pays a click and 2 credits to clear the tag later.
   - `r-remove-tag`'s kill-deck test is factored out as `kill-deck?`.
   - Smoke: 8 modern-b Runner games, 0 stalls, 7 wins, tagged ends 0.25.
+- **RC38 review-mrunner9: 3.60** (10 of 10 won). **review-mrunner10: 3.30.** Runner-only pool 3.45.
+- **RC38 MEETS THE GATE**, including the stricter sample:
+  - Pre-registered pair m41 + m42: 3.70 ≥ 3.5; Runner-only (first set): 3.60 ≥ 3.2.
+  - All four two-sided sets: **3.68** (Corp 3.70, Runner 3.65, 39 of 40 won). Both Runner-only sets: 3.45.
+  - The 40-game two-sided pool has SE ≈ 0.15, so RC38's dev mean is about 3.5–3.85. For comparison, RC36/RC37's six two-sided sets averaged about 3.5.
+- **K38 launched** at 05:29 (`job-K38.clj`, frozen `ce` = `058071c`, exactly the reviewed code and spec): puzzles, held-out review 910000–910019, replication 910020–910039, T2 900000–900299 with own null.
+  - Job CF's strength check was stopped at 60 games for the CPU.
+  - Not in K38: the `econ-gain` fix (`9815906`) and `:avoid-tags` (`63cbf37`), both newer than the reviewed code.
