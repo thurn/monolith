@@ -1,0 +1,308 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 10
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Red Level Clearance.
+Corp uses Red Level Clearance to gain 2 credits.
+Corp uses Red Level Clearance to draw 2 cards.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 1 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Deuces Wild.
+Runner uses Deuces Wild to gain 3 credits.
+Runner uses Deuces Wild to draw 2 cards.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner trashes Gachapon to use Gachapon to set aside Black Orchestra, Deuces Wild, Gachapon, Moshing, Paladin Poemu, and Steelskin Scarring from the top of the stack.
+Runner pays 1 credits to use Gachapon to install Black Orchestra from among the set-aside cards (paying 2 credits less).
+Runner uses Gachapon to shuffle Deuces Wild, Gachapon, and Moshing into the stack and remove Paladin Poemu and Steelskin Scarring from the game.
+Runner spends click and pays 1 credits to play Steelskin Scarring.
+Runner uses Steelskin Scarring to draw 3 cards.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Red Level Clearance from HQ.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 1 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to play NEXT Activation Command.
+Corp spends click and pays 1 credits to play Red Level Clearance.
+Corp uses Red Level Clearance to gain 2 credits.
+Corp uses Red Level Clearance to draw 2 cards.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 2 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Megaprix Qualifier from HQ.
+Runner steals Megaprix Qualifier and gains 1 agenda point.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Fairchild 3.0 from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 3 with 9 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to play Mad Dash.
+Runner uses Mad Dash to make a run on Server 1.
+Runner will continue the run.
+Corp pays 3 credits to rez Mavirus in Server 1.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Mavirus from Server 1.
+Corp uses Mavirus to purge virus counters.
+Corp uses Mavirus to do 1 net damage.
+Corp trashes Endurance due to net damage.
+Runner pays 0 credits to trash Mavirus from Server 1.
+Runner suffers 1 meat damage from Mad Dash.
+Runner trashes Pinhole Threading due to meat damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 3 with 10 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 4 with 6 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 10 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Hagen protecting HQ at position 0.
+Runner encounters Hagen protecting HQ at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 5 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 11 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner trashes Gachapon to use Gachapon to set aside Dirty Laundry, Hippo, Moshing, Mystic Maemi, Paladin Poemu, and Pinhole Threading from the top of the stack.
+Runner pays 0 credits to use Gachapon to install Mystic Maemi from among the set-aside cards (paying 2 credits less).
+Runner uses Gachapon to shuffle Dirty Laundry, Hippo, and Moshing into the stack and remove Paladin Poemu and Pinhole Threading from the game.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 11 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click and pays 1 credits to install Fermenter.
+Runner spends click and pays 1 credits from Mystic Maemi and 1 credits from their credit pool to play Deuces Wild.
+Runner uses Deuces Wild to gain 3 credits.
+Runner uses Deuces Wild to draw 2 cards.
+Runner spends click and pays 3 credits to install DreamNet.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 6 credits to rez Fairchild 3.0 protecting R&D at position 0.
+Runner encounters Fairchild 3.0 protecting R&D at position 0.
+Runner pays 9 credits to increase the strength of Black Orchestra to 8 and break all subroutines on Fairchild 3.0.
+Runner has no further action.
+Runner passes Fairchild 3.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses DreamNet to draw 1 card.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Megaprix Qualifier and gains 1 agenda point.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Runner is ending their turn 6 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 0 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 7 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 2 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner spends click and trashes Fermenter to use Fermenter to gain 6 credits.
+Runner trashes Gachapon to use Gachapon to set aside Deuces Wild, Dirty Laundry, Liberated Account, Moshing, Yusuf, and Zer0 from the top of the stack.
+Runner pays 0 credits to use Gachapon to install Yusuf from among the set-aside cards (paying 2 credits less).
+Runner uses Gachapon to shuffle Deuces Wild, Dirty Laundry, and Liberated Account into the stack and remove Moshing and Zer0 from the game.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Fairchild 3.0 protecting R&D at position 0.
+Runner encounters Fairchild 3.0 protecting R&D at position 0.
+Runner pays 9 credits to increase the strength of Black Orchestra to 8 and break all subroutines on Fairchild 3.0.
+Runner has no further action.
+Runner passes Fairchild 3.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses DreamNet to draw 1 card.
+Runner places 1 virus counter on Yusuf.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Mystic Maemi to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click, pays 0 credits, and trashes 3 cards (Black Orchestra, Stargate, and Stargate) from the grip to play Moshing.
+Runner uses Moshing to draw 3 cards and gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 6 credits and 5 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Fairchild 3.0 protecting R&D at position 0.
+Runner encounters Fairchild 3.0 protecting R&D at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to use Black Orchestra to increase its strength from 2 to 4.
+Runner has no further action.
+Corp uses Fairchild 3.0 to force the Runner to pay 3 credits.
+Runner pays 3 credits.
+Corp uses Fairchild 3.0 to force the Runner to trash an installed card.
+Corp uses Fairchild 3.0 to force the Runner to trash Black Orchestra.
+Corp uses Fairchild 3.0 to do 1 core damage.
+Corp trashes Moshing due to core damage.
+Corp resolves 3 unbroken subroutines on Fairchild 3.0 ("[subroutine] Force the Runner to pay 3 credits or trash an installed card" and "[subroutine] Force the Runner to pay 3 credits or trash an installed card" and "[subroutine] Do 1 core damage or end the run").
+Runner passes Fairchild 3.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses DreamNet to draw 1 card.
+Runner places 1 virus counter on Yusuf.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner is ending their turn 9 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 2 credits and 3 cards in the grip.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Hagen protecting HQ at position 0.
+Runner encounters Hagen protecting HQ at position 0.
+Runner spends 2 virus counters from Yusuf to use Yusuf to break all 2 subroutines on Hagen.
+Runner has no further action.
+Runner passes Hagen protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses DreamNet to draw 1 card.
+Runner places 1 virus counter on Yusuf.
+Runner breaches HQ.
+Runner accesses Project Vitruvius from HQ.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Fairchild 3.0 protecting R&D at position 0.
+Runner encounters Fairchild 3.0 protecting R&D at position 0.
+Runner pays 3 credits to use Black Orchestra to increase its strength from 2 to 4.
+Runner has no further action.
+Corp uses Fairchild 3.0 to force the Runner to pay 3 credits.
+Runner pays 3 credits.
+Corp uses Fairchild 3.0 to force the Runner to trash an installed card.
+Corp uses Fairchild 3.0 to force the Runner to trash Black Orchestra.
+Corp uses Fairchild 3.0 to do 1 core damage.
+Corp trashes Liberated Account due to core damage.
+Corp resolves 3 unbroken subroutines on Fairchild 3.0 ("[subroutine] Force the Runner to pay 3 credits or trash an installed card" and "[subroutine] Force the Runner to pay 3 credits or trash an installed card" and "[subroutine] Do 1 core damage or end the run").
+Runner passes Fairchild 3.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner places 1 virus counter on Yusuf.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Offworld Office and gains 2 agenda points.
+Runner wins the game.
+Runner uses Mystic Maemi to add 1 credits to itself.

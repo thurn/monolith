@@ -1,0 +1,607 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 22
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to play Jailbreak.
+Runner uses Jailbreak to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Starlit Knight protecting R&D at position 0.
+Runner encounters Starlit Knight protecting R&D at position 0.
+Runner has no further action.
+Corp uses Starlit Knight to give the Runner 1 tag.
+Corp uses Starlit Knight to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on Starlit Knight ("[subroutine] Give the Runner 1 tag" and "[subroutine] Give the Runner 1 tag").
+Runner passes Starlit Knight protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner uses Jailbreak to draw 1 card.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Post-Truth Dividend from HQ.
+Runner steals Post-Truth Dividend and gains 1 agenda point.
+Runner spends click and pays 3 credits to install Tremolo.
+Runner is ending their turn 1 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 7 credits and 3 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Game Over from HQ.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 2 with 12 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Freedom of Information and gains 2 agenda points.
+Corp is ending their turn 3 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 12 credits and 3 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click and pays 2 credits to install Docklands Pass.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Game Over from HQ.
+Runner accesses Increased Drop Rates from HQ.
+Corp uses Increased Drop Rates to force the Runner to take 1 tag.
+Runner pays 2 credits to trash Increased Drop Rates from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 3 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 1 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 8 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner has no further action.
+Corp uses N-Pot to end the run.
+Corp resolves 1 unbroken subroutine on N-Pot ("[subroutine] End the run").
+Runner spends click and pays 1 credits to install Debbie "Downtown" Moreira.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Debbie "Downtown" Moreira.
+Corp is ending their turn 5 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches Starlit Knight protecting R&D at position 0.
+Runner encounters Starlit Knight protecting R&D at position 0.
+Runner has no further action.
+Corp uses Starlit Knight to give the Runner 1 tag.
+Corp uses Starlit Knight to give the Runner 1 tag.
+Corp resolves 2 unbroken subroutines on Starlit Knight ("[subroutine] Give the Runner 1 tag" and "[subroutine] Give the Runner 1 tag").
+Runner passes Starlit Knight protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Bravado to gain 7 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 7 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner pays 3 credits to use N-Pot to break 1 subroutine on N-Pot ("[subroutine] End the run").
+Runner pays 3 credits to use N-Pot to break 1 subroutine on N-Pot ("[subroutine] If threat >=2, End the run").
+Runner pays 3 credits to use N-Pot to break 1 subroutine on N-Pot ("[subroutine] If threat >=4, End the run").
+Runner has no further action.
+Runner passes N-Pot protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Oppo Research from HQ.
+Runner accesses Freedom of Information from HQ.
+Runner steals Freedom of Information and gains 2 agenda points.
+Runner spends click and pays 1 credits to play Tread Lightly.
+Runner uses Tread Lightly to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner is ending their turn 6 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 0 credits and 4 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 4 credits and 4 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 7 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install Laser Pointer.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 7 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click and pays 2 credits to install Cezve.
+[!] Cezve - Recurring credits usage not restricted
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner pays 3 credits to use N-Pot to break 1 subroutine on N-Pot ("[subroutine] End the run").
+Runner pays 3 credits to use N-Pot to break 1 subroutine on N-Pot ("[subroutine] If threat >=2, End the run").
+Runner pays 3 credits to use N-Pot to break 1 subroutine on N-Pot ("[subroutine] If threat >=4, End the run").
+Runner has no further action.
+Runner passes N-Pot protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Congratulations! from HQ.
+Runner accesses Congratulations! from HQ.
+Runner is ending their turn 10 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 0 credits and 4 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to play Concerto.
+Runner uses Concerto to reveal Underdome Irregulars from the top of the stack and move Underdome Irregulars into the grip and place 1 credits on itself.
+Runner uses Concerto to make a run on HQ.
+Runner approaches N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner has no further action.
+Corp uses N-Pot to end the run.
+Corp resolves 1 unbroken subroutine on N-Pot ("[subroutine] End the run").
+Runner is ending their turn 11 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 17 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 20 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 3 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 20 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 13 with 18 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 7 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 0 credits to rez Loot Box protecting Server 1 at position 1.
+Runner encounters Loot Box protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Loot Box to force the runner to pay 2 credits.
+Runner pays 2 credits due to Loot Box subroutine.
+Corp uses Loot Box to reveal Afterimage, Tremolo, and Daily Casts from the top of the stack.
+Corp uses Loot Box to add Afterimage to the Grip, gain 4 credits, shuffle the Stack and trash itself.
+Corp resolves 2 unbroken subroutines on Loot Box ("[subroutine] End the run unless the Runner pays 2 credits" and "[subroutine] Reveal the top 3 cards of the Stack").
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Doomscroll protecting Server 1 at position 0.
+Runner encounters Doomscroll protecting Server 1 at position 0.
+Runner uses Laser Pointer to bypass Doomscroll protecting Server 1 at position 0.
+Runner bypasses Doomscroll.
+Runner passes Doomscroll protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Witch Hunt from Server 1.
+Runner steals Witch Hunt and gains 2 agenda points.
+Corp uses Witch Hunt to take 1 bad publicity.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 4 credits to install Afterimage.
+Runner is ending their turn 13 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 19 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp is ending their turn 14 with 16 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 14 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 16 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 15 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 11 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 5 credits and removes 1 tag to rez Piranhas protecting Server 1 at position 2.
+Runner encounters Piranhas protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Piranhas to draw 1  card.
+Corp uses Piranhas to do 1 net damage.
+Corp trashes Maintenance Access due to net damage.
+Corp uses Piranhas to end the run.
+Corp resolves 3 unbroken subroutines on Piranhas ("[subroutine] You may draw 1 card" and "[subroutine] Do 1 net damage" and "[subroutine] End the run if there are more cards in HQ than in the grip").
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner pays 1 credits from Cezve and 1credits from bad publicity and 1 credits from their credit pool to use N-Pot to break 1 subroutine on N-Pot ("[subroutine] End the run").
+Runner pays 3 credits to use N-Pot to break 1 subroutine on N-Pot ("[subroutine] If threat >=2, End the run").
+Runner pays 3 credits to use N-Pot to break 1 subroutine on N-Pot ("[subroutine] If threat >=4, End the run").
+Runner has no further action.
+Runner passes N-Pot protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Piranhas from HQ.
+Runner accesses Game Over from HQ.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 15 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 16 with 10 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Stoke the Embers and gains 2 agenda points.
+Corp uses Stoke the Embers to gain 3 credits.
+Corp uses Stoke the Embers to place 1 advancement counter on Doomscroll protecting Server 1 at position 0.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 16 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 4 credits and 4 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click and pays 3 credits to install Sang Kancil.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 16 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 4 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 5 credits from their credit pool to increase the strength of Sang Kancil to 4 and break all 3 subroutines on N-Pot.
+Runner has no further action.
+Runner passes N-Pot protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Congratulations! from HQ.
+Runner accesses Congratulations! from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 3 credits to play Flood the Market.
+Corp uses Flood the Market to do nothing.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Increased Drop Rates from Archives.
+Corp uses Increased Drop Rates to force the Runner to take 1 tag.
+Runner accesses Increased Drop Rates from Archives.
+Corp uses Increased Drop Rates to force the Runner to take 1 tag.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 5 credits from their credit pool to increase the strength of Sang Kancil to 4 and break all 3 subroutines on N-Pot.
+Runner has no further action.
+Runner passes N-Pot protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Piranhas from HQ.
+Runner accesses Congratulations! from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 18 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 19 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 2 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 5 credits from their credit pool to increase the strength of Sang Kancil to 4 and break all 3 subroutines on N-Pot.
+Runner has no further action.
+Runner passes N-Pot protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Congratulations! from HQ.
+Runner accesses N-Pot from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 19 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 20 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Stoke the Embers and gains 2 agenda points.
+Corp uses Stoke the Embers to gain 3 credits.
+Corp uses Stoke the Embers to place 1 advancement counter on Doomscroll protecting Server 1 at position 0.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 20 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 2 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 5 credits from their credit pool to increase the strength of Sang Kancil to 4 and break all 3 subroutines on N-Pot.
+Runner has no further action.
+Runner passes N-Pot protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses N-Pot from HQ.
+Runner accesses Ping from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 20 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 21 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 21 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 2 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 5 credits from their credit pool to increase the strength of Sang Kancil to 4 and break all 3 subroutines on N-Pot.
+Runner has no further action.
+Runner passes N-Pot protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Piranhas from HQ.
+Runner accesses Ping from HQ.
+Runner is ending their turn 21 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 22 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 22 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 2 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches N-Pot protecting HQ at position 0.
+Runner encounters N-Pot protecting HQ at position 0.
+Runner pays 1credits from bad publicity and 5 credits from their credit pool to increase the strength of Sang Kancil to 4 and break all 3 subroutines on N-Pot.
+Runner has no further action.
+Runner passes N-Pot protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Ping from HQ.
+Runner accesses Tomorrow's Headline from HQ.
+Runner steals Tomorrow's Headline and gains 2 agenda points.
+Runner wins the game.
+Corp uses Tomorrow's Headline to give the Runner 1 tag.

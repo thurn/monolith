@@ -957,3 +957,12 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - New opt-in `:no-overdraw-events` (`55873c6`): prunes "draw(s) N cards" events and abilities that would end the turn over the limit.
   - Smoke on 4 fresh Runner decks: forced discards **7.0 → 6.9**, a null. Not adopted.
   - So the CI proxy (3.19 per game) mostly measures shrunken hand sizes, not waste. The underlying review theme is accepting repeated core damage (frunner1 log-07: three core damage from runs through an unbreakable Fairchild).
+- **RC39 gate reviews (job CJ, frozen `ci`):**
+  - Modern: review-m45 **3.30** (Corp 3.4, Runner 3.2); review-m46 **3.50** (Corp 3.2, Runner 3.8). **Pool 3.40.**
+  - Fresh: review-f3 **3.60** (Corp 3.8, Runner 3.4); review-f4 **3.70** (Corp 3.6, Runner 3.8). **Pool 3.65.**
+  - Four-set pool 3.53. Runner-only sets mrunner11 and frunner2 are being reviewed.
+  - On fresh decks RC39 is +0.35 over RC38 (3.30), which matches dropping RC38's Corp knobs and adding Runner `:grip-trash` / `:avoid-tags`. On modern decks it is −0.28 vs RC38 (3.68). With SE ≈ 0.2 per pool, both moves are within about 1.5 SE.
+- **New Corp economy theme** (m46 log-04, modern-a): 0–3 credits for most of the game while holding Hedge Fund. The Corp drew and played Sprint instead of clicking up to it, while HQ ice stayed unrezzed.
+  - New opt-in **`:credit-for-econ`** (`9105250`, both sides): when an economy card in hand (gain ≥ 3) is unaffordable now but reachable by next turn, click for a credit. It sits after the ice and economy rules and before draw and other operations.
+  - Smoke: 16 games, 0 stalls.
+- **Job CK** (frozen `ck` = `9105250`, launched 13:16): `:credit-for-econ`, Corp vs `:s1ref` on corp-hard and Runner vs the RC33 champion on fresh decks, 300 paired seeds 550000–550299.

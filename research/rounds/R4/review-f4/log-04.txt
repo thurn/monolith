@@ -1,0 +1,204 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 10
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp is ending their turn 1 with 4 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Deuces Wild and Botulus from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 1 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 1 credits to rez Advanced Assembly Lines in Server 1.
+Corp uses Advanced Assembly Lines to gain 3 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp uses Advanced Assembly Lines to install a card from HQ in the root of Server 3 (new remote).
+Corp pays 1 credits to rez Advanced Assembly Lines in Server 3.
+Corp uses Advanced Assembly Lines to gain 3 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 2 with 8 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 2 with 9 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Overclock and Paladin Poemu from the stack and draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 3 credits to rez Macrophage protecting Server 2 at position 0.
+Runner encounters Macrophage protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Macrophage to initiate a trace with strength 4 (Purge virus counters).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to purge virus counters.
+Corp uses Macrophage to initiate a trace with strength 3 (Trash a virus).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to initiate a trace with strength 2 (Remove a virus in the Heap from the game).
+Corp pays 0 credits to increase trace strength to 2.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to remove Botulus from the game.
+Corp uses Macrophage to initiate a trace with strength 1 (End the run).
+Corp pays 0 credits to increase trace strength to 1.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to end the run.
+Corp resolves 4 unbroken subroutines on Macrophage ("[subroutine] Trace 4 - Purge virus counters" and "[subroutine] Trace 3 - Trash a virus" and "[subroutine] Trace 2 - Remove a virus in the Heap from the game" and "[subroutine] Trace 1 - End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 2 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp is ending their turn 3 with 5 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 3 with 12 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Sure Gamble and Sure Gamble from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 3 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Offworld Office and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Advanced Assembly Lines in Archives to HQ.
+Corp uses Offworld Office to gain 7 credits.
+Corp is ending their turn 4 with 9 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 4 with 16 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Stargate and Zer0 from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 4 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 9 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 4.
+Corp pays 1 credits to rez Advanced Assembly Lines in Server 4.
+Corp uses Advanced Assembly Lines to gain 3 credits.
+Corp uses Advanced Assembly Lines to install a card from HQ in the root of Server 5 (new remote).
+Corp pays 0 credits to rez Spin Doctor in Server 5.
+Corp uses Spin Doctor to draw 2 cards.
+Corp pays 0 credits to use Advanced Assembly Lines to install ice from HQ protecting Server 5.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 5 with 15 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 5 with 20 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Rezeki and Botulus from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 5 with 24 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 15 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 6 with 13 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 6 with 24 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Political Operative and I've Had Worse from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 28 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 13 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Cyberdex Sandbox and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Advanced Assembly Lines in Archives to HQ.
+Corp uses Cyberdex Sandbox to purge virus counters.
+Corp uses Cyberdex Sandbox to gain 4 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 7 with 15 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 7 with 28 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Daily Casts and Dirty Laundry from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 32 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 15 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 8 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 32 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Political Operative and Rezeki from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 36 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Cyberdex Sandbox and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Advanced Assembly Lines in Archives to HQ.
+Corp uses Cyberdex Sandbox to purge virus counters.
+Corp uses Cyberdex Sandbox to gain 4 credits.
+Corp uses Cyberdex Sandbox to gain 4 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 9 with 19 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 9 with 36 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Dirty Laundry and Black Orchestra from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 9 with 40 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 19 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Luminal Transubstantiation and gains 2 agenda points.
+Corp wins the game.

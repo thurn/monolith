@@ -1,0 +1,195 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 7
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Fisk Investment Seminar and Stimhack from the stack and draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 7 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Titanium Ribs and Same Old Thing from the stack and draw 1 card.
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click and pays 0 credits to install Same Old Thing.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez IP Block protecting HQ at position 0.
+Runner encounters IP Block protecting HQ at position 0.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner is ending their turn 2 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Liberated Account.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Liberated Account.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Daily Casts and Levy AR Lab Access from the stack and draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 3 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp is ending their turn 4 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 10 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Black Orchestra and Sure Gamble from the stack and draw 1 card.
+Runner spends click and pays 1 credits to install Zer0.
+Runner trashes Hacktivist Meeting due to net damage.
+Runner spends click and suffers 1 net damage to use Zer0 to gain 1 credits and draw 2 cards.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 0 credits to play Mad Dash.
+Runner uses Mad Dash to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner suffers 1 meat damage from Mad Dash.
+Runner trashes Sure Gamble due to meat damage.
+Runner is ending their turn 4 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 3 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Hacktivist Meeting and Levy AR Lab Access from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner trashes I've Had Worse due to net damage.
+Runner uses I've Had Worse to draw 3 cards.
+Runner spends click and suffers 1 net damage to use Zer0 to gain 1 credits and draw 2 cards.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Hyperloop Extension and gains 1 agenda point.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Corp uses Hyperloop Extension to gain 3 credits.
+Runner discards 4 from the stack at end of turn.
+Runner is ending their turn 5 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 6 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 10 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash D4v1d and Liberated Account from the stack and draw 1 card.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 6 credits to rez Fairchild 3.0 protecting Server 1 at position 0.
+Runner encounters Fairchild 3.0 protecting Server 1 at position 0.
+Runner spends 3 hosted power counters from on D4v1d to use D4v1d to break all 3 subroutines on Fairchild 3.0.
+Runner has no further action.
+Runner passes Fairchild 3.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Ikawah Project from Server 1.
+Runner spends click and pays 2 credits to steal Ikawah Project from Server 1.
+Runner steals Ikawah Project and gains 3 agenda points.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp is ending their turn 7 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Clan Vengeance and I've Had Worse from the stack and draw 1 card.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Fairchild 3.0 protecting Server 1 at position 0.
+Runner encounters Fairchild 3.0 protecting Server 1 at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to use Black Orchestra to increase its strength from 2 to 4.
+Runner has no further action.
+Corp uses Fairchild 3.0 to force the Runner to pay 3 credits.
+Runner pays 3 credits.
+Corp uses Fairchild 3.0 to force the Runner to trash an installed card.
+Corp uses Fairchild 3.0 to force the Runner to trash Black Orchestra.
+Corp uses Fairchild 3.0 to do 1 core damage.
+Corp trashes Clan Vengeance due to core damage.
+Corp resolves 3 unbroken subroutines on Fairchild 3.0 ("[subroutine] Force the Runner to pay 3 credits or trash an installed card" and "[subroutine] Force the Runner to pay 3 credits or trash an installed card" and "[subroutine] Do 1 core damage or end the run").
+Runner passes Fairchild 3.0 protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Corporate Sales Team from Server 1.
+Runner steals Corporate Sales Team and gains 2 agenda points.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner trashes Liberated Account.
+Runner spends click to make a run on HQ.
+Runner approaches IP Block protecting HQ at position 0.
+Runner encounters IP Block protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Paperclip to 4 and break all subroutines on IP Block.
+Runner has no further action.
+Runner passes IP Block protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Vitruvius from HQ.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner wins the game.
