@@ -896,3 +896,7 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - If RC38 also drops there (~3.3), the fresh dev decks become the new mining pool and a transfer gate.
   - From now on, a candidate must pass the gate on the modern and the fresh decks before a held-out shot.
   - Held-out games stay unmined.
+- **K38 replication (910020–910039): RC38 3.20** (Corp 3.0, Runner 3.4), `:s1ref` 1.60.
+  - Held-out pool: RC38 **3.25** vs RC36 3.45 (Corp 3.1 vs 3.4; Runner 3.4 vs 3.5).
+  - RC38's dev gain (+0.2 over RC36/37 on modern sets) did not reach held-out decks. If anything, its Corp is weaker there; a 10-game side has SE ≈ 0.3, so this is not a regression claim.
+  - **Conclusion:** further modern-only mining is likely to keep inflating the dev gate. The transfer sets (job CG) decide the next direction.
