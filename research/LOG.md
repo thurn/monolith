@@ -828,3 +828,12 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - `:potential-breakers` (safety expects breakers from the grip; the evaluator's `agenda-ev` honours it too) was rejected in job B2 on old code (+18/−35, "too timid").
 - **Job CD** (chained after CC): RC37 Corp vs + `:potential-breakers`, against the RC33 champion, 300 paired seeds 500000–500299. Single-factor re-test on current code.
 - Job CC (RC37 vs RC35 strength check) launches now that CB has finished. m40 review is running.
+- **RC37 review-m40:** candidate **3.30** (Corp 3.4, Runner 3.2), `:s1ref` 2.20. Two losses rated 2–3: a Corp that left R&D behind one Ping for seven turns (log-11), and a Runner that bounced off a reinstalled Descent with no decoder (log-12).
+- **RC37 review-mrunner8** (Runner only): **3.20**, `:s1ref` 1.10.
+- **RC37 gate: NOT met.** Two-sided pool 3.45 (< 3.5); Runner-only 3.20 (✓).
+  - This is the same agent class as RC36 (3.70 / 3.20) within noise. The two-sided dev sets for RC34–RC37 average about 3.4, matching the held-out K36 (3.40 / 3.50).
+  - **Honest read:** the agent's true review mean is about 3.4–3.45. Passing both held-out sets reliably needs about +0.3, which single polish knobs (each win-neutral, each touching about 1 game in 10) are not delivering fast enough.
+- **New Runner theme in 4 recent low-rated games** (mrunner8 log-11 and log-19, m40 log-17, mrunner6 log-17): breakers lost or never found, with a full grip of economy cards and no dig.
+  - `r-dig-breakers` only digs below a full grip; `:dig-full` (dig past it) was rejected in BT for forced discards.
+  - New opt-in **`:dig-room`** (`156f2ee`): when a breaker type is missing and the grip is full, first play an economy event or install the cheapest non-breaker card. Smoke: 8 Runner games, 0 stalls.
+  - Added to job CD as cd-dr (Runner side). CD now runs from frozen `ce` = `156f2ee` after CC.

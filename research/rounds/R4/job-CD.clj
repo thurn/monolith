@@ -1,6 +1,7 @@
-;; Frozen ca = 56edb66: Corp :potential-breakers re-test on RC37 (server safety and installed-agenda value expect a breaker from the
+;; Frozen ce = ca + opt-in :dig-room: Corp :potential-breakers re-test on RC37 (server safety and installed-agenda value expect a breaker from the
 ;; Runner's grip; rejected in R4 job B2 on old code, +18/-35; m39 log-11: Next Big Thing behind one known Ping, stolen with a Mayfly
-;; from the grip). Corp side, against the RC33 champion, 300 paired seeds 500000-500299.
+;; from the grip). Corp side; plus Runner :dig-room (full grip makes room before digging for a missing breaker; mrunner8 log-11/19,
+;; m40 log-17). Against the RC33 champion, 300 paired seeds 500000-500299.
 (require 'monolith.ai.sweep 'monolith.ai.evalset 'monolith.ai.blunders)
 (let [R "/home/dthurn/monolith/research/rounds/R4"
       ev {:kill-threat 1.0 :hq-flood 1.0 :scorable-agendas 2.5 :asset-econ 1.0 :core-damage 1.0}
@@ -22,8 +23,10 @@
       vmix (vec (mapcat #(repeat 2 %) monolith.ai.sweep/modern-var))]
   (println (monolith.ai.evalset/run-many {:threads 16 :opponent [:champion rc28]
                                           :experiments [{:agent [:champion rc37] :tag "cd-rc37" :seeds (range 500000 500300) :matchups monolith.ai.sweep/modern-mix
-                                                         :sides [:corp] :games-log (str R "/eval-CD.jsonl") :null? false}
+                                                         :sides [:corp :runner] :games-log (str R "/eval-CD.jsonl") :null? false}
                                                         {:agent [:champion (assoc-in rc37 [:corp-opts :w :potential-breakers] true)] :tag "cd-pb" :seeds (range 500000 500300) :matchups monolith.ai.sweep/modern-mix
-                                                         :sides [:corp] :games-log (str R "/eval-CD.jsonl") :null? false}]}))
-  (println (monolith.ai.blunders/summarize (str R "/eval-CD.jsonl") #{"cd-rc37" "cd-pb"}))
+                                                         :sides [:corp] :games-log (str R "/eval-CD.jsonl") :null? false}
+                                                        {:agent [:champion (assoc-in rc37 [:runner-opts :w :dig-room] true)] :tag "cd-dr" :seeds (range 500000 500300) :matchups monolith.ai.sweep/modern-mix
+                                                         :sides [:runner] :games-log (str R "/eval-CD.jsonl") :null? false}]}))
+  (println (monolith.ai.blunders/summarize (str R "/eval-CD.jsonl") #{"cd-rc37" "cd-pb" "cd-dr"}))
   (flush))

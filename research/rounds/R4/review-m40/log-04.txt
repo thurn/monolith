@@ -1,0 +1,492 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 10
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Cat's Cradle.
+Runner spends click and pays 1 credits to play Tread Lightly.
+Runner uses Tread Lightly to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Nico Campaign from HQ.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sprint from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tranquility Home Grid from HQ.
+Runner is ending their turn 1 with 2 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp is ending their turn 2 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Marjanah.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Wave protecting R&D at position 0.
+Corp uses Wave to reveal Ablative Barrier from R&D and add it to HQ.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner is ending their turn 2 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 2.
+Corp pays 2 credits to rez Nico Campaign in Server 1.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp is ending their turn 3 with 8 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Nico Campaign from Server 1.
+Runner pays 2 credits to trash Nico Campaign from Server 1.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 11 credits and 2 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Sprint.
+Corp uses Sprint to draw 3 cards.
+Corp uses Sprint to shuffle 2 cards from HQ into R&D.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp pays 2 credits to rez Nico Campaign in Server 3.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp is ending their turn 4 with 12 credits and 1 card in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on Server 3.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Nico Campaign from Server 3.
+Runner pays 2 credits to trash Nico Campaign from Server 3.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 4 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 15 credits and 1 card in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 4.
+Corp spends click to install a card in the root of Server 4.
+Corp is ending their turn 5 with 18 credits and 1 card in HQ.
+[hr]
+Runner started their turn 5 with 1 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 4.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 6 credits to rez Ansel 1.0 protecting Server 4 at position 0.
+Runner encounters Ansel 1.0 protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Marjanah.
+Corp uses Ansel 1.0 to install Nico Campaign from Archives in the root of Server 5 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 4 at position 0.
+Runner will continue the run.
+Corp pays 1 credits to rez Tranquility Home Grid in Server 4.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Architect Deployment Test from Server 4.
+Runner declines to pay to steal Architect Deployment Test.
+Runner accesses Tranquility Home Grid from Server 4.
+Runner spends click to make a run on Server 4.
+Runner approaches Ansel 1.0 protecting Server 4 at position 0.
+Runner encounters Ansel 1.0 protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Cat's Cradle.
+Corp uses Ansel 1.0 to install Nico Campaign from Archives in the root of Server 6 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Architect Deployment Test from Server 4.
+Runner declines to pay to steal Architect Deployment Test.
+Runner accesses Tranquility Home Grid from Server 4.
+Runner spends click to make a run on Server 4.
+Runner approaches Ansel 1.0 protecting Server 4 at position 0.
+Runner encounters Ansel 1.0 protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Architect Deployment Test from Server 4.
+Runner declines to pay to steal Architect Deployment Test.
+Runner accesses Tranquility Home Grid from Server 4.
+Runner spends click to make a run on Server 4.
+Runner approaches Ansel 1.0 protecting Server 4 at position 0.
+Runner encounters Ansel 1.0 protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Architect Deployment Test from Server 4.
+Runner declines to pay to steal Architect Deployment Test.
+Runner accesses Tranquility Home Grid from Server 4.
+Runner is ending their turn 5 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 11 credits and 1 card in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp trashes Nico Campaign and draws 1 card.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Seamless Launch.
+Corp uses Seamless Launch to place 2 advancement counters on a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click to install a card in the root of Server 2.
+Corp pays 2 credits to rez Nico Campaign in Server 5.
+Corp pays 2 credits to rez Nico Campaign in Server 6.
+Corp is ending their turn 6 with 8 credits and 1 card in HQ.
+[hr]
+Runner started their turn 6 with 1 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 4.
+Runner approaches Ansel 1.0 protecting Server 4 at position 0.
+Runner encounters Ansel 1.0 protecting Server 4 at position 0.
+Runner has no further action.
+Corp pays 0 credits to use Ansel 1.0 to install ice from HQ protecting Server 5.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Architect Deployment Test from Server 4.
+Runner declines to pay to steal Architect Deployment Test.
+Runner accesses Tranquility Home Grid from Server 4.
+Runner spends click to make a run on Server 4.
+Runner approaches Ansel 1.0 protecting Server 4 at position 0.
+Runner encounters Ansel 1.0 protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install Nico Campaign from Archives in the root of Server 7 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Architect Deployment Test from Server 4.
+Runner declines to pay to steal Architect Deployment Test.
+Runner accesses Tranquility Home Grid from Server 4.
+Runner spends click to make a run on Server 4.
+Runner approaches Ansel 1.0 protecting Server 4 at position 0.
+Runner encounters Ansel 1.0 protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Architect Deployment Test from Server 4.
+Runner declines to pay to steal Architect Deployment Test.
+Runner accesses Tranquility Home Grid from Server 4.
+Runner spends click to make a run on Server 4.
+Runner approaches Ansel 1.0 protecting Server 4 at position 0.
+Runner encounters Ansel 1.0 protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Architect Deployment Test from Server 4.
+Runner declines to pay to steal Architect Deployment Test.
+Runner accesses Tranquility Home Grid from Server 4.
+Runner is ending their turn 6 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 8 credits and 0 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Architect Deployment Test and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Hedge Fund in Archives to HQ.
+Corp uses Architect Deployment Test to look at the top 5 cards of R&D.
+Corp pays 0 credits to use Architect Deployment Test to install Eli 1.0 from  position 1 of R&D protecting Server 6.
+Corp uses Architect Deployment Test to rez Eli 1.0 protecting Server 6 at position 0 at no cost.
+Corp pays 2 credits to rez Nico Campaign in Server 7.
+Corp is ending their turn 7 with 9 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 7 with 1 credits and 3 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 2 credits to rez Ablative Barrier protecting Server 2 at position 0.
+Runner encounters Ablative Barrier protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Ablative Barrier to end the run.
+Corp resolves 1 unbroken subroutine on Ablative Barrier ("[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 7 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 10 credits and 2 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp uses Nico Campaign to gain 3 credits.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Project Ingatan and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Hedge Fund in Archives to HQ.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 8 with 17 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 8 with 2 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 8 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 21 credits and 3 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp trashes Nico Campaign and draws 1 card.
+Corp uses Nico Campaign to gain 3 credits.
+Corp trashes Nico Campaign and draws 1 card.
+Corp uses Nico Campaign to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp is ending their turn 9 with 27 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 3 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 1.
+Corp pays 1 credits to rez Vertigo protecting R&D at position 1.
+Runner encounters Vertigo protecting R&D at position 1.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Architect Deployment Test and gains 2 agenda points.
+Runner uses Zahya Sadeghi: Versatile Smuggler to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Vertigo protecting R&D at position 1.
+Runner encounters Vertigo protecting R&D at position 1.
+Runner has no further action.
+Corp uses Vertigo to force the Runner to lose click, if able.
+Corp resolves 1 unbroken subroutine on Vertigo ("[subroutine] Force the Runner to lose click").
+Runner passes Vertigo protecting R&D at position 1.
+Corp uses Vertigo to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Runner will continue the run.
+Runner approaches Wave protecting R&D at position 0.
+Runner encounters Wave protecting R&D at position 0.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 9 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 28 credits and 4 cards in HQ.
+Corp uses Nico Campaign to gain 3 credits.
+Corp trashes Nico Campaign and draws 1 card.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Méliès City Luxury Line and gains 3 agenda points.
+Corp wins the game.
