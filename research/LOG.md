@@ -810,3 +810,11 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - S1's run-calc p = 0 is no "hopeless" label: 329 of the 385 runs it rates p = 0 succeed, mostly because the Corp does not rez.
   - The review complaints about repeated runs into known unbreakable ice (Starlit Knight, Descent) are real but rare per game. No knob from this.
 - **Theme counts over 60 candidate Runner reviews (m33–m38, mrunner5–7):** economy/broke 25, facecheck 18, repeated runs 18, tags 17 (clearing only 5), flatline/net damage 9, overdraw 5. RC36's `:runner-poverty` targets the first; CA tests `:no-overdraw` and `:jackout-damage`.
+- **Job CA** (frozen `ca`, vs the RC33 champion, 300 paired seeds 480000–480299, 0 stalls):
+  - `:no-overdraw` Runner: 0.677 vs 0.640 (**+44/−33, p = 0.25**); forced discards **1.53 → 0.82 (−46%)**; tagged ends 1.98 → 2.25.
+  - `:no-overdraw` Corp: 0.323 vs 0.323 (+10/−10); forced discards 0.81 → 0.74.
+  - `:jackout-damage` Runner: 0.640 (+5/−5); flatlines 0.06 → 0.05. The situation is rare, and the knob costs nothing.
+  - Combined strength check: RC36 vs the RC33 champion is Corp 0.323 / Runner 0.640, close to RC35's levels in BY (0.350 / 0.673 on other seeds).
+- **RC37** = RC36 + `:no-overdraw` (both sides) + Runner `:jackout-damage`. Undo: drop the keys.
+- **Job CB** (frozen `ca`, launched 00:54): RC37 gate sets review-m39, review-m40 (both sides, 202320–202359) and review-mrunner8 (Runner only, 202360–202379), reviewed sequentially by fresh Opus reviewers.
+  - Gate as before. Given K36 (dev pool 3.70 but held-out 3.40), a second held-out shot is worth taking only if the dev gate is passed with margin. Self-imposed, not a protocol change: pooled ≥ 3.6 and Runner-only ≥ 3.4.
