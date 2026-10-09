@@ -322,6 +322,13 @@
                                   (if (and t (>= (or (get-in snap [side :credit]) 0) t) (some #(not= :credit (:type %)) acts))
                                     (remove #(= :credit (:type %)) acts)
                                     acts))
+                           ;; :no-overdraw: no basic draw at or above maximum hand size (BY overdraw replay: 100 of 142
+                           ;; Runner discard-down turns drew at a full hand; mrunner7 "overdrew into discards")
+                           acts (if (and (:no-overdraw weights)
+                                         (>= (count (get-in snap [side :hand])) (or (get-in snap [side :hand-size :total]) 5))
+                                         (some #(not= :draw (:type %)) acts))
+                                  (remove #(= :draw (:type %)) acts)
+                                  acts)
                            acts (if (and filter-acts (seq acts)) (filter-acts sm d acts) acts)]
                      a acts
                      :while (and (<= @apps max-apps) (<= (System/currentTimeMillis) deadline))
