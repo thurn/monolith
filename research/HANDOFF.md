@@ -1,5 +1,20 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-09 13:35 (R4, autonomous phase)
+
+- **Best agent:** RC36 (`job-K36.clj`, frozen `by`): the only candidate meeting T2 on held-out; held-out review 3.40 / 3.50.
+  - Current candidate RC39 (`job-CJ.clj`, frozen `ci`) = RC36's Corp + `:prefer-etr`; RC38's Runner + `:grip-trash` + `:avoid-tags`.
+- **Ladder:**
+  - T2 met by RC36 (g_c +1.05, g_r +2.20). RC38 missed T2 on the Corp side (g_c +0.81); its Corp knobs, `:potential-breakers` and `:etr-protect`, were harmful against `:s1ref` and are dropped.
+  - T3 puzzles met.
+  - **T3 review not met.** Best held-out: RC36 3.40; RC38 3.30.
+- **Key finding today:** the modern-deck dev gate over-predicts held-out by about 0.35 (RC32, RC36, RC38). Fresh dev decks (Worlds 2021–22, Classique 2025–26), never mined, predicted RC38's held-out within 0.05. RC39 scores fresh 3.65 / modern 3.40. The gate moves to fresh decks (see LOG).
+- **Running:** job CK (`:credit-for-econ`: click up to an unaffordable economy card), ends around 15:45.
+- **Next 3:**
+  - (1) RC40 = RC39 (+ `:credit-for-econ` if not negative). Generate 4 fresh two-sided sets + 1 fresh Runner-only set and review them sequentially.
+  - (2) If the fresh pool is ≥ 3.5, take K40 (held-out review + replication + T2).
+  - (3) Keep mining the fresh notes. Runner: self-damage (Zer0), core damage through unbroken ice, a full grip against damage. Corp: credit clicks at a full hand.
+
 ## Status 2026-10-09 01:25 (R4, autonomous phase)
 
 - **Best agent:** RC36 (`rounds/R4/job-K36.clj`, frozen `by` = `fc36b7e`) = RC35 + Corp `:hq-first`, `:ice-strong` + Runner `:runner-poverty` 1.5, `:runner-income` 3. RC37 (+ `:no-overdraw`, `:jackout-damage`; frozen `ca`) is equivalent within review noise.
