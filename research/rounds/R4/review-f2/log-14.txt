@@ -1,0 +1,707 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 21
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Propeller.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 2 with 11 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 2 with 13 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 11 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 0 credits to rez NGO Front in Server 2.
+Corp pays 0 credits to rez Rashida Jaheem in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 13 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 13 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 13 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance NGO Front in Server 2.
+Corp spends 1 hosted advancement counter from on NGO Front and trashes NGO Front to use NGO Front to gain 5 credits.
+Corp spends click to install a card in the root of Server 3.
+Corp is ending their turn 4 with 17 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 4 with 16 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 17 credits and 2 cards in HQ.
+Corp uses Rashida Jaheem to gain 3 credits and draw 3 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 20 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 24 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 6 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting HQ.
+Corp pays 0 credits to rez Bio Vault in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Bio Vault in Server 3.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 6 with 20 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 24 credits and 6 cards in the grip.
+Runner spends click and pays 0 credits to install Ika.
+[!] Ika - [Erratum] Program: Icebreaker - Killer - Trojan
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 7 credits to rez Mlinzi protecting R&D at position 0.
+Runner encounters Mlinzi protecting R&D at position 0.
+Runner pays 4 credits to increase the strength of Ika to 5 and break all 3 subroutines on Mlinzi.
+Runner has no further action.
+Runner passes Mlinzi protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Spin Doctor from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 13 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Bio Vault in Server 3.
+Corp is ending their turn 7 with 14 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 7 with 20 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 24 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 14 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp is ending their turn 8 with 13 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 8 with 24 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 5.
+Runner will continue the run.
+Corp pays 0 credits to rez Bio Vault in Server 5.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Bio Vault from Server 5.
+Runner pays 2 credits to trash Bio Vault from Server 5.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 25 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 13 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp is ending their turn 9 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 25 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 29 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 12 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 4.
+Corp spends click to install a card in the root of Server 4.
+Corp pays 0 credits to rez Spin Doctor in Server 4.
+Corp uses Spin Doctor to draw 2 cards.
+Corp uses Spin Doctor to shuffle Bio Vault and Hansei Review into R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 29 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 33 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 11 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 4.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp uses Bio Vault to do nothing.
+Corp spends click to install a card in the root of Server 4.
+Corp is ending their turn 11 with 11 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 11 with 33 credits and 6 cards in the grip.
+Runner spends click to make a run on Server 4.
+Runner approaches ice protecting Server 4 at position 2.
+Corp pays 8 credits to rez DNA Tracker protecting Server 4 at position 2.
+Runner encounters DNA Tracker protecting Server 4 at position 2.
+Runner has no further action.
+Corp uses DNA Tracker to do 1 net damage and make the Runner lose 2 credits.
+Corp trashes Endurance due to net damage.
+Corp uses DNA Tracker to do 1 net damage and make the Runner lose 2 credits.
+Corp trashes Beth Kilrain-Chang due to net damage.
+Corp uses DNA Tracker to do 1 net damage and make the Runner lose 2 credits.
+Corp trashes Sure Gamble due to net damage.
+Corp resolves 3 unbroken subroutines on DNA Tracker ("[subroutine] Do 1 net damage and make the Runner lose 2 credits" and "[subroutine] Do 1 net damage and make the Runner lose 2 credits" and "[subroutine] Do 1 net damage and make the Runner lose 2 credits").
+Runner passes DNA Tracker protecting Server 4 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 4 at position 1.
+Corp pays 3 credits to rez Anemone protecting Server 4 at position 1.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Endurance and Self-modifying Code due to net damage.
+Runner encounters Anemone protecting Server 4 at position 1.
+Runner pays 1 credits to use Ika to break all 1 subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting Server 4 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 4 at position 0.
+Runner passes ice protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Obokata Protocol from Server 4.
+Runner declines to pay to steal Obokata Protocol.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on HQ.
+Runner approaches ice protecting HQ at position 3.
+Runner passes ice protecting HQ at position 3.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 1.
+Runner passes ice protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Send a Message from HQ.
+Runner steals Send a Message and gains 3 agenda points.
+Corp uses Send a Message to rez Chiyashi protecting R&D at position 1 at no cost.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 11 with 29 credits and 2 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 12 with 0 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp is ending their turn 12 with 0 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 29 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 3.
+Runner passes ice protecting HQ at position 3.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 1.
+Runner passes ice protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner declines to pay to steal Obokata Protocol.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 3.
+Runner passes ice protecting HQ at position 3.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 1.
+Runner passes ice protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Loki from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 3.
+Runner passes ice protecting HQ at position 3.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 1.
+Runner passes ice protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Anemone from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 3.
+Runner passes ice protecting HQ at position 3.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 1.
+Runner passes ice protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner declines to pay to steal Obokata Protocol.
+Runner is ending their turn 12 with 29 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 6 (new remote).
+Corp is ending their turn 13 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 29 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 3.
+Runner passes ice protecting HQ at position 3.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 1.
+Corp pays 2 credits to rez Wave protecting HQ at position 1.
+Corp uses Wave to reveal Anansi from R&D and add it to HQ.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Anemone from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 3.
+Runner passes ice protecting HQ at position 3.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Anemone from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 3.
+Runner passes ice protecting HQ at position 3.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Anemone from HQ.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 3.
+Runner passes ice protecting HQ at position 3.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 2.
+Runner passes ice protecting HQ at position 2.
+Runner will continue the run.
+Runner approaches Wave protecting HQ at position 1.
+Runner encounters Wave protecting HQ at position 1.
+Runner has no further action.
+Corp uses Wave to gain 1 credits.
+Corp resolves 1 unbroken subroutine on Wave ("[subroutine] Gain 1 credits for each rezzed piece of Harmonic ice").
+Runner passes Wave protecting HQ at position 1.
+Runner will continue the run.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Anansi from HQ.
+Runner is ending their turn 13 with 29 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 14 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 29 credits and 3 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner is ending their turn 14 with 29 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 15 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp spends click to install a card in the root of Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp is ending their turn 15 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 15 with 29 credits and 3 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner is ending their turn 15 with 29 credits and 3 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 16 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 4.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp is ending their turn 16 with 9 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 16 with 29 credits and 4 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner is ending their turn 16 with 29 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 17 with 9 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp scores Obokata Protocol and gains 3 agenda points.
+Corp is ending their turn 17 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 17 with 29 credits and 4 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner is ending their turn 17 with 29 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 18 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp is ending their turn 18 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 18 with 29 credits and 4 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner is ending their turn 18 with 29 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 19 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores Obokata Protocol and gains 3 agenda points.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 19 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 19 with 29 credits and 4 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner is ending their turn 19 with 29 credits and 4 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 20 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp is ending their turn 20 with 8 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 20 with 29 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to install Engolo.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Obokata Protocol from Archives.
+Runner declines to pay to steal Obokata Protocol.
+Runner accesses everything else in Archives.
+Runner is ending their turn 20 with 24 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 21 with 8 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp scores Send a Message and gains 3 agenda points.
+Corp wins the game.

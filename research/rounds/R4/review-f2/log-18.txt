@@ -1,0 +1,386 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 15
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 9 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 3 from the stack at end of turn.
+Runner is ending their turn 1 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 0 credits to play Mushin No Shin.
+Corp uses Mushin No Shin to install a card from HQ in the root of Server 1 (new remote), and place 3 Advancement counters on it.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 2 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Gila Hands Arcology from Server 1.
+Runner steals Gila Hands Arcology and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Dirty Laundry due to net damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner is ending their turn 2 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 1 credits to rez Yagura protecting R&D at position 0.
+Runner encounters Yagura protecting R&D at position 0.
+Runner has no further action.
+Corp uses Yagura to move the top card of R&D to the bottom.
+Corp uses Yagura to do 1 net damage.
+Corp trashes Emergency Shutdown due to net damage.
+Corp resolves 2 unbroken subroutines on Yagura ("[subroutine] Look at the top card of R&D" and "[subroutine] Do 1 net damage").
+Runner passes Yagura protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 0 credits to trash Project Junebug from R&D.
+Runner spends click and pays 3 credits to install Desperado.
+Runner is ending their turn 3 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 3 credits to rez Eli 1.0 protecting Server 2 at position 0.
+Runner encounters Eli 1.0 protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 7 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Yagura protecting R&D at position 0.
+Runner encounters Yagura protecting R&D at position 0.
+Runner has no further action.
+Corp uses Yagura to move the top card of R&D to the bottom.
+Corp uses Yagura to do 1 net damage.
+Corp trashes Legwork due to net damage.
+Corp resolves 2 unbroken subroutines on Yagura ("[subroutine] Look at the top card of R&D" and "[subroutine] Do 1 net damage").
+Runner passes Yagura protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Desperado to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals House of Knives and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Plascrete Carapace due to net damage.
+Runner spends click and pays 3 credits to play Quality Time.
+Runner uses Quality Time to draw 5 cards.
+Runner spends click and pays 0 credits to install Security Testing.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Philotic Entanglement and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Datasucker due to net damage.
+Corp uses Philotic Entanglement to do 2 net damage.
+Corp trashes Datasucker and Security Testing due to net damage.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 2 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp is ending their turn 7 with 0 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 11 credits and 3 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click and pays 1 credits to play Special Order.
+Runner uses Special Order to search their Stack for Corroder and add it to their Grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 3.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner uses Desperado to gain 1 credits.
+Runner breaches Server 3.
+Runner accesses Fetal AI from Server 3.
+Corp uses Fetal AI to do 2 net damage.
+Corp trashes Corroder and Faerie due to net damage.
+Runner pays 2 credits to steal Fetal AI from Server 3.
+Runner steals Fetal AI and gains 2 agenda points.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Faerie due to net damage.
+Runner is ending their turn 7 with 10 credits and 1 card in the grip.
+[hr]
+Corp started their turn 8 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 10 credits and 1 card in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to install Yog.0.
+Runner spends click to make a run on R&D.
+Runner approaches Yagura protecting R&D at position 0.
+Runner encounters Yagura protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Yagura.
+Runner has no further action.
+Runner passes Yagura protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Desperado to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 8 with 6 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 9 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Gila Hands Arcology and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Account Siphon due to net damage.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 6 credits and 1 card in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Yagura protecting R&D at position 0.
+Runner encounters Yagura protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Yagura.
+Runner has no further action.
+Runner passes Yagura protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Desperado to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 9 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 8 credits and 3 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Yagura protecting R&D at position 0.
+Runner encounters Yagura protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Yagura.
+Runner has no further action.
+Runner passes Yagura protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Desperado to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Infiltration.
+Runner uses Infiltration to gain 2 credits.
+Runner is ending their turn 10 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 11 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 11 with 11 credits and 4 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Yagura protecting R&D at position 0.
+Runner encounters Yagura protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Yagura.
+Runner has no further action.
+Runner passes Yagura protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Desperado to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to install Datasucker.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 12 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 12 credits and 4 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Same Old Thing.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 12 with 16 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores House of Knives and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Express Delivery due to net damage.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 16 credits and 3 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on R&D.
+Runner approaches Yagura protecting R&D at position 0.
+Runner encounters Yagura protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Yagura.
+Runner has no further action.
+Runner passes Yagura protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Desperado to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 13 with 14 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 14 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 14 credits and 4 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Corroder.
+Runner spends click and pays 2 credits to install Kati Jones.
+Runner spends click to make a run on R&D.
+Runner approaches Yagura protecting R&D at position 0.
+Runner encounters Yagura protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Yagura.
+Runner has no further action.
+Runner passes Yagura protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Desperado to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 14 with 13 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 15 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores House of Knives and gains 1 agenda point.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes Passport due to net damage.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 13 credits and 2 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Kati Jones to store 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Yagura protecting R&D at position 0.
+Runner encounters Yagura protecting R&D at position 0.
+Runner pays 0 credits to use Yog.0 to break all 2 subroutines on Yagura.
+Runner has no further action.
+Runner passes Yagura protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Desperado to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed The Future Perfect.
+Runner pays 0 credits.
+Corp pays 0 credits.
+Runner steals The Future Perfect and gains 3 agenda points.
+Runner wins the game.
+Corp uses Jinteki: Personal Evolution to do 1 net damage.
+Corp trashes R&D Interface due to net damage.

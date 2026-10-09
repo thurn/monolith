@@ -907,3 +907,22 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - `:potential-breakers` already lost to `:s1ref` in job B2 (+18/−35): a timid Corp loses tempo against a Runner that rarely punishes.
   - **New rule:** Corp knobs also get an A/B against `:s1ref` on `corp-hard` (dev, Corp 64–88%, not saturated) before adoption.
 - **Job CH** (frozen `ce`, chained after CG): Corp side vs `:s1ref` on corp-hard, 300 paired seeds 530000–530299. Arms: RC38, RC38 − `:potential-breakers`, RC38 − `:etr-protect`, RC36.
+- **Transfer sets (job CG, RC38 on fresh dev decks: Worlds 2021–22, Classique 2025–26):**
+  - review-f1 **3.30** (Corp 3.6, Runner 3.0); review-f2 **3.30** (Corp 3.2, Runner 3.4); review-frunner1 **3.80** (Runner only, 10 of 10 won).
+  - **The fresh two-sided pool is 3.30, against 3.68 on the modern decks and 3.25 on held-out.** The fresh dev decks reproduce the held-out level, so they are the right gate and mining pool from now on.
+  - The modern-only gate overstated RC38 by about 0.4.
+- **Fresh-deck themes (dev, minable):**
+  - **Corp:** 4 of 5 f2 Corp games clicked for credits at 13–18 credits with a full hand, then discarded.
+  - Corp: R&D left open for turns.
+  - Corp: Fairchild 3.0's "core damage or end the run" resolved as damage, twice letting agendas be stolen (f1 log-11).
+  - **Runner (two-sided sets):** broke for long stretches, facechecks without breakers.
+- **f2 log-11 diagnosis** (turn 6, 15 credits, hand: 4 agendas + Audacity + a duplicate Rashida Jaheem; no ice in hand, Server 1 unprotected):
+  - The legal list is fine. Every install is an agenda into an unprotected remote (filtered by `:no-naked-agendas`), and the draw was removed by `:no-overdraw` and `sensible?`'s built-in overdraw prune. **The only candidate left was "click for credit".**
+- **Fixes** (`2b27111`, opt-in):
+  - **`:dig-remote-ice`:** a Corp holding an agenda with no iced empty remote and no ice in hand (≥ 3 credits) draws.
+    - The S1 rule sits after install-agenda and is anchored by `:ice-strong`'s strong margin.
+    - `sensible?` (now weights-aware) lets this case draw one card past the hand limit.
+    - Replayed: "draw" instead of the credit click.
+  - **`:prefer-etr`:** at a Corp "X or end the run" choice during a run, end the run (lethal damage still wins first).
+  - Corp `:no-overdraw` was a null in CA (+10/−10) and blocks exactly this dig, so the next candidate drops it for the Corp.
+  - Smoke (8 Corp games on fresh decks vs `:s1ref`): 0 stalls, 7 wins, idle turns 0.25. Agendas to Archives 0.5 per game: watch.

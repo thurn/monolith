@@ -1,0 +1,440 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 17
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 0 credits to rez Bio Vault in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 9 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 3 credits to play Celebrity Gift.
+Corp uses Celebrity Gift to reveal IPO, La Costa Grid, and Nisei MK II from HQ and gain 6 credits.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp is ending their turn 3 with 9 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 13 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 9 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click to install a card in the root of Server 3.
+Corp is ending their turn 4 with 9 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 4 with 17 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Hot Pursuit.
+Runner uses Hot Pursuit to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Macrophage protecting HQ at position 0.
+Runner encounters Macrophage protecting HQ at position 0.
+Runner has no further action.
+Corp uses Macrophage to initiate a trace with strength 4 (Purge virus counters).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to purge virus counters.
+Corp uses Macrophage to initiate a trace with strength 3 (Trash a virus).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to initiate a trace with strength 2 (Remove a virus in the Heap from the game).
+Corp pays 0 credits to increase trace strength to 2.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to initiate a trace with strength 1 (End the run).
+Corp pays 0 credits to increase trace strength to 1.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to end the run.
+Corp resolves 4 unbroken subroutines on Macrophage ("[subroutine] Trace 4 - Purge virus counters" and "[subroutine] Trace 3 - Trash a virus" and "[subroutine] Trace 2 - Remove a virus in the Heap from the game" and "[subroutine] Trace 1 - End the run").
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 2 credits to rez Thimblerig protecting Server 3 at position 0.
+Runner encounters Thimblerig protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Thimblerig to end the run.
+Corp resolves 1 unbroken subroutine on Thimblerig ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 5 credits and 2 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 3 at position 0 with ice protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 16 credits and 5 cards in the grip.
+Runner spends clickclick and pays 1 credits to play Diversion of Funds.
+Runner uses Diversion of Funds to make a run on HQ.
+Runner approaches Macrophage protecting HQ at position 0.
+Runner encounters Macrophage protecting HQ at position 0.
+Runner has no further action.
+Corp uses Macrophage to initiate a trace with strength 4 (Purge virus counters).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to purge virus counters.
+Corp uses Macrophage to initiate a trace with strength 3 (Trash a virus).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to initiate a trace with strength 2 (Remove a virus in the Heap from the game).
+Corp pays 0 credits to increase trace strength to 2.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to initiate a trace with strength 1 (End the run).
+Corp pays 0 credits to increase trace strength to 1.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to end the run.
+Corp resolves 4 unbroken subroutines on Macrophage ("[subroutine] Trace 4 - Purge virus counters" and "[subroutine] Trace 3 - Trash a virus" and "[subroutine] Trace 2 - Remove a virus in the Heap from the game" and "[subroutine] Trace 1 - End the run").
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 1 credits to rez Aiki protecting Server 3 at position 0.
+Runner encounters Aiki protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Aiki to start a psi game (Runner draws 2 cards).
+Runner pays 0 credits.
+Corp pays 0 credits.
+Corp uses Aiki to do 1 net damage.
+Corp trashes Dummy Box due to net damage.
+Corp uses Aiki to do 1 net damage.
+Corp trashes Paragon due to net damage.
+Corp resolves 3 unbroken subroutines on Aiki ("[subroutine] Psi Game - Runner draws 2 cards" and "[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").
+Runner passes Aiki protecting Server 3 at position 0.
+Runner jacks out.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner is ending their turn 5 with 15 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 7 credits and 4 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 0 with Aiki protecting Server 3 at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp is ending their turn 6 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 15 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 8 credits and 4 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 3 at position 0 with Aiki protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Timely Public Release and gains 2 agenda points.
+Corp is ending their turn 7 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 17 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 21 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 5 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 0 with Aiki protecting Server 3 at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 0 credits to rez Rashida Jaheem in Server 4.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 21 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 25 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 7 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 3 at position 0 with Aiki protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 25 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner approaches Aiki protecting Server 3 at position 0.
+Runner encounters Aiki protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Aiki to start a psi game (Runner draws 2 cards).
+Runner pays 0 credits.
+Corp pays 0 credits.
+Corp uses Aiki to do 1 net damage.
+Corp trashes Wireless Net Pavilion due to net damage.
+Corp uses Aiki to do 1 net damage.
+Corp trashes Paragon due to net damage.
+Corp resolves 3 unbroken subroutines on Aiki ("[subroutine] Psi Game - Runner draws 2 cards" and "[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").
+Runner passes Aiki protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Obokata Protocol from Server 3.
+Runner declines to pay to steal Obokata Protocol.
+Runner spends click to make a run on Server 3.
+Runner approaches Aiki protecting Server 3 at position 0.
+Runner encounters Aiki protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Aiki to start a psi game (Runner draws 2 cards).
+Runner pays 0 credits.
+Corp pays 0 credits.
+Corp uses Aiki to do 1 net damage.
+Corp trashes Street Peddler due to net damage.
+Corp uses Aiki to do 1 net damage.
+Corp trashes The Class Act due to net damage.
+Corp resolves 3 unbroken subroutines on Aiki ("[subroutine] Psi Game - Runner draws 2 cards" and "[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").
+Runner passes Aiki protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Obokata Protocol from Server 3.
+Runner declines to pay to steal Obokata Protocol.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 25 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 5 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 0 with Aiki protecting Server 3 at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Obokata Protocol and gains 3 agenda points.
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp is ending their turn 10 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 25 credits and 3 cards in the grip.
+Runner spends click and pays 9 credits to install Femme Fatale.
+Runner uses Femme Fatale to target Aiki protecting R&D at position 0.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 3 credits to install Aumakua.
+[!] Aumakua - [Erratum] Whenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 10 with 13 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 4 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 3 at position 0 with Aiki protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 11 with 13 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Excalibur protecting Server 1 at position 0.
+Runner encounters Excalibur protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Excalibur to prevent the Runner from making another run.
+Corp resolves 1 unbroken subroutine on Excalibur ("[subroutine] The Runner cannot make another run this turn").
+Runner passes Excalibur protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Bio Vault from Server 1.
+Runner pays 2 credits to trash Bio Vault from Server 1.
+Runner accesses Nisei MK II from Server 1.
+Runner steals Nisei MK II and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 4 credits and 4 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 0 with Aiki protecting Server 3 at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 12 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 5 credits and 4 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 3 at position 0 with Aiki protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 13 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 16 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 1.
+Corp pays 4 credits to rez Border Control protecting Server 3 at position 1.
+Runner encounters Border Control protecting Server 3 at position 1.
+Runner has no further action.
+Corp uses Border Control to gain 2 credits.
+Corp uses Border Control to end the run.
+Corp resolves 2 unbroken subroutines on Border Control ("[subroutine] Gain 1 credits for each ice protecting this server" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 8 credits and 4 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 0 with Aiki protecting Server 3 at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 14 with 16 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 8 credits to rez Anansi protecting Server 2 at position 0.
+Runner encounters Anansi protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Anansi to rearrange the top 5 cards of R&D.
+Corp uses Anansi to draw 1  card.
+Corp pays 2 credits to use Anansi to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Corp uses Anansi to do 1 net damage.
+Corp trashes Aumakua due to net damage.
+Corp resolves 3 unbroken subroutines on Anansi ("[subroutine] Rearrange the top 5 cards of R&D" and "[subroutine] Draw 1 card, runner draws 1 card" and "[subroutine] Do 1 net damage").
+Corp uses Anansi to do 3 net damage.
+Corp trashes Counter Surveillance, Dirty Laundry, and Street Peddler due to net damage.
+Runner passes Anansi protecting Server 2 at position 0.
+Runner jacks out.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches Anansi protecting Server 2 at position 0.
+Runner encounters Anansi protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Anansi to rearrange the top 5 cards of R&D.
+Corp uses Anansi to draw 1  card.
+Corp pays 2 credits to use Anansi to draw 1 card.
+Corp uses Anansi to do 1 net damage.
+Corp trashes The Class Act due to net damage.
+Corp resolves 3 unbroken subroutines on Anansi ("[subroutine] Rearrange the top 5 cards of R&D" and "[subroutine] Draw 1 card, runner draws 1 card" and "[subroutine] Do 1 net damage").
+Corp uses Anansi to do 3 net damage.
+Corp trashes Dummy Box, Legwork, and PAD Tap due to net damage.
+Runner passes Anansi protecting Server 2 at position 0.
+Runner jacks out.
+Runner is ending their turn 14 with 12 credits and 1 card in the grip.
+[hr]
+Corp started their turn 15 with 2 credits and 5 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 3 at position 0 with Aiki protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp is ending their turn 15 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 15 with 12 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Corp pays 2 credits to rez IP Block protecting Server 2 at position 1.
+Runner encounters IP Block protecting Server 2 at position 1.
+Corp uses IP Block to give the runner 1 tag because there is an installed AI.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner is ending their turn 15 with 12 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 16 with 1 credits and 4 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting R&D at position 0 with Aiki protecting Server 3 at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 0 credits to install ice protecting Archives.
+Corp pays 0 credits to rez NGO Front in Server 5.
+Corp spends 1 hosted advancement counter from on NGO Front and trashes NGO Front to use NGO Front to gain 5 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 16 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 16 with 12 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Server 2.
+Runner approaches IP Block protecting Server 2 at position 1.
+Runner encounters IP Block protecting Server 2 at position 1.
+Corp uses IP Block to give the runner 1 tag because there is an installed AI.
+Runner has no further action.
+Corp uses IP Block to initiate a trace with strength 3 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses IP Block to give the Runner 1 tag.
+Corp uses IP Block to end the run.
+Corp resolves 2 unbroken subroutines on IP Block ("[subroutine] Trace 3 - Give the Runner 1 tag" and "[subroutine] End the run if the Runner is tagged").
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 16 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 17 with 6 credits and 4 cards in HQ.
+Corp uses Thimblerig to swap Thimblerig protecting Server 3 at position 0 with Aiki protecting R&D at position 0.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Nisei MK II and gains 2 agenda points.
+Corp wins the game.

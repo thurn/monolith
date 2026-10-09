@@ -1,0 +1,168 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 6
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Aumakua.
+[!] Aumakua - [Erratum] Whenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play Shipment from Tennin.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 7 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Spy Camera.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Underworld Contact.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 4 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Armand "Geist" Walker: Tech Lord to draw 1 card.
+Runner uses Street Peddler to install Sports Hopper, lowering its install cost by 1 credits. Drug Dealer and Tech Trader are trashed as a result.
+Runner pays 2 credits to install Sports Hopper from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 19 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 5 cards in the grip.
+Runner uses Underworld Contact to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Fairchild 2.0 protecting HQ at position 0.
+Runner encounters Fairchild 2.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Fairchild 2.0 to force the Runner to pay 2 credits.
+Runner pays 2 credits.
+Corp uses Fairchild 2.0 to force the Runner to pay 2 credits.
+Runner pays 2 credits.
+Corp uses Fairchild 2.0 to do 1 core damage.
+Corp trashes Forger due to core damage.
+Corp resolves 3 unbroken subroutines on Fairchild 2.0 ("[subroutine] Force the Runner to pay 2 credits or trash an installed card" and "[subroutine] Force the Runner to pay 2 credits or trash an installed card" and "[subroutine] Do 1 core damage").
+Runner passes Fairchild 2.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Elective Upgrade from HQ.
+Runner steals Elective Upgrade and gains 3 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Armand "Geist" Walker: Tech Lord to draw 1 card.
+Runner trashes Sports Hopper to use Sports Hopper to draw 3 cards.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 4 from the stack at end of turn.
+Runner is ending their turn 5 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 18 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Ichi 1.0 protecting R&D at position 0.
+Runner encounters Ichi 1.0 protecting R&D at position 0.
+Runner has no further action.
+Corp uses Ichi 1.0 to trash Aumakua.
+Corp uses Ichi 1.0 to initiate a trace with strength 1 (Give the Runner 1 tag and do 1 core damage).
+Corp pays 0 credits to increase trace strength to 1.
+Runner pays 0 credits to increase link strength to 1.
+The trace was unsuccessful.
+Corp resolves 3 unbroken subroutines on Ichi 1.0 ("[subroutine] Trash a program" and "[subroutine] Trash a program" and "[subroutine] Trace 1 - Give the Runner 1 tag and do 1 core damage").
+Runner passes Ichi 1.0 protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Fairchild 2.0 protecting HQ at position 0.
+Runner encounters Fairchild 2.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Fairchild 2.0 to force the Runner to pay 2 credits.
+Runner pays 2 credits.
+Corp uses Fairchild 2.0 to force the Runner to pay 2 credits.
+Runner pays 2 credits.
+Corp uses Fairchild 2.0 to do 1 core damage.
+Corp trashes Fall Guy due to core damage.
+Corp resolves 3 unbroken subroutines on Fairchild 2.0 ("[subroutine] Force the Runner to pay 2 credits or trash an installed card" and "[subroutine] Force the Runner to pay 2 credits or trash an installed card" and "[subroutine] Do 1 core damage").
+Runner passes Fairchild 2.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Corporate Sales Team from HQ.
+Runner steals Corporate Sales Team and gains 2 agenda points.
+Runner spends click and pays 1 credits to play Information Sifting.
+Runner uses Information Sifting to make a run on HQ.
+Runner approaches Fairchild 2.0 protecting HQ at position 0.
+Runner encounters Fairchild 2.0 protecting HQ at position 0.
+Runner has no further action.
+Corp uses Fairchild 2.0 to force the Runner to pay 2 credits.
+Runner pays 2 credits.
+Corp uses Fairchild 2.0 to force the Runner to trash an installed card.
+Corp uses Fairchild 2.0 to force the Runner to trash Spy Camera.
+Corp uses Fairchild 2.0 to do 1 core damage.
+Corp trashes Dean Lister due to core damage.
+Corp resolves 3 unbroken subroutines on Fairchild 2.0 ("[subroutine] Force the Runner to pay 2 credits or trash an installed card" and "[subroutine] Force the Runner to pay 2 credits or trash an installed card" and "[subroutine] Do 1 core damage").
+Runner passes Fairchild 2.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses the replacement effect from Information Sifting.
+Runner chooses to access Pile 1 (4 cards).
+Runner accesses Jeeves Model Bioroids from HQ.
+Runner accesses Efficiency Committee from HQ.
+Runner steals Efficiency Committee and gains 2 agenda points.
+Runner wins the game.

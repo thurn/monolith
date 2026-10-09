@@ -1,0 +1,498 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 18
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Rogue Trading.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 2 credits to play Legwork.
+Runner uses Legwork to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Macrophage protecting HQ at position 0.
+Runner encounters Macrophage protecting HQ at position 0.
+Runner has no further action.
+Corp uses Macrophage to initiate a trace with strength 4 (Purge virus counters).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to purge virus counters.
+Corp uses Macrophage to initiate a trace with strength 3 (Trash a virus).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to initiate a trace with strength 2 (Remove a virus in the Heap from the game).
+Corp pays 0 credits to increase trace strength to 2.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to initiate a trace with strength 1 (End the run).
+Corp pays 0 credits to increase trace strength to 1.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Macrophage to end the run.
+Corp resolves 4 unbroken subroutines on Macrophage ("[subroutine] Trace 4 - Purge virus counters" and "[subroutine] Trace 3 - Trash a virus" and "[subroutine] Trace 2 - Remove a virus in the Heap from the game" and "[subroutine] Trace 1 - End the run").
+Runner is ending their turn 1 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 7 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Snare! from Server 1.
+Corp pays 4 credits to use Snare! to give the Runner 1 tag and do 3 net damage.
+Corp trashes Hot Pursuit, Lucky Charm, and Paparazzi due to net damage.
+Runner pays 0 credits to trash Snare! from Server 1.
+Runner is ending their turn 2 with 8 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Paparazzi.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 2 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 0 credits to install PAD Tap.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 3 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Snare! from Server 2.
+Corp pays 4 credits to use Snare! to give the Runner 1 tag and do 3 net damage.
+Corp trashes "Baklan" Bochkin, Dummy Box, and Dummy Box due to net damage.
+Runner pays 0 credits to trash Snare! from Server 2.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 9 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 5 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner spends click and pays 0 credits to install Rogue Trading.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 6 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 10 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 7 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 8 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install PAD Tap.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 8 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp is ending their turn 9 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 13 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Aumakua.
+[!] Aumakua - [Erratum] Whenever you finish breaching a server, if you did not steal or trash any accessed cards, place 1 virus counter on this program.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 9 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp is ending their turn 10 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 11 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 10 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 13 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Counter Surveillance.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 11 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 3.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 15 credits and 5 cards in the grip.
+Runner spends clickclick to use Rogue Trading to gain 6 credits and take 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 12 with 21 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to install ice protecting Server 3.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp is ending their turn 13 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 21 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 9 credits to install Femme Fatale.
+Runner uses Femme Fatale to target ice protecting R&D at position 0.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals SSL Endorsement and gains 3 agenda points.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 13 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 2 credits and 5 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 14 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits to trash NGO Front from R&D.
+Runner spends click and pays 1 credits to play Special Order.
+Runner uses Special Order to search their Stack for Femme Fatale and add it to their Grip.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 14 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 3 credits and 5 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 15 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 4 credits to trash La Costa Grid from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 15 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 1 credits and 5 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 14 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Nisei MK II and gains 2 agenda points.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits to trash NGO Front from R&D.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 16 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 14 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 17 with 21 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash "Baklan" Bochkin.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 21 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Dummy Box.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Liza Talking Thunder: Prominent Legislator to draw 2 cards and take 1 tag.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner uses PAD Tap to gain 1 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 0 credits to install Rogue Trading.
+Runner spends click to make a run on HQ.
+Runner approaches Macrophage protecting HQ at position 0.
+Runner encounters Macrophage protecting HQ at position 0.
+Runner pays 4 credits to use Aumakua to break all 4 subroutines on Macrophage.
+Runner has no further action.
+Runner passes Macrophage protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Obokata Protocol from HQ.
+Runner trashes Diversion of Funds, Diversion of Funds, Hot Pursuit, and Street Peddler due to net damage.
+Runner suffers 4 net damage to steal Obokata Protocol from HQ.
+Runner steals Obokata Protocol and gains 3 agenda points.
+Runner wins the game.
