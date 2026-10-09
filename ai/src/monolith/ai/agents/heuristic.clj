@@ -1137,6 +1137,12 @@
              val-of #(or (parse-long (str (:label %))) 0)]
          (when (seq ns) (apply min-key #(Math/abs (- (val-of %) target)) ns)))
 
+       ;; :grip-trash: trashing/discarding cards from our own grip as a cost or effect (Moshing): least valuable
+       ;; first (review-f1 log-12: Moshing trashed Black Orchestra, the only fracter, and the economy)
+       (and (w env :grip-trash) (seq (acts env :select)) (re-find #"(?i)trash|discard" msg)
+            (every? #(= :hand (first (get-in % [:args :card :zone]))) (acts env :select)))
+       (select-best env (fn [c] (- 11 (hand-card-value env c))))
+
        ;; :avoid-tags: "take a tag or <other cost>" (Trickster Taka) takes the other cost when the Corp could
        ;; punish tags, since the Runner would then pay a click and 2 credits to clear it (m43 log-17, m40 log-17,
        ;; mrunner7 log-12: a tag taken and cleared every turn for ten turns)
