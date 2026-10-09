@@ -759,3 +759,5 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - RC36 gate sets review-m37 and review-m38 (both sides, 202260–202299) and review-mrunner7 (Runner only, 202300–202319).
   - Then RC36 vs RC35 against the RC33 champion on both sides, 470000–470299, as a combined strength check.
   - Gate as before: pooled two-sided ≥ 3.5 and Runner-only ≥ 3.2.
+- **`:ice-strong` proxy check** (replay of 150 Corp games per arm from BY, credit clicks at ≥ 8 credits): by-rc35 585 vs by-is **419 (−28%)**. Clicks made while holding ice: 236 → **106 (−55%)**. Clicks with an agenda in hand and an iced empty remote: 347 → 231. The fix does what it was built for, at no win-rate cost.
+- review-m37 generated at 20:06. A fresh Opus reviewer is scoring it; m38 and mrunner7 follow sequentially.
