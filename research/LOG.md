@@ -941,3 +941,6 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Runner vs the RC33 champion: base, + `:grip-trash`, + `:avoid-tags`.
   - About 1800 games, roughly 4.5 h.
 - **Plan:** RC39 = base + CI winners. Gate on fresh and modern sets (2 two-sided + 1 Runner-only each, reviewed sequentially). Take K39 only if both two-sided pools are ≥ 3.5.
+- **review-f1 log-10 replay** (classique-2026-a, Corp turn 4: R&D bare under 3–4 R&D runs a turn, HQ holding 1 ice): the reviewed RC38 game put Tollbooth on HQ, a second ice.
+  - With RC39's Corp (no `:etr-protect`, no `:potential-breakers`), S1's protect-centrals and the plan both put Tollbooth on R&D (plan 18.2 vs HQ 15.5).
+  - Likely mechanism in RC38: `:etr-protect` counted HQ's lone non-ETR ice as no protection, and `:hq-first` (agenda in hand) then ordered HQ before the bare R&D. This is one concrete instance of the harm CH measured.
