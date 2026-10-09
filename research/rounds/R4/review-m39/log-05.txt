@@ -1,0 +1,185 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 6
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner identifies their mark to be Archives.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 3 credits to install Sang Kancil.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Increased Drop Rates.
+Corp uses Increased Drop Rates to force the Runner to take 1 tag.
+Runner is ending their turn 1 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 2 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 7 credits and 3 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Witch Hunt and gains 2 agenda points.
+Corp uses Witch Hunt to take 1 bad publicity.
+Runner spends click and pays 1 credits to play Tread Lightly.
+Runner uses Tread Lightly to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Game Over.
+Corp chooses to trash all Hardware.
+Runner chooses to not prevent Corp trashing all Hardware.
+Corp trashes all Hardware: .
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 5 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to install Cezve.
+[!] Cezve - Recurring credits usage not restricted
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 3 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 4 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner spends click and pays 2 credits to install Docklands Pass.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 5 credits and gains 1 bad publicity to rez Piranhas protecting HQ at position 0.
+Runner encounters Piranhas protecting HQ at position 0.
+Runner has no further action.
+Corp uses Piranhas to draw 1  card.
+Corp uses Piranhas to do 1 net damage.
+Corp trashes Debbie "Downtown" Moreira due to net damage.
+Corp uses Piranhas to end the run.
+Corp resolves 3 unbroken subroutines on Piranhas ("[subroutine] You may draw 1 card" and "[subroutine] Do 1 net damage" and "[subroutine] End the run if there are more cards in HQ than in the grip").
+Runner is ending their turn 4 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 6 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 5 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 3 cards in the grip.
+Runner identifies their mark to be R&D.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches Piranhas protecting HQ at position 0.
+Runner encounters Piranhas protecting HQ at position 0.
+Runner pays 3credits from bad publicity and 6 credits from their credit pool to increase the strength of Sang Kancil to 6 and break all 3 subroutines on Piranhas.
+Runner has no further action.
+Runner passes Piranhas protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Tomorrow's Headline from HQ.
+Runner steals Tomorrow's Headline and gains 2 agenda points.
+Corp uses Tomorrow's Headline to give the Runner 1 tag.
+Runner accesses Stoke the Embers from HQ.
+Runner steals Stoke the Embers and gains 2 agenda points.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Increased Drop Rates from Archives.
+Corp uses Increased Drop Rates to force the Runner to take 1 tag.
+Runner accesses Increased Drop Rates from Archives.
+Corp uses Increased Drop Rates to force the Runner to take 1 tag.
+Runner is ending their turn 5 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp is ending their turn 6 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 3 cards in the grip.
+Runner identifies their mark to be HQ.
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner uses Cezve to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Piranhas protecting HQ at position 0.
+Runner encounters Piranhas protecting HQ at position 0.
+Runner pays 3credits from bad publicity and 6 credits from their credit pool to increase the strength of Sang Kancil to 6 and break all 3 subroutines on Piranhas.
+Runner has no further action.
+Runner passes Piranhas protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Nyusha "Sable" Sintashta: Symphonic Prodigy to gain click.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Post-Truth Dividend from HQ.
+Runner steals Post-Truth Dividend and gains 1 agenda point.
+Runner wins the game.
+Runner accesses Behold! from HQ.

@@ -1,0 +1,194 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to install Paladin Poemu.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 2 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 8 credits and 5 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 4 credits to install Banner.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner pays 2 credits to use Banner to prevent Akhet protecting HQ at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Above the Law from HQ.
+Runner steals Above the Law and gains 2 agenda points.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner spends click and pays 1 credits to play Raindrops Cut Stone.
+Runner uses Raindrops Cut Stone to make a run on HQ.
+Runner approaches Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner pays 2 credits to use Banner to prevent Akhet protecting HQ at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Measured Response from HQ.
+Runner uses Raindrops Cut Stone to draw 2 cards and gain 3 credits.
+Runner spends click and pays 1 credits from Paladin Poemu to install Mystic Maemi.
+Runner is ending their turn 2 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 4 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner pays 2 credits to use Banner to prevent Akhet protecting HQ at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Transport Monopoly from HQ.
+Runner steals Transport Monopoly and gains 2 agenda points.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 11 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Measured Response.
+Corp uses Measured Response to do 4 meat damage.
+Corp trashes Banner, Leech, Running Hot, and The Twinning due to meat damage.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 1 card in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner pays 2 credits to use Banner to prevent Akhet protecting HQ at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Luana Campos from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 9 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 3 cards in the grip.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Akhet protecting HQ at position 0.
+Runner encounters Akhet protecting HQ at position 0.
+Runner pays 2 credits to use Banner to prevent Akhet protecting HQ at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Akhet to gain 1 credits and place 1 advancement counter on Akhet protecting HQ at position 0.
+Corp uses Akhet to end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 2 unbroken subroutines on Akhet ("[subroutine] Gain 1 credits. Place 1 advancement counter" and "[subroutine] End the run").
+Runner passes Akhet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Above the Law from HQ.
+Runner steals Above the Law and gains 2 agenda points.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner uses Mystic Maemi to take 1 credits.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner trashes Gachapon to use Gachapon to set aside Fencer Fueno, Gachapon, Mystic Maemi, Privileged Access, Strike Fund, and Sure Gamble from the top of the stack.
+Runner pays 0 credits to use Gachapon to install Fencer Fueno from among the set-aside cards (paying 2 credits less).
+Runner uses Gachapon to shuffle Gachapon, Mystic Maemi, and Privileged Access into the stack and remove Strike Fund and Sure Gamble from the game.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Tree Line protecting R&D at position 0.
+Runner encounters Tree Line protecting R&D at position 0.
+Runner pays 2 credits to use Banner to prevent Tree Line protecting R&D at position 0 from ending the run this encounter.
+Runner has no further action.
+Corp uses Tree Line to gain 1 credits and end the run.
+Runner uses Banner to prevent the run from ending.
+Corp resolves 1 unbroken subroutine on Tree Line ("[subroutine] Gain 1 credits and end the run").
+Runner passes Tree Line protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Divested Trust and gains 1 agenda point.
+Runner wins the game.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Mystic Maemi to add 1 credits to itself.
+Runner uses Fencer Fueno to add 1 credits to itself.

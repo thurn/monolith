@@ -818,3 +818,13 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **RC37** = RC36 + `:no-overdraw` (both sides) + Runner `:jackout-damage`. Undo: drop the keys.
 - **Job CB** (frozen `ca`, launched 00:54): RC37 gate sets review-m39, review-m40 (both sides, 202320–202359) and review-mrunner8 (Runner only, 202360–202379), reviewed sequentially by fresh Opus reviewers.
   - Gate as before. Given K36 (dev pool 3.70 but held-out 3.40), a second held-out shot is worth taking only if the dev gate is passed with margin. Self-imposed, not a protocol change: pooled ≥ 3.6 and Runner-only ≥ 3.4.
+- **RC37 review-m39:** candidate **3.60** (Corp 3.6, Runner 3.6; 9 of 10 won), `:s1ref` 2.10.
+  - Corp notes again: an agenda behind one known weak ice against a rich Runner (log-11: Next Big Thing behind a lone Ping, stolen; log-10: Lotus Haze behind one ice against 37 credits), and idle credit clicks.
+  - Runner notes: one ignored remote, and Trickster Taka tag-clearing clicks.
+- **m39 log-11 diagnosis** (`scratchpad/plan4.clj`, prints the spec-weighted S1 rule):
+  - On turn 8 (8 credits, 1 click, a 7-card hand holding 2 Next Big Things), S1 says `:ice-scoring-remote` (Ping on Server 1).
+  - The plan scores "install Next Big Thing in Server 1" at **+40.6** and every alternative at ≤ −8, so `:ice-strong`'s margin of 8 cannot hold it.
+  - The installed agenda is valued as safe because the Runner's installed rig cannot break Ping. Its Mayfly came from the grip the next turn.
+  - `:potential-breakers` (safety expects breakers from the grip; the evaluator's `agenda-ev` honours it too) was rejected in job B2 on old code (+18/−35, "too timid").
+- **Job CD** (chained after CC): RC37 Corp vs + `:potential-breakers`, against the RC33 champion, 300 paired seeds 500000–500299. Single-factor re-test on current code.
+- Job CC (RC37 vs RC35 strength check) launches now that CB has finished. m40 review is running.
