@@ -769,3 +769,9 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - **m37 + m38 pooled: 3.70 ≥ 3.5 ✓** (Corp 3.5, Runner 3.9). This is the second-best two-sided pool after RC29's 3.70; RC32 was 3.65.
   - mrunner7 (Runner only, bar 3.2) is being reviewed.
 - `job-K36.clj` is prepared: K32's pre-registered held-out protocol with the RC36 spec, run from frozen `by`. It runs puzzles, the held-out review on 910000–910019, replication on 910020–910039, and T2 on 900000–900299. It launches only if mrunner7 ≥ 3.2.
+- **RC36 review-mrunner7** (Runner only): candidate **3.20** (7 of 10 won), `:s1ref` 1.10.
+  - Losses rated 2–3: a breakerless facecheck into a three-ice remote; a flatline from continuing through Karunā's second sub with a small grip and then a forced Fujii steal; repeated runs into a known Eli 1.0 with 34 unused credits.
+  - Several notes mention overdrawing into discards.
+- **RC36 MEETS THE GATE:** two-sided pool 3.70 (≥ 3.5) and Runner-only 3.20 (≥ 3.2, exactly at the bar).
+- **K36 launched** (`job-K36.clj`, frozen `by` = `fc36b7e`, the reviewed code and spec): puzzles, held-out review set 910000–910019, replication 910020–910039, T2 900000–900299 with own null.
+- BZ's strength check was stopped after 38 games so K36 gets the CPU; it can be rerun from `job-BZ.clj`'s second half. Held-out games will be scored only, never mined for card-specific fixes.
