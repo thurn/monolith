@@ -338,6 +338,21 @@
                                          (some #(not= :draw (:type %)) acts))
                                   (remove #(= :draw (:type %)) acts)
                                   acts)
+                           ;; :no-overdraw-events: no "draw N cards" event or ability that would end the turn over the hand
+                           ;; limit (CI fresh decks: 3.2 Runner forced discards a game, 222 of 243 from I've Had Worse,
+                           ;; Fisk, Diesel, Quality Time, Zer0), unless digging for a missing breaker type
+                           acts (if (and (:no-overdraw-events weights)
+                                         (not (and (= side :runner) (seq (s1/missing-breaker-types snap)))))
+                                  (let [hand (count (get-in snap [side :hand]))
+                                        mx (or (get-in snap [side :hand-size :total]) 5)
+                                        draws (fn [a] (let [t (get-in a [:args :card :title])
+                                                            txt (if (= :play (:type a)) (str (:text (cards/printed t))) (str (:label a)))]
+                                                        (some-> (re-find #"(?i)draws? (\d+) cards" txt) second parse-long)))
+                                        kept (remove #(when-let [n (and (#{:play :click-ability :ability} (:type %)) (draws %))]
+                                                        (> (+ hand n (if (= :play (:type %)) -1 0)) mx))
+                                                     acts)]
+                                    (if (seq kept) kept acts))
+                                  acts)
                            acts (if (and filter-acts (seq acts)) (filter-acts sm d acts) acts)]
                      a acts
                      :while (and (<= @apps max-apps) (<= (System/currentTimeMillis) deadline))
