@@ -308,7 +308,9 @@
         g (some-> (or (re-find #"(?i)^gain (\d+)\[credit\]" t)
                       (when (re-find #"(?i)^play only [^\n]*\n" t) (re-find #"(?im)^gain (\d+)\[credit\]" t)))
                   second parse-long)]
-    (if g (- g (or (:cost p) 0)) 0)))
+    ;; "gain 1[credit] for each installed connection" is variable, not a fixed gain (f4 log-07: Calling in
+    ;; Favors played twice for nothing with no connections)
+    (if (and g (not (re-find #"(?i)^gain \d+\[credit\] for each" t))) (- g (or (:cost p) 0)) 0)))
 
 (defn load-credits [title]
   (some-> (re-find #"(?i)load (\d+)\[credit\]" (str (:text (printed title)))) second parse-long))

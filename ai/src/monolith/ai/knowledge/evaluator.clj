@@ -312,6 +312,13 @@
      ;; cards beyond the limit would be counted and then thrown away (draw-into-discard)
      :hands (- (corp-hand-value (min (count corp-hand) (or (get-in s [:corp :hand-size :total]) 5) 7) (:corp-hand-curve w))
                (* 0.8 (min (count (get-in s [:runner :hand])) (or (get-in s [:runner :hand-size :total]) 5))))
+     ;; :overdraw k: each card over the hand limit costs k, so a draw that is discarded tonight scores below
+     ;; not drawing (frunner2 log-05: Liza's forced draw 2 after a basic draw, discarding 2; Corp credit
+     ;; clicks vs draws at full HQ)
+     :overdraw (if-let [k (:overdraw w)]
+                 (let [over (fn [side] (max 0 (- (count (get-in s [side :hand])) (or (get-in s [side :hand-size :total]) 5))))]
+                   (* k (- (over :runner) (over :corp))))
+                 0.0)
      ;; agendas are the Corp's finite route to 7 points: in HQ they are future points at some
      ;; steal risk; in Archives they are lost to the Corp and free for the Runner
      ;; liability scales with how exposed HQ is: unprotected HQ loses agendas fast

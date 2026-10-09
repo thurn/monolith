@@ -597,6 +597,10 @@
                                   :else (- cost 2)))))
        (re-find #"(?i)^Forfeit this agenda" msg)
        (choice env #"(?i)^No")
+       ;; an optional derez can only hit our own cards (Élivágar Bifurcation: f4/f5 log-11 derezzed its own
+       ;; Ansel/Fairchild on the scoring remote, then paid to rez it again)
+       (and (seq (acts env :select)) (re-find #"(?i)^Choose a card to derez" msg))
+       (or (act env :done) (select-best env #(- 20 (or (cards/play-cost (:title %)) 0))))
        :else nil)
      (prompt-common env)
      (lethal-damage-choice env)
@@ -1089,8 +1093,12 @@
              [_ ices] (current-position-ices obs)
              ice (last ices)
              m (cards/breaker-model {:title t} (inc (count (srv/icebreakers obs))))
-             bc (when (and m ice (not (:hidden ice))) (cards/break-cost m (cards/ice-model ice)))]
-         (choice env (if (and bc (<= (+ (cards/play-cost t) bc) (credits env))) #"(?i)^Yes" #"(?i)^No")))
+             bc (when (and m ice (not (:hidden ice))) (cards/break-cost m (cards/ice-model ice)))
+             ;; a copy already installed breaks it (frunner2 log-19: a second Paperclip from the heap for 4)
+             installed? (some #(= t (:title %)) (get-in obs [:runner :rig :program]))]
+         (cond installed? (or (choice env #"(?i)^Don't ask") (choice env #"(?i)^No"))
+               (and bc (<= (+ (cards/play-cost t) bc) (credits env))) (choice env #"(?i)^Yes")
+               :else (choice env #"(?i)^No")))
 
        ;; trashing one of our own programs as a cost (Spec Work): the least useful one; a breaker only
        ;; if another installed breaker covers its types (modern Runner review 1: Gauss, Unity, Echelon trashed)
