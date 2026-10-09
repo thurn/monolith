@@ -796,3 +796,7 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - New opt-in **`:no-overdraw`** (`b32251f`): the planner drops the basic draw at or above maximum hand size whenever another action exists, both sides.
   - Smoke (RC36 + `:no-overdraw`, 16 games vs `:s1ref`): 0 stalls, Runner forced discards 0.38 per game.
 - **Job CA** (frozen `ca` = `b32251f`, chained after K36): RC36 vs RC36 + `:no-overdraw`, both sides, vs the RC33 champion, 300 paired seeds 480000–480299. Its ca-rc36 arm also replaces BZ's stopped strength check.
+- **Runner jack-out with damage ice** (mrunner7 log-15, dev): Karunā's first sub ("2 net, may jack out") left 3 cards. S1's prompt rule jacks out only at ≤ 2 cards, so it continued; the second sub left 1 card, and a mandatory Fujii steal (2 net) flatlined it.
+  - New opt-in **`:jackout-damage`** (`56edb66`): also jack out when the grip is ≤ 1 + the net damage of the ice's later subroutines.
+  - Replayed, RC36 says "No" and RC36 + `:jackout-damage` says "Yes". Smoke: 8 Runner games, 0 stalls.
+  - Added to job CA as arm ca-jo (Runner side); frozen `ca` advanced to `56edb66` before CA started.

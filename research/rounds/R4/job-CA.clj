@@ -1,6 +1,6 @@
-;; RC36 knob A/B on frozen ca = b32251f (by + opt-in :no-overdraw): RC36 vs RC36 + :no-overdraw (no basic draw at full hand;
+;; RC36 knob A/B on frozen ca = 56edb66 (by + opt-ins :no-overdraw, :jackout-damage): RC36 vs RC36 + :no-overdraw (no basic draw at full hand;
 ;; BY replay: 100 of 142 Runner discard-down turns drew at a full hand), both sides, against the RC33 champion, 300 paired seeds
-;; 480000-480299, win rates + proxies.
+;; 480000-480299, win rates + proxies; plus Runner :jackout-damage (mrunner7 log-15: continued through Karuna at 3 cards, flatlined).
 (require 'monolith.ai.sweep 'monolith.ai.evalset 'monolith.ai.blunders)
 (let [R "/home/dthurn/monolith/research/rounds/R4"
       ev {:kill-threat 1.0 :hq-flood 1.0 :scorable-agendas 2.5 :asset-econ 1.0 :core-damage 1.0}
@@ -20,6 +20,8 @@
                                           :experiments [{:agent [:champion rc36] :tag "ca-rc36" :seeds (range 480000 480300) :matchups monolith.ai.sweep/modern-mix
                                                          :sides [:corp :runner] :games-log (str R "/eval-CA.jsonl") :null? false}
                                                         {:agent [:champion (-> rc36 (assoc-in [:corp-opts :w :no-overdraw] true) (assoc-in [:runner-opts :w :no-overdraw] true))] :tag "ca-nod" :seeds (range 480000 480300) :matchups monolith.ai.sweep/modern-mix
-                                                         :sides [:corp :runner] :games-log (str R "/eval-CA.jsonl") :null? false}]}))
-  (println (monolith.ai.blunders/summarize (str R "/eval-CA.jsonl") #{"ca-rc36" "ca-nod"}))
+                                                         :sides [:corp :runner] :games-log (str R "/eval-CA.jsonl") :null? false}
+                                                        {:agent [:champion (assoc-in rc36 [:runner-opts :w :jackout-damage] true)] :tag "ca-jo" :seeds (range 480000 480300) :matchups monolith.ai.sweep/modern-mix
+                                                         :sides [:runner] :games-log (str R "/eval-CA.jsonl") :null? false}]}))
+  (println (monolith.ai.blunders/summarize (str R "/eval-CA.jsonl") #{"ca-rc36" "ca-nod" "ca-jo"}))
   (flush))
