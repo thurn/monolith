@@ -860,14 +860,17 @@
     (when (and (< (count (get-in obs [:runner :hand])) 3) (> (clicks env) 1))
       (act env :draw))))
 
+(defn kill-deck? [env]
+  (some #(or (meat-damage %)
+             (re-find #"(?i)damage (?:for each|per) tag|tagged[^.]*damage" (str (:text (cards/printed %)))))
+        (keys (corp-decklist env))))
+
 (defn r-remove-tag
   "Clear tags while the Corp could punish them: its decklist does meat damage (always clear), or
   the Runner has resources to lose (clear if it keeps at least 3 credits)."
   [env]
   (let [obs (:obs env)
-        kill-deck (some #(or (meat-damage %)
-                             (re-find #"(?i)damage (?:for each|per) tag|tagged[^.]*damage" (str (:text (cards/printed %)))))
-                        (keys (corp-decklist env)))
+        kill-deck (kill-deck? env)
         ;; installed resources are always at risk: any Corp may trash one with a basic action while
         ;; the Runner is tagged (review 15: tag-threat variant that ignored this lost resources)
         resources (and (seq (get-in obs [:runner :rig :resource]))
@@ -1110,6 +1113,16 @@
                         (min cr 4))
              val-of #(or (parse-long (str (:label %))) 0)]
          (when (seq ns) (apply min-key #(Math/abs (- (val-of %) target)) ns)))
+
+       ;; :avoid-tags: "take a tag or <other cost>" (Trickster Taka) takes the other cost when the Corp could
+       ;; punish tags, since the Runner would then pay a click and 2 credits to clear it (m43 log-17, m40 log-17,
+       ;; mrunner7 log-12: a tag taken and cleared every turn for ten turns)
+       (and (w env :avoid-tags)
+            (choice env #"(?i)^take \d+ tags?")
+            (some #(and (= :choice (:type %)) (not (re-find #"(?i)^take \d+ tags?" (str (:label %))))) (:actions env))
+            (or (kill-deck? env)
+                (and (seq (get-in obs [:runner :rig :resource])) (>= (or (get-in obs [:corp :credit]) 0) 2))))
+       (first (filter #(and (= :choice (:type %)) (not (re-find #"(?i)^take \d+ tags?" (str (:label %))))) (:actions env)))
 
        (re-find #"(?i)Jack out\?" msg)
        (let [hand (count (get-in obs [:runner :hand]))
