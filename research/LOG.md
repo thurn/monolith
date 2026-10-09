@@ -900,3 +900,10 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Held-out pool: RC38 **3.25** vs RC36 3.45 (Corp 3.1 vs 3.4; Runner 3.4 vs 3.5).
   - RC38's dev gain (+0.2 over RC36/37 on modern sets) did not reach held-out decks. If anything, its Corp is weaker there; a 10-game side has SE ≈ 0.3, so this is not a regression claim.
   - **Conclusion:** further modern-only mining is likely to keep inflating the dev gate. The transfer sets (job CG) decide the next direction.
+- **K38 T2 (pre-registered, held-out 900000–900299, own null 0.590, 0 stalls): NOT MET on the Corp side.** RC38: Corp 0.720, Runner 0.793; g_c **+0.81** [+0.43, +1.24] (bar +0.85), g_r +2.21.
+  - Paired vs RC36 on the same seeds: Corp **+25/−39 (p = 0.10)**, Runner +17/−22.
+  - RC38 fails T2 and T3. **RC36 stays the best agent** (T2 met, held-out review 3.40 / 3.50).
+- **Diagnosis (method):** RC38's Corp knobs (`:potential-breakers`, `:etr-protect`; `:no-overdraw` came in RC37) were A/B'd only against the RC33 champion. T2 and the reviews are played against `:s1ref`.
+  - `:potential-breakers` already lost to `:s1ref` in job B2 (+18/−35): a timid Corp loses tempo against a Runner that rarely punishes.
+  - **New rule:** Corp knobs also get an A/B against `:s1ref` on `corp-hard` (dev, Corp 64–88%, not saturated) before adoption.
+- **Job CH** (frozen `ce`, chained after CG): Corp side vs `:s1ref` on corp-hard, 300 paired seeds 530000–530299. Arms: RC38, RC38 − `:potential-breakers`, RC38 − `:etr-protect`, RC36.
