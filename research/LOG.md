@@ -966,3 +966,16 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - New opt-in **`:credit-for-econ`** (`9105250`, both sides): when an economy card in hand (gain ≥ 3) is unaffordable now but reachable by next turn, click for a credit. It sits after the ice and economy rules and before draw and other operations.
   - Smoke: 16 games, 0 stalls.
 - **Job CK** (frozen `ck` = `9105250`, launched 13:16): `:credit-for-econ`, Corp vs `:s1ref` on corp-hard and Runner vs the RC33 champion on fresh decks, 300 paired seeds 550000–550299.
+- **RC39 Runner-only sets:** review-mrunner11 **3.90** (modern), review-frunner2 **3.10** (fresh).
+  - Fresh Runner notes: Zer0 self-damage discarding its own breakers (also frunner1 log-04), core damage taken through unbroken Fairchild, a full grip run into PE/Komainu, and HQ re-runs into a known Mausolus.
+- **RC39 gate summary:**
+  - Pre-registered gate (modern two-sided ≥ 3.5): **3.40 ✗**. Runner-only 3.90 ✓.
+  - Fresh two-sided 3.65; fresh Runner-only 3.10.
+  - **Per the pre-registered gate, RC39 does not get a held-out shot.**
+- **Proposed gate change** (the gate is my construct, not the T3 bar; reported, not quietly applied):
+  - The modern-deck gate has now mispredicted held-out three times: RC32 3.65 → 3.00, RC36 3.70 → 3.40, RC38 3.68 → 3.30.
+  - The fresh-deck pool predicted RC38's held-out within 0.05 (3.30 vs 3.25). Its decks were neither tuned on nor mined during the modern phase, like the held-out decks.
+  - **New gate from RC40:** fresh two-sided pool over ≥ 4 sets (40 candidate games) ≥ 3.5, and fresh Runner-only ≥ 3.2. The modern gate is still reported.
+  - The fresh decks become a mining pool too, so their predictive value will erode. Fresh-2 decks (other Classique/Worlds lists, unused) will replace them for the gate after one round.
+  - Undo: revert to the modern gate.
+- **Next:** CK (`:credit-for-econ`) ends around 15:45. Then RC40 = RC39 (+ `:credit-for-econ` if not negative), with 4 fresh two-sided sets + 1 fresh Runner-only set on new seeds. K40 only if the fresh pool is ≥ 3.5.

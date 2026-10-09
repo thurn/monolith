@@ -1,0 +1,436 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 21
+
+Corp takes a mulligan.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp is ending their turn 1 with 10 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Ika.
+[!] Ika - [Erratum] Program: Icebreaker - Killer - Trojan
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp pays 0 credits to rez Spin Doctor in Server 1.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 11 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 10 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 11 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 16 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 22 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 5 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp uses Spin Doctor to shuffle Hansei Review and Hansei Review into R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp is ending their turn 5 with 18 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 22 credits and 6 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 5 credits to install Engolo.
+Runner spends click and pays 1 credits to play Into the Depths.
+Runner uses Into the Depths to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 19 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 18 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp pays 0 credits to rez Spin Doctor in Server 3.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click and pays 0 credits to install ice protecting Server 3.
+Corp is ending their turn 6 with 18 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 19 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 3 credits to rez Anemone protecting Server 2 at position 0.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Apocalypse and Stargate due to net damage.
+Runner encounters Anemone protecting Server 2 at position 0.
+Runner pays 2 credits to use Engolo to make Anemone gain Code Gate.
+Runner pays 1 credits to use Engolo to break all 1 subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses NGO Front from Server 2.
+Runner pays 1 credits to trash NGO Front from Server 2.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 15 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp uses Spin Doctor to shuffle Hedge Fund and NGO Front into R&D.
+Corp spends click to install a card in the root of Server 2.
+Corp pays 0 credits to rez Spin Doctor in Server 2.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click to install a card in the root of Server 3.
+Corp pays 2 credits to rez Regolith Mining License in Server 3.
+Corp is ending their turn 7 with 13 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 7 with 16 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 1.
+Corp pays 3 credits to rez Anemone protecting Server 3 at position 1.
+Corp trashes 1 card from HQ to use Anemone to do 2 net damage.
+Corp trashes Apocalypse and Creative Commission due to net damage.
+Runner encounters Anemone protecting Server 3 at position 1.
+Runner pays 2 credits to use Engolo to make Anemone gain Code Gate.
+Runner pays 1 credits to use Engolo to break all 1 subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 3 at position 0.
+Runner passes ice protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Regolith Mining License from Server 3.
+Runner pays 3 credits to trash Regolith Mining License from Server 3.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to play Deuces Wild.
+Runner uses Deuces Wild to gain 3 credits.
+Runner uses Deuces Wild to draw 2 cards.
+Runner is ending their turn 7 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 10 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 3.
+Corp uses Spin Doctor to shuffle NGO Front and Rashida Jaheem into R&D.
+Corp pays 2 credits to rez Regolith Mining License in Server 3.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp is ending their turn 8 with 11 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 8 with 11 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Into the Depths.
+Runner uses Into the Depths to make a run on Server 3.
+Runner approaches Anemone protecting Server 3 at position 1.
+Runner encounters Anemone protecting Server 3 at position 1.
+Runner pays 2 credits to use Engolo to make Anemone gain Code Gate.
+Runner pays 1 credits to use Engolo to break all 1 subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 3 at position 0.
+Runner passes ice protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner uses Into the Depths to gain 4 credits.
+Runner uses Into the Depths to install a program from the stack.
+Runner uses Into the Depths to install Engolo from the stack.
+Runner pays 5 credits to use Into the Depths to install Engolo from the Stack.
+Runner breaches Server 3.
+Runner accesses Regolith Mining License from Server 3.
+Runner pays 3 credits to trash Regolith Mining License from Server 3.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 11 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 9 with 12 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 9 with 6 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches Anemone protecting Server 2 at position 0.
+Runner encounters Anemone protecting Server 2 at position 0.
+Runner pays 2 credits to use Engolo to make Anemone gain Code Gate.
+Runner pays 1 credits to use Engolo to break all 1 subroutines on Anemone.
+Runner has no further action.
+Runner passes Anemone protecting Server 2 at position 0.
+Runner will continue the run.
+Corp pays 0 credits to rez Bio Vault in Server 2.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Bio Vault from Server 2.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 12 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to install ice protecting Server 2.
+Corp is ending their turn 10 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 10 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 9 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 13 credits and 5 cards in the grip.
+[hr]
+Runner uses Lat: Ethical Freelancer to draw 1 card.
+Corp started their turn 12 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 12 with 16 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 13 credits and 6 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 12 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 16 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Longevity Serum and gains 2 agenda points.
+Corp uses Longevity Serum to trash 6 cards from HQ.
+Corp uses Longevity Serum to shuffle 3 unseen cards into R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 13 with 15 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 13 with 17 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 22 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 15 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to install ice protecting HQ.
+Corp is ending their turn 14 with 13 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 14 with 22 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 26 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 13 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp pays 2 credits to rez Regolith Mining License in Server 2.
+Corp spends click and pays 2 credits to play Divert Power.
+Corp uses Divert Power to derez Anemone protecting Server 2 at position 0, Anemone protecting Server 3 at position 1, Bio Vault in Server 2, Regolith Mining License in Server 2.
+Corp pays 0 credits to use Divert Power to rez Anansi protecting HQ at position 2 (paying 12 credits less).
+Corp pays 2 credits to rez Regolith Mining License in Server 2.
+Corp is ending their turn 15 with 12 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 15 with 26 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 30 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 12 credits and 0 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click to use Regolith Mining License to gain 3 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp spends click to install a card in the root of Server 3.
+Corp is ending their turn 16 with 16 credits and 1 card in HQ.
+[hr]
+Runner started their turn 16 with 30 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 34 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 16 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp pays 0 credits to rez Bio Vault in Server 2.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp is ending their turn 17 with 15 credits and 1 card in HQ.
+[hr]
+Runner started their turn 17 with 34 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 38 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 15 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Obokata Protocol and gains 3 agenda points.
+Corp is ending their turn 18 with 12 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 18 with 38 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 18 with 42 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 12 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 4.
+Corp is ending their turn 19 with 16 credits and 1 card in HQ.
+[hr]
+Runner started their turn 19 with 42 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 19 with 46 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 20 with 16 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Subliminal Messaging.
+Corp uses Subliminal Messaging to gain 1 credits.
+Corp uses Subliminal Messaging to gain click.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp is ending their turn 20 with 15 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 20 with 46 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 20 with 50 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 21 with 15 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Subliminal Messaging to reveal and add itself to HQ.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Obokata Protocol and gains 3 agenda points.
+Corp wins the game.
