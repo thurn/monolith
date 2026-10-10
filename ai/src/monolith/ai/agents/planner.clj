@@ -22,7 +22,10 @@
 (defn- s1-choose
   "S1's choice for whoever must act in the sim."
   [sm d actions weights decks rng]
-  (let [env {:side (:side d) :decision d :actions actions :obs (sim/obs sm (:side d))
+  (let [weights (if (and (:opp-passive weights) (= :runner (:side d)))
+                  (update weights :min-run-utility #(+ (or % 0.0) 10.0))
+                  weights)
+        env {:side (:side d) :decision d :actions actions :obs (sim/obs sm (:side d))
              :weights weights :mem (atom {}) :decks decks :rng rng}
         [_ a] (s1/decide env)]
     (or a (first actions))))
@@ -416,7 +419,17 @@
   h/Agent
   (choose [_ ctx]
     (let [{:keys [actions decision obs decks ^java.util.Random rng budget-ms]} ctx
-          o @obs]
+          o @obs
+          ;; :opp-adapt n: after n Runner turns in a row without a run, the Corp models the Runner as passive
+          ;; (:opp-passive: S1 remote safety, the evaluator's agenda safety, rollout Runner runs only clear wins).
+          ;; Gate i1 log-11: three agendas held 15 turns against a credit-hoarding Runner that never ran.
+          weights (if-let [n (and (= side :corp) (:opp-adapt weights))]
+                    (let [t (:turn o) st @plan-state]
+                      (when (and t (> t 1) (not= t (:opp-turn st)))
+                        (swap! plan-state assoc :opp-turn t
+                               :opp-streak (if (empty? (get-in o [:runner :register-last-turn :made-run])) (inc (or (:opp-streak st) 0)) 0)))
+                      (if (>= (or (:opp-streak @plan-state) 0) n) (assoc weights :opp-passive true) weights))
+                    weights)]
       (if (or (not= :turn (:kind decision)) (= 1 (count actions)))
         ;; delegate prompts, runs, encounters, turn starts/ends to S1 (unless the plan chose this prompt)
         (let [{:keys [line made-turn]} @plan-state
@@ -439,7 +452,11 @@
               ;; beam search drops the half-advanced naked agenda before the score lands)
               follow (if (and follow (:follow-check weights) s1-margin)
                        (let [[r a] (s1/decide (assoc ctx :obs o :weights weights :mem (atom {})))]
-                         (if (and (#{:score :advance-to-score :credit-to-score :seamless :kill} r) a
+                         (if (and (or (#{:score :advance-to-score :credit-to-score :seamless :kill} r)
+                                      ;; with :agenda-strong, S1's agenda installs too (gate i1 log-11: plans made at the
+                                      ;; turn-start ability prompt never saw S1's install-agenda anchor)
+                                      (and (:agenda-strong weights) (#{:install-agenda :advance-for-next-turn} r)))
+                                  a
                                   (not= (action-key a) (action-key nxt)))
                            nil
                            follow))
@@ -456,6 +473,10 @@
                            ;; :score-margin: scoring now (or advancing to score now) is hard to override; rollouts
                            ;; let S1 score next turn, so delaying looks free to the plan (puzzle d-credit-then-advance)
                            (and (:score-margin weights) (#{:score :advance-to-score :credit-to-score :seamless} s1-rule)) (:score-margin weights)
+                           ;; :agenda-strong k: S1's agenda installs into a remote it judges safe (gate i1 log-11: three
+                           ;; SDS Drone Deployments held in HQ for 15 turns at 15-30 credits; S1 said install into an
+                           ;; empty 3-ice remote on 7 turns and the plan overrode it each time)
+                           (and (:agenda-strong weights) (#{:install-agenda :advance-for-next-turn} s1-rule)) (:agenda-strong weights)
                            (and s1-strong-margin (#{:protect-centrals :react-centrals :remove-tag :safety-draw :kill
                                                     :score :advance-to-score :seamless :dig-breakers :dig-ice} s1-rule))
                            s1-strong-margin

@@ -104,6 +104,8 @@
                 (srv/corp-server-safety obs k value 4)))
         u (if hidden? (- u 1.5) u)
         safe (if (<= u 0.0) 0.9 (/ 0.9 (+ 1.0 (/ u 4.0))))
+        ;; :opp-passive (planner :opp-adapt): a Runner that has stopped running is unlikely to start
+        safe (if (and (:opp-passive w) (seq (srv/ices obs k))) (max safe 0.75) safe)
         ;; a score that reaches 7 wins the game, a steal that reaches 7 loses it: worth far more
         ;; than the points (otherwise a Corp on 6 sits on agendas forever)
         win srv/winning-steal-value
