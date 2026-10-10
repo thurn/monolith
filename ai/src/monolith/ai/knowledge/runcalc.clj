@@ -195,13 +195,22 @@
     {:known true :rezzed (boolean (:rezzed c))
      :model (assoc (if (:rezzed c) (cards/ice-model c) (cards/printed-ice-model (:title c) remote?)) :cid (:cid c))}))
 
+(def ^:private barred?
+  (memoize (fn [title remote?]
+             (boolean (re-find (if remote? #"(?i)cannot interface with ice protecting a remote server"
+                                   #"(?i)cannot interface with ice protecting a central server")
+                               (str (:text (cards/printed title))))))))
+
 (defn evaluate
   "opts: :ices (observed ice vector, innermost first, as in state), :remote?, :breakers (models),
   :credits, :hand, :corp-credits, :pool {title count}, :value (credits-equivalent of success),
   :mode :expected|:worst, :rez-bonus, :toll, :w-damage, :w-tag, :w-program.
   Returns {:u utility :how first decision :success? ...}."
   [{:keys [ices remote? credits] :as opts}]
-  (let [entries (mapv #(ice-entry % remote?) (reverse ices))
+  (let [;; "cannot interface with ice protecting a remote (central) server" (Passport): no use there
+        ;; (CN seeds 550140, 550020: Enigma on a remote run into with Passport as the only decoder, 6-9 times)
+        opts (update opts :breakers (fn [bs] (vec (remove #(barred? (:title %) (boolean remote?)) bs))))
+        entries (mapv #(ice-entry % remote?) (reverse ices))
         ctx (merge {:w-damage 2.0 :w-tag 1.0 :w-program 0.0 :mode :expected :value 0.0} opts
                    {:ices entries :credits0 credits :corp-credits0 (:corp-credits opts 0)})
         st {:credits credits :damage 0 :corp-credits (:corp-credits opts 0) :tagged (:tagged opts 0) :link (:link opts)
