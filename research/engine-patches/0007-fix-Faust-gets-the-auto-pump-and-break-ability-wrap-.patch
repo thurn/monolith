@@ -1,0 +1,28 @@
+From 66ec54523119739a654ea1f66c57e0d4db9e40c5 Mon Sep 17 00:00:00 2001
+From: Derek Thurn <thurn@users.noreply.github.com>
+Date: Sun, 4 Oct 2026 08:15:31 -0700
+Subject: [PATCH 7/8] fix: Faust gets the auto-pump-and-break ability (wrap in
+ auto-icebreaker)
+
+---
+ src/clj/game/cards/programs.clj | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/src/clj/game/cards/programs.clj b/src/clj/game/cards/programs.clj
+index 85d61e259..9ec90d165 100644
+--- a/src/clj/game/cards/programs.clj
++++ b/src/clj/game/cards/programs.clj
+@@ -1438,8 +1438,8 @@
+                         card target)))}}}]})
+ 
+ (defcard "Faust"
+-  {:abilities [(break-sub [(->c :trash-from-hand 1)] 1)
+-               (strength-pump [(->c :trash-from-hand 1)] 2)]})
++  (auto-icebreaker {:abilities [(break-sub [(->c :trash-from-hand 1)] 1)
++                                (strength-pump [(->c :trash-from-hand 1)] 2)]}))
+ 
+ (defcard "Fawkes"
+   {:abilities [(break-sub 1 1 "Sentry")
+-- 
+2.43.0
+

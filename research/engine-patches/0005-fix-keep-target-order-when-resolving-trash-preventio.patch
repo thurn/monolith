@@ -1,0 +1,47 @@
+From 5ce8aa53aa9349bbc6e813987ad546cffcd5f1d0 Mon Sep 17 00:00:00 2001
+From: Derek Thurn <thurn@users.noreply.github.com>
+Date: Sat, 3 Oct 2026 20:40:21 -0700
+Subject: [PATCH 5/8] fix: keep target order when resolving trash prevention
+
+resolve-trash-prevention took its set/difference branch for every multi-card
+trash (`untrashable` is a lazy keep result, so always truthy). A set of cards
+iterates in identity-hash order because cards hold fns, so net damage and other
+multi-trashes put cards in the heap in a per-JVM order. Filter `targets` in
+order instead (distinct keeps the old de-duplication).
+
+engine-equiv on a baseline recorded with this fix: 0/500 diverged in two
+fresh-JVM checks (previously 84 and 95 final-state diffs on the same code).
+Upstream lein test: 3747 tests, 126219 assertions, 0 failures.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+---
+ src/clj/game/core/prevention.clj | 7 +++----
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+
+diff --git a/src/clj/game/core/prevention.clj b/src/clj/game/core/prevention.clj
+index a083cbf41..72cd751e4 100644
+--- a/src/clj/game/core/prevention.clj
++++ b/src/clj/game/core/prevention.clj
+@@ -1,6 +1,5 @@
+ (ns game.core.prevention
+   (:require
+-   [clojure.set :as set]
+    [clojure.string :as str]
+    [game.core.board :refer [all-active all-active-installed]]
+    [game.core.card :refer [get-card installed? resource? rezzed? same-card?]]
+@@ -301,9 +300,9 @@
+                              [% "cannot be trashed while there are other resources installed"]
+                              :else nil)
+                           targets)
+-        trashable (if untrashable
+-                    (vec (set/difference (set targets) (set (map first untrashable))))
+-                    (vec targets))
++        ;; `untrashable` is a lazy seq (always truthy), and a set of cards iterates in
++        ;; identity-hash order (cards hold fns), so filter instead to keep `targets` order.
++        trashable (into [] (comp (remove (set (map first untrashable))) (distinct)) targets)
+         untrashable (mapv (fn [[c reason]] {:card c :destination :discard :reason reason}) untrashable)
+         trashable   (mapv (fn [c] {:card c :destination :discard}) trashable)]
+     (doseq [{:keys [card reason]} untrashable]
+-- 
+2.43.0
+

@@ -1,0 +1,663 @@
+From 7463dd9fd57956e6fdc02545f62d4dbd08aa7813 Mon Sep 17 00:00:00 2001
+From: Derek Thurn <derek@fake.email>
+Date: Sat, 3 Oct 2026 08:22:36 -0700
+Subject: [PATCH 1/8] feat: seedable per-game RNG and deterministic ids via
+ game.rng dynamic vars
+
+---
+ src/clj/game/cards/agendas.clj    |  7 +++--
+ src/clj/game/cards/assets.clj     |  5 +--
+ src/clj/game/cards/events.clj     | 13 ++++----
+ src/clj/game/cards/hardware.clj   |  7 +++--
+ src/clj/game/cards/identities.clj |  3 +-
+ src/clj/game/cards/operations.clj |  7 +++--
+ src/clj/game/cards/programs.clj   |  3 +-
+ src/clj/game/cards/resources.clj  |  9 +++---
+ src/clj/game/core/access.clj      |  3 +-
+ src/clj/game/core/commands.clj    |  5 +--
+ src/clj/game/core/costs.clj       |  5 +--
+ src/clj/game/core/damage.clj      |  3 +-
+ src/clj/game/core/effects.clj     |  6 ++--
+ src/clj/game/core/engine.clj      |  5 +--
+ src/clj/game/core/mark.clj        |  3 +-
+ src/clj/game/core/moving.clj      |  3 +-
+ src/clj/game/core/prompts.clj     |  5 +--
+ src/clj/game/core/shuffling.clj   |  5 ++-
+ src/clj/game/core/toasts.clj      |  5 +--
+ src/clj/game/utils.cljc           |  5 +--
+ src/cljc/game/rng.cljc            | 51 +++++++++++++++++++++++++++++++
+ 21 files changed, 113 insertions(+), 45 deletions(-)
+ create mode 100644 src/cljc/game/rng.cljc
+
+diff --git a/src/clj/game/cards/agendas.clj b/src/clj/game/cards/agendas.clj
+index b69e73a70..3a8c24365 100644
+--- a/src/clj/game/cards/agendas.clj
++++ b/src/clj/game/cards/agendas.clj
+@@ -1,5 +1,6 @@
+ (ns game.cards.agendas
+   (:require
++[game.rng :as rng]
+    [clojure.set :as set]
+    [clojure.string :as str]
+    [game.core.access :refer [steal-cost-bonus]]
+@@ -502,7 +503,7 @@
+       :effect (effect (if (pos? target)
+                      (wait-for
+                        (pay state :corp (make-eid state eid) card (->c :credit target))
+-                       (let [from (take target (shuffle (:hand runner)))]
++                       (let [from (take target (rng/shuffle (:hand runner)))]
+                          (doseq [c from]
+                            (move state :runner c :deck))
+                          (system-msg state side (str "uses " (:title card) " to pay " target
+@@ -1736,7 +1737,7 @@
+ (defcard "Personality Profiles"
+   (let [pp {:req (req (pos? (count (:hand runner))))
+             :async true
+-            :effect (effect (let [c (first (shuffle (:hand runner)))]
++            :effect (effect (let [c (first (rng/shuffle (:hand runner)))]
+                            (system-msg state side (str "uses " (:title card) " to force the Runner"
+                                                        " to trash " (:title c)
+                                                        " from the grip at random"))
+@@ -2051,7 +2052,7 @@
+                                   (wait-for (draw state :corp n)
+                                             ; if corp chooses more cards than runner's hand, don't shuffle runner hand back into Stack
+                                             (if (<= n (count (:hand runner)))
+-                                              (do (doseq [r (take n (shuffle (:hand runner)))] (move state :runner r :deck))
++                                              (do (doseq [r (take n (rng/shuffle (:hand runner)))] (move state :runner r :deck))
+                                                   (queue-event state :runner-hand-changed?)
+                                                   (checkpoint state side eid))
+                                               (effect-completed state side eid))))
+diff --git a/src/clj/game/cards/assets.clj b/src/clj/game/cards/assets.clj
+index f78189fe3..9ea78a05a 100644
+--- a/src/clj/game/cards/assets.clj
++++ b/src/clj/game/cards/assets.clj
+@@ -1,5 +1,6 @@
+ (ns game.cards.assets
+   (:require
++[game.rng :as rng]
+    [clojure.pprint :as pprint]
+    [clojure.set :as set]
+    [clojure.string :as str]
+@@ -190,7 +191,7 @@
+                              :effect (effect (if (pos? (quot target 2))
+                                             (let [prevented (quot target 2)
+                                                   unprevented (- (count (:hand corp)) prevented)]
+-                                              (doseq [c (take unprevented (shuffle (:hand corp)))]
++                                              (doseq [c (take unprevented (rng/shuffle (:hand corp)))]
+                                                 (move state :corp c :deck))
+                                               (when (pos? unprevented)
+                                                 (shuffle! state :corp :deck))
+@@ -3348,7 +3349,7 @@
+                :effect (effect (wait-for
+                               (lose-credits state :corp 2)
+                               (move state side card :destroyed)
+-                              (let [trash-target (first (shuffle (get-in @state [:corp :hand])))]
++                              (let [trash-target (first (rng/shuffle (get-in @state [:corp :hand])))]
+                                 (if trash-target
+                                   (trash state :corp eid trash-target {:cause-card card})
+                                   (effect-completed state side eid)))))}})
+diff --git a/src/clj/game/cards/events.clj b/src/clj/game/cards/events.clj
+index 5816677a0..048d2a27f 100644
+--- a/src/clj/game/cards/events.clj
++++ b/src/clj/game/cards/events.clj
+@@ -1,5 +1,6 @@
+ (ns game.cards.events
+   (:require
++[game.rng :as rng]
+    [clojure.set :as set]
+    [clojure.string :as str]
+    [game.core.access :refer [access-card breach-server get-only-card-to-access
+@@ -556,7 +557,7 @@
+                  {:req (req (<= 1 (count (:hand corp))))
+                   :async true
+                   :effect (effect
+-                            (let [chosen-cards (take 3 (shuffle (:hand corp)))]
++                            (let [chosen-cards (take 3 (rng/shuffle (:hand corp)))]
+                               (wait-for
+                                 (reveal-loud state side card nil chosen-cards)
+                                 (continue-ability
+@@ -1431,7 +1432,7 @@
+                         "Operation" :trash-all-operations-by-type
+                         "Upgrade" :trash-all-upgrades-by-type))
+                 :async true
+-                :effect (effect (let [cards-to-reveal (take 2 (shuffle (:hand corp)))
++                :effect (effect (let [cards-to-reveal (take 2 (rng/shuffle (:hand corp)))
+                                    cards-to-trash (filter #(is-type? % target) cards-to-reveal)
+                                    credits (* 4 (count cards-to-trash))]
+                                (wait-for
+@@ -1942,7 +1943,7 @@
+                        :effect/count 5})
+                 :effect (effect (doseq [c targets]
+                                (move state side c :hand))
+-                             (trash-cards state :corp eid (take 5 (shuffle (:hand (:corp @state))))
++                             (trash-cards state :corp eid (take 5 (rng/shuffle (:hand (:corp @state))))
+                                           {:cause-card card}))}})]})
+ 
+ (defcard "Government Investigations"
+@@ -2249,8 +2250,8 @@
+                      :max (effect (dec (count (:hand corp))))}
+            :effect (effect (continue-ability
+                           state :runner
+-                             (which-pile (shuffle targets)
+-                                         (shuffle (vec (set/difference
++                             (which-pile (rng/shuffle targets)
++                                         (rng/shuffle (vec (set/difference
+                                                          (set (:hand corp)) (set targets)))))
+                              card nil))}]
+       {:makes-run true
+@@ -4730,7 +4731,7 @@
+                 :effect (effect (let [n (str->int target)]
+                                (wait-for [{:keys [msg]} (pay state :runner (make-eid state eid) card (->c :click n))]
+                                          (system-msg state :runner msg)
+-                                         (trash-cards state :corp eid (take n (shuffle (:hand corp))) {:cause-card card}))))}})]})
++                                         (trash-cards state :corp eid (take n (rng/shuffle (:hand corp))) {:cause-card card}))))}})]})
+ 
+ (defcard "Watch the World Burn"
+   (letfn [(rfg-card-event [burned-card]
+diff --git a/src/clj/game/cards/hardware.clj b/src/clj/game/cards/hardware.clj
+index 62f86c7d9..1cc22d887 100644
+--- a/src/clj/game/cards/hardware.clj
++++ b/src/clj/game/cards/hardware.clj
+@@ -1,5 +1,6 @@
+ (ns game.cards.hardware
+   (:require
++[game.rng :as rng]
+    [clojure.set :as set]
+    [game.core.access :refer [access-bonus access-card access-n-cards breach-server
+                              get-only-card-to-access turn-archives-faceup]]
+@@ -780,7 +781,7 @@
+                                         (seq (:hand corp)))))
+                           :waiting-prompt true
+                           :prompt "Reveal and host a card from HQ (at random)"
+-                          :yes-ability {:effect (effect (let [target-card (first (shuffle (:hand corp)))]
++                          :yes-ability {:effect (effect (let [target-card (first (rng/shuffle (:hand corp)))]
+                                                        (system-msg state side
+                                                                    (str "uses Detente to reveal and host "
+                                                                         (:title target-card)
+@@ -1588,7 +1589,7 @@
+                             (not (in-discard? (:accessed-card context)))
+                             (not (in-scored? (:accessed-card context))))
+              :once :per-turn
+-             :effect (effect (let [card-to-trash (first (shuffle (:hand corp)))
++             :effect (effect (let [card-to-trash (first (rng/shuffle (:hand corp)))
+                                 card-seen? (same-card? (:accessed-card context) card-to-trash)
+                                 card-to-trash (if card-seen? (assoc card-to-trash :seen true)
+                                                   card-to-trash)]
+@@ -2152,7 +2153,7 @@
+                       (link+ 1)]
+    :events [{:event :jack-out
+              :async true
+-             :effect (effect (let [card (first (shuffle (:hand corp)))]
++             :effect (effect (let [card (first (rng/shuffle (:hand corp)))]
+                             (system-msg state :runner (str  "force the Corp to reveal " (:title card) " from HQ"))
+                             (reveal state :corp eid card)))}]})
+ 
+diff --git a/src/clj/game/cards/identities.clj b/src/clj/game/cards/identities.clj
+index 519e85d3e..7142bc145 100644
+--- a/src/clj/game/cards/identities.clj
++++ b/src/clj/game/cards/identities.clj
+@@ -1,5 +1,6 @@
+ (ns game.cards.identities
+   (:require
++[game.rng :as rng]
+    [game.core.access :refer [access-bonus access-cost-bonus access-non-agenda]]
+    [game.core.bad-publicity :refer [gain-bad-publicity]]
+    [game.core.board :refer [all-active-installed all-installed card->server
+@@ -1529,7 +1530,7 @@
+                :effect (effect (update!
+                                  state side (assoc card
+                                         :face :front
+-                                        :melies-target (first (shuffle ["HQ" "R&D" "Archives"]))))
++                                        :melies-target (first (rng/shuffle ["HQ" "R&D" "Archives"]))))
+                                (system-msg state side "reveals that the three hidden faces of Méliès U: Only the Brightest are: Tenure Floors: Méliès U, Subsurface Labs: Méliès U, and Disposal Grounds: Méliès U"))}
+               ;; When your turn ends, you secretly choose a server
+               {:event :corp-turn-ends
+diff --git a/src/clj/game/cards/operations.clj b/src/clj/game/cards/operations.clj
+index 0c0a5bd98..cc89c8899 100644
+--- a/src/clj/game/cards/operations.clj
++++ b/src/clj/game/cards/operations.clj
+@@ -1,5 +1,6 @@
+ (ns game.cards.operations
+   (:require
++[game.rng :as rng]
+    [clojure.set :as set]
+    [game.core.access :refer [access-card steal-cost-bonus]]
+    [game.core.actions :refer [advance score]]
+@@ -525,7 +526,7 @@
+           {:cost [(->c :credit 2)]
+            :req (req (seq (:hand runner)))
+            :async true
+-           :effect (effect (let [target-card (first (shuffle (:hand runner)))]
++           :effect (effect (let [target-card (first (rng/shuffle (:hand runner)))]
+                           (wait-for
+                             (reveal-loud state side card {:and-then " and shuffle it into the Stack"} target-card)
+                             (move state :runner target-card :deck)
+@@ -536,10 +537,10 @@
+       :req (req (or (last-turn? state :runner :trashed-card)
+                     (last-turn? state :runner :stole-agenda)))
+       :effect (effect
+-                (let [chosen-cards (take 2 (shuffle (:hand runner)))]
++                (let [chosen-cards (take 2 (rng/shuffle (:hand runner)))]
+                   (wait-for
+                     (reveal-loud state side card {:and-then " and place [them] on the top of the stack (in a random order)"} chosen-cards)
+-                    (doseq [c (shuffle chosen-cards)]
++                    (doseq [c (rng/shuffle chosen-cards)]
+                       (move state :runner c :deck {:front true}))
+                     (continue-ability
+                       state side
+diff --git a/src/clj/game/cards/programs.clj b/src/clj/game/cards/programs.clj
+index 97a09d644..85d61e259 100644
+--- a/src/clj/game/cards/programs.clj
++++ b/src/clj/game/cards/programs.clj
+@@ -1,5 +1,6 @@
+ (ns game.cards.programs
+   (:require
++[game.rng :as rng]
+    [game.core.access :refer [access-bonus max-access turn-archives-faceup]]
+    [game.core.board :refer [all-active all-active-installed all-installed all-installed-runner-type
+                             card->server server->zone]]
+@@ -1714,7 +1715,7 @@
+              :async true
+              :effect (effect (wait-for
+                             (trash-cards state :corp (make-eid state eid)
+-                                         (take 2 (shuffle (:hand corp))) {:cause-card card})
++                                         (take 2 (rng/shuffle (:hand corp))) {:cause-card card})
+                             (trash state :runner eid card {:cause :purge :cause-card card})))}]})
+ 
+ (defcard "Hantu"
+diff --git a/src/clj/game/cards/resources.clj b/src/clj/game/cards/resources.clj
+index f9643a377..5e61824f9 100644
+--- a/src/clj/game/cards/resources.clj
++++ b/src/clj/game/cards/resources.clj
+@@ -1,5 +1,6 @@
+ (ns game.cards.resources
+   (:require
++[game.rng :as rng]
+    [clojure.string :as str]
+    [game.core.access :refer [access-bonus access-n-cards breach-server get-only-card-to-access steal
+                              num-cards-to-access steal-cost-bonus]]
+@@ -833,7 +834,7 @@
+                 :msg (msg "trash " (quantify (min (get-counters card :power) (count (:hand corp))) "card")
+                           " from HQ")
+                 :effect (effect (trash-cards state side eid (take (min (get-counters card :power) (count (:hand corp)))
+-                                                       (shuffle (:hand corp))) {:cause-card card}))}]})
++                                                       (rng/shuffle (:hand corp))) {:cause-card card}))}]})
+ 
+ (defcard "Climactic Showdown"
+   (letfn [(iced-servers [state side eid card]
+@@ -1417,7 +1418,7 @@
+   {:events [{:event :successful-run
+              :silent true
+              :async true
+-             :effect (effect (let [target (first (shuffle (:hand corp)))]
++             :effect (effect (let [target (first (rng/shuffle (:hand corp)))]
+                             (system-msg state :runner (str "uses " (:title card) " to force the Corp to reveal " (:title target) " from HQ"))
+                             (reveal state :corp eid target)))
+              :req (req (genetics-trigger? state side :successful-run))}]})
+@@ -2571,7 +2572,7 @@
+                 :change-in-game-state {:req (req (seq (:hand corp)))}
+                 :msg "force the Corp to trash 2 random cards from HQ"
+                 :async true
+-                :effect (effect (trash-cards state :corp eid (take 2 (shuffle (:hand corp))) {:cause-card card}))}]})
++                :effect (effect (trash-cards state :corp eid (take 2 (rng/shuffle (:hand corp))) {:cause-card card}))}]})
+ 
+ (defcard "Open Market"
+   (let [ability {:once :per-turn
+@@ -4013,7 +4014,7 @@
+ 
+ (defcard "Utopia Shard"
+   (shard-constructor "Utopia Shard" :hq "force the Corp to discard 2 cards from HQ at random"
+-                     (effect (trash-cards state :corp eid (take 2 (shuffle (:hand corp))) {:cause-card card}))))
++                     (effect (trash-cards state :corp eid (take 2 (rng/shuffle (:hand corp))) {:cause-card card}))))
+ 
+ (defcard "Valentina Ferreira Carvalho"
+   {:on-install {:prompt "Choose one"
+diff --git a/src/clj/game/core/access.clj b/src/clj/game/core/access.clj
+index 6830041d8..d49e686e0 100644
+--- a/src/clj/game/core/access.clj
++++ b/src/clj/game/core/access.clj
+@@ -1,5 +1,6 @@
+ (ns game.core.access
+   (:require
++   [game.rng :as rng]
+     [clojure.set :as clj-set]
+     [clojure.string :as string]
+     [game.core.agendas :refer [update-all-advancement-requirements update-all-agenda-points]]
+@@ -1140,7 +1141,7 @@
+                    nil nil))))
+ 
+         facedown-cards-fn
+-        (effect (let [accessed (first (shuffle (facedown-cards state already-accessed-fn)))
++        (effect (let [accessed (first (rng/shuffle (facedown-cards state already-accessed-fn)))
+                    already-accessed (conj already-accessed (:cid accessed))
+                    access-amount {:total-mod (access-bonus-count state side :total)
+                                   :chosen (inc chosen)}]
+diff --git a/src/clj/game/core/commands.clj b/src/clj/game/core/commands.clj
+index 72c5291cb..2c027ad02 100644
+--- a/src/clj/game/core/commands.clj
++++ b/src/clj/game/core/commands.clj
+@@ -1,5 +1,6 @@
+ (ns game.core.commands
+   (:require
++   [game.rng :as rng]
+    [cljc.java-time.instant :as inst]
+    [clojure.string :as string]
+    [game.core.actions :refer [score]]
+@@ -187,7 +188,7 @@
+ 
+ (defn command-roll [state side value]
+   (let [value (constrain-value value 1 1000)]
+-    (system-msg state side (str "rolls a " value " sided die and rolls a " (inc (rand-int value))))))
++    (system-msg state side (str "rolls a " value " sided die and rolls a " (inc (rng/rand-int value))))))
+ 
+ (defn command-set-mark
+   "Sets a central server as the mark for the turn"
+@@ -519,7 +520,7 @@
+                                                :choices {:card (fn [t] (same-side? (:side t) %2))}}
+                                               (make-card {:title "/disable-card command"}) nil)
+             "/discard"    #(toast %1 %2 "/discard number takes the format #n")
+-            "/discard-random" #(move %1 %2 (rand-nth (get-in @%1 [%2 :hand])) :discard)
++            "/discard-random" #(move %1 %2 (rng/rand-nth (get-in @%1 [%2 :hand])) :discard)
+             "/draw"       #(draw %1 %2 (make-eid %1) (constrain-value value 0 1000))
+             "/enable-card" #(resolve-ability %1 %2
+                                              {:prompt "Choose a card to enable"
+diff --git a/src/clj/game/core/costs.clj b/src/clj/game/core/costs.clj
+index df527ea76..09e878b2f 100644
+--- a/src/clj/game/core/costs.clj
++++ b/src/clj/game/core/costs.clj
+@@ -1,6 +1,7 @@
+ (ns game.core.costs
+   {:clj-kondo/ignore [:unused-binding]}
+   (:require
++   [game.rng :as rng]
+    [clojure.string :as str]
+    [game.core.bad-publicity :refer [bad-publicity-available gain-bad-publicity lose-bad-publicity]]
+    [game.core.board :refer [all-active all-active-installed all-installed all-installed-runner-type]]
+@@ -933,7 +934,7 @@
+   (<= 0 (- (count (get-in @state [side :hand])) (value cost))))
+ (defmethod handler :reveal-and-randomly-trash-from-hand
+   [cost state side eid card]
+-  (let [to-trash (map #(assoc % :seen true) (take (value cost) (shuffle (get-in @state [side :hand]))))
++  (let [to-trash (map #(assoc % :seen true) (take (value cost) (rng/shuffle (get-in @state [side :hand]))))
+         hand (if (= :corp side) "HQ" "the grip")]
+     (wait-for (reveal state side to-trash)
+               (wait-for (trash-cards state side to-trash
+@@ -1191,7 +1192,7 @@
+   [cost state side eid card]
+   (let [deck (if (= :corp side) "R&D" "the stack")
+         hand (get-in @state [side :hand])
+-        chosen (take (value cost) (shuffle hand))]
++        chosen (take (value cost) (rng/shuffle hand))]
+     (doseq [c chosen]
+       (move state side c :deck))
+     (complete-payment
+diff --git a/src/clj/game/core/damage.clj b/src/clj/game/core/damage.clj
+index 8dbf686d4..f70c8fe6a 100644
+--- a/src/clj/game/core/damage.clj
++++ b/src/clj/game/core/damage.clj
+@@ -1,5 +1,6 @@
+ (ns game.core.damage
+   (:require
++   [game.rng :as rng]
+     [game.core.card :refer [get-title]]
+     [game.core.eid :refer [complete-with-result effect-completed make-eid]]
+     [game.core.engine :refer [checkpoint queue-event trigger-event trigger-event-simult]]
+@@ -71,7 +72,7 @@
+                     chosen-cards (seq (get-chosen-damage state))
+                     chosen-cids (into #{} (map :cid chosen-cards))
+                     leftovers (remove #(contains? chosen-cids (:cid %)) hand)
+-                    cards-trashed (->> (shuffle leftovers)
++                    cards-trashed (->> (rng/shuffle leftovers)
+                                        (take (- n (count chosen-cards)))
+                                        (concat chosen-cards))]
+                 (when (= dmg-type :brain)
+diff --git a/src/clj/game/core/effects.clj b/src/clj/game/core/effects.clj
+index 6f8098887..bddffc602 100644
+--- a/src/clj/game/core/effects.clj
++++ b/src/clj/game/core/effects.clj
+@@ -1,5 +1,5 @@
+ (ns game.core.effects
+-  (:require [clj-uuid :as uuid]
++  (:require [game.rng :as rng] [clj-uuid :as uuid]
+             [game.core.card :refer [facedown? get-card runner?]]
+             [game.core.card-defs :refer [card-def]]
+             [game.core.eid :refer [make-eid]]
+@@ -139,7 +139,7 @@
+                         :static true
+                         :duration :while-active
+                         :card card
+-                        :uuid (uuid/v1)))]
++                        :uuid (rng/uuid-v1)))]
+       (swap! state update :effects
+              #(apply conj (into [] %) abilities))
+       (update-disabled-cards state)
+@@ -163,7 +163,7 @@
+                   :duration (:duration ability true)
+                   :card card
+                   :lingering true
+-                  :uuid (uuid/v1))]
++                  :uuid (rng/uuid-v1))]
+     (swap! state update :effects conj ability)
+     (update-disabled-cards state)
+     ability))
+diff --git a/src/clj/game/core/engine.clj b/src/clj/game/core/engine.clj
+index 316c2c81b..85570d63b 100644
+--- a/src/clj/game/core/engine.clj
++++ b/src/clj/game/core/engine.clj
+@@ -1,5 +1,6 @@
+ (ns game.core.engine
+   (:require
++[game.rng :as rng]
+    [clj-uuid :as uuid]
+    [clojure.string :as string]
+    [com.noahbogart.cond-plus :refer [cond+]]
+@@ -504,7 +505,7 @@
+                   {:event (:event ability)
+                    :ability (dissoc ability :event)
+                    :card card
+-                   :uuid (uuid/v1)})
++                   :uuid (rng/uuid-v1)})
+                 (into []))]
+        (when (seq abilities)
+          (swap! state update :suppress #(apply conj % abilities)))
+@@ -565,7 +566,7 @@
+    :once-per-instance (or (:once-per-instance ability) false)
+    :ability (dissoc ability :event :duration :condition)
+    :card card
+-   :uuid (uuid/v1)})
++   :uuid (rng/uuid-v1)})
+ 
+ (defn register-events
+   "Registers each event handler defined in the given card definition."
+diff --git a/src/clj/game/core/mark.clj b/src/clj/game/core/mark.clj
+index 14b978c6a..faf57e3cb 100644
+--- a/src/clj/game/core/mark.clj
++++ b/src/clj/game/core/mark.clj
+@@ -1,5 +1,6 @@
+ (ns game.core.mark
+   (:require
++   [game.rng :as rng]
+    [game.core.card :refer [get-card]]
+    [game.core.engine :refer [trigger-event register-events]]
+    [game.core.say :refer [system-msg]]
+@@ -18,7 +19,7 @@
+ 
+ (defn identify-mark
+   [state]
+-  (let [new-mark (rand-nth [:hq :rd :archives])]
++  (let [new-mark (rng/rand-nth [:hq :rd :archives])]
+     (set-mark state new-mark)
+     (system-msg state :runner (str "identifies [their] mark to be " (central->name new-mark)))))
+ 
+diff --git a/src/clj/game/core/moving.clj b/src/clj/game/core/moving.clj
+index e1533ab27..1e5ad6b32 100644
+--- a/src/clj/game/core/moving.clj
++++ b/src/clj/game/core/moving.clj
+@@ -1,5 +1,6 @@
+ (ns game.core.moving
+   (:require
++   [game.rng :as rng]
+     [clojure.string :as string]
+     [game.core.agendas :refer [update-all-agenda-points]]
+     [game.core.board :refer [all-active-installed]]
+@@ -488,7 +489,7 @@
+   "Force the discard of n cards from the hand by trashing them"
+   ([state from-side eid to-side n] (discard-from-hand state from-side eid to-side n nil))
+   ([state from-side eid to-side n args]
+-   (let [cards (take n (shuffle (get-in @state [to-side :hand])))]
++   (let [cards (take n (rng/shuffle (get-in @state [to-side :hand])))]
+      (trash-cards state from-side eid cards (assoc args :unpreventable true)))))
+ 
+ (defn swap-legal?
+diff --git a/src/clj/game/core/prompts.clj b/src/clj/game/core/prompts.clj
+index a09b696b4..a9f23716a 100644
+--- a/src/clj/game/core/prompts.clj
++++ b/src/clj/game/core/prompts.clj
+@@ -1,5 +1,6 @@
+ (ns game.core.prompts
+   (:require
++   [game.rng :as rng]
+    [clj-uuid :as uuid]
+    [game.core.board :refer [get-all-cards]]
+    [game.core.eid :refer [effect-completed make-eid]]
+@@ -19,7 +20,7 @@
+       []
+       (for [[idx choice] (map-indexed vector (keep identity choices))]
+         {:value choice
+-         :uuid (uuid/v4)
++         :uuid (rng/uuid-v4)
+          :idx idx}))))
+ 
+ (defn update-selectable
+@@ -83,7 +84,7 @@
+                   #(if (not= (:value %) dice-msg)
+                      (f %)
+                      (show-prompt state side card
+-                                  (str message " (Dice result: " (inc (rand-int 6)) ")")
++                                  (str message " (Dice result: " (inc (rng/rand-int 6)) ")")
+                                   other-choices f args))
+                   args))))
+ 
+diff --git a/src/clj/game/core/shuffling.clj b/src/clj/game/core/shuffling.clj
+index 3ce07122d..85bb309a5 100644
+--- a/src/clj/game/core/shuffling.clj
++++ b/src/clj/game/core/shuffling.clj
+@@ -1,5 +1,6 @@
+ (ns game.core.shuffling
+   (:require
++   [game.rng :as rng]
+    [clojure.string :as str]
+    [game.core.card :refer [corp? in-discard? get-card]]
+    [game.core.eid :refer [effect-completed]]
+@@ -30,9 +31,7 @@
+   ;; this should theoretically be invisible, since any random slice of the possible sets of deck orderings is also random,
+   ;; but it is "more correct" to do - anyone playing more than 170 cards can live with it - nbk, 2025
+   [^java.util.Collection c]
+-  (let [al (java.util.ArrayList. c)]
+-    (java.util.Collections/shuffle al rng)
+-    (clojure.lang.RT/vector (.toArray al))))
++  (rng/shuffle c rng))
+ 
+ (defn shuffle!
+   "Shuffles the vector in @state [side kw]."
+diff --git a/src/clj/game/core/toasts.clj b/src/clj/game/core/toasts.clj
+index ca6a9bb43..2428c4f24 100644
+--- a/src/clj/game/core/toasts.clj
++++ b/src/clj/game/core/toasts.clj
+@@ -1,4 +1,5 @@
+-(ns game.core.toasts)
++(ns game.core.toasts
++  (:require [game.rng :as rng]))
+ 
+ (defn toast
+   "Adds a message to toast with specified severity (default as a warning) to the toast message list.
+@@ -15,7 +16,7 @@
+    ;; Allows passing just the toast msg-type as the options parameter
+    (when message
+      ;; normal toast - add to list
+-     (swap! state update-in [side :toast] #(conj % {:msg message :type msg-type :options options :id (random-uuid)})))))
++     (swap! state update-in [side :toast] #(conj % {:msg message :type msg-type :options options :id (rng/uuid-v4)})))))
+ 
+ (defn ack-toast
+   ([state side {:keys [id]}]
+diff --git a/src/clj/game/utils.cljc b/src/clj/game/utils.cljc
+index 210721a06..afb29bbbc 100644
+--- a/src/clj/game/utils.cljc
++++ b/src/clj/game/utils.cljc
+@@ -3,13 +3,14 @@
+    [game.core.card :refer [get-title]]
+    [jinteki.cards :refer [all-cards]]
+    [clojure.string :as str]
++   [game.rng :as rng]
+    [cljc.java-time.instant :as inst]))
+ 
+ (defn make-cid []
+-  (str (random-uuid)))
++  (rng/cid))
+ 
+ (defn make-timestamp []
+-  (inst/now))
++  #?(:clj (rng/timestamp) :cljs (inst/now)))
+ 
+ (defn server-card
+   ([title] (server-card title true))
+diff --git a/src/cljc/game/rng.cljc b/src/cljc/game/rng.cljc
+new file mode 100644
+index 000000000..8c6d4fd19
+--- /dev/null
++++ b/src/cljc/game/rng.cljc
+@@ -0,0 +1,51 @@
++(ns game.rng
++  "Per-game seedable randomness and deterministic ids for headless AI play.
++  When `*rng*` / `*ids*` are unbound, every function keeps upstream behaviour."
++  (:refer-clojure :exclude [shuffle rand-int rand-nth])
++  #?(:clj (:require [clj-uuid :as uuid])))
++
++#?(:clj
++   (do
++     (def ^:dynamic ^java.util.Random *rng*
++       "A java.util.Random used for every game-logic random draw, or nil."
++       nil)
++
++     (def ^:dynamic *ids*
++       "An atom holding a long counter used for cids, uuids and timestamps, or nil."
++       nil)
++
++     (defn shuffle
++       ([coll] (shuffle coll nil))
++       ([coll ^java.util.Random fallback]
++        (if-let [r (or *rng* fallback)]
++          (let [al (java.util.ArrayList. ^java.util.Collection (or (seq coll) []))]
++            (java.util.Collections/shuffle al r)
++            (clojure.lang.RT/vector (.toArray al)))
++          (clojure.core/shuffle coll))))
++
++     (defn rand-int [n]
++       (if *rng* (.nextInt *rng* (int n)) (clojure.core/rand-int n)))
++
++     (defn rand-nth [coll]
++       (if *rng* (nth coll (rand-int (count coll))) (clojure.core/rand-nth coll)))
++
++     (defn- next-id ^long [] (swap! *ids* inc))
++
++     (defn cid []
++       (if *ids* (str "c" (next-id)) (str (random-uuid))))
++
++     (defn uuid-v4 []
++       (if *ids* (java.util.UUID. 0x4d4f4e4f (next-id)) (uuid/v4)))
++
++     (defn uuid-v1 []
++       (if *ids* (java.util.UUID. 0x4d4f4e50 (next-id)) (uuid/v1)))
++
++     (defn timestamp []
++       (if *ids* (java.time.Instant/ofEpochSecond 0 (next-id)) (java.time.Instant/now))))
++
++   :cljs
++   (do
++     (def shuffle clojure.core/shuffle)
++     (def rand-int clojure.core/rand-int)
++     (def rand-nth clojure.core/rand-nth)
++     (defn cid [] (str (random-uuid)))))
+-- 
+2.43.0
+

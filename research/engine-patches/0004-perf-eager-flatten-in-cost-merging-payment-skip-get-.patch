@@ -1,0 +1,97 @@
+From cf45e8b07482232f8dd2464607530c90c621b248 Mon Sep 17 00:00:00 2001
+From: Derek Thurn <derek@fake.email>
+Date: Sat, 3 Oct 2026 08:58:37 -0700
+Subject: [PATCH 4/8] perf: eager flatten in cost merging/payment; skip
+ get-card in unmodified subtype path
+
+Stage A random self-play, single thread warm: 304 -> 265 us/action (1.15x).
+engine-equiv unchanged (500/500 per-action identical; same 23 final-state notes).
+---
+ src/clj/game/core/engine.clj   | 2 +-
+ src/clj/game/core/payment.clj  | 3 ++-
+ src/clj/game/core/subtypes.clj | 4 ++--
+ src/cljc/game/rng.cljc         | 9 ++++++++-
+ 4 files changed, 13 insertions(+), 5 deletions(-)
+
+diff --git a/src/clj/game/core/engine.clj b/src/clj/game/core/engine.clj
+index 85570d63b..508d6731e 100644
+--- a/src/clj/game/core/engine.clj
++++ b/src/clj/game/core/engine.clj
+@@ -1331,7 +1331,7 @@
+ 
+ (defn pay
+   [state side eid card & costs]
+-  (let [costs (flatten costs)
++  (let [costs (rng/flatten costs)
+         costs (can-pay? state side eid card (:title card) costs)]
+     (when (some keyword? costs)
+       (throw (ex-info "Please convert to wrapped cost" {:args costs})))
+diff --git a/src/clj/game/core/payment.clj b/src/clj/game/core/payment.clj
+index 237e585b0..f938a49e5 100644
+--- a/src/clj/game/core/payment.clj
++++ b/src/clj/game/core/payment.clj
+@@ -1,5 +1,6 @@
+ (ns game.core.payment
+   (:require
++    [game.rng :as rng]
+     [clojure.string :as string]
+     [game.core.card :refer [ice?]]
+     [game.core.eid :refer [make-eid]]
+@@ -83,7 +84,7 @@
+ (defn merge-costs
+   "Combines disparate costs into a single cost per type."
+   [costs]
+-  (let [costs (if (sequential? costs) (flatten costs) [costs])
++  (let [costs (if (sequential? costs) (rng/flatten costs) [costs])
+         ;; no need to remove non-costs because only valid costs will have :cost/additional
+         {real false additional true} (group-by :cost/additional costs)
+         real (group-costs real)
+diff --git a/src/clj/game/core/subtypes.clj b/src/clj/game/core/subtypes.clj
+index 874a8f87e..7da9ecb90 100644
+--- a/src/clj/game/core/subtypes.clj
++++ b/src/clj/game/core/subtypes.clj
+@@ -29,12 +29,12 @@
+ (defn update-subtypes-for-card
+   ([state side card] (update-subtypes-for-card state side card true))
+   ([state _ card mods?]
+-  (let [card (get-card state card)
++  (let [card (if mods? (get-card state card) card)
+         old-subtypes (:subtypes card)
+         new-subtypes (subtypes-for-card state card mods?)
+         changed? (not= old-subtypes new-subtypes)]
+     (when changed?
+-      (update! state (to-keyword (:side card)) (assoc card :subtypes new-subtypes)))
++      (update! state (to-keyword (:side card)) (assoc (get-card state card) :subtypes new-subtypes)))
+     changed?)))
+ 
+ (defn update-all-subtypes
+diff --git a/src/cljc/game/rng.cljc b/src/cljc/game/rng.cljc
+index 462c87c57..9c1532cf2 100644
+--- a/src/cljc/game/rng.cljc
++++ b/src/cljc/game/rng.cljc
+@@ -1,7 +1,7 @@
+ (ns game.rng
+   "Per-game seedable randomness and deterministic ids for headless AI play.
+   When `*rng*` / `*ids*` are unbound, every function keeps upstream behaviour."
+-  (:refer-clojure :exclude [shuffle rand-int rand-nth])
++  (:refer-clojure :exclude [shuffle rand-int rand-nth flatten])
+   #?(:clj (:require [clj-uuid :as uuid])))
+ 
+ #?(:clj
+@@ -44,6 +44,13 @@
+      (defn uuid-v1 []
+        (if *ids* (java.util.UUID. 0x4d4f4e50 (next-id)) (uuid/v1)))
+ 
++     (defn flatten
++       "Eager equivalent of clojure.core/flatten for hot cost paths."
++       [x]
++       (if (sequential? x)
++         (persistent! ((fn step [acc y] (if (sequential? y) (reduce step acc y) (conj! acc y))) (transient []) x))
++         ()))
++
+      (defn timestamp []
+        (if *ids* (java.time.Instant/ofEpochSecond 0 (next-id)) (java.time.Instant/now))))
+ 
+-- 
+2.43.0
+

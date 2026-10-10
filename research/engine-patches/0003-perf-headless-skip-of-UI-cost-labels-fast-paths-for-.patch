@@ -1,0 +1,127 @@
+From c7bf43042de7fef87634c608c37f8c6db5ddc084 Mon Sep 17 00:00:00 2001
+From: Derek Thurn <derek@fake.email>
+Date: Sat, 3 Oct 2026 08:56:11 -0700
+Subject: [PATCH 3/8] perf: headless skip of UI cost labels; fast paths for
+ disabled-card and subtype scans
+
+Measured on Stage A random self-play (single thread, warm JIT): 490 -> 304 us/action (1.6x).
+engine-equiv: 500/500 games identical per-action; 23 final states differ only by a duplicate
+:breaker-strength-changed turn event (17) or heap ordering (6) from the skipped label pass.
+---
+ src/clj/game/core/checkpoint.clj |  3 ++-
+ src/clj/game/core/effects.clj    |  4 +++-
+ src/clj/game/core/subtypes.clj   | 30 +++++++++++++++++-------------
+ src/cljc/game/rng.cljc           |  4 ++++
+ 4 files changed, 26 insertions(+), 15 deletions(-)
+
+diff --git a/src/clj/game/core/checkpoint.clj b/src/clj/game/core/checkpoint.clj
+index a4214fc13..d29457685 100644
+--- a/src/clj/game/core/checkpoint.clj
++++ b/src/clj/game/core/checkpoint.clj
+@@ -1,5 +1,6 @@
+ (ns game.core.checkpoint
+   (:require
++   [game.rng :as rng]
+    [game.core.agendas :refer [update-all-advancement-requirements update-all-agenda-points]]
+    [game.core.actions :refer [generate-runnable-zones]]
+    [game.core.board :refer [get-remotes clear-empty-remotes]]
+@@ -17,7 +18,7 @@
+   (loop [i 0]
+     (let [changed [(update-all-ice state :corp)
+                    (update-all-icebreakers state :runner)
+-                   (update-all-card-labels state)
++                   (if rng/*headless* false (update-all-card-labels state))
+                    (update-all-advancement-requirements state)
+                    (update-all-agenda-points state)
+                    (update-link state)
+diff --git a/src/clj/game/core/effects.clj b/src/clj/game/core/effects.clj
+index bddffc602..f9562ea14 100644
+--- a/src/clj/game/core/effects.clj
++++ b/src/clj/game/core/effects.clj
+@@ -119,7 +119,9 @@
+   "Gets all cards currently disabled"
+   [state]
+   (let [all-cards (get-all-cards state)
+-        disabled-cards (filter #(or (is-disabled? state nil %)
++        ;; fast path: with no :disable-card effects only facedown runner cards are disabled
++        any-disable? (some #(= :disable-card (:type %)) (:effects @state))
++        disabled-cards (filter #(or (and any-disable? (is-disabled? state nil %))
+                                     (and (runner? %) (facedown? %)))
+                                all-cards)]
+     (into {} (map (juxt :cid identity)) disabled-cards)))
+diff --git a/src/clj/game/core/subtypes.clj b/src/clj/game/core/subtypes.clj
+index ebaddda4f..874a8f87e 100644
+--- a/src/clj/game/core/subtypes.clj
++++ b/src/clj/game/core/subtypes.clj
+@@ -7,11 +7,12 @@
+ 
+ (defn subtypes-for-card
+   "Creates a sorted list of subtypes for the card. Returns nil if given a counter or fake agenda."
+-  [state card]
++  ([state card] (subtypes-for-card state card true))
++  ([state card mods?]
+   (when (:title card)
+     (let [printed-subtypes (:subtypes (server-card (:title card)))
+-          gained-subtypes (flatten (get-effects state nil :gain-subtype card))
+-          lost-subtypes (flatten (get-effects state nil :lose-subtype card))
++          gained-subtypes (when mods? (flatten (get-effects state nil :gain-subtype card)))
++          lost-subtypes (when mods? (flatten (get-effects state nil :lose-subtype card)))
+           total-gained (frequencies (concat printed-subtypes gained-subtypes))
+           total-lost (frequencies lost-subtypes)
+           total (reduce
+@@ -23,24 +24,27 @@
+                         (dissoc acc k))))
+                   total-gained
+                   total-lost)]
+-      (into [] (sort (keys total))))))
++      (into [] (sort (keys total)))))))
+ 
+ (defn update-subtypes-for-card
+-  [state _ card]
++  ([state side card] (update-subtypes-for-card state side card true))
++  ([state _ card mods?]
+   (let [card (get-card state card)
+         old-subtypes (:subtypes card)
+-        new-subtypes (subtypes-for-card state card)
++        new-subtypes (subtypes-for-card state card mods?)
+         changed? (not= old-subtypes new-subtypes)]
+     (when changed?
+       (update! state (to-keyword (:side card)) (assoc card :subtypes new-subtypes)))
+-    changed?))
++    changed?)))
+ 
+ (defn update-all-subtypes
+   ([state] (update-all-subtypes state nil))
+   ([state _]
+-   (reduce
+-     (fn [changed? card]
+-       (or (update-subtypes-for-card state nil card)
+-           changed?))
+-     false
+-     (get-all-cards state))))
++   ;; fast path: skip the per-card effect scans when no subtype-changing effects exist
++   (let [mods? (some #(#{:gain-subtype :lose-subtype} (:type %)) (:effects @state))]
++     (reduce
++       (fn [changed? card]
++         (or (update-subtypes-for-card state nil card mods?)
++             changed?))
++       false
++       (get-all-cards state)))))
+diff --git a/src/cljc/game/rng.cljc b/src/cljc/game/rng.cljc
+index 8c6d4fd19..462c87c57 100644
+--- a/src/cljc/game/rng.cljc
++++ b/src/cljc/game/rng.cljc
+@@ -10,6 +10,10 @@
+        "A java.util.Random used for every game-logic random draw, or nil."
+        nil)
+ 
++     (def ^:dynamic *headless*
++       "When true, skip work that only feeds the web UI (ability cost labels)."
++       false)
++
+      (def ^:dynamic *ids*
+        "An atom holding a long counter used for cids, uuids and timestamps, or nil."
+        nil)
+-- 
+2.43.0
+

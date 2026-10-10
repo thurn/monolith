@@ -1,0 +1,103 @@
+From 75d01ec74ccae0cfd6d192824298730068902297 Mon Sep 17 00:00:00 2001
+From: Derek Thurn <derek@fake.email>
+Date: Sat, 3 Oct 2026 08:29:01 -0700
+Subject: [PATCH 2/8] fix: route remaining shuffles (hq access fn, deck
+ shuffles, archives) through game.rng
+
+---
+ src/clj/game/cards/hardware.clj   | 2 +-
+ src/clj/game/cards/identities.clj | 2 +-
+ src/clj/game/core/access.clj      | 2 +-
+ src/clj/game/core/moving.clj      | 2 +-
+ src/clj/game/core/player.clj      | 5 +++--
+ src/clj/game/core/shuffling.clj   | 2 +-
+ 6 files changed, 8 insertions(+), 7 deletions(-)
+
+diff --git a/src/clj/game/cards/hardware.clj b/src/clj/game/cards/hardware.clj
+index 1cc22d887..367f6db94 100644
+--- a/src/clj/game/cards/hardware.clj
++++ b/src/clj/game/cards/hardware.clj
+@@ -768,7 +768,7 @@
+                           :waiting-prompt true
+                           :yes-ability {:msg (msg "access 1 card from HQ")
+                                         :async true
+-                                        :effect (effect (access-card state :runner eid (-> corp :hand shuffle first)))}}}
++                                        :effect (effect (access-card state :runner eid (-> corp :hand rng/shuffle first)))}}}
+                         card nil))}]
+     {:static-abilities [(mu+ 1)]
+      :events [{:event :successful-run
+diff --git a/src/clj/game/cards/identities.clj b/src/clj/game/cards/identities.clj
+index 7142bc145..7d0269337 100644
+--- a/src/clj/game/cards/identities.clj
++++ b/src/clj/game/cards/identities.clj
+@@ -1135,7 +1135,7 @@
+                 :cost [(->c :click 1)]
+                 :label "Reveal a random card from the Grip"
+                 :async true
+-                :effect (effect (if-let [revealed-card (-> runner :hand shuffle first)]
++                :effect (effect (if-let [revealed-card (-> runner :hand rng/shuffle first)]
+                                (do (system-msg state side (str "uses " (:title card) " to reveal "
+                                                                (:title revealed-card) " from the Grip"))
+                                    (reveal state side eid revealed-card))
+diff --git a/src/clj/game/core/access.clj b/src/clj/game/core/access.clj
+index d49e686e0..c9ae245b4 100644
+--- a/src/clj/game/core/access.clj
++++ b/src/clj/game/core/access.clj
+@@ -1346,7 +1346,7 @@
+   (if (= :archives (get-server-type (first server)))
+     (let [discard (get-in @state [:corp :discard])
+           known   (->> discard (filter :seen) (mapv #(dissoc % :new)))
+-          unknown (->> discard (filter (complement :seen)) shuffle (mapv #(assoc % :seen true :new true)))]
++          unknown (->> discard (filter (complement :seen)) rng/shuffle (mapv #(assoc % :seen true :new true)))]
+       (swap! state assoc-in [:corp :discard] (concat known unknown))
+       (if (pos? (count unknown))
+         (trigger-event-simult state side eid :archives-flipped nil {:count (count unknown)})
+diff --git a/src/clj/game/core/moving.clj b/src/clj/game/core/moving.clj
+index 1e5ad6b32..95f78f57a 100644
+--- a/src/clj/game/core/moving.clj
++++ b/src/clj/game/core/moving.clj
+@@ -433,7 +433,7 @@
+                                   (:run @state))
+                          (swap! state assoc-in [:run :shuffled-during-access :rd] true))
+                        (swap! state update-in [:stats :corp :shuffle-count] (fnil + 0) 1)
+-                       (swap! state update-in [:corp :deck] shuffle)
++                       (swap! state update-in [:corp :deck] rng/shuffle)
+                        (trigger-event state side :corp-shuffle-deck))
+                      ;; TODO - used exclusively for hellion beta test
+                      (when (and (:access @state)
+diff --git a/src/clj/game/core/player.clj b/src/clj/game/core/player.clj
+index 7ba7f6eae..83a74ac16 100644
+--- a/src/clj/game/core/player.clj
++++ b/src/clj/game/core/player.clj
+@@ -1,4 +1,5 @@
+-(ns game.core.player)
++(ns game.core.player
++  (:require [game.rng :as rng]))
+ 
+ (defrecord HandSize
+   [base total])
+@@ -132,7 +133,7 @@
+      :hand-size (map->HandSize {:base 5 :total 5})
+      :agenda-point 0 :agenda-point-req 7
+      :rd-access-fn seq
+-     :hq-access-fn shuffle
++     :hq-access-fn rng/shuffle
+      :brain-damage 0
+      :keep false
+      :quote r-quote}))
+diff --git a/src/clj/game/core/shuffling.clj b/src/clj/game/core/shuffling.clj
+index 85bb309a5..a84b44c95 100644
+--- a/src/clj/game/core/shuffling.clj
++++ b/src/clj/game/core/shuffling.clj
+@@ -134,7 +134,7 @@
+ (defn shuffle-deck
+   "Shuffle R&D/Stack."
+   [state side {:keys [close]}]
+-  (swap! state update-in [side :deck] shuffle)
++  (swap! state update-in [side :deck] rng/shuffle)
+   (play-sfx state side "shuffle")
+   (if close
+     (do
+-- 
+2.43.0
+

@@ -1,0 +1,30 @@
+From f0626e3fdfe4381b2b40f4c53acd14c9eb412631 Mon Sep 17 00:00:00 2001
+From: Derek Thurn <thurn@users.noreply.github.com>
+Date: Sat, 10 Oct 2026 08:18:30 -0700
+Subject: [PATCH 8/8] fix: build added subroutines before reconciling so
+ Loki-copied subs keep their fired flag
+
+Claude-Session: https://claude.ai/code/session_01HrKPJfnbuaMhEZ8fdJYC28
+---
+ src/clj/game/core/ice.clj | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/src/clj/game/core/ice.clj b/src/clj/game/core/ice.clj
+index 99d385728..488f56467 100644
+--- a/src/clj/game/core/ice.clj
++++ b/src/clj/game/core/ice.clj
+@@ -391,7 +391,10 @@
+   "Updates the given ice's subroutines by checking the subroutines it should have from the state"
+   [state side ice]
+   (when-let [ice (get-card state ice)]
+-    (let [expected-subroutines (get-expected-subroutines state side ice)
++    ;; monolith: build added subroutines before comparing. Raw sub-effects (Loki copying Anansi) have no
++    ;; :label, never matched the built active subs, and were re-added each update with :fired cleared,
++    ;; so the harness re-fired them until the Runner flatlined.
++    (let [expected-subroutines (map build-unbuilt-subs (get-expected-subroutines state side ice))
+           active-subroutines (:subroutines ice)]
+     (if (= (map #(select-keys % [:source :label]) expected-subroutines) (map #(select-keys % [:source :label]) active-subroutines))
+       nil
+-- 
+2.43.0
+

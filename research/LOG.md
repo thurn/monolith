@@ -1082,3 +1082,10 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Runner `:free-run-first` on fresh8: 0.826 → 0.839 (+19/−15, p = 0.61), null leaning positive.
   - All three are adopted into RC42 as review- and puzzle-motivated neutrals (none negative).
   - Of note: RC41's Runner wins only 0.826 against `:s1ref` on fresh8, which is the reviewed matchup. Losses are rated ~2, so Runner losses to S1 are a direct lever on the review mean.
+- **Runner losses to `:s1ref`** (co-rc41, fresh8): 53/300, of which **29 are flatlines** (12 on classique-2025-a, 12 on worlds-2022-b). worlds-2022-b loses 47% and classique-2025-a 35%; the other decks lose 0–16%.
+  - 3 of the 4 worlds-2022-b flatlines I read are the **Loki/Anansi engine bug** I'd logged as rare (frunner3 log-15): "resolves 3 unbroken subroutines on Loki" repeated until the Runner is dead.
+  - Root cause (fork, `game.core.ice/update-ice-subroutines`): Loki adds the chosen ice's subs as raw sub-effects with no `:label`. The update compared them unbuilt against the built active subs, found a mismatch on every update, and re-added them with `:fired` cleared. Our move generator then offered the forced "fire" again, in a loop.
+  - Fix (fork commit `f0626e3fd`): build added subs before comparing and reconciling. Seeds 570019, 570067 and 570083 replayed fresh with RC41: no loops, no flatlines (0–3 Loki resolutions a game). Smoke: 0 stalls.
+  - Loki is common, so this likely affects held-out games too.
+  - **Fork backup:** the fork's 8 commits (`upstream..monolith`) now live as `research/engine-patches/*.patch` in the main repo, since the fork itself is never pushed. Apply with `git -C vendor/netrunner am research/engine-patches/*.patch` on a fresh `monolith` branch.
+  - Note: frozen worktrees symlink `vendor`, so jobs launched from now on (any worktree) use the fixed engine. Job CQ started before the fix, so it uses the old engine.

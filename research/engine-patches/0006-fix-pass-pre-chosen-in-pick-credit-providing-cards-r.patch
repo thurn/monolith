@@ -1,0 +1,26 @@
+From 2ae5bf346b3dfbc5e1bb3b9b911cfbb2137d526e Mon Sep 17 00:00:00 2001
+From: Derek Thurn <thurn@users.noreply.github.com>
+Date: Sat, 3 Oct 2026 21:41:03 -0700
+Subject: [PATCH 6/8] fix: pass pre-chosen in pick-credit-providing-cards retry
+ (infinite recursion)
+
+---
+ src/clj/game/core/pick_counters.clj | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/clj/game/core/pick_counters.clj b/src/clj/game/core/pick_counters.clj
+index 950d1cea0..1180f2f3e 100644
+--- a/src/clj/game/core/pick_counters.clj
++++ b/src/clj/game/core/pick_counters.clj
+@@ -206,7 +206,7 @@
+                           (pick-counter-triggers state side eid selected-cards :credit target-count message remainder bad-pub-spent)))
+                       (continue-ability
+                         state side
+-                        (pick-credit-providing-cards provider-func eid target-count stealth-target selected-cards uses bad-pub-available bad-pub-spent)
++                        (pick-credit-providing-cards provider-func eid target-count stealth-target selected-cards nil uses bad-pub-available bad-pub-spent)
+                         card nil)))]
+      (if (or (not (pos? target-count))             ;; there is a limit
+              (<= target-count counter-count)       ;; paid everything
+-- 
+2.43.0
+
