@@ -303,6 +303,7 @@
                                              (when (and (pos? i) (:redet weights))
                                                (sim/determinize! (:state (:sg sm)) side decks rng))
                                              (rollout-score sm side weights decks rng (* 400 (or rerank-turns 1)) (or rerank-turns 1) leaf-fn)))]
+                                (when *debug* (println "  rerank" (format "%.2f" (/ (reduce + 0.0 xs) n)) (mapv #(format "%.1f" %) xs) (mapv :label (:line c))))
                                 (assoc c :score (+ 10000.0 (/ (reduce + 0.0 xs) n)))))
                             all)
                     all)]

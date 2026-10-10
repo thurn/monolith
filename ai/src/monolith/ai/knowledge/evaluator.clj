@@ -124,6 +124,19 @@
          (<= r (get-in s [:corp :click] 0))
          (<= r (get-in s [:corp :credit] 0)))))
 
+(defn- joint-reach
+  "With :scorable-joint: the cids of agendas the Corp can finish this turn together, cheapest first, within
+  its clicks and credits (in-reach? alone counts each against the whole budget: f4 log-10's rollout leaf
+  counted two agendas needing 2 and 3 advancements as both scorable with 3 clicks)."
+  [s]
+  (when (= :corp (:active-player s))
+    (loop [cs (sort-by remaining-adv (for [[k _] (srv/remotes s) c (srv/content s k) :when (= "Agenda" (:type c))] c))
+           cl (get-in s [:corp :click] 0) cr (get-in s [:corp :credit] 0) acc #{}]
+      (if-let [c (first cs)]
+        (let [r (remaining-adv c)]
+          (if (and (<= r cl) (<= r cr)) (recur (rest cs) (- cl r) (- cr r) (conj acc (:cid c))) (recur (rest cs) cl cr acc)))
+        acc))))
+
 (defn- meat-op
   "{:dmg n :per-tag bool :min-tags k :cost c} for an operation that does meat damage, from text."
   [title]
@@ -287,6 +300,8 @@
   [s w]
   (let [ap-value (:ap-value w)
         scorable? (pos? (get-in w [:eval :scorable-agendas] 0.0))
+        joint (when (and scorable? (:scorable-joint w)) (joint-reach s))
+        reach? (fn [c] (if joint (contains? joint (:cid c)) (in-reach? s c)))
         breakers (srv/icebreakers s)
         rig (get-in s [:runner :rig])
         runner-installed (concat (:program rig) (:hardware rig) (:resource rig))
@@ -370,14 +385,17 @@
      :central-threat (if (pos? (get-in w [:eval :central-threat] 0.0)) (central-threat s w) 0.0)
      :agendas-in-archives (* -0.8 ap-value (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) (get-in s [:corp :discard])))))
      :installed-agendas (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)
-                                            :when (and (= "Agenda" (:type c)) (not (and scorable? (in-reach? s c))))]
+                                            :when (and (= "Agenda" (:type c)) (not (and scorable? (reach? c))))]
                                         (agenda-ev s k c w)))
      ;; an agenda the Corp can finish advancing this turn with its clicks and credits is worth
      ;; nearly its points (weighted like :agenda-points), so beam search keeps advance chains
+     ;; with :scorable-joint, jointly in reach and worth at most its points after the feature weight (at 2.5, a
+     ;; scorable agenda outweighed a scored one: rollouts preferred keeping agendas one turn from scoring, f4 log-10)
      :scorable-agendas (if scorable?
-                         (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)
-                                             :when (and (= "Agenda" (:type c)) (in-reach? s c))]
-                                         (- (* ap-value (srv/ap (:title c))) (* 0.5 (remaining-adv c)))))
+                         (* (if joint (/ 1.0 (max 1.0 (get-in w [:eval :scorable-agendas]))) 1.0)
+                            (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)
+                                                :when (and (= "Agenda" (:type c)) (reach? c))]
+                                            (- (* ap-value (srv/ap (:title c))) (* 0.5 (remaining-adv c))))))
                          0.0)
      :ice (let [;; with :empty-remote-ice, only the best-iced empty remote (a scoring server in waiting)
                 ;; counts fully; ice on further empty remotes is mostly wasted
