@@ -362,6 +362,18 @@
                     :when (and (:rezzed c) (re-find #"(?i)approaches this server, end the run unless they either spend \[click\]\[click\] or pay (\d+)" (str (:text (cards/printed (:title c))))))]
                 (parse-long (second (re-find #"(?i)or pay (\d+)" (str (:text (cards/printed (:title c))))))))))
 
+(defn approach-etr?
+  "A rezzed card in server k lets the Corp end the run on approach and it can pay now (Anoetic Void: pay
+  2 and trash 2 cards from HQ; CN seed 550224: R&D run into a rezzed Void after passing both ice, 6 times)."
+  [obs k]
+  (some (fn [c]
+          (when (:rezzed c)
+            (when-let [[_ cr n] (re-find #"(?i)approaches this server, you may pay (\d+)\[credit\] and trash (\d+) cards? from hq\. if you do, end the run"
+                                         (str (:text (cards/printed (:title c)))))]
+              (and (>= (or (get-in obs [:corp :credit]) 0) (parse-long cr))
+                   (>= (count (get-in obs [:corp :hand])) (parse-long n))))))
+        (content obs k)))
+
 (defn runner-run-eval
   "Runcalc evaluation of running server k from the Runner's observation."
   [obs k {:keys [corp-decklist value credits-bonus rez-bonus mode] :or {credits-bonus 0 rez-bonus 0} :as opts}]
@@ -374,7 +386,7 @@
     :corp-hand (count (get-in obs [:corp :hand]))
     :corp-credits (get-in obs [:corp :credit])
     :pool (ice-pool obs corp-decklist)
-    :value value
+    :value (if (approach-etr? obs k) 0.0 value)
     ;; agendas with a credit steal cost (Bellona), known or possible under hidden cards: content
     ;; value is a step function of the Runner's credits at access, so each cost c the Runner can pay
     ;; now carries the value lost if breaking leaves fewer than c (puzzles *-credit-up-for-bellona)
