@@ -1089,3 +1089,7 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Loki is common, so this likely affects held-out games too.
   - **Fork backup:** the fork's 8 commits (`upstream..monolith`) now live as `research/engine-patches/*.patch` in the main repo, since the fork itself is never pushed. Apply with `git -C vendor/netrunner am research/engine-patches/*.patch` on a fresh `monolith` branch.
   - Note: frozen worktrees symlink `vendor`, so jobs launched from now on (any worktree) use the fixed engine. Job CQ started before the fix, so it uses the old engine.
+- **classique-2025-a flatlines** (12 of the Runner's 53 losses to S1; a Jinteki: Personal Evolution deck with Fetal AI, Snare!, Scorched Earth):
+  - Steals at 1 and 0 cards (seeds 570036, 570052): Fetal AI's 2 net damage on access and PE's 1 net damage on every steal were not modelled. A forced steal that kills was valued as 0, as if declined.
+  - Always-on fix (`fc9ac41`): `agenda-access-value` adds access damage and identity steal damage (bound per game from the Corp identity's text). A forced lethal steal is a flatline. An optional one (with a steal cost) is declined, keeping the access damage. Central access risk counts the same damage on agendas, and the steal prompt adds the identity's damage.
+  - Not fixed: Snare! on the last click leaving the Runner tagged at 1 card against Scorched Earth (570044, 570092). Pup/Komainu damage before a Snare! (570004) is what `:breach-damage` covers.
