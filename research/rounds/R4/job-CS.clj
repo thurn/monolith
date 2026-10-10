@@ -1,5 +1,6 @@
 ;; Job CS (frozen cs = 05fa61f): Corp :passive-runner 8 on top of RC42, vs :s1ref (the review opponent, which hoards credits) on fresh8
-;; and corp-hard, seeds 590000-590299. Metrics: paired win rate and turns to win (reviews penalise slow closes).
+;; and corp-hard, seeds 590000-590299. Also cs-rdx: the Corp evaluator's :rd-exposure 1.0 -> 2.0 on fresh8 (planner left R&D un-iced
+;; under R&D pressure; open-central proxy). Metrics: paired win rate and turns to win (reviews penalise slow closes).
 (require 'monolith.ai.gamelog 'monolith.ai.sweep 'monolith.ai.evalset 'monolith.ai.blunders)
 (let [R "/home/dthurn/monolith/research/rounds/R4"
       ev {:kill-threat 1.0 :hq-flood 1.0 :scorable-agendas 2.5 :asset-econ 1.0 :core-damage 1.0}
@@ -32,7 +33,8 @@
                              :sides [:corp] :games-log (str R "/eval-CS.jsonl") :null? false})]
     (println (monolith.ai.evalset/run-many {:threads 16 :opponent :s1ref
                                             :experiments [(ex "cs-rc42" rc42 fresh) (ex "cs-pr" (assoc-in rc42 [:corp-opts :w :passive-runner] 8) fresh)
+                                                          (ex "cs-rdx" (assoc-in rc42 [:corp-opts :eval :rd-exposure] 2.0) fresh)
                                                           (assoc (ex "cs-rc42" rc42 monolith.ai.sweep/corp-hard) :seeds (range 591000 591300))
                                                           (assoc (ex "cs-pr" (assoc-in rc42 [:corp-opts :w :passive-runner] 8) monolith.ai.sweep/corp-hard) :seeds (range 591000 591300))]}))
-    (println (monolith.ai.blunders/summarize (str R "/eval-CS.jsonl") #{"cs-rc42" "cs-pr"})))
+    (println (monolith.ai.blunders/summarize (str R "/eval-CS.jsonl") #{"cs-rc42" "cs-pr" "cs-rdx"})))
   (flush))
