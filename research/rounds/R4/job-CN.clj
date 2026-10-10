@@ -1,4 +1,5 @@
-;; Frozen cn = e705b47: RC40 spec on code with the break-cost fix (pump-and-break uses below ice strength break nothing).
+;; Frozen cn (re-frozen with :follow-check): RC40 spec on code with the break-cost fix (pump-and-break uses below ice strength
+;; break nothing). + :follow-check on both sides (a stored mid-turn line is replanned when S1 scores/kills; f8 log-10).
 ;; Runner vs the RC28 champion on the fresh decks, seeds 550000-550299 (cn-rc40 pairs with cm-rc40: the fix's effect):
 ;; + :tagged-install. Corp vs the RC28 champion Runner on the fresh decks (not saturated, unlike :s1ref), seeds
 ;; 560000-560299: + :overwrite-trap.
@@ -29,9 +30,11 @@
                                   :sides [side] :games-log (str R "/eval-CN.jsonl") :null? false})]
     (println (monolith.ai.evalset/run-many {:threads 16 :opponent [:champion rc28]
                                             :experiments [(assoc (ex "cn-rc40" rc39 :corp fresh) :seeds (range 560000 560300))
-                                                          (assoc (ex "cn-ot" (assoc-in rc39 [:corp-opts :w :overwrite-trap] true) :corp fresh) :seeds (range 560000 560300))]}))
+                                                          (assoc (ex "cn-ot" (assoc-in rc39 [:corp-opts :w :overwrite-trap] true) :corp fresh) :seeds (range 560000 560300))
+                                                          (assoc (ex "cn-fc" (assoc-in rc39 [:corp-opts :w :follow-check] true) :corp fresh) :seeds (range 560000 560300))]}))
     (println (monolith.ai.evalset/run-many {:threads 16 :opponent [:champion rc28]
                                             :experiments [(ex "cn-rc40" rc39 :runner fresh)
-                                                          (ex "cn-ti" (assoc-in rc39 [:runner-opts :w :tagged-install] true) :runner fresh)]})))
-  (println (monolith.ai.blunders/summarize (str R "/eval-CN.jsonl") #{"cn-rc40" "cn-ti" "cn-ot"}))
+                                                          (ex "cn-ti" (assoc-in rc39 [:runner-opts :w :tagged-install] true) :runner fresh)
+                                                          (ex "cn-fc" (assoc-in rc39 [:runner-opts :w :follow-check] true) :runner fresh)]})))
+  (println (monolith.ai.blunders/summarize (str R "/eval-CN.jsonl") #{"cn-rc40" "cn-ti" "cn-ot" "cn-fc"}))
   (flush))

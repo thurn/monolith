@@ -429,7 +429,18 @@
               {:keys [line made-turn]} @plan-state
               nxt (first line)
               follow (when (and nxt (= made-turn (:turn o)))
-                       (first (keep-indexed (fn [i x] (when (= (action-key x) (action-key nxt)) i)) actions)))]
+                       (first (keep-indexed (fn [i x] (when (= (action-key x) (action-key nxt)) i)) actions)))
+              ;; :follow-check: a stored line is dropped (replanned, so the S1 anchor applies) when S1 now
+              ;; scores, advances to score or kills and the line does something else (f8 log-10: Biotic Labor,
+              ;; Vitruvius installed naked, then the stored line clicked for credits 3 times instead of scoring:
+              ;; beam search drops the half-advanced naked agenda before the score lands)
+              follow (if (and follow (:follow-check weights) s1-margin)
+                       (let [[r a] (s1/decide (assoc ctx :obs o :weights weights :mem (atom {})))]
+                         (if (and (#{:score :advance-to-score :credit-to-score :seamless :kill} r) a
+                                  (not= (action-key a) (action-key nxt)))
+                           nil
+                           follow))
+                       follow)]
           (if follow
             (do (swap! plan-state update :line rest) follow)
             (let [;; mid-turn replans get the same budget: a 1 s cap (factor 4) bound under review-job load and made
