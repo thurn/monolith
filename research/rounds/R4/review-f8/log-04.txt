@@ -1,0 +1,341 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 10
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paperclip and Black Orchestra from the stack and draw 1 card.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of R&D.
+Corp is ending their turn 2 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 8 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Gachapon and Deuces Wild from the stack and draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp pays 0 credits to rez Anoetic Void in the root of R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 15 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Stargate and Paperclip from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 3 with 19 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 4 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 19 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paladin Poemu and Falsified Credentials from the stack and draw 1 card.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 6 credits to rez Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Black Orchestra.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 3 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Cyberdex Sandbox from Server 2.
+Runner declines to pay to steal Cyberdex Sandbox.
+Runner spends click to make a run on Server 2.
+Runner approaches Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 4 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Cyberdex Sandbox from Server 2.
+Runner declines to pay to steal Cyberdex Sandbox.
+Runner spends click to make a run on Server 2.
+Runner approaches Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 5 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Cyberdex Sandbox from Server 2.
+Runner declines to pay to steal Cyberdex Sandbox.
+Runner is ending their turn 4 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 4 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Cyberdex Sandbox and gains 2 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Hedge Fund in Archives to HQ.
+Corp uses Cyberdex Sandbox to purge virus counters.
+Corp uses Cyberdex Sandbox to gain 4 credits.
+Corp is ending their turn 5 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 16 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Political Operative and Deuces Wild from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 5 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 0 credits to rez Spin Doctor in Server 5.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp pays 1 credits to rez Advanced Assembly Lines in Server 4.
+Corp uses Advanced Assembly Lines to gain 3 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 6 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 20 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Stargate and Maw from the stack and draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 6 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Global Food Initiative from Server 2.
+Runner declines to pay to steal Global Food Initiative.
+Runner spends click to make a run on Server 2.
+Runner approaches Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 7 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Global Food Initiative from Server 2.
+Runner declines to pay to steal Global Food Initiative.
+Runner spends click to make a run on Server 2.
+Runner approaches Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Global Food Initiative from Server 2.
+Runner declines to pay to steal Global Food Initiative.
+Runner spends click to make a run on Server 2.
+Runner approaches Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Global Food Initiative from Server 2.
+Runner declines to pay to steal Global Food Initiative.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 6 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 12 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Advanced Assembly Lines to install a card from HQ in the root of Server 8 (new remote).
+Corp pays 0 credits to rez Spin Doctor in Server 8.
+Spin Doctor in Server 5 is trashed.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click and pays 1 credits to play Seamless Launch.
+Corp uses Seamless Launch to place 2 advancement counters on a card in Server 2.
+Corp spends click and pays 1 credits to play Seamless Launch.
+Corp uses Seamless Launch to place 2 advancement counters on a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Corp uses Haas-Bioroid: Precision Design to add Advanced Assembly Lines in Archives to HQ.
+Corp is ending their turn 7 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 7 with 20 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Zer0 and MKUltra from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 7 with 24 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 2.
+Corp pays 1 credits to rez Advanced Assembly Lines in Server 2.
+Corp uses Advanced Assembly Lines to gain 3 credits.
+Corp uses Spin Doctor to shuffle Hedge Fund and Seamless Launch into R&D.
+Corp pays 0 credits to rez Rashida Jaheem in Server 6.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 24 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Labor Rights and Citadel Sanctuary from the stack and draw 1 card.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 24 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 12 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp pays 0 credits to rez Rashida Jaheem in Server 3.
+Rashida Jaheem in Server 6 is trashed.
+Corp uses Advanced Assembly Lines to install a card from HQ in the root of Server 9 (new remote).
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 9 with 16 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 9 with 24 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Deuces Wild and MKUltra from the stack and draw 1 card.
+Runner spends click to make a run on Server 2.
+Runner approaches Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner pays 2 credits to use MKUltra to install MKUltra from the Heap.
+Runner pays 2 credits to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash MKUltra.
+Corp uses Ansel 1.0 to install Rashida Jaheem from Archives in the root of Server 10 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Offworld Office from Server 2.
+Runner declines to pay to steal Offworld Office.
+Runner spends click to make a run on Server 2.
+Runner approaches Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner pays 2 credits to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash MKUltra.
+Corp uses Ansel 1.0 to install Advanced Assembly Lines from Archives in the root of Server 11 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Offworld Office from Server 2.
+Runner declines to pay to steal Offworld Office.
+Runner spends click to make a run on Server 2.
+Runner approaches Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner pays 2 credits to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash MKUltra.
+Corp uses Ansel 1.0 to install Spin Doctor from Archives in the root of Server 12 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Offworld Office from Server 2.
+Runner declines to pay to steal Offworld Office.
+Runner spends click to make a run on Server 2.
+Runner approaches Ansel 1.0 protecting Server 2 at position 0.
+Runner encounters Ansel 1.0 protecting Server 2 at position 0.
+Runner pays 2 credits to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash MKUltra.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 13 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Offworld Office from Server 2.
+Runner declines to pay to steal Offworld Office.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 9 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 16 credits and 2 cards in HQ.
+Corp uses Rashida Jaheem to gain 3 credits and draw 3 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to play Seamless Launch.
+Corp uses Seamless Launch to place 2 advancement counters on a card in Server 2.
+Corp scores Offworld Office and gains 2 agenda points.
+Corp wins the game.

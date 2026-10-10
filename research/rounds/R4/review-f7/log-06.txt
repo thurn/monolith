@@ -1,0 +1,467 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 14
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Labor Rights and Rezeki from the stack and draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click, pays 0 credits, and trashes 3 cards (Zer0, Political Operative, and Maw) from the grip to play Moshing.
+Runner uses Moshing to draw 3 cards and gain 3 credits.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner trashes Gachapon to use Gachapon to set aside I've Had Worse, Liberated Account, Moshing, PAD Tap, Stargate, and Zer0 from the top of the stack.
+Runner pays 2 credits to use Gachapon to install Stargate from among the set-aside cards (paying 2 credits less).
+Runner uses Gachapon to shuffle I've Had Worse, Liberated Account, and Moshing into the stack and remove PAD Tap and Zer0 from the game.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 2 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 10 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Black Orchestra and Paperclip from the stack and draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Seamless Launch from HQ.
+Runner spends click and pays 2 credits to play Mining Accident.
+Runner uses Mining Accident to force the Corp to pay 5 credits.
+Corp pays 5 credits.
+Runner removes Mining Accident from the game instead of trashing it.
+Runner uses Stargate to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses the replacement effect from Stargate.
+Runner uses Stargate to reveal Seamless Launch, Rashida Jaheem, and Cyberdex Sandbox from the top of R&D.
+Runner uses Stargate to trash Seamless Launch.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 3 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Liberated Account and Trickster Taka from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Cyberdex Sandbox from Server 1.
+Runner steals Cyberdex Sandbox and gains 2 agenda points.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Cyberdex Sandbox and gains 2 agenda points.
+Runner is ending their turn 3 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 4 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 3 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Mystic Maemi and Rezeki from the stack and draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Cyberdex Sandbox from Server 1.
+Runner steals Cyberdex Sandbox and gains 2 agenda points.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner uses Stargate to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses the replacement effect from Stargate.
+Runner uses Stargate to reveal Advanced Assembly Lines, Drafter, and Hedge Fund from the top of R&D.
+Runner uses Stargate to trash Advanced Assembly Lines.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 2 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Liberated Account and Paperclip from the stack and draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Paladin Poemu.
+Runner uses Stargate to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Gatekeeper protecting R&D at position 0.
+Runner encounters Gatekeeper protecting R&D at position 0.
+Runner has no further action.
+Corp uses Gatekeeper to draw 0 cards.
+Corp uses Gatekeeper to shuffle R&D.
+Corp uses Gatekeeper to end the run.
+Corp resolves 2 unbroken subroutines on Gatekeeper ("[subroutine] Draw cards, reveal and shuffle agendas" and "[subroutine] End the run").
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 5 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 5 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 6 with 5 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paladin Poemu and I've Had Worse from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Gatekeeper protecting R&D at position 0.
+Runner encounters Gatekeeper protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 0 credits to play Labor Rights.
+Runner trashes Rezeki, Political Operative, and Daily Casts from the top of the stack.
+Runner shuffles Daily Casts, Dirty Laundry, and Gachapon from the heap into the stack, and draws 1 card.
+Runner removes Labor Rights from the game instead of trashing it.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Drafter from HQ.
+Runner is ending their turn 6 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 5 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 8 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 7 with 1 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Dirty Laundry and Moshing from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install Gachapon.
+Runner spends click to make a run on R&D.
+Runner approaches Gatekeeper protecting R&D at position 0.
+Runner encounters Gatekeeper protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner trashes Gachapon to use Gachapon to set aside DJ Fenris, Daily Casts, Deuces Wild, Gachapon, Rebirth, and Sure Gamble from the top of the stack.
+Runner uses Gachapon to shuffle DJ Fenris, Daily Casts, and Deuces Wild into the stack and remove Gachapon, Rebirth, and Sure Gamble from the game.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 7 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 8 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 11 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 8 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash MKUltra and Mystic Maemi from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 8 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 11 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp is ending their turn 9 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 5 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Daily Casts and PAD Tap from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 1 credits to play Overclock.
+Runner uses Overclock to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits from Overclock to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Spin Doctor from HQ.
+Runner spends click and pays 2 credits to play Deuces Wild.
+Runner uses Deuces Wild to gain 3 credits.
+Runner uses Deuces Wild to draw 2 cards.
+Runner spends click and pays 2 credits to play Mining Accident.
+Runner uses Mining Accident to force the Corp to pay 5 credits.
+Corp pays 5 credits.
+Runner removes Mining Accident from the game instead of trashing it.
+Runner spends click to make a run on R&D.
+Runner approaches Gatekeeper protecting R&D at position 0.
+Runner encounters Gatekeeper protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 9 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 1 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Black Orchestra and Gachapon from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click and pays 2 credits to play Deuces Wild.
+Runner uses Deuces Wild to gain 3 credits.
+Runner uses Deuces Wild to draw 2 cards.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click, pays 0 credits, and trashes 3 cards (I've Had Worse, Hippo, and Botulus) from the grip to play Moshing.
+Runner uses Moshing to draw 3 cards and gain 3 credits.
+Runner is ending their turn 10 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 6 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 11 with 4 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Liberated Account and Mining Accident from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Gatekeeper protecting R&D at position 0.
+Runner encounters Gatekeeper protecting R&D at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Spin Doctor from HQ.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 11 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 6 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 9 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 12 with 6 credits and 4 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Labor Rights and Deuces Wild from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Gatekeeper protecting R&D at position 0.
+Runner encounters Gatekeeper protecting R&D at position 0.
+Runner pays 3 credits to use Black Orchestra to install Black Orchestra from the Heap.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits to trash Anoetic Void from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches Magnet protecting HQ at position 0.
+Runner encounters Magnet protecting HQ at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Magnet.
+Runner has no further action.
+Runner passes Magnet protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Advanced Assembly Lines from HQ.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 12 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 9 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 13 with 7 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 13 with 0 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash PAD Tap and Maw from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Paladin Poemu to take 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 3.
+Corp pays 3 credits to rez Drafter protecting Server 1 at position 3.
+Runner encounters Drafter protecting Server 1 at position 3.
+Runner pays 2 credits to use MKUltra to install MKUltra from the Heap.
+Runner has no further action.
+Corp uses Drafter to add Advanced Assembly Lines in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 1 at position 3.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 3 credits to rez Drafter protecting Server 1 at position 2.
+Runner encounters Drafter protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Drafter to add Anoetic Void in Archives to HQ.
+Corp uses Drafter to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Runner passes ice protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Advanced Assembly Lines from Server 1.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 13 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 1 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 4 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 14 with 4 credits and 5 cards in the grip.
+Runner uses MaxX: Maximum Punk Rock to trash Paladin Poemu and Hippo from the stack and draw 1 card.
+Runner uses Paladin Poemu to add 1 credits to itself.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 1 credits from Paladin Poemu and 3 credits from their credit pool to install Paperclip.
+Runner spends click to make a run on R&D.
+Runner approaches Gatekeeper protecting R&D at position 0.
+Runner encounters Gatekeeper protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of Black Orchestra to 4 and break all subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Global Food Initiative from Archives.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner wins the game.
+Runner uses Paladin Poemu to add 1 credits to itself.

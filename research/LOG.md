@@ -987,3 +987,19 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Pre-registered gate (new rule): the f5–f8 pool ≥ 3.5 and frunner3 ≥ 3.2.
   - Also reported: the six-set pool with RC39's f3/f4, and the two-set Runner-only pool with frunner2. These are not used for the decision, since f3/f4 helped pick RC39.
 - Meanwhile: mining frunner2's candidate notes (all 10 rated 3–4, 8 wins). The repeated themes are an uncontested scoring remote (logs 04, 10, 15), full-grip runs into net damage (02), and core damage from Fairchild (07, 11).
+- **RC40 gate reviews (job CL, frozen `ck`; one fresh Opus reviewer per set, sequential):**
+  - Fresh two-sided: review-f5 **3.50** (Corp 3.6, Runner 3.4), f6 **3.60** (Corp 3.4, Runner 3.8), f7 **3.20** (Corp 3.2, Runner 3.2), f8 **3.60** (Corp 3.8, Runner 3.4). **Pool 3.475** (Corp 3.50, Runner 3.45).
+  - Fresh Runner only: review-frunner3 **2.90**.
+  - **RC40 fails the pre-registered gate on both halves** (3.475 < 3.5; 2.90 < 3.2). No held-out shot.
+  - For information only: the six-set pool with f3/f4 is 3.53, and the Runner-only pool with frunner2 is 3.00. The Runner, not the Corp, is the gap: fresh Runner over all 50 reviewed games is about 3.3.
+  - `:s1ref` in the same sets: 1.30–1.50.
+- **Fresh-deck review notes mined (f5–f8, frunner2/3), and fixes:**
+  - Always-on bug fixes (`461a10b`):
+    - The heap-breaker prompt (Paperclip, Black Orchestra, MKUltra) installed a second copy from the heap for 4 credits while one was already installed (frunner2 log-19; frunner3 logs 04, 12, 19: "pointless heap installs"). Now it answers No.
+    - Élivágar Bifurcation's optional derez hit the Corp's own scoring-remote ice (f4 and f5 log-11). Now declined.
+    - `econ-gain` read "gain 1[credit] for each installed connection" (Calling in Favors) as +1, so `:dig-room` played it for nothing (f1, f4 and f7 log-07). Variable gains now count as 0.
+  - Always-on fix (next commit): `break-cost` for pump-and-break breakers (Black Orchestra: "3: +2 strength, then break up to 2") assumed every use breaks. Uses below the ice's strength break nothing. Black Orchestra on Mausolus (strength 5) was priced at 6 and costs 9, so the Runner started the break, pumped once for 3 and let every sub fire (frunner3 logs 11 and 12).
+  - Opt-in `:overdraw` k (evaluator): each card over the hand limit at the end of a line costs k. The `:hands` cap made a draw that is discarded tonight free, so the Runner drew before its first central run as Liza (forced draw 2), discarding 1–2 a turn (frunner2 and f5–f8 log-05: the Liza deck is the lowest-rated Runner game in 4 of 6 sets). Job CM A/Bs it.
+  - Opt-in `:overwrite-trap` (Corp): an agenda may replace a lone unrezzed, unadvanced asset (a Snare!) in an iced remote. `sensible?` used to forbid every install over a Corp's own asset (f7 log-02: The Future Perfect held for 10 turns at 20–36 credits, every iced remote holding a trap). The replay shows S1 still declines there because both remotes are unsafe, so it is a narrow fix.
+  - Opt-in `:tagged-install` (Runner, `sensible?`): no resource install while tagged against a Corp with ≥ 2 credits, but only when the Runner could clear the tag first this turn (2 clicks, 2 + cost credits). f8 log-17 reinstalled Aeneas Informant 14 times, each trashed. BL's unconditional prune trended negative (+14/−22) by locking tag-looped Runners out of their economy; this version keeps the install available when the tag can't be paid off.
+  - Notes I judged to be reviewer misreads (the spectator log hides the Runner's information): Fairchild runs after Spy Camera peeks that stole agendas (frunner2 log-07); Archives re-runs when the Corp discarded 4 face-down cards a turn (frunner3 log-07).

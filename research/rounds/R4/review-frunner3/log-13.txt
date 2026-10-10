@@ -1,0 +1,312 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 12
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to play Red Level Clearance.
+Corp uses Red Level Clearance to gain 2 credits.
+Corp uses Red Level Clearance to draw 2 cards.
+Corp is ending their turn 1 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Pinhole Threading.
+Runner uses Pinhole Threading to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses the replacement effect from Pinhole Threading.
+Runner accesses Project Vitruvius from Server 1.
+Runner declines to pay to steal Project Vitruvius.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Hagen protecting Server 1 at position 0.
+Runner encounters Hagen protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner is ending their turn 2 with 9 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Vitruvius and gains 2 agenda points.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Corp is ending their turn 3 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 9 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 3 with 7 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 4 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 4 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Black Orchestra.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner is ending their turn 4 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Megaprix Qualifier and gains 1 agenda point.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 8 credits and 3 cards in the grip.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner trashes Liberated Account.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click, pays 0 credits, and trashes 3 cards (Endurance, Fermenter, and Paperclip) from the grip to play Moshing.
+Runner uses Moshing to draw 3 cards and gain 3 credits.
+Runner is ending their turn 5 with 19 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to play NEXT Activation Command.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 19 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 21 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp pays 0 credits to rez Spin Doctor in Server 2.
+Corp uses Spin Doctor to draw 2 cards.
+Corp uses Spin Doctor to shuffle NEXT Activation Command and Red Level Clearance into R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 7 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 21 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 25 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 25 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 29 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click and pays 1 credits to play Red Level Clearance.
+Corp uses Red Level Clearance to gain 2 credits.
+Corp uses Red Level Clearance to draw 2 cards.
+Corp spends click to install a card in the root of Server 1.
+Corp pays 0 credits to rez Spin Doctor in Server 1.
+Corp uses Spin Doctor to draw 2 cards.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp pays 0 credits to rez Rashida Jaheem in Server 2.
+Corp spends click to install a card in the root of Server 3.
+Corp is ending their turn 9 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 29 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 33 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Seamless Launch.
+Corp uses Seamless Launch to place 2 advancement counters on a card in Server 3.
+Corp spends click and pays 0 credits to play Audacity.
+Corp uses Audacity to trash all cards in HQ.
+Corp uses Audacity to place 1 advancement counter on a card in Server 3.
+Corp uses Audacity to place 1 advancement counter on a card in Server 3.
+Corp uses Spin Doctor to shuffle Audacity and Biotic Labor into R&D.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Corp uses Sportsmetal: Go Big or Go Home to gain 2 credits.
+Corp is ending their turn 10 with 10 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 10 with 33 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Deuces Wild.
+Runner uses Deuces Wild to gain 3 credits.
+Runner uses Deuces Wild to draw 2 cards.
+Runner spends click and pays 1 credits to install Yusuf.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner places 1 virus counter on Yusuf.
+Runner breaches Archives.
+Runner accesses Mavirus from Archives.
+Corp uses Mavirus to purge virus counters.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 34 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 10 credits and 0 cards in HQ.
+Corp uses Rashida Jaheem to gain 3 credits and draw 3 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 11 with 12 credits and 1 card in HQ.
+[hr]
+Runner started their turn 11 with 34 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 6 credits to rez Ansel 1.0 protecting Server 3 at position 0.
+Runner encounters Ansel 1.0 protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Yusuf.
+Corp pays 1 credits to use Ansel 1.0 to install ice from HQ protecting Server 3.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Project Vitruvius from Server 3.
+Runner declines to pay to steal Project Vitruvius.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 1.
+Corp pays 3 credits to rez Drafter protecting Server 3 at position 1.
+Runner encounters Drafter protecting Server 3 at position 1.
+Runner has no further action.
+Corp uses Drafter to add Hedge Fund in Archives to HQ.
+Corp uses Drafter to install Rashida Jaheem from Archives in the root of Server 4 (new remote).
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting Server 3 at position 0.
+Runner encounters Ansel 1.0 protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to trash Black Orchestra.
+Corp uses Ansel 1.0 to install Tranquility Home Grid from Archives in the root of Server 5 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Project Vitruvius from Server 3.
+Runner declines to pay to steal Project Vitruvius.
+Runner spends click to make a run on Server 3.
+Runner approaches Drafter protecting Server 3 at position 1.
+Runner encounters Drafter protecting Server 3 at position 1.
+Runner has no further action.
+Corp uses Drafter to add Mavirus in Archives to HQ.
+Corp uses Drafter to install Spin Doctor from Archives in the root of Server 6 (new remote).
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting Server 3 at position 0.
+Runner encounters Ansel 1.0 protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to install a card from HQ in the root of Server 7 (new remote).
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Project Vitruvius from Server 3.
+Runner declines to pay to steal Project Vitruvius.
+Runner spends click to make a run on Server 3.
+Runner approaches Drafter protecting Server 3 at position 1.
+Runner encounters Drafter protecting Server 3 at position 1.
+Runner has no further action.
+Corp uses Drafter to add NEXT Activation Command in Archives to HQ.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches Ansel 1.0 protecting Server 3 at position 0.
+Runner encounters Ansel 1.0 protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Ansel 1.0 to prevent the Runner from stealing or trashing Corp cards for the remainder of the run.
+Corp resolves 3 unbroken subroutines on Ansel 1.0 ("[subroutine] Trash an installed Runner card" and "[subroutine] Install a card from HQ or Archives" and "[subroutine] The Runner cannot steal or trash Corp cards for the remainder of this run").
+Runner passes Ansel 1.0 protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Project Vitruvius from Server 3.
+Runner declines to pay to steal Project Vitruvius.
+Runner is ending their turn 11 with 34 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 2 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 0 credits to play Audacity.
+Corp uses Audacity to trash all cards in HQ.
+Corp uses Audacity to place 1 advancement counter on a card in Server 1.
+Corp uses Audacity to place 1 advancement counter on a card in Server 1.
+Corp pays 0 credits to rez Spin Doctor in Server 6.
+Corp uses Spin Doctor to draw 2 cards.
+Corp scores Luminal Transubstantiation and gains 2 agenda points.
+Corp wins the game.
