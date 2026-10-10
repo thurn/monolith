@@ -189,6 +189,11 @@
   (some #(case (:cost/type %) (:virus :any-virus-counter) :virus :power :power :trash-can :self :trash-from-hand :grip nil)
         (flatten (seq costs))))
 
+(defn- counter-amount
+  "Counters one activation spends (Endurance: 2 hosted power counters), default 1."
+  [costs]
+  (or (some #(when (#{:virus :any-virus-counter :power} (:cost/type %)) (:cost/amount %)) (flatten (seq costs))) 1))
+
 (defn- counters-available
   "Activations the card can still pay with counters of kind k (installed: counters on it;
   not installed: what its text places on install)."
@@ -257,7 +262,11 @@
          :break-counter bk :pump-counter pk
          ;; Eater: breaking with it forfeits all accesses this run
          :no-access (boolean (re-find #"(?i)you cannot access cards for the remainder of this run" (str (:text (printed (:title card))))))
-         :counters (into {} (for [k (distinct (remove nil? [bk pk]))] [k (counters-available card k)]))
+         ;; activations, not counters: Endurance spends 2 power counters a use (CN seed 550051: broke with 1
+         ;; counter in the model, 5 failed activations a run, then the subroutines fired)
+         :counters (into {} (for [k (distinct (remove nil? [bk pk]))
+                                  :let [amt (max 1 (if (= k bk) (counter-amount (:break-cost brk)) (counter-amount (:cost pmp))))]]
+                              [k (quot (counters-available card k) amt)]))
          :strength strength
          ;; D4v1d: breaks only ice of strength N or more, whatever its own strength
          :min-ice-strength (some-> (re-find #"(?i)a piece of ice that has a strength of (\d+) or greater" (str (:text (printed (:title card))))) second parse-long)
