@@ -1,4 +1,4 @@
-;; Job CV (frozen cv): RC43 gate on fresh-2, new seeds. RC43 = RC42 + Corp eval :rd-exposure 2.0 + :ice-adv-cap + :overwrite-rich 20 (CU).
+;; Job CV (frozen cv = 28485be): RC43 gate on fresh-2, new seeds. RC43 = RC42 + Corp eval :rd-exposure 2.0 + :ice-adv-cap + :overwrite-rich 20 (CU).
 ;; review-i1..i4 (two-sided, seeds 202980-203059) pooled >= 3.5; review-irunner1 (Runner-only, 203060-203079) >= 3.2.
 (require 'monolith.ai.gamelog 'monolith.ai.sweep 'monolith.ai.evalset 'monolith.ai.blunders)
 (let [R "/home/dthurn/monolith/research/rounds/R4"
