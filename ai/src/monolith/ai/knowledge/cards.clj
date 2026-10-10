@@ -71,6 +71,8 @@
       (re-find #"cannot steal or trash" l) (assoc :no-steal true)
       ;; Excalibur: the rest of the turn's runs are lost (review-runner3: R&D into Excalibur first, every turn)
       (re-find #"cannot make another run this turn" l) (assoc :lock-runs true)
+      ;; trace strength: the run calculator voids the effects when the Corp cannot win the trace
+      (re-find #"trace (\d+)" l) (assoc :trace (n #"trace (\d+)"))
       (re-find #"^gain (\d+) \[credits\]" l) (assoc :corp-gain (n #"gain (\d+)"))
       (re-find #"install" l) (assoc :corp-benefit 1))))
 

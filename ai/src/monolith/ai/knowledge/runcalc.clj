@@ -15,7 +15,10 @@
   "Applies unbroken subroutines; returns updated {:credits :damage :ended} ."
   [{:keys [credits damage] :as st} ice]
   (reduce (fn [st sub]
-            (if (:ended st) st
+            (if (or (:ended st)
+                    ;; a trace the Corp cannot win even spending every credit (base + credits <= link)
+                    (and (:link st) (:trace sub) (<= (+ (:trace sub) (max 0 (or (:corp-credits st) 0))) (:link st))))
+              st
                 (cond-> st
                   (:corp-draw sub) (update :corp-hand (fnil + 0) (:corp-draw sub))
                   ;; "trash 1 installed program unless the Runner pays N": pay when able, else lose a program
@@ -199,7 +202,7 @@
   (let [entries (mapv #(ice-entry % remote?) (reverse ices))
         ctx (merge {:w-damage 2.0 :w-tag 1.0 :w-program 0.0 :mode :expected :value 0.0} opts
                    {:ices entries :credits0 credits :corp-credits0 (:corp-credits opts 0)})
-        st {:credits credits :damage 0 :corp-credits (:corp-credits opts 0) :tagged (:tagged opts 0)
+        st {:credits credits :damage 0 :corp-credits (:corp-credits opts 0) :tagged (:tagged opts 0) :link (:link opts)
             :corp-hand (:corp-hand opts 0) :grip (:hand opts 0)}]
     (binding [*memo* (atom {})]
       (walk ctx 0 st))))

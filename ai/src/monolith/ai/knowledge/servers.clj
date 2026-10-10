@@ -390,6 +390,7 @@
                                 :when (pos? loss)]
                             [c loss]))))
     :rez-bonus rez-bonus
+    :link (when (:trace-link opts) (get-in obs [:runner :link] 0))
     :toll (approach-toll obs k)
     :mode (or mode :expected)
     :replacement (:replacement opts)
