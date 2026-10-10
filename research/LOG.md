@@ -1120,3 +1120,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - New opt-in `:ice-adv-cap` (planner prune): no advancing an ice already at the largest "N or more hosted advancement counters" in its text (else 3).
   - New opt-in `:overwrite-rich` c: with ≥ c credits, an agenda may replace a lone rezzed, unadvanced asset in an iced remote (S1's scoring remotes and the planner's install prune).
   - With both, the same seed is won 8–0 on turn 16 instead of turn 29. Smoke: 0 stalls (`cd91d32`). Job CU A/Bs them together (Corp vs `:s1ref`, fresh8 + corp-hard, win rate and turns to win).
+- **Job CT result** (Runner, fresh8 vs `:s1ref`):
+  - **The engine Loki fix and the agenda access/steal damage fix** (ct-rc41x vs cq-rc41: same spec and seeds 570000–570299, before vs after both fixes): **Runner 0.820 → 0.873 (+20/−4, p ≈ 0.002); flatlines 29 → 8 in 300 games.** Against co-rc41 (before all fixes since `cp`): +24/−9. The largest single gain in many rounds, and a direct cut in the flatline losses reviewers rate 1–2.
+  - `:score-kill`: 0.843 → 0.847 (+3/−2), flatlines 11 → 11. No effect; not adopted.
+  - With these fixes, `:breach-damage` stays in RC42 (CQ +9/−4).
+- Plan: RC43 = RC42 + eval `:rd-exposure` 2.0 (+ CU's `:ice-adv-cap` / `:overwrite-rich` if not negative), then a fresh-2 gate. The Runner flatline cut is the first change in a while that plausibly moves the review mean by ≥ 0.2: the Runner's 2.6–3.0 gate means include several flatline losses.
