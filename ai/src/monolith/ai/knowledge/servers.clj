@@ -131,6 +131,24 @@
   (some-> (re-find #"(?i)additional cost to steal [^,]+, the Runner must suffer (\d+) net damage" (str (:text (cards/printed t))))
           second parse-long))
 
+(defn access-damage
+  "Net damage an agenda does when accessed (Fetal AI: 2), from text."
+  [t]
+  (some-> (re-find #"(?i)when the runner accesses this agenda[^.]*do (\d+) net damage" (str (:text (cards/printed t))))
+          second parse-long))
+
+(defn id-steal-damage
+  "Net damage the Corp's identity does whenever an agenda is stolen (Jinteki: Personal Evolution: 1)."
+  [obs]
+  (or (some-> (re-find #"(?i)whenever an agenda is (?:scored or )?stolen, do (\d+) net damage"
+                       (str (:text (cards/printed (get-in obs [:corp :identity :title])))))
+              second parse-long)
+      0))
+
+(def ^:dynamic *steal-id-damage*
+  "Bound by content-value to id-steal-damage: identity damage on every steal."
+  0)
+
 (def ^:dynamic *runner-points*
   "The Runner's agenda points for the access being valued (bound by content-value): a steal that
   reaches 7 is worth a win, not its points."
@@ -166,10 +184,24 @@
         v (if d (cond (> d g) 0.0
                       (= d g) (if (>= (+ *runner-points* (ap t)) 7) v 0.0)
                       :else (- v (* 2.0 d)))
-              v)]
-    (cond (nil? c) (max 0.0 v)
-          (and credits (< credits c)) 0.0
-          :else (max 0.0 (- v c)))))
+              v)
+        base (cond (nil? c) (max 0.0 v)
+                   (and credits (< credits c)) 0.0
+                   :else (max 0.0 (- v c)))
+        ;; forced damage: on access (Fetal AI) and the identity's on every steal (Personal Evolution); a
+        ;; steal without an optional cost cannot be declined (CO seeds 570036 and 570052: steals at 1 and
+        ;; 0 cards against Personal Evolution flatlined the Runner)
+        fd (or (access-damage t) 0)
+        idd (or *steal-id-damage* 0)
+        optional? (or c d)
+        wins? (>= (+ *runner-points* (ap t)) 7)]
+    (cond
+      (and (zero? fd) (zero? idd)) base
+      (> fd g) runcalc/flatline-utility
+      (> idd (- g fd (if (and d (pos? base)) d 0))) (cond wins? (- base (* 2.0 fd))
+                                                          optional? (- (* 2.0 fd))
+                                                          :else runcalc/flatline-utility)
+      :else (- base (* 2.0 (+ fd (if (pos? base) idd 0)))))))
 
 (defn hidden-content-value
   "Runner value (credits) of accessing one unknown remote card with adv counters in a server
@@ -248,9 +280,15 @@
       (/ (reduce + 0.0
                  (for [[t q] pool
                        :let [txt (str (:text (cards/printed t)))]
-                       :when (and (re-find #"(?i)when the runner accesses this" txt) (not= "Agenda" (cards/ctype t)))
-                       :let [tags (or (some-> (re-find #"(?i)(?:take|give (?:them|the runner)) (\d+) tags?" txt) second parse-long) 0)
-                             dmg (or (some-> (re-find #"(?i)do (\d+) net damage" txt) second parse-long) 0)]]
+                       :let [agenda? (= "Agenda" (cards/ctype t))]
+                       :when (if agenda?
+                               (or (access-damage t) (pos? (or *steal-id-damage* 0)))
+                               (re-find #"(?i)when the runner accesses this" txt))
+                       :let [tags (if agenda? 0 (or (some-> (re-find #"(?i)(?:take|give (?:them|the runner)) (\d+) tags?" txt) second parse-long) 0))
+                             ;; agendas: access damage plus the identity's steal damage (Personal Evolution)
+                             dmg (if agenda?
+                                   (+ (or (access-damage t) 0) (or *steal-id-damage* 0))
+                                   (or (some-> (re-find #"(?i)do (\d+) net damage" txt) second parse-long) 0))]]
                    (* q (+ (* tags (or w-tag 2.5))
                            (if (and (pos? dmg) (>= dmg (or hand 5))) 50.0 (* dmg (or w-damage 2.0)))))))
          n))))
@@ -262,6 +300,7 @@
   [obs k {:keys [corp-decklist ap-value hand w-damage extra-access] :or {extra-access 0} :as opts}]
   (binding [*runner-points* (or (get-in obs [:runner :agenda-point]) 0)
             *runner-grip* (count (get-in obs [:runner :hand]))
+            *steal-id-damage* (id-steal-damage obs)
             ;; before the run its click is still counted; during it, one more click must remain
             *click-to-steal-ok* (>= (or (get-in obs [:runner :click]) 0) (if (:run obs) 1 2))]
     (content-value* obs k opts)))

@@ -1115,7 +1115,7 @@
        ;; additional steal costs (pay credits, trash a program, ...): stealing is almost always right,
        ;; unless the cost is net damage that would flatline (Obokata Protocol)
        (choice env #"(?i)^pay to steal")
-       (let [d (srv/steal-damage src)
+       (let [d (some-> (srv/steal-damage src) (+ (srv/id-steal-damage obs)))
              hand (count (get-in obs [:runner :hand]))
              ;; damage equal to the grip empties it but does not flatline: fine when the steal wins
              ;; (dev runner review 2: declined Obokata at 5 points with 4 cards)
