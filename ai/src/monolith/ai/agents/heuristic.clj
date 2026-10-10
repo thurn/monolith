@@ -98,10 +98,32 @@
   "An iced remote whose only content is one unrezzed, unadvanced asset (an ambush like Snare!) that an
   agenda may replace (f7 log-02: The Future Perfect held 10 turns at 20-36 credits, every iced remote
   holding a trap)."
-  [obs k]
-  (let [cs (srv/content obs k)]
-    (and (seq (srv/ices obs k)) (= 1 (count cs))
-         (let [c (first cs)] (and (= "Asset" (:type c)) (not (:rezzed c)) (zero? (or (:advance-counter c) 0)))))))
+  ([obs k] (overwritable? obs k false))
+  ;; rich? (:overwrite-rich): a rezzed economy asset may be replaced too (CS seed 590041: at 6 points and
+  ;; 48-55 credits, Offworld Office held for 4 turns because every iced remote held a rezzed asset)
+  ([obs k rich?]
+   (let [cs (srv/content obs k)]
+     (and (seq (srv/ices obs k)) (= 1 (count cs))
+          (let [c (first cs)] (and (= "Asset" (:type c)) (or rich? (not (:rezzed c))) (zero? (or (:advance-counter c) 0))))))))
+
+(defn rich-overwrite? [obs weights]
+  (when-let [c (:overwrite-rich weights)] (>= (or (get-in obs [:corp :credit]) 0) c)))
+
+(defn ice-adv-max
+  "Advancement counters past which advancing this ice changes nothing: the largest \"N or more hosted
+  advancement counters\" in its text, else 3."
+  [title]
+  (let [ns (map (comp parse-long second) (re-seq #"(?i)(\d+) or more (?:hosted )?advancement counters" (str (:text (cards/printed title)))))]
+    (if (seq ns) (apply max ns) 3)))
+
+(defn ice-adv-capped?
+  "With :ice-adv-cap: advancing an ice already at ice-adv-max (CS seed 590041: Mausolus advanced 16
+  times at 40-60 credits while a winning agenda sat in HQ)."
+  [s a]
+  (when (= "advance" (:command a))
+    (let [cid (get-in a [:args :card :cid])
+          c (some #(when (= cid (:cid %)) %) (for [[_ srv] (get-in s [:corp :servers]) c (:ices srv)] c))]
+      (and c (>= (or (:advance-counter c) 0) (ice-adv-max (:title c)))))))
 
 (defn scoring-remotes
   "Remotes with ice and no agenda/asset in them, safest first (then, with :overwrite-trap, iced remotes
@@ -111,7 +133,8 @@
         ks (map key (srv/remotes obs))
         by-ice #(sort-by (fn [k] (- (count (srv/ices obs k)))) %)]
     (concat (by-ice (filter #(and (seq (srv/ices obs %)) (empty? (srv/content obs %))) ks))
-            (when (w env :overwrite-trap) (by-ice (filter #(overwritable? obs %) ks))))))
+            (when (or (w env :overwrite-trap) (rich-overwrite? obs (:weights env)))
+              (by-ice (filter #(overwritable? obs % (rich-overwrite? obs (:weights env))) ks))))))
 
 (defn c-score [env] (act env :score))
 

@@ -92,7 +92,9 @@
                          (some #(#{"Agenda" "Asset"} (:type %))
                                (get-in s [:corp :servers (srv/server-key server) :content]))
                          ;; :overwrite-trap: an agenda may replace a lone unrezzed asset in an iced remote
-                         (not (and (:overwrite-trap weights) (= "Agenda" typ) (s1/overwritable? s (srv/server-key server)))))))
+                         (not (and (or (:overwrite-trap weights) (s1/rich-overwrite? s weights)) (= "Agenda" typ)
+                                   (s1/overwritable? s (srv/server-key server) (s1/rich-overwrite? s weights)))))))
+             (and (:ice-adv-cap weights) (s1/ice-adv-capped? s a))
              (and (= "rez" (:command a)) title (srv/trap-damage title 0))
              (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))
              (s1/duplicate-unique-install? s a)
