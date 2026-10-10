@@ -389,7 +389,11 @@
   (let [obs (:obs env)
         t (get-in env [:weights :rich-credit])]
     (when (and t (>= (credits env) t)
-               (< (count (get-in obs [side :hand])) (or (get-in obs [side :hand-size :total]) 5))
+               (or (< (count (get-in obs [side :hand])) (or (get-in obs [side :hand-size :total]) 5))
+                   ;; :rich-dig: a rich Corp with no agenda in HQ digs even at a full hand (CM seed 550291,
+                   ;; worlds-2018-b: credit clicks at 19+ credits holding five assets, no agenda for turns)
+                   (and (= side :corp) (w env :rich-dig)
+                        (not-any? #(= "Agenda" (ptype (:title %))) (get-in obs [:corp :hand]))))
                (> (count (get-in obs [side :deck])) 5))
       (act env :draw))))
 
@@ -1067,6 +1071,18 @@
        (let [pay (some #(when (re-find #"(?i)^Pay (\d+) \[Credits?\]" (str (:label %))) %) (acts env :choice))
              n (parse-long (second (re-find #"(?i)^Pay (\d+)" (str (:label pay)))))]
          (if (<= n (credits env)) pay (choice env #"(?i)end the run")))
+       ;; "pay N or trash an installed card" (Fairchild): pay when affordable (f7 log-07: at 4 credits the
+       ;; Runner trashed Paperclip and Tech Trader instead of paying 2 twice)
+       (and (some #(re-find #"(?i)^Pay (\d+) \[Credits?\]" (str (:label %))) (acts env :choice))
+            (choice env #"(?i)^Trash an installed card"))
+       (let [pay (some #(when (re-find #"(?i)^Pay (\d+) \[Credits?\]" (str (:label %))) %) (acts env :choice))
+             n (parse-long (second (re-find #"(?i)^Pay (\d+)" (str (:label pay)))))]
+         (if (<= n (credits env)) pay (choice env #"(?i)^Trash an installed card")))
+       ;; forced to trash one of its own installed cards: the cheapest that is not a breaker or console
+       (and (seq (acts env :select)) (re-find #"(?i)^Choose an installed card to trash" msg))
+       (select-best env (fn [c] (let [t (:title c)]
+                                  (- (if (or (cards/icebreaker? t) (some #{"Console"} (:subtypes (cards/printed t)))) 30 50)
+                                     (or (cards/play-cost t) 0)))))
        ;; manual subroutine breaking: ETR first, then damage, then the rest
        (re-find #"(?i)^Break a subroutine" msg)
        (let [cs (remove #(re-find #"^Done$" (str (:label %))) (acts env :choice))
