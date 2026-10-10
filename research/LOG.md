@@ -1076,3 +1076,9 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - The Runner's always-on fixes since RC41's freeze (prompt pay-or-trash, Passport, Void) plus the new knobs (`:breach-damage`, `:rich-dig`, and CO's `:pressure-first`, `:trace-link`, `:free-run-first`) are the material for RC42. Next job (CQ, after CO): A/B `:breach-damage` and `:rich-dig`, plus a cross-job check of the always-on fixes vs co-rc41.
   - Two more wall-run games (550051 worlds-2022-b, 550099): **counter-paid breakers were modelled as one activation per counter.** Endurance spends 2 power counters a use. With 1 counter the model broke (5 failed activations, then the subroutines fired). With 2 it planned two breaks and spent the one real break on a 1-damage Anemone before the Chiyashi it was needed for. Always-on fix (`9423f3a`): activations = counters / cost per use.
   - CQ re-frozen at `9423f3a` before it started, so its cq-rc41 vs co-rc41 check covers all four always-on fixes.
+- **Job CO result** (RC41 base, frozen `cp`, vs `:s1ref`, seeds 570000–570299):
+  - Corp `:pressure-first` on corp-hard: 0.857 → 0.860 (+6/−5), null. Open-central proxy unchanged (0.43 → 0.45).
+  - Runner `:trace-link` on fresh8: 0.826 → 0.829 (+1/−0): it changed one game in 300, as expected for a rare trigger.
+  - Runner `:free-run-first` on fresh8: 0.826 → 0.839 (+19/−15, p = 0.61), null leaning positive.
+  - All three are adopted into RC42 as review- and puzzle-motivated neutrals (none negative).
+  - Of note: RC41's Runner wins only 0.826 against `:s1ref` on fresh8, which is the reviewed matchup. Losses are rated ~2, so Runner losses to S1 are a direct lever on the review mean.
