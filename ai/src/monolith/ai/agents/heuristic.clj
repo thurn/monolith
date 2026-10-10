@@ -155,6 +155,18 @@
                   c)]
       (when (seq cands) a))))
 
+(defn- hq-before-rd?
+  "Central ice order. R&D first by default; :hq-first puts HQ first while it holds an agenda. With
+  :pressure-first, a central the Runner got into last turn goes first when the other was not hit
+  (f6 log-11: four R&D runs a turn, Fairchild 3.0 went on the unrun HQ because it held an agenda)."
+  [env]
+  (let [obs (:obs env)
+        hit (set (get-in obs [:runner :register-last-turn :successful-run]))]
+    (cond
+      (and (w env :pressure-first) (hit :rd) (not (hit :hq))) false
+      (and (w env :pressure-first) (hit :hq) (not (hit :rd))) true
+      :else (boolean (and (w env :hq-first) (some #(= "Agenda" (ptype (:title %))) (get-in obs [:corp :hand])))))))
+
 (defn c-protect-centrals
   "Ice an unprotected HQ/R&D."
   [env]
@@ -164,8 +176,7 @@
      ;; R&D first: the Runner's usual first target (reviews: R&D bare for 3-5 turns while HQ was iced);
      ;; with :hq-first, HQ first while it holds an agenda (m35 log-10: Anemone on R&D, See How They Run
      ;; and two more agendas taken from the open HQ by turn 3)
-     (for [server (if (and (w env :hq-first) (some #(= "Agenda" (ptype (:title %))) (get-in obs [:corp :hand])))
-                    ["HQ" "R&D"] ["R&D" "HQ"])
+     (for [server (if (hq-before-rd? env) ["HQ" "R&D"] ["R&D" "HQ"])
            :let [ices (srv/ices obs (srv/server-key server))]
            ;; :etr-protect: ice without an end-the-run subroutine does not protect (m40 log-04: R&D behind a
            ;; lone Wave; m40 log-19: HQ behind only Vertigo, two agendas lost)
@@ -189,8 +200,7 @@
       (first
        ;; :hq-first: HQ first while it holds an agenda (m36 log-11: Next Big Thing revealed in HQ, the drawn
        ;; ice went to R&D and NBT was stolen through HQ's single ice)
-       (for [[server k] (if (and (w env :hq-first) (some #(= "Agenda" (ptype (:title %))) (get-in obs [:corp :hand])))
-                          [["HQ" :hq] ["R&D" :rd]] [["R&D" :rd] ["HQ" :hq]])
+       (for [[server k] (if (hq-before-rd? env) [["HQ" :hq] ["R&D" :rd]] [["R&D" :rd] ["HQ" :hq]])
              :when (and (hit k) (< (count (srv/ices obs k)) 2))
              a (sort-by #(- (ice-score (card-title %))) installs)
              :when (and (= server (get-in a [:args :server]))
