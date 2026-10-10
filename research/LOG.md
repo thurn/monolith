@@ -1013,3 +1013,10 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **Job CN** (frozen `cn` = `e3afa56`, starts when CM ends, ~1,800 games):
   - Runner vs the RC28 champion on fresh decks, seeds 550000–550299 (cn-rc40 also pairs with cm-rc40, which measures the break-cost fix): arms `:tagged-install` and `:follow-check`.
   - Corp vs the RC28 champion Runner on fresh decks (vs `:s1ref` the Corp is saturated at 0.95), seeds 560000–560299: arms `:overwrite-trap` and `:follow-check`.
+- **Rollouts prefer agendas one turn from scoring over scoring them** (f4 log-10, Corp, classique-2026-a: "could have triple-advanced Remote Enforcement for the score but advanced once and clicked for credits; it was stolen"). The full-game replay reproduces it.
+  - At turn start S1 says `:advance-to-score` (Hyperloop Extension). The search line [advance ×3, score] is the beam's best (−2.1 vs −25).
+  - The rerank rollouts give [credit, advance Remote Enforcement, credit] **+39.9 in all 4 samples** against −3.4 for scoring now. That beats the 30-point score margin, so the plan overrides S1.
+  - Cause: the rollout leaf is the Corp's next turn with fresh clicks. `:scorable-agendas` counts every agenda in reach *individually* against the whole click and credit budget, so the two agendas needing 2 and 3 advancements both count with 3 clicks. Each counts at 2.5× (the `:eval` weight) the value of the same agenda once scored. Keeping agendas one turn from scoring therefore beats scoring, which fits the reviewer pattern of "advancing over two/three turns".
+  - New opt-in `:scorable-joint` (`cb9f20f`): agendas in reach are allocated jointly (cheapest first), and each counts at most its scored value after the feature weight. At this decision the stale line drops to +1.5 and the Corp scores. Smoke: 0 stalls.
+  - Job CN gets a Corp arm cn-sj (frozen `cn` re-frozen at `cb9f20f`).
+  - Also new: a planner debug line per rerank sample (under `*debug*` only).
