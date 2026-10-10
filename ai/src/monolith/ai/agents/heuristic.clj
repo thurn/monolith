@@ -808,6 +808,23 @@
       (swap! (:mem env) assoc :run-target k)
       a)))
 
+(defn r-free-run
+  "With :free-run-first, S1's run comes before breaker installs when every ice on its target is
+  unrezzed and the Corp cannot afford to rez it (puzzle runner-run-central-when-corp-broke: Unity
+  installed with the last 3 credits while HQ, behind an unrezzable Karuna, held 3 agendas)."
+  [env]
+  (when (w env :free-run-first)
+    (let [obs (:obs env)
+          cr (or (get-in obs [:corp :credit]) 0)
+          rez (fn [t] (or (:rez-cost (cards/printed-ice-model t false)) 0))
+          pool (keys (srv/ice-pool obs (corp-decklist env)))
+          pool-min (if (seq pool) (apply min (map rez pool)) 0)
+          free? (fn [k] (every? #(and (not (:rezzed %)) (< cr (if (and (:title %) (not (:hidden %))) (rez (:title %)) pool-min)))
+                                (srv/ices obs k)))]
+      (when-let [a (r-run env)]
+        (when-let [k (:run-target @(:mem env))]
+          (when (free? k) a))))))
+
 (defn have-breaker-for [obs subtype]
   (some #(contains? (cards/breaker-types (:title %)) subtype) (get-in obs [:runner :rig :program])))
 
@@ -960,6 +977,7 @@
   [[:remove-tag r-remove-tag]
    [:safety-draw r-safety-draw]
    [:econ-critical (fn [env] (when (< (credits env) (w env :runner-econ-floor)) (r-econ env)))]
+   [:free-run r-free-run]
    [:install-breaker r-install-breaker]
    [:dig-breakers r-dig-breakers]
    [:run r-run]
