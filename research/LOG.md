@@ -1047,3 +1047,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - The one dev failure, `runner-run-central-when-corp-broke` (HQ with 3 agendas behind an unrezzable Karunā, Corp at 0 credits), fails because S1's `:install-breaker` rule precedes `:run`: S1 spends its last 3 credits on Unity. The planner, anchored to that, mostly follows it.
   - New opt-in `:free-run-first` (`ffbf83d`): S1's run goes before breaker installs when every ice on the target is unrezzed and the Corp cannot afford to rez it (pool minimum for hidden ice). The puzzle goes from 1/3 to 2/3 seeds (solved). Smoke: 0 stalls.
   - Correction to the theme list above: frunner3 log-07's "one R&D run per turn" against a broke Corp was right. R&D's top card does not change within a turn, and the Corp drew 4 a turn. That note was a reviewer misread too.
+- **Job CN, Corp half** (vs the RC28 champion Runner on fresh decks, seeds 560000–560299, ~296 pairs per arm):
+  - `:follow-check` **0.522 → 0.566 (+41/−28, p = 0.15)**: positive trend; into RC41.
+  - `:overwrite-trap` 0.524 → 0.520 (+11/−12): null (rare trigger). Adopted as a review-motivated neutral (f7 log-02).
+  - `:scorable-joint` 0.524 → 0.510 (+19/−23, p = 0.64): null leaning negative. Not adopted. The f4 log-10 blunder it fixes stays open; I'd retest it on top of `:follow-check` if it recurs in reviews.
+  - The Runner half (`:tagged-install`, `:follow-check`, break-cost fix) ends around 04:30.

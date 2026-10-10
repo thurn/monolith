@@ -1,5 +1,20 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-10 01:30 (R4, autonomous phase)
+
+- **Best agent:** RC36 (`job-K36.clj`, frozen `by`) is still the only agent meeting T2 on held-out (review 3.40 / 3.50). Candidate RC40 (= RC39 spec) failed the fresh gate: f5–f8 pooled 3.475 (bar 3.5), frunner3 2.90 (bar 3.2).
+- **Since then:**
+  - Always-on fixes (heap-breaker re-install, Élivágar self-derez, variable economy, pump-and-break pricing). The Runner part is +31/−13 paired (p ≈ 0.01).
+  - CN Corp: `:follow-check` +41/−28 (into RC41); `:overwrite-trap` null (adopted, review-motivated); `:scorable-joint` null (not adopted).
+  - New opt-in knobs, smoke-tested: `:pressure-first` (Corp), `:trace-link` and `:free-run-first` (Runner). Puzzles on current code: dev 0.95, held-out 1.00.
+  - The gate moves to the pre-registered fresh-2 decks (LOG). The fresh8 decks are now a mining pool.
+- **Ladder:** T2 met (RC36). T3 puzzles met. T3 review not met.
+- **Running:** job CN Runner half (frozen `cn`), ends around 04:30.
+- **Next 3:**
+  - (1) RC41 = RC40 + Corp `:follow-check` + `:overwrite-trap` + the CN Runner winners. Gate on fresh-2: 4 two-sided sets + 1 Runner-only set, seeds from 202780, frozen worktree, sequential reviews.
+  - (2) Job CO alongside the reviews: `:pressure-first`, `:trace-link`, `:free-run-first` on top of RC41.
+  - (3) If the gate passes, K41 (held-out review, replication, T2); otherwise mine the fresh8 notes again.
+
 ## Status 2026-10-09 13:35 (R4, autonomous phase)
 
 - **Best agent:** RC36 (`job-K36.clj`, frozen `by`): the only candidate meeting T2 on held-out; held-out review 3.40 / 3.50.
