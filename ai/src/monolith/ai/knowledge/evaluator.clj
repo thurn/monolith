@@ -200,6 +200,19 @@
           (or (zero? kills) (zero? n)) 0.0
           :else (max (or floor 0.0) (- 1.0 (Math/pow (- 1.0 (/ kills (double n))) h)))))))))
 
+(defn- score-kill
+  "With :score-kill: chance that the Corp flatlines the Runner by scoring next turn, through identity
+  damage on every score (Jinteki: Personal Evolution). 0.8 when a remote holds an advanced card (likely a
+  scorable agenda) and that damage would empty the grip (CR: RC42 Runners ended turns at 0-1 cards and
+  were flatlined by PE on the Corp's next score, 11 of 17 flatlines on classique-2025-a)."
+  [s]
+  (let [d (srv/id-steal-damage s)
+        grip (count (get-in s [:runner :hand]))]
+    (if (and (pos? d) (>= d grip)
+             (some (fn [[k srv]] (and (re-find #"remote" (name k)) (some #(pos? (or (:advance-counter %) 0)) (:content srv))))
+                   (get-in s [:corp :servers])))
+      0.8 0.0)))
+
 (defn- tag-punisher? [title]
   (boolean (re-find #"(?i)runner is tagged|for each tag|trash (1|a|an installed) resource|meat damage|if the runner has (a|any|\d+) tags?|tagged runner"
                     (str (:text (cards/printed title))))))
@@ -381,7 +394,9 @@
      :hq-flood (- (* 0.5 ap-value (max 0 (- (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) corp-hand))) 2))))
      :asset-econ (if (pos? (get-in w [:eval :asset-econ] 0.0)) (asset-econ s corp-installed) 0.0)
      ;; tagged Runner with a small grip against a deck that kills (credits-equivalent of ~0.1 win per 1.0 probability)
-     :kill-threat (if (pos? (get-in w [:eval :kill-threat] 0.0)) (* 100.0 (kill-threat s (:respect-kill w))) 0.0)
+     :kill-threat (if (pos? (get-in w [:eval :kill-threat] 0.0))
+                    (* 100.0 (max (kill-threat s (:respect-kill w)) (if (:score-kill w) (score-kill s) 0.0)))
+                    0.0)
      :central-threat (if (pos? (get-in w [:eval :central-threat] 0.0)) (central-threat s w) 0.0)
      :agendas-in-archives (* -0.8 ap-value (reduce + 0 (map #(srv/ap (:title %)) (filter #(= "Agenda" (:type %)) (get-in s [:corp :discard])))))
      :installed-agendas (reduce + 0.0 (for [[k _] (srv/remotes s) c (srv/content s k)
