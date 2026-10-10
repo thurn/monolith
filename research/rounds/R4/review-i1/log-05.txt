@@ -1,0 +1,330 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 12
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to play Account Siphon.
+Runner uses Account Siphon to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Galahad protecting HQ at position 0.
+Runner encounters Galahad protecting HQ at position 0.
+Runner has no further action.
+Corp uses Galahad to end the run.
+Corp resolves 1 unbroken subroutine on Galahad ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 2 credits to play Inside Job.
+Runner uses Inside Job to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Runner uses Inside Job to bypass Lancelot protecting R&D at position 0.
+Runner bypasses Lancelot.
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 7 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Lancelot ("[subroutine] Trash a program").
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Beale and gains 2 agenda points.
+Runner is ending their turn 2 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 11 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Corp uses Lancelot to reveal Merlin from HQ.
+Runner has no further action.
+Corp uses Lancelot to do 2 net damage.
+Corp trashes Account Siphon and Sure Gamble due to net damage.
+Corp resolves 2 unbroken subroutines on Lancelot ("[subroutine] Do 2 net damage" and "[subroutine] Trash a program").
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 13 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 13 credits and 3 cards in the grip.
+Runner spends click and pays 9 credits to install Femme Fatale.
+Runner uses Femme Fatale to target Galahad protecting HQ at position 0.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 4 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install Security Testing.
+Runner spends click to make a run on R&D.
+Runner approaches Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Corp uses Lancelot to reveal Merlin from HQ.
+Runner pays 2 credits to use Femme Fatale to break all 2 subroutines on Lancelot.
+Runner has no further action.
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 4 credits and 4 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Corp uses Lancelot to reveal Merlin from HQ.
+Runner pays 2 credits to use Femme Fatale to break all 2 subroutines on Lancelot.
+Runner has no further action.
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Remastered Edition and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 4 credits and 5 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Corp uses Lancelot to reveal Merlin from HQ.
+Runner pays 2 credits to use Femme Fatale to break all 2 subroutines on Lancelot.
+Runner has no further action.
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 7 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 5 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 5 credits and 5 cards in the grip.
+Runner uses Security Testing to target No server.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Corp uses Lancelot to reveal Merlin from HQ.
+Runner pays 2 credits to use Femme Fatale to break all 2 subroutines on Lancelot.
+Runner has no further action.
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Beale and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner approaches Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Corp uses Lancelot to reveal Merlin from HQ.
+Runner pays 2 credits to use Femme Fatale to break all 2 subroutines on Lancelot.
+Runner has no further action.
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 8 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 23 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 0 credits to play Shipment from SanSan.
+Corp uses Shipment from SanSan to do nothing.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 2 credits and 5 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Corp uses Lancelot to reveal Merlin from HQ.
+Runner pays 2 credits to use Femme Fatale to break all 2 subroutines on Lancelot.
+Runner has no further action.
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 9 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 23 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 26 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 3 credits and 5 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 4 credits to install R&D Interface.
+Runner spends click to make a run on R&D.
+Runner approaches Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Corp uses Lancelot to reveal Merlin from HQ.
+Runner has no further action.
+Corp uses Lancelot to do 2 net damage.
+Corp trashes Inside Job and Special Order due to net damage.
+Corp uses Lancelot to trash Femme Fatale.
+Corp resolves 2 unbroken subroutines on Lancelot ("[subroutine] Do 2 net damage" and "[subroutine] Trash a program").
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 10 with 1 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 11 with 26 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 29 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 1 credits and 2 cards in the grip.
+Runner uses Security Testing to target No server.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 11 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 29 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 32 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 3 credits and 3 cards in the grip.
+Runner uses Security Testing to target Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Lancelot protecting R&D at position 0.
+Runner encounters Lancelot protecting R&D at position 0.
+Corp uses Lancelot to reveal Merlin from HQ.
+Runner has no further action.
+Corp uses Lancelot to do 2 net damage.
+Corp trashes Dirty Laundry and Sneakdoor Beta due to net damage.
+Corp resolves 2 unbroken subroutines on Lancelot ("[subroutine] Do 2 net damage" and "[subroutine] Trash a program").
+Runner passes Lancelot protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 4 credits to steal NAPD Contract from R&D.
+Runner steals NAPD Contract and gains 2 agenda points.
+Runner wins the game.

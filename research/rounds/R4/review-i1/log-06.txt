@@ -1,0 +1,315 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 8
+
+[!] Whizzard: Master Gamer - Recurring credits usage not restricted
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install Earthrise Hotel, lowering its install cost by 1 credits. Mimic and Parasite are trashed as a result.
+Runner pays 3 credits to install Earthrise Hotel from among the set-aside cards (paying 1 credits less).
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Psychographics.
+Corp uses Psychographics to do nothing.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 5 cards in the grip.
+Runner uses Earthrise Hotel to draw 2 cards.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click and pays 3 credits to install Mimic.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 0 credits to rez Resistor protecting HQ at position 0.
+Runner encounters Resistor protecting HQ at position 0.
+Runner has no further action.
+Corp uses Resistor to initiate a trace with strength 4 (End the run).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Resistor to end the run.
+Corp resolves 1 unbroken subroutine on Resistor ("[subroutine] Trace 4 - End the run").
+Runner is ending their turn 2 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 5 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp is ending their turn 3 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 10 credits and 5 cards in the grip.
+Runner uses Earthrise Hotel to draw 2 cards.
+Runner spends click and pays 2 credits to install Parasite on Resistor protecting HQ at position 0.
+[!] Parasite - [Erratum] Program: Virus - Trojan
+Runner uses Parasite to trash Resistor.
+ Resistor protecting HQ at position 0 has left play: Parasite is trashed.
+Corp uses NBN: Controlling the Message to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses NBN: Controlling the Message to give the Runner 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Beale from HQ.
+Runner steals Project Beale and gains 2 agenda points.
+Runner is ending their turn 3 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 13 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 5 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 12 credits and 5 cards in the grip.
+Runner uses Earthrise Hotel to draw 2 cards.
+Runner trashes Earthrise Hotel.
+Runner spends click and pays 5 credits to install Yog.0.
+Runner spends click and pays 0 credits to install Progenitor.
+Runner spends click and pays 0 credits to install Net-Ready Eyes.
+Runner uses Net-Ready Eyes to suffer 2 meat damage.
+Runner trashes Datasucker and I've Had Worse due to meat damage.
+Runner uses I've Had Worse to draw 3 cards.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses PAD Campaign from HQ.
+Runner pays 4 credits to trash PAD Campaign from HQ.
+Runner is ending their turn 4 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 17 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 0 credits to rez Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner pays 0 credits to use Yog.0 to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sensie Actors Union from HQ.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner pays 0 credits to use Yog.0 to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on R&D.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 0 credits to rez Pop-up Window protecting R&D at position 0.
+Runner encounters Pop-up Window protecting R&D at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner pays 0 credits to use Yog.0 to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 5 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 20 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 4 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Pop-up Window protecting R&D at position 0.
+Runner encounters Pop-up Window protecting R&D at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner pays 0 credits to use Yog.0 to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Breaking News and gains 1 agenda point.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner spends click and pays 4 credits to install Temüjin Contract.
+Runner uses Temüjin Contract to target R&D.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Pop-up Window protecting R&D at position 0.
+Runner encounters Pop-up Window protecting R&D at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner pays 0 credits to use Yog.0 to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits to trash Commercial Bankers Group from R&D.
+Runner is ending their turn 6 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 26 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 7 with 26 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 11 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to make a run on Server 1.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 0 credits to rez Resistor protecting Server 1 at position 0.
+Runner encounters Resistor protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Resistor to initiate a trace with strength 4 (End the run).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Resistor to end the run.
+Corp resolves 1 unbroken subroutine on Resistor ("[subroutine] Trace 4 - End the run").
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Pop-up Window protecting R&D at position 0.
+Runner encounters Pop-up Window protecting R&D at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner pays 0 credits to use Yog.0 to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Beale and gains 2 agenda points.
+Runner is ending their turn 7 with 17 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 27 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores AstroScript Pilot Program and gains 2 agenda points.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 17 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Pop-up Window protecting R&D at position 0.
+Runner encounters Pop-up Window protecting R&D at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner pays 0 credits to use Yog.0 to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner uses Temüjin Contract to gain 4 credits.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install Daily Casts, lowering its install cost by 1 credits. Paperclip and Temüjin Contract are trashed as a result.
+Runner pays 2 credits to install Daily Casts from among the set-aside cards (paying 1 credits less).
+Runner spends click to make a run on HQ.
+Runner uses Net-Ready Eyes to give Mimic +1 strength.
+Runner approaches Pop-up Window protecting HQ at position 0.
+Runner encounters Pop-up Window protecting HQ at position 0.
+Corp uses Pop-up Window to gain 1 credits.
+Runner pays 0 credits to use Yog.0 to break all 1 subroutines on Pop-up Window.
+Runner has no further action.
+Runner passes Pop-up Window protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner wins the game.

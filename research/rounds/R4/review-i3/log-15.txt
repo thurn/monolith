@@ -1,0 +1,847 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 32
+
+[!] Ele "Smoke" Scovak: Cynosure of the Net - Recurring credits usage not restricted
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 5 credits.
+Corp is ending their turn 1 with 13 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Houdini.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 13 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Switchblade.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 6 credits to rez Data Ward protecting HQ at position 0.
+Runner encounters Data Ward protecting HQ at position 0.
+Corp uses Data Ward to force the runner to pay 3 credits on encountering it.
+Runner pays 3 credits.
+Runner has no further action.
+Corp resolves 4 unbroken subroutines on Data Ward ("[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged").
+Runner passes Data Ward protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses SanSan City Grid from HQ.
+Runner is ending their turn 2 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 1 credits and 5 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Data Ward protecting HQ at position 0.
+Runner encounters Data Ward protecting HQ at position 0.
+Corp uses Data Ward to force the runner to pay 3 credits on encountering it.
+Runner pays 3 credits.
+Runner has no further action.
+Corp resolves 4 unbroken subroutines on Data Ward ("[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged").
+Runner passes Data Ward protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner is ending their turn 3 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 0 credits and 4 cards in the grip.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Data Ward protecting HQ at position 0.
+Runner encounters Data Ward protecting HQ at position 0.
+Corp uses Data Ward to force the runner to pay 3 credits on encountering it.
+Runner pays 3 credits.
+Runner has no further action.
+Corp resolves 4 unbroken subroutines on Data Ward ("[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged").
+Runner passes Data Ward protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Breaking News from HQ.
+Runner steals Breaking News and gains 1 agenda point.
+Runner is ending their turn 4 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 1 credits and 4 cards in the grip.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Data Ward protecting HQ at position 0.
+Runner encounters Data Ward protecting HQ at position 0.
+Corp uses Data Ward to force the runner to pay 3 credits on encountering it.
+Runner pays 3 credits.
+Runner has no further action.
+Corp resolves 4 unbroken subroutines on Data Ward ("[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged" and "[subroutine] End the run if the Runner is tagged").
+Runner passes Data Ward protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses SanSan City Grid from HQ.
+Runner is ending their turn 5 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp is ending their turn 6 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 2 credits and 4 cards in the grip.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 6 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 5 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 8 credits to rez Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 1 credits to install Ghost Runner.
+Runner is ending their turn 7 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to play Indexing.
+Runner uses Indexing to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 8 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 2 credits and 5 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click and pays 1 credits to install Cloak.
+[!] Cloak - Recurring credits usage not restricted
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 9 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 2 credits and 4 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Clone Chip to do nothing.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 10 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 2 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Clone Chip to do nothing.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 11 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp is ending their turn 12 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 1 credits and 5 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner uses Clone Chip to do nothing.
+Runner spends click and pays 1 credits to install New Angeles City Hall.
+Runner is ending their turn 12 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 1 credits and 4 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 14 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 14 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 3 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 15 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 16 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 3 credits and 4 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Clone Chip to do nothing.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Clone Chip to do nothing.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 3 credits and 5 cards in the grip.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Clone Chip to do nothing.
+Runner spends click and pays 2 credits to install Clot.
+Runner is ending their turn 17 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 18 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 1 credits and 4 cards in the grip.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Clone Chip to do nothing.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 18 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 1 credits and 5 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Clone Chip to do nothing.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 19 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 20 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 20 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 2 credits and 5 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner uses Clone Chip to do nothing.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 20 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 21 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 21 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 4 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Astrolabe.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 21 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 22 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 22 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 3 credits and 5 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner uses Clone Chip to do nothing.
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 22 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 23 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 23 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 23 with 4 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Hunting Grounds.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner uses Hunting Grounds to prevent the encounter ability on Tollbooth.
+Runner pays 1 credits from Cloak and 2 credits from their credit pool to increase the strength of Houdini to 6 and break all  subroutines on Tollbooth.
+Runner has no further action.
+Runner passes Tollbooth protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 23 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 24 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 24 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 24 with 2 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner trashes Hunting Grounds to use Hunting Grounds to install the top 3 cards of the stack facedown.
+Runner uses Hunting Grounds to install a card facedown from the Stack.
+Runner uses Hunting Grounds to install a card facedown from the Stack.
+Runner uses Hunting Grounds to install a card facedown from the Stack.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 24 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 25 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 25 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 25 with 4 credits and 5 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner uses Clone Chip to do nothing.
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner uses Clone Chip to do nothing.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 25 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 26 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 26 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 26 with 5 credits and 5 cards in the grip.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 4 credits to install R&D Interface.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 26 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 27 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 27 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 27 with 2 credits and 4 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner uses Clone Chip to do nothing.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 27 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 28 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Ghost Runner.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 28 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 28 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner uses Clone Chip to do nothing.
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Project Beale from Archives.
+Runner steals Project Beale and gains 2 agenda points.
+Runner uses New Angeles City Hall to trash itself.
+Runner uses Clone Chip to do nothing.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 28 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 29 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 29 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 29 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 29 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 30 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 30 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 30 with 3 credits and 5 cards in the grip.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner uses Cloak to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 30 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 31 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to play Psychographics.
+Corp uses Psychographics to do nothing.
+Corp is ending their turn 31 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 31 with 4 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 31 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 32 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 32 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 32 with 5 credits and 5 cards in the grip.
+Runner uses Clone Chip to do nothing.
+Runner uses Ele "Smoke" Scovak: Cynosure of the Net to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner pays 1 credits from Cloak and 2 credits from their credit pool to increase the strength of Houdini to 6 and break all  subroutines on Tollbooth.
+Runner has no further action.
+Runner passes Tollbooth protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Archangel.
+Corp pays 3 credits to use Archangel to force the Runner to encounter it.
+Runner encounters Archangel in R&D.
+Runner has no further action.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Project Beale from Archives.
+Runner steals Project Beale and gains 2 agenda points.
+Runner wins the game.

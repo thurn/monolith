@@ -1,0 +1,644 @@
+Review the RUNNER's play in this game.
+Winner: runner (Decked), turn 35
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Faust.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Scheherazade, Lamprey, D4v1d, and Mimic from the top of the stack, trashes them, and gains 4 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner trashes 3 cards (Lamprey, Grimoire, and Déjà Vu) from the grip to increase the strength of Faust to 4 and break all 2 subroutines on Eli 1.0.
+Runner has no further action.
+Runner passes Eli 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Restructure from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 6 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 2 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 2 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Datasucker.
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner is ending their turn 2 with 5 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click and pays 10 credits to play Restructure.
+Corp uses Restructure to gain 15 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 15 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install Datasucker, lowering its install cost by 1 credits. Adjusted Chronotype and Inject are trashed as a result.
+Runner pays 0 credits to install Datasucker from among the set-aside cards (paying 1 credits less).
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 16 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends clickclick and pays 3 credits to play Celebrity Gift.
+Corp uses Celebrity Gift to reveal Corporate Sales Team, Jackson Howard, and Jackson Howard from HQ and gain 6 credits.
+Corp is ending their turn 4 with 18 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Lotus Field protecting R&D at position 0.
+Runner encounters Lotus Field protecting R&D at position 0.
+Runner trashes 2 cards (Faust and Medium) from the grip to increase the strength of Faust to 4 and break all  subroutines on Lotus Field.
+Runner has no further action.
+Runner passes Lotus Field protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 14 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 5 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 1 credits to install Cache.
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner trashes 3 cards (Levy AR Lab Access, Grimoire, and Datasucker) from the grip to increase the strength of Faust to 4 and break all 2 subroutines on Eli 1.0.
+Runner has no further action.
+Runner passes Eli 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Corporate Sales Team from HQ.
+Runner steals Corporate Sales Team and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 8 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 6 with 13 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 3 credits to install ice protecting Server 1.
+Corp is ending their turn 6 with 14 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 8 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner trashes 3 cards (Street Peddler, Imp, and Clot) from the grip to increase the strength of Faust to 4 and break all 2 subroutines on Eli 1.0.
+Runner has no further action.
+Runner passes Eli 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Jackson Howard from HQ.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 6 with 8 credits and 1 card in the grip.
+[hr]
+Corp started their turn 7 with 15 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends clickclick and pays 0 credits to play Interns.
+Corp pays 0 credits to use Interns to install Cobra from Archives protecting Archives.
+Corp is ending their turn 7 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 8 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Lotus Field protecting R&D at position 0.
+Runner encounters Lotus Field protecting R&D at position 0.
+Runner trashes 2 cards (Cache and Aesop's Pawnshop) from the grip to increase the strength of Faust to 4 and break all  subroutines on Lotus Field.
+Runner has no further action.
+Runner passes Lotus Field protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 7 with 8 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 8 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 8 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Lotus Field protecting R&D at position 0.
+Runner encounters Lotus Field protecting R&D at position 0.
+Runner trashes 2 cards (Street Peddler and Medium) from the grip to increase the strength of Faust to 4 and break all  subroutines on Lotus Field.
+Runner has no further action.
+Runner passes Lotus Field protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 8 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 20 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 8 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Lotus Field protecting R&D at position 0.
+Runner encounters Lotus Field protecting R&D at position 0.
+Runner trashes 2 cards (Lamprey and Déjà Vu) from the grip to increase the strength of Faust to 4 and break all  subroutines on Lotus Field.
+Runner has no further action.
+Runner passes Lotus Field protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 24 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 9 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Lotus Field protecting R&D at position 0.
+Runner encounters Lotus Field protecting R&D at position 0.
+Runner trashes 2 cards (Clot and Aesop's Pawnshop) from the grip to increase the strength of Faust to 4 and break all  subroutines on Lotus Field.
+Runner has no further action.
+Runner passes Lotus Field protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 10 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 28 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 31 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 9 credits and 4 cards in the grip.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Parasite, D4v1d, Parasite, and Cache from the top of the stack, trashes them, and gains 4 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner trashes 3 cards (Wyldside, Imp, and Imp) from the grip to increase the strength of Faust to 4 and break all 2 subroutines on Eli 1.0.
+Runner has no further action.
+Runner passes Eli 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Pup from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 13 credits and 1 card in the grip.
+[hr]
+Corp started their turn 12 with 32 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 35 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 13 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Adjusted Chronotype.
+Runner spends click to make a run on R&D.
+Runner approaches Lotus Field protecting R&D at position 0.
+Runner encounters Lotus Field protecting R&D at position 0.
+Runner trashes 2 cards (Wyldside and Déjà Vu) from the grip to increase the strength of Faust to 4 and break all  subroutines on Lotus Field.
+Runner has no further action.
+Runner passes Lotus Field protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner is ending their turn 12 with 10 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 13 with 36 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 39 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 10 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 11 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 14 with 40 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 43 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 11 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches Eli 1.0 protecting HQ at position 0.
+Runner encounters Eli 1.0 protecting HQ at position 0.
+Runner trashes 3 cards (Wyldside, Parasite, and Aesop's Pawnshop) from the grip to increase the strength of Faust to 4 and break all 2 subroutines on Eli 1.0.
+Runner has no further action.
+Runner passes Eli 1.0 protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Viper from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 14 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 15 with 43 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 3 credits to play Celebrity Gift.
+Corp uses Celebrity Gift to reveal Corporate Sales Team, Eli 1.0, Lotus Field, Nisei MK II, and Viper from HQ and gain 10 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 50 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 14 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 18 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 16 with 50 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 53 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 18 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 22 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 17 with 53 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 56 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 22 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 26 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 18 with 56 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 59 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 26 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 18 with 30 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 19 with 59 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 62 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 30 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 19 with 34 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 20 with 62 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 20 with 65 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 34 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 20 with 38 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 21 with 65 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 21 with 68 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 38 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 21 with 42 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 22 with 68 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 22 with 71 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 42 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 22 with 46 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 23 with 71 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 23 with 74 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 23 with 46 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 23 with 50 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 24 with 74 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 24 with 77 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 24 with 50 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 24 with 54 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 25 with 77 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 25 with 80 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 25 with 54 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 25 with 58 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 26 with 80 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 26 with 83 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 26 with 58 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 26 with 62 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 27 with 83 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 27 with 86 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 27 with 62 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 27 with 66 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 28 with 86 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 28 with 89 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 28 with 66 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 28 with 70 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 29 with 89 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 29 with 92 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 29 with 70 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 29 with 74 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 30 with 92 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 30 with 95 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 30 with 74 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 30 with 78 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 31 with 95 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 31 with 98 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 31 with 78 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 31 with 82 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 32 with 98 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 32 with 101 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 32 with 82 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 32 with 86 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 33 with 101 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 33 with 104 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 33 with 86 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 33 with 90 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 34 with 104 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 34 with 107 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 34 with 90 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 34 with 94 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 35 with 107 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp is decked.
+Runner wins the game.

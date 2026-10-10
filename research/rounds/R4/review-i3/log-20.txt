@@ -1,0 +1,178 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp pays 1 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play The Maker's Eye.
+Runner uses The Maker's Eye to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Successful Field Test and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting Server 1 at position 0 to HQ.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting Server 1 at position 0 to HQ.
+Runner spends clickclick and pays 1 credits to play Diversion of Funds.
+Runner uses Diversion of Funds to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses the replacement effect from Diversion of Funds.
+Runner uses Diversion of Funds to force the Corp to lose 5 credits,  and gain 5 credits.
+Runner spends click and pays 7 credits to install Amina.
+Runner is ending their turn 1 with 0 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp trashes ice protecting R&D at position 0.
+Corp pays 0 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Cyberdex Virus Suite.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Cyberdex Virus Suite.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Cyberdex Virus Suite.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner is ending their turn 2 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 0 credits and 3 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Cyberdex Virus Suite from HQ.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Cyberdex Virus Suite from HQ.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Cyberdex Virus Suite from HQ.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Lakshmi Smartfabrics from HQ.
+Runner is ending their turn 3 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Vitruvius and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting R&D at position 0 to HQ.
+Corp discards 2 from HQ at end of turn.
+Corp is ending their turn 4 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 0 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 4 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 0 credits and 3 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 2 credits to rez Tour Guide protecting R&D at position 0.
+Runner encounters Tour Guide protecting R&D at position 0.
+Runner has no further action.
+Runner passes Tour Guide protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add a card in the root of HQ to HQ.
+Runner spends click to make a run on R&D.
+Runner approaches Tour Guide protecting R&D at position 0.
+Runner encounters Tour Guide protecting R&D at position 0.
+Runner has no further action.
+Runner passes Tour Guide protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner wins the game.

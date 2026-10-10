@@ -1,0 +1,72 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 2
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Hostile Takeover and gains 1 agenda point.
+Corp uses Hostile Takeover to gain 7 credits and take 1 bad publicity.
+Corp is ending their turn 1 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 4 credits to install Cerberus "Lady" H1.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to play SEA Source.
+Corp uses SEA Source to initiate a trace with strength 3 (Trace 3 - Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses SEA Source to give the Runner 1 tag.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Ice Wall from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Ice Wall from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Snare! from HQ.
+Corp pays 4 credits to use Snare! to give the Runner 1 tag and do 3 net damage.
+Corp trashes Clot, Scavenge, and Technical Writer due to net damage.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Snare! from HQ.
+Corp pays 4 credits to use Snare! to give the Runner 1 tag and do 3 net damage.
+Corp trashes Artist Colony due to net damage.
+Runner is flatlined.
+Corp wins the game.

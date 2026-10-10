@@ -1,0 +1,233 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 11
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Chameleon.
+Runner uses Chameleon to choose Barrier.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 6 credits and 4 cards in the grip.
+[hr]
+Runner uses Chameleon to add itself to Grip.
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp spends click to install Oaktown Renovation in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 2.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp is ending their turn 2 with 6 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Chameleon.
+Runner uses Chameleon to choose Barrier.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 5 credits to rez Changeling protecting Server 2 at position 0.
+Runner encounters Changeling protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Changeling to end the run.
+Corp resolves 1 unbroken subroutine on Changeling ("[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 4 credits and 4 cards in the grip.
+[hr]
+Runner uses Chameleon to add itself to Grip.
+Corp started their turn 3 with 1 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 2.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 2.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 2.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp scores Oaktown Renovation and gains 2 agenda points.
+Corp is ending their turn 3 with 4 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 4 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Chameleon.
+Runner uses Chameleon to choose Barrier.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 5 credits and 4 cards in the grip.
+[hr]
+Runner uses Chameleon to add itself to Grip.
+Corp started their turn 4 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 4 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Chameleon.
+Runner uses Chameleon to choose Barrier.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Cobra protecting Server 1 at position 0.
+Runner encounters Cobra protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Cobra to trash Chameleon.
+Corp uses Cobra to do 2 net damage.
+Corp trashes Aesop's Pawnshop and Astrolabe due to net damage.
+Corp resolves 2 unbroken subroutines on Cobra ("[subroutine] Trash a program" and "[subroutine] Do 2 net damage").
+Runner passes Cobra protecting Server 1 at position 0.
+Runner jacks out.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 4 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Hostile Takeover and gains 1 agenda point.
+Corp uses Hostile Takeover to gain 7 credits and take 1 bad publicity.
+Corp is ending their turn 5 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 5 with 4 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Cobra protecting Server 1 at position 0.
+Runner encounters Cobra protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Cobra to do 2 net damage.
+Corp trashes Hunting Grounds and Technical Writer due to net damage.
+Corp resolves 2 unbroken subroutines on Cobra ("[subroutine] Trash a program" and "[subroutine] Do 2 net damage").
+Runner passes Cobra protecting Server 1 at position 0.
+Runner jacks out.
+Runner is ending their turn 5 with 6 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 6 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 6 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 6 with 6 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Cobra protecting Server 1 at position 0.
+Runner encounters Cobra protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Cobra to do 2 net damage.
+Corp trashes Fan Site and Stimhack due to net damage.
+Corp resolves 2 unbroken subroutines on Cobra ("[subroutine] Trash a program" and "[subroutine] Do 2 net damage").
+Runner passes Cobra protecting Server 1 at position 0.
+Runner jacks out.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 6 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 7 with 6 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 7 with 6 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Cobra protecting Server 1 at position 0.
+Runner encounters Cobra protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Cobra to do 2 net damage.
+Corp trashes Clot and Levy AR Lab Access due to net damage.
+Corp resolves 2 unbroken subroutines on Cobra ("[subroutine] Trash a program" and "[subroutine] Do 2 net damage").
+Runner passes Cobra protecting Server 1 at position 0.
+Runner jacks out.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 7 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 6 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Project Atlas and gains 2 agenda points.
+Corp is ending their turn 8 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 8 with 6 credits and 4 cards in the grip.
+Runner spends click and pays 4 credits to install Cerberus "Lady" H1.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Beanstalk Royalties.
+Corp uses Beanstalk Royalties to gain 3 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 0 credits to play Casting Call.
+Corp is ending their turn 9 with 10 credits and 1 card in HQ.
+[hr]
+Runner started their turn 9 with 5 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Cobra protecting Server 1 at position 0.
+Runner encounters Cobra protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Cobra to trash Cerberus "Lady" H1.
+Corp uses Cobra to do 2 net damage.
+Corp trashes R&D Interface and Technical Writer due to net damage.
+Corp resolves 2 unbroken subroutines on Cobra ("[subroutine] Trash a program" and "[subroutine] Do 2 net damage").
+Runner passes Cobra protecting Server 1 at position 0.
+Runner jacks out.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 10 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp pays 0 credits to rez Shattered Remains in Server 1.
+Corp pays 3 credits to rez Crisium Grid in Server 1.
+Corp spends click to install a card in the root of Server 2.
+Corp is ending their turn 10 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 10 with 6 credits and 3 cards in the grip.
+Runner spends click and pays 3 credits to install Atman.
+Runner pays 0 credits to use Atman to place 0 power counters on itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Project Atlas and gains 2 agenda points.
+Corp wins the game.

@@ -1,0 +1,63 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 3
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to play Beanstalk Royalties.
+Corp uses Beanstalk Royalties to gain 3 credits.
+Corp is ending their turn 1 with 8 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Cyber-Cypher.
+Runner uses Cyber-Cypher to target Archives.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 8 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 0 credits to play Casting Call.
+Corp uses Casting Call to install Project Atlas from HQ in the root of Server 1 (new remote).
+Corp hosts Casting Call on Project Atlas.
+Corp spends click and pays 0 credits to play Fast Track.
+Corp uses Fast Track to reveal Geothermal Fracking from R&D and add it to HQ.
+Corp is ending their turn 2 with 12 credits and 1 card in HQ.
+[hr]
+Runner started their turn 2 with 1 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Project Atlas from Server 1.
+Corp uses Casting Call to give the Runner 2 tags.
+ Project Atlas in Server 1 has left play: 1 facedown Corp card is trashed.
+Runner steals Project Atlas and gains 2 agenda points.
+Corp uses Argus Security: Protection Guaranteed to force the Runner to suffer 2 meat damage.
+Runner trashes Clone Chip and Stimhack due to meat damage.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 2 with 0 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 12 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to play SEA Source.
+Corp uses SEA Source to initiate a trace with strength 3 (Trace 3 - Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses SEA Source to give the Runner 1 tag.
+Corp spends click and pays 3 credits to play Scorched Earth.
+Corp uses Scorched Earth to do 4 meat damage.
+Corp trashes Aesop's Pawnshop and Artist Colony due to meat damage.
+Runner is flatlined.
+Corp wins the game.
