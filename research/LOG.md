@@ -1093,3 +1093,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Steals at 1 and 0 cards (seeds 570036, 570052): Fetal AI's 2 net damage on access and PE's 1 net damage on every steal were not modelled. A forced steal that kills was valued as 0, as if declined.
   - Always-on fix (`fc9ac41`): `agenda-access-value` adds access damage and identity steal damage (bound per game from the Corp identity's text). A forced lethal steal is a flatline. An optional one (with a steal cost) is declined, keeping the access damage. Central access risk counts the same damage on agendas, and the steal prompt adds the identity's damage.
   - Not fixed: Snare! on the last click leaving the Runner tagged at 1 card against Scorched Earth (570044, 570092). Pup/Komainu damage before a Snare! (570004) is what `:breach-damage` covers.
+- **Job CQ result** (frozen `cq` = `9423f3a`, RC41 base, vs `:s1ref`, seeds 570000–570299):
+  - Runner `:breach-damage` on fresh8: 0.823 → 0.839 (+9/−4, p = 0.27); flatlines 0.10 → 0.07 a game. Into RC42.
+  - Corp `:rich-dig` on corp-hard: 0.853 → 0.850 (+0/−1). It almost never changes a game; adopted as a review-motivated neutral.
+  - Cross-job check of the always-on fixes (prompt, Passport, Anoetic Void, Endurance), cq-rc41 vs co-rc41: Corp +0/−1, Runner 0.823 → 0.820 (+9/−10), null against `:s1ref`. The wall-run cases came from games against the champion Corp. `:known-wall-runs` is only 0.04 a game against S1.
+- **RC42** = RC41 + Corp `:pressure-first`, `:rich-dig` + Runner `:trace-link`, `:free-run-first`, `:breach-damage`, on code with all always-on fixes and the engine Loki fix. Job CR (frozen `cr`): gate on fresh-2 with new seeds (review-h1..h4, review-hrunner1), then a paired RC41 vs RC42 check on fresh8.
