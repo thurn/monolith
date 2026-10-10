@@ -1,5 +1,5 @@
 ;; RC41 gate (frozen cp = 6b6a744, code as of ffbf83d). RC41 = RC40 (RC39 spec) on code with the always-on fixes, + Corp :follow-check (CN +41/-28)
-;; + :overwrite-trap (null, review-motivated) + the CN Runner winners (RUNNER-KNOBS below). Gate on the pre-registered fresh-2 decks:
+;; + :overwrite-trap (null, review-motivated) + the CN Runner winners ({:tagged-install true} below). Gate on the pre-registered fresh-2 decks:
 ;; 4 two-sided sets (review-g1..g4) pooled >= 3.5 and a Runner-only set (review-grunner1) >= 3.2, new seeds 202780-202879.
 (require 'monolith.ai.gamelog 'monolith.ai.sweep 'monolith.ai.evalset 'monolith.ai.blunders)
 (let [R "/home/dthurn/monolith/research/rounds/R4"
@@ -25,7 +25,7 @@
       arch (vec (mapcat #(repeat 2 %) [:modern-e :modern-f :modern-g :modern-h]))
       vmix (vec (mapcat #(repeat 2 %) monolith.ai.sweep/modern-var))]
   (let [rc41 (-> rc39 (update-in [:corp-opts :w] assoc :follow-check true :overwrite-trap true)
-                 (update-in [:runner-opts :w] merge RUNNER-KNOBS))
+                 (update-in [:runner-opts :w] merge {:tagged-install true}))
         fresh2 (vec (mapcat #(repeat 2 %) [:classique-2025-b :classique-2025-d :classique-2026-b :classique-2026-d :classique-2023-a :classique-2023-b :classique-2023-c :classique-2022-b]))]
     (println :rc41 rc41)
     (doseq [[d seeds side] [["review-g1" (range 202780 202800) nil] ["review-g2" (range 202800 202820) nil]

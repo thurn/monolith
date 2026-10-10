@@ -1,4 +1,4 @@
-;; Job CO (frozen cp, code as of ffbf83d): the three new knobs on top of RC41 (RUNNER-KNOBS = the CN Runner winners).
+;; Job CO (frozen cp, code as of ffbf83d): the three new knobs on top of RC41 ({:tagged-install true} = the CN Runner winners).
 ;; Corp :pressure-first vs :s1ref on corp-hard (0.88, not saturated). Runner :trace-link and :free-run-first vs :s1ref on the
 ;; fresh8 decks (the review opponent; both knobs fire mostly against a broke Corp, which :s1ref often is). Seeds 570000-570299.
 ;; The fresh-2 gate decks are kept out of every A/B.
@@ -26,7 +26,7 @@
       arch (vec (mapcat #(repeat 2 %) [:modern-e :modern-f :modern-g :modern-h]))
       vmix (vec (mapcat #(repeat 2 %) monolith.ai.sweep/modern-var))]
   (let [rc41 (-> rc39 (update-in [:corp-opts :w] assoc :follow-check true :overwrite-trap true)
-                 (update-in [:runner-opts :w] merge RUNNER-KNOBS))
+                 (update-in [:runner-opts :w] merge {:tagged-install true}))
         fresh [:worlds-2021-a :worlds-2021-b :worlds-2022-a :worlds-2022-b :classique-2025-a :classique-2025-c :classique-2026-a :classique-2026-c]
         ex (fn [tag spec side m] {:agent [:champion spec] :tag tag :seeds (range 570000 570300) :matchups m
                                   :sides [side] :games-log (str R "/eval-CO.jsonl") :null? false})]

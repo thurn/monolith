@@ -1052,3 +1052,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - `:overwrite-trap` 0.524 → 0.520 (+11/−12): null (rare trigger). Adopted as a review-motivated neutral (f7 log-02).
   - `:scorable-joint` 0.524 → 0.510 (+19/−23, p = 0.64): null leaning negative. Not adopted. The f4 log-10 blunder it fixes stays open; I'd retest it on top of `:follow-check` if it recurs in reviews.
   - The Runner half (`:tagged-install`, `:follow-check`, break-cost fix) ends around 04:30.
+- **Job CN, Runner half** (vs the RC28 champion Corp on fresh decks, seeds 550000–550299):
+  - `:tagged-install` 0.512 → 0.528 (+10/−5, p = 0.30); turns ending tagged 0.83 → 0.66 per game. Into RC41.
+  - Runner `:follow-check`: identical games (+0/−0). The S1 rules it watches (score, advance, kill) are Corp rules, so it never fires for the Runner. Harmless; left off the Runner.
+  - Break-cost fix, cross-job cn-rc40 vs cm-rc40: 0.517 → 0.510 (+19/−21), null. Kept (it is a correct price, and frunner3 logs 11–12 showed the visible blunder).
+- **RC41** = RC40 + Corp `:follow-check`, `:overwrite-trap` + Runner `:tagged-install`, on code with the always-on fixes. Gate job CP (frozen `cp`), then job CO (`:pressure-first`, `:trace-link`, `:free-run-first` on top of RC41) in the same queue.
