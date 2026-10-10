@@ -87,14 +87,24 @@
              (srv/corp-server-safety obs k value (w env :corp-safety-extra)))]
     (and (seq (srv/ices obs k)) (<= (:u ev) 0.0))))
 
+(defn overwritable?
+  "An iced remote whose only content is one unrezzed, unadvanced asset (an ambush like Snare!) that an
+  agenda may replace (f7 log-02: The Future Perfect held 10 turns at 20-36 credits, every iced remote
+  holding a trap)."
+  [obs k]
+  (let [cs (srv/content obs k)]
+    (and (seq (srv/ices obs k)) (= 1 (count cs))
+         (let [c (first cs)] (and (= "Asset" (:type c)) (not (:rezzed c)) (zero? (or (:advance-counter c) 0)))))))
+
 (defn scoring-remotes
-  "Remotes with ice and no agenda/asset in them, safest first."
+  "Remotes with ice and no agenda/asset in them, safest first (then, with :overwrite-trap, iced remotes
+  holding only an unrezzed asset)."
   [env]
-  (let [obs (:obs env)]
-    (->> (srv/remotes obs)
-         (map key)
-         (filter #(and (seq (srv/ices obs %)) (empty? (srv/content obs %))))
-         (sort-by #(- (count (srv/ices obs %)))))))
+  (let [obs (:obs env)
+        ks (map key (srv/remotes obs))
+        by-ice #(sort-by (fn [k] (- (count (srv/ices obs k)))) %)]
+    (concat (by-ice (filter #(and (seq (srv/ices obs %)) (empty? (srv/content obs %))) ks))
+            (when (w env :overwrite-trap) (by-ice (filter #(overwritable? obs %) ks))))))
 
 (defn c-score [env] (act env :score))
 

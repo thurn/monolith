@@ -90,7 +90,9 @@
                   (let [server (get-in a [:args :server])]
                     (and server (str/starts-with? server "Server")
                          (some #(#{"Agenda" "Asset"} (:type %))
-                               (get-in s [:corp :servers (srv/server-key server) :content])))))
+                               (get-in s [:corp :servers (srv/server-key server) :content]))
+                         ;; :overwrite-trap: an agenda may replace a lone unrezzed asset in an iced remote
+                         (not (and (:overwrite-trap weights) (= "Agenda" typ) (s1/overwritable? s (srv/server-key server)))))))
              (and (= "rez" (:command a)) title (srv/trap-damage title 0))
              (and (= "play" (:command a)) (= "Operation" typ) (s1/dud-op? s title))
              (s1/duplicate-unique-install? s a)
@@ -131,7 +133,15 @@
                             progs)))
              ;; Ika-style self-hosting outside a run: 2 credits a time, repeated to no effect
              ;; (dev runner review 2: ~34 credits re-hosting Ika on the same Anansi)
-             (and (not (:run s)) (re-find #"(?i)host on a piece of ice" (str (:label a)))))))))
+             (and (not (:run s)) (re-find #"(?i)host on a piece of ice" (str (:label a))))
+             ;; :tagged-install: no resource install while tagged against a Corp that can trash it, when the
+             ;; tag could be cleared first this turn (f8 log-17: Aeneas Informant installed and trashed 14 times;
+             ;; BL's unconditional prune locked tag-looped Runners out of their economy)
+             (and (:tagged-install weights) (= "play" (:command a)) (= "Resource" typ) (not (:run s))
+                  (pos? (+ (get-in s [:runner :tag :base] 0) (get-in s [:runner :tag :additional] 0)))
+                  (>= (get-in s [:corp :credit] 0) 2)
+                  (>= (get-in s [:runner :click] 0) 2)
+                  (>= (get-in s [:runner :credit] 0) (+ 2 (or (cards/play-cost title) 0)))))))))
 
 (defn- naked-agenda-install?
   "With :no-naked-agendas: installing an agenda into a server with no ice that cannot be scored

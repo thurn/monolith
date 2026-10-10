@@ -281,8 +281,12 @@
       (if-let [{:keys [cost pump break]} (:combined breaker)]
         (if (= :x cost)
           (max gap nsubs 1)
-          (let [k (max 1 (if (pos? gap) (long (Math/ceil (/ gap (double pump)))) 0)
-                       (long (Math/ceil (/ nsubs (double break)))))]
+          ;; uses below the ice's strength break nothing: the use that reaches it is the first to break
+          ;; (frunner3 log-12: Black Orchestra on Mausolus priced 6, costs 9; pumped once for 3 and stopped)
+          (let [b (long (Math/ceil (/ nsubs (double break))))
+                k (if (pos? gap)
+                    (+ (long (Math/ceil (/ gap (double pump)))) (max 0 (dec b)))
+                    (max 1 b))]
             (* k cost)))
         (let [pumps (if (pos? gap) (when (and (:pump breaker) (pos? (:pump breaker))) (long (Math/ceil (/ gap (double (:pump breaker)))))) 0)
               breaks (long (Math/ceil (/ nsubs (double (:n breaker)))))
