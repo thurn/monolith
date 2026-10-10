@@ -1,4 +1,4 @@
-;; Job CV (frozen cv): RC43 gate on fresh-2, new seeds. RC43 = RC42 + Corp eval :rd-exposure 2.0 + CU-KNOBS.
+;; Job CV (frozen cv): RC43 gate on fresh-2, new seeds. RC43 = RC42 + Corp eval :rd-exposure 2.0 + :ice-adv-cap + :overwrite-rich 20 (CU).
 ;; review-i1..i4 (two-sided, seeds 202980-203059) pooled >= 3.5; review-irunner1 (Runner-only, 203060-203079) >= 3.2.
 (require 'monolith.ai.gamelog 'monolith.ai.sweep 'monolith.ai.evalset 'monolith.ai.blunders)
 (let [R "/home/dthurn/monolith/research/rounds/R4"
@@ -27,7 +27,7 @@
                  (update-in [:runner-opts :w] merge {:tagged-install true}))
         rc42 (-> rc41 (update-in [:corp-opts :w] assoc :pressure-first true :rich-dig true)
                  (update-in [:runner-opts :w] assoc :trace-link true :free-run-first true :breach-damage true))
-        rc43 (-> rc42 (assoc-in [:corp-opts :eval :rd-exposure] 2.0) (update-in [:corp-opts :w] merge CU-KNOBS))
+        rc43 (-> rc42 (assoc-in [:corp-opts :eval :rd-exposure] 2.0) (update-in [:corp-opts :w] merge {:ice-adv-cap true :overwrite-rich 20}))
         fresh2 (vec (mapcat #(repeat 2 %) [:classique-2025-b :classique-2025-d :classique-2026-b :classique-2026-d :classique-2023-a :classique-2023-b :classique-2023-c :classique-2022-b]))]
     (println :rc43 rc43)
     (doseq [[d seeds side] [["review-i1" (range 202980 203000) nil] ["review-i2" (range 203000 203020) nil]

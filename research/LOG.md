@@ -1126,3 +1126,5 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - With these fixes, `:breach-damage` stays in RC42 (CQ +9/−4).
 - Plan: RC43 = RC42 + eval `:rd-exposure` 2.0 (+ CU's `:ice-adv-cap` / `:overwrite-rich` if not negative), then a fresh-2 gate. The Runner flatline cut is the first change in a while that plausibly moves the review mean by ≥ 0.2: the Runner's 2.6–3.0 gate means include several flatline losses.
 - **Puzzles on RC43-like spec** (RC42 + `:rd-exposure` 2.0 + `:ice-adv-cap` + `:overwrite-rich` 20, current code): **dev 1.00, held-out 1.00**. `:free-run-first` fixed the last dev failure. build-dist passes.
+- **Job CU result** (Corp vs `:s1ref`; base = RC42 + `:rd-exposure` 2.0): `:ice-adv-cap` + `:overwrite-rich` 20 together. fresh8 0.950 → 0.947 (+2/−3); corp-hard 0.867 → 0.873 (+3/−1). Mean win turn 14.30 → 14.23 and 14.61 → 14.49; wins taking ≥ 22 turns 50 → 46. Null leaning positive; adopted (each fixes a visible blunder).
+- **RC43** = RC42 + Corp eval `:rd-exposure` 2.0 + `:ice-adv-cap` + `:overwrite-rich` 20. Gate job CV (frozen `cv`) on fresh-2 with new seeds (review-i1..i4, review-irunner1).
