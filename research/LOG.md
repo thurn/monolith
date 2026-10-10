@@ -1024,3 +1024,9 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - These are the Classique lists not used in fresh8 and never mined in reviews. Several appeared in old A/B mixes (corp-proxy, runner-proxy), which used them only for win rates.
   - From RC41 on, the gate is 4 fresh-2 two-sided sets pooled ≥ 3.5 plus 1 fresh-2 Runner-only set ≥ 3.2. The fresh8 decks become a mining pool (and stay reported).
   - A stall sweep on fresh-2 comes first (engine and card-text coverage).
+- **Fresh-2 stall sweep:** 64 games (8 seeds × the 8 decks as both sides vs `:s1ref`), 0 stalls, the champion won 60/64. No engine or card-text coverage gaps.
+- **Job CM result** (frozen `cm` = `461a10b`, 1,200 games, seeds 550000–550299):
+  - `:overdraw` 1.0 is a null. Corp vs `:s1ref` on corp-hard: 0.883 → 0.883 (+18/−18). Runner vs the RC28 Corp on fresh decks: 0.520 → 0.493 (+48/−56, p = 0.49), leaning negative. Dropped. The Liza review complaint stays open; a draw penalty in the evaluator does not buy wins.
+  - Cross-job check of the always-on fixes (cm-rc40 vs ck-rc39, same seeds, decks, opponent and knobs): Corp 0.880 → 0.883 (+1/−0); **Runner 0.457 → 0.517 (+31/−13, p ≈ 0.01)**. The heap-breaker and variable-econ fixes are a real Runner gain, the largest single step in several rounds.
+  - Proxies: Runner `tagged-ends` rose 0.85 → 1.06 per game with `:overdraw` (drawing less leaves fewer clicks for tag removal? no clear story); nothing else moved.
+  - Next: CN (running, ~2.5 h) tests `:tagged-install`, `:follow-check`, `:overwrite-trap` and `:scorable-joint`, and cn-rc40 vs cm-rc40 measures the break-cost fix on the Runner side.
