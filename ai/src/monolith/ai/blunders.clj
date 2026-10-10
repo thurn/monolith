@@ -10,6 +10,7 @@
     :broke-facechecks    runs started with <= 2 credits into a server whose outermost ice is unrezzed
     :blind-facechecks    runs into an unrezzed outermost ice with no icebreaker installed, Corp at 3+ credits
     :no-info-archives    Archives runs when every card there is faceup and none is an agenda
+    :known-wall-runs     failed runs into all-rezzed ice that already stopped an earlier run (Runner)
   plus :flatlined (Runner lost by flatline) and :decked (Corp lost by decking).
   In an evalset row the tested agent plays (:side row); the other side is the opponent."
   (:require
@@ -18,7 +19,8 @@
    [monolith.ai.harness :as h]))
 
 (def ks [:broke-ends :rich-credit-clicks :forced-discards :agendas-to-archives :repeat-failed-runs :idle-turns :reinstalls :tagged-ends
-         :open-central-with-ice :ignored-advanced-remote :broke-facechecks :blind-facechecks :no-info-archives])
+         :open-central-with-ice :ignored-advanced-remote :broke-facechecks :blind-facechecks :no-info-archives
+         :known-wall-runs])
 
 (defn- agenda-count [s zone]
   (count (filter #(= "Agenda" (:type %)) (get-in s [:corp zone]))))
@@ -34,6 +36,9 @@
         turn-acts (atom #{})
         failed (atom #{})
         ran-remotes (atom #{})
+        walls (atom #{})
+        wall-run (atom nil)
+        ice-sig (fn [st k] (mapv :cid (get-in st [:corp :servers k :ices])))
         installed (atom {:corp #{} :runner #{}})
         prev (atom nil)
         bump! (fn [sd k n] (swap! m update-in [sd k] + n))
@@ -92,6 +97,8 @@
                               (when (and outer (not (:rezzed outer)) (>= (or (get-in p [:corp :credit]) 0) 3)
                                          (not-any? #(re-find #"(?i)icebreaker" (str (:subtype %))) (get-in p [:runner :rig :program])))
                                 (bump! :runner :blind-facechecks 1))
+                              (reset! wall-run (let [ices (get-in p [:corp :servers k :ices])]
+                                                 (when (and (seq ices) (every? :rezzed ices) (@walls [k (ice-sig p k)])) k)))
                               (when (and (= k :archives)
                                          (every? #(and (:seen %) (not= "Agenda" (:type %))) (get-in p [:corp :discard])))
                                 (bump! :runner :no-info-archives 1))))
@@ -100,7 +107,11 @@
                           (when-let [k (and (:run s) (first (get-in s [:run :server])))]
                             (when (.startsWith (name k) "remote") (swap! ran-remotes conj k)))
                           (when (and p (:run p) (not (:run s)) (not (get-in p [:run :successful])))
-                            (when-let [k (first (get-in p [:run :server]))] (swap! failed conj (server-label k))))
+                            (when-let [k (first (get-in p [:run :server]))]
+                              (swap! failed conj (server-label k))
+                              (when (= k @wall-run) (bump! :runner :known-wall-runs 1))
+                              (when (every? :rezzed (get-in s [:corp :servers k :ices])) (swap! walls conj [k (ice-sig s k)]))))
+                          (when (and p (:run p) (not (:run s))) (reset! wall-run nil))
                           (when (and p (= :corp (:active-player s)) (> (agenda-count s :discard) (agenda-count p :discard)))
                             (bump! :corp :agendas-to-archives (- (agenda-count s :discard) (agenda-count p :discard))))
                           (let [empty-iced (count (for [[k srv] (get-in s [:corp :servers])

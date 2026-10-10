@@ -60,7 +60,9 @@
     (if (> damage (dec (max 1 hand)))
       (if (> damage hand) flatline-utility (- 0.0 (* 3 w-damage damage) lost))
       (- (if (and success? (or (not no-access) replacement))
-           (- value (reduce + 0.0 (for [[c v] steal-costs :when (< credits c)] v)))
+           ;; value may be a function of the damage taken on the way in (:breach-damage: a smaller grip
+           ;; makes damage-on-access cards deadlier)
+           (- (if (fn? value) (value damage) value) (reduce + 0.0 (for [[c v] steal-costs :when (< credits c)] v)))
            0.0)
          spent (* w-damage damage) (* w-tag (or tags 0)) lost))))
 

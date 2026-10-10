@@ -738,6 +738,17 @@
         ;; a server already run unsuccessfully this turn: the same wall stops a re-run
         failed (some #{k} (get-in obs [:runner :register :unsuccessful-run]))
         value (cond failed 0.0 replacement-value replacement-value :else (srv/content-value obs k opts))
+        ;; :breach-damage: the content re-valued with the grip after the run's damage, as the movement-phase
+        ;; jack-out check will see it (CN seed 550103: Aiki's 2 net damage taken, then a jack-out before an
+        ;; Obokata/Snare! remote, on 11 turns)
+        value (if (and (w env :breach-damage) (not failed) (not replacement-value))
+                (let [v0 value
+                      f (memoize (fn [d] (if (pos? d)
+                                           (srv/content-value (update-in obs [:runner :hand] #(vec (drop d %))) k
+                                                              (update opts :hand #(max 0 (- (or % 0) d))))
+                                           v0)))]
+                  (fn [d] (f (long d))))
+                value)
         ev (srv/runner-run-eval obs k (assoc opts :value value :credits-bonus credits-bonus :rez-bonus rez-bonus :mode mode
                                              :replacement (some? replacement-value)))]
     ev))
