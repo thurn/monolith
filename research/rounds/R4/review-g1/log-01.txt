@@ -1,0 +1,257 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 13
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 5 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 5 credits.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp is ending their turn 2 with 13 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 2 with 11 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 15 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 13 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 3 with 11 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 3 with 15 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Wraparound protecting Server 1 at position 0.
+Runner encounters Wraparound protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Wraparound to end the run.
+Corp resolves 1 unbroken subroutine on Wraparound ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 18 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 9 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Remastered Edition and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add a card in Server 2 to HQ.
+Corp spends 1 hosted agenda counter from on Remastered Edition to use Remastered Edition to place 1 advancement counter on ice protecting HQ at position 0.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp is ending their turn 4 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 18 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 22 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 22 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 26 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Beale and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add a card in Server 3 to HQ.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 26 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 30 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to install a card in the root of Server 4.
+Corp pays 2 credits to rez PAD Campaign in Server 4.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 30 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 34 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 4 credits and 4 cards in HQ.
+Corp uses PAD Campaign to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp pays 2 credits to rez PAD Campaign in Server 5.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 34 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 38 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 5 credits and 5 cards in HQ.
+Corp uses PAD Campaign to gain 1 credits.
+Corp uses PAD Campaign to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to install a card in the root of Server 6 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 6.
+Corp scores Project Beale and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting HQ at position 0 to HQ.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 38 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Galahad from HQ.
+Runner spends click and pays 0 credits to play Emergency Shutdown.
+Runner uses Emergency Shutdown to derez Wraparound protecting Server 1 at position 0.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Jackson Howard from HQ.
+Runner pays 3 credits to trash Jackson Howard from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Breaking News from HQ.
+Runner steals Breaking News and gains 1 agenda point.
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting R&D at position 0 to HQ.
+Runner is ending their turn 9 with 35 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 0 credits and 4 cards in HQ.
+Corp uses PAD Campaign to gain 1 credits.
+Corp uses PAD Campaign to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 7 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp is ending their turn 10 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 10 with 35 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 38 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 2 credits and 3 cards in HQ.
+Corp uses PAD Campaign to gain 1 credits.
+Corp uses PAD Campaign to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 7.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 11 with 38 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 42 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 6 credits and 3 cards in HQ.
+Corp uses PAD Campaign to gain 1 credits.
+Corp uses PAD Campaign to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 8 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp is ending their turn 12 with 11 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 12 with 42 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 7.
+Runner approaches ice protecting Server 7 at position 0.
+Corp pays 2 credits to rez Galahad protecting Server 7 at position 0.
+Runner encounters Galahad protecting Server 7 at position 0.
+Runner has no further action.
+Corp uses Galahad to end the run.
+Corp resolves 1 unbroken subroutine on Galahad ("[subroutine] End the run").
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 2 credits to rez Wraparound protecting Server 1 at position 0.
+Runner encounters Wraparound protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Wraparound to end the run.
+Corp resolves 1 unbroken subroutine on Wraparound ("[subroutine] End the run").
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 43 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 7 credits and 3 cards in HQ.
+Corp uses PAD Campaign to gain 1 credits.
+Corp uses PAD Campaign to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp pays 6 credits to rez SanSan City Grid in Server 4.
+Corp spends click to install a card in the root of Server 9 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 9.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 9.
+Corp scores Breaking News and gains 1 agenda point.
+Corp wins the game.
+Corp uses Breaking News to give the Runner 2 tags.

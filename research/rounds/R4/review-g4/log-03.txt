@@ -1,0 +1,311 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 18
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp is ending their turn 2 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 9 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Beanstalk Royalties.
+Corp uses Beanstalk Royalties to gain 3 credits.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 0 credits to rez Shattered Remains in Server 2.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp is ending their turn 3 with 8 credits and 1 card in HQ.
+[hr]
+Runner started their turn 3 with 13 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 8 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 10 credits and 1 card in HQ.
+[hr]
+Runner started their turn 4 with 17 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 21 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 10 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 11 credits and 1 card in HQ.
+[hr]
+Runner started their turn 5 with 21 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 25 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 11 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 13 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 25 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 29 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 13 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 7 with 12 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 7 with 29 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Swordsman protecting Server 1 at position 0.
+Runner encounters Swordsman protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Swordsman to do 1 net damage.
+Corp trashes D4v1d due to net damage.
+Corp resolves 2 unbroken subroutines on Swordsman ("[subroutine] Trash an AI program" and "[subroutine] Do 1 net damage").
+Runner passes Swordsman protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Posted Bounty from Server 1.
+Runner steals Posted Bounty and gains 1 agenda point.
+Corp uses Argus Security: Protection Guaranteed to force the Runner to take 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 28 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 9 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to play Beanstalk Royalties.
+Corp uses Beanstalk Royalties to gain 3 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 8 with 11 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 8 with 28 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 32 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 11 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install Oaktown Renovation in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp is ending their turn 9 with 13 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 9 with 32 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 4 credits to rez Cobra protecting Server 1 at position 1.
+Runner encounters Cobra protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Cobra to do 2 net damage.
+Corp trashes Hunting Grounds and Technical Writer due to net damage.
+Corp resolves 2 unbroken subroutines on Cobra ("[subroutine] Trash a program" and "[subroutine] Do 2 net damage").
+Runner passes Cobra protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Swordsman protecting Server 1 at position 0.
+Runner encounters Swordsman protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Swordsman to do 1 net damage.
+Corp trashes Aesop's Pawnshop due to net damage.
+Corp resolves 2 unbroken subroutines on Swordsman ("[subroutine] Trash an AI program" and "[subroutine] Do 1 net damage").
+Runner passes Swordsman protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Oaktown Renovation from Server 1.
+Runner steals Oaktown Renovation and gains 2 agenda points.
+Corp uses Argus Security: Protection Guaranteed to force the Runner to take 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 30 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 9 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp scores Hostile Takeover and gains 1 agenda point.
+Corp uses Hostile Takeover to gain 7 credits and take 1 bad publicity.
+Corp is ending their turn 10 with 14 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 10 with 30 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 33 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 14 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp pays 0 credits to rez Jackson Howard in Server 5.
+Corp spends click to use Jackson Howard to draw 2 cards.
+Corp uses Jackson Howard to shuffle Beanstalk Royalties and Beanstalk Royalties into R&D.
+Corp spends click and pays 2 credits to install ice protecting HQ.
+Corp is ending their turn 11 with 12 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 11 with 33 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 37 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 12 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 12 with 16 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 12 with 37 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 41 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 16 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Atlas and gains 2 agenda points.
+Corp is ending their turn 13 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 41 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 45 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 13 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 3.
+Corp spends click to install Oaktown Renovation in the root of Server 3.
+Corp trashes a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 3.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp is ending their turn 14 with 14 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 14 with 45 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 4 credits and forfeits 1 agenda (Hostile Takeover) to rez Archer protecting Server 3 at position 0.
+Runner encounters Archer protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Archer to gain 2 credits.
+Corp uses Archer to end the run.
+Corp resolves 4 unbroken subroutines on Archer ("[subroutine] Gain 2 credits" and "[subroutine] Trash a program" and "[subroutine] Trash a program" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 48 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 12 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 3.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 3.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 15 with 14 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 15 with 48 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 52 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 14 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 3.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp scores Oaktown Renovation and gains 2 agenda points.
+Corp spends click to install a card in the root of Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp is ending their turn 16 with 14 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 16 with 52 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 56 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 14 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Atlas and gains 2 agenda points.
+Corp is ending their turn 17 with 11 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 17 with 56 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 60 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 11 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 3.
+Corp scores Geothermal Fracking and gains 2 agenda points.
+Corp wins the game.

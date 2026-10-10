@@ -1,0 +1,86 @@
+Review the CORP's play in this game.
+Winner: corp (Flatline), turn 2
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Faust.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Viper protecting R&D at position 0.
+Runner encounters Viper protecting R&D at position 0.
+Runner trashes 3 cards (Imp, Scheherazade, and Street Peddler) from the grip to increase the strength of Faust to 4 and break all 2 subroutines on Viper.
+Runner has no further action.
+Runner passes Viper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Viper protecting R&D at position 0.
+Runner encounters Viper protecting R&D at position 0.
+Runner has no further action.
+Corp uses Viper to initiate a trace with strength 3 (Force the Runner to lose click).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Viper to initiate a trace with strength 3 (End the run).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Viper to end the run.
+Corp resolves 2 unbroken subroutines on Viper ("[subroutine] Trace 3 - Force the Runner to lose click" and "[subroutine] Trace 3 - End the run").
+Runner is ending their turn 1 with 2 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 2 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 4 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 1.
+Corp pays 1 credits to rez Pup protecting R&D at position 1.
+Runner encounters Pup protecting R&D at position 1.
+Runner trashes 2 cards (Grimoire and Imp) from the grip to use Faust to break all 2 subroutines on Pup.
+Runner has no further action.
+Runner passes Pup protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches Viper protecting R&D at position 0.
+Runner encounters Viper protecting R&D at position 0.
+Runner has no further action.
+Corp uses Viper to initiate a trace with strength 3 (Force the Runner to lose click).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Viper to force the Runner to lose click, if able.
+Corp uses Viper to initiate a trace with strength 3 (End the run).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Viper to end the run.
+Corp resolves 2 unbroken subroutines on Viper ("[subroutine] Trace 3 - Force the Runner to lose click" and "[subroutine] Trace 3 - End the run").
+Runner spends click to make a run on R&D.
+Runner approaches Pup protecting R&D at position 1.
+Runner encounters Pup protecting R&D at position 1.
+Runner has no further action.
+Corp uses Pup to do 1 net damage.
+Corp trashes Wyldside due to net damage.
+Corp uses Pup to do 1 net damage.
+Corp trashes  due to net damage.
+Runner is flatlined.
+Corp wins the game.
+Corp resolves 2 unbroken subroutines on Pup ("[subroutine] Do 1 net damage unless the Runner pays 1 credits" and "[subroutine] Do 1 net damage unless the Runner pays 1 credits").

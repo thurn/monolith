@@ -1,0 +1,505 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 19
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 2 credits, to use Self-modifying Code to install Gauss from the Stack.
+Runner spends click and pays 1 credits to install Telework Contract.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 5 credits to rez Grubber protecting HQ at position 0.
+Corp uses Grubber to take 1 bad publicity.
+Runner encounters Grubber protecting HQ at position 0.
+Runner has no further action.
+Corp uses Grubber to force the runner to pay 3 credits.
+Runner pays 3 credits due to Grubber subroutine.
+Corp uses Grubber to end the run.
+Corp resolves 2 unbroken subroutines on Grubber ("[subroutine] End the run unless the Runner pays 3 credits" and "[subroutine] End the run unless the Runner pays 3 credits").
+Runner is ending their turn 1 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 3 cards in the grip.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 2 with 0 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 0 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Telework Contract to gain 3 credits.
+Runner trashes Telework Contract.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Capacitor protecting Server 1 at position 0.
+Runner encounters Capacitor protecting Server 1 at position 0.
+Runner pays 1credits from bad publicity and 3 credits from their credit pool to increase the strength of Gauss to 3 and break all 2 subroutines on Capacitor.
+Runner has no further action.
+Runner passes Capacitor protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Oracle Thinktank from Server 1.
+Runner steals Oracle Thinktank and gains 1 agenda point.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Corp uses Oracle Thinktank to give the Runner 1 tag.
+Runner is ending their turn 3 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Unity.
+Runner is ending their turn 4 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 2 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click, pays 2 credits, and removes 1 tag to play Backroom Machinations.
+Corp uses Backroom Machinations to add itself to the score area as an agenda worth 1 agenda point.
+Corp is ending their turn 6 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Oracle Thinktank and gains 1 agenda point.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Corp uses Oracle Thinktank to give the Runner 1 tag.
+Runner is ending their turn 6 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click, pays 2 credits, and removes 1 tag to play Backroom Machinations.
+Corp uses Backroom Machinations to add itself to the score area as an agenda worth 1 agenda point.
+Corp is ending their turn 7 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 7 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to install Pantograph.
+Runner is ending their turn 7 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner pays 1credits from bad publicity and 2 credits from their credit pool to increase the strength of Unity to 5 and break all  subroutines on Funhouse.
+Runner has no further action.
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 7 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner pays 1credits from bad publicity and 2 credits from their credit pool to increase the strength of Unity to 5 and break all  subroutines on Funhouse.
+Runner has no further action.
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Kingmaking and gains 2 agenda points.
+Runner uses Pantograph to gain 1 credits.
+Runner pays 1 credits to use Pantograph to install Daeg, First Net-Cat from the Grip.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Rigging Up.
+Runner pays 0 credits to use Rigging Up to install Living Mural from the Grip (paying 3 credits less) on Capacitor protecting Server 1 at position 0.
+Runner uses Living Mural to gain 3 strength for the remainder of the turn.
+Runner is ending their turn 9 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daeg, First Net-Cat.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 5 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to increase the strength of Unity to 4 and break all  subroutines on Funhouse.
+Runner has no further action.
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits.
+Runner is ending their turn 10 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 8 credits and 3 cards in the grip.
+Runner spends click and pays 3 credits to install Living Mural on Capacitor protecting Server 1 at position 0.
+Runner uses Living Mural to gain 3 strength for the remainder of the turn.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to increase the strength of Unity to 5 and break all  subroutines on Funhouse.
+Runner has no further action.
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 11 with 2 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 12 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 2 credits and 3 cards in the grip.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner has no further action.
+Corp uses Funhouse to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Funhouse ("[subroutine] Give the Runner 1 tag unless they pay 4 credits").
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 12 with 1 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 1 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner has no further action.
+Corp uses Funhouse to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Funhouse ("[subroutine] Give the Runner 1 tag unless they pay 4 credits").
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 13 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 2 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits and lose click.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to increase the strength of Unity to 5 and break all  subroutines on Funhouse.
+Runner has no further action.
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 14 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to increase the strength of Unity to 5 and break all  subroutines on Funhouse.
+Runner has no further action.
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 15 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 3 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Creative Commission.
+Runner uses Creative Commission to gain 5 credits and lose click.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to increase the strength of Unity to 5 and break all  subroutines on Funhouse.
+Runner has no further action.
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Artificial Cryptocrash and gains 2 agenda points.
+Runner uses Pantograph to gain 1 credits.
+Runner pays 1 credits to use Pantograph to install Daeg, First Net-Cat from the Grip.
+Corp uses Epiphany Analytica: Nations Undivided to place 1 power counter on itself.
+Runner is ending their turn 16 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 17 with 25 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 17 with 23 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 17 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 5 credits to rez Grubber protecting Server 1 at position 1.
+Runner encounters Grubber protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Grubber to force the runner to pay 3 credits.
+Runner pays 1credits from bad publicity and 2 credits from their credit pool due to Grubber subroutine.
+Corp uses Grubber to force the runner to pay 3 credits.
+Runner pays 3 credits due to Grubber subroutine.
+Corp resolves 2 unbroken subroutines on Grubber ("[subroutine] End the run unless the Runner pays 3 credits" and "[subroutine] End the run unless the Runner pays 3 credits").
+Runner passes Grubber protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches Capacitor protecting Server 1 at position 0.
+Runner encounters Capacitor protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Capacitor to gain 8 credits.
+Corp uses Capacitor to end the run.
+Corp resolves 2 unbroken subroutines on Capacitor ("[subroutine] Gain 1 credits for each tag the Runner has" and "[subroutine] End the run").
+Runner is ending their turn 17 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 26 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Kingmaking and gains 2 agenda points.
+Corp uses Kingmaking to draw 0 cards.
+Runner uses Pantograph to gain 1 credits.
+Runner pays 1 credits to use Pantograph to install Simulchip from the Grip.
+Corp is ending their turn 18 with 23 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner pays 1credits from bad publicity and 1 credits from their credit pool to increase the strength of Unity to 5 and break all  subroutines on Funhouse.
+Runner has no further action.
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 18 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 23 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daeg, First Net-Cat.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daeg, First Net-Cat.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daeg, First Net-Cat.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Funhouse protecting R&D at position 0.
+Runner encounters Funhouse protecting R&D at position 0.
+Corp uses Funhouse to force the runner to take 1 tag on encountering it.
+Runner has no further action.
+Corp uses Funhouse to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Funhouse ("[subroutine] Give the Runner 1 tag unless they pay 4 credits").
+Runner passes Funhouse protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Oracle Thinktank and gains 1 agenda point.
+Runner wins the game.

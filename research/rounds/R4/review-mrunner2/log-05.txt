@@ -1,0 +1,94 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 3
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hansei Review.
+Corp uses Hansei Review to gain 10 credits.
+Corp uses Hansei Review to trash a card from HQ.
+Corp is ending their turn 1 with 10 credits and 2 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Tatu-Bola protecting HQ at position 0.
+Runner encounters Tatu-Bola protecting HQ at position 0.
+Runner has no further action.
+Corp uses Tatu-Bola to end the run.
+Corp resolves 1 unbroken subroutine on Tatu-Bola ("[subroutine] End the run").
+Runner spends click and pays 1 credits to install Docklands Pass.
+Runner is ending their turn 1 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 9 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 13 credits and 4 cards in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 2 with 8 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Tremolo.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Tatu-Bola protecting HQ at position 0.
+Runner encounters Tatu-Bola protecting HQ at position 0.
+Runner pays 3 credits to use Tremolo to break all 1 subroutines on Tatu-Bola.
+Runner has no further action.
+Runner passes Tatu-Bola protecting HQ at position 0.
+Corp uses Tatu-Bola to decline to install a card.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner uses Docklands Pass to access 1 additional card from HQ.
+Runner accesses Fujii Asset Retrieval from HQ.
+Runner steals Fujii Asset Retrieval and gains 3 agenda points.
+Corp uses Fujii Asset Retrieval to do 2 net damage.
+Corp trashes Pennyshaver and Swift due to net damage.
+Runner accesses Longevity Serum from HQ.
+Runner steals Longevity Serum and gains 2 agenda points.
+Runner is ending their turn 2 with 3 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 3 with 14 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 2 credits to play Mindscaping.
+Corp uses Mindscaping to gain 4 credits and draw 2 cards.
+Corp uses Mindscaping to add 1 card from HQ to the top of R&D.
+Corp is ending their turn 3 with 16 credits and 1 card in HQ.
+[hr]
+Corp uses Jinteki: Restoring Humanity to gain 1 credits.
+Runner started their turn 3 with 3 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 5 credits to rez Saisentan protecting Server 1 at position 0.
+Runner encounters Saisentan protecting Server 1 at position 0.
+Corp uses Saisentan to choose the card type Event.
+Runner has no further action.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Lie Low due to net damage.
+Corp uses Saisentan to deal 1 additional net damage.
+Corp trashes Pennyshaver due to net damage.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes Carpe Diem due to net damage.
+Corp uses Saisentan to deal 1 additional net damage.
+Corp trashes Mu Safecracker due to net damage.
+Corp uses Saisentan to do 1 net damage.
+Corp trashes  due to net damage.
+Runner is flatlined.
+Corp wins the game.
+Corp resolves 3 unbroken subroutines on Saisentan ("[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage" and "[subroutine] Do 1 net damage").

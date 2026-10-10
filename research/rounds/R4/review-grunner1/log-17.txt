@@ -1,0 +1,503 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 20
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Cache.
+Runner pays 2 credits to use Hayley Kaplan: Universal Scholar to install Cyber-Cypher from the Grip.
+Runner uses Cyber-Cypher to target Archives.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 3 credits, to use Self-modifying Code to install Atman from the Stack.
+Runner pays 0 credits to use Atman to place 0 power counters on itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 4 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 2 credits to rez Wraparound protecting Server 1 at position 2.
+Runner encounters Wraparound protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Wraparound to end the run.
+Corp resolves 1 unbroken subroutine on Wraparound ("[subroutine] End the run").
+Runner spends click and pays 4 credits to install Cerberus "Lady" H1.
+Runner spends click to make a run on Server 2.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Snare! from Server 2.
+Runner is ending their turn 3 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches Wraparound protecting Server 1 at position 2.
+Runner encounters Wraparound protecting Server 1 at position 2.
+Runner spends 1 hosted power counter from on Cerberus "Lady" H1 to use Cerberus "Lady" H1 to break all 1 subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 1 credits to rez Ice Wall protecting Server 1 at position 1.
+Runner encounters Ice Wall protecting Server 1 at position 1.
+Runner spends 1 hosted power counter from on Cerberus "Lady" H1 to use Cerberus "Lady" H1 to break all 1 subroutines on Ice Wall.
+Runner has no further action.
+Runner passes Ice Wall protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Snare! from Server 1.
+Runner is ending their turn 4 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 2 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Snare! from Server 3.
+Runner spends click and pays 0 credits to install Fan Site.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Oaktown Renovation from HQ.
+Runner steals Oaktown Renovation and gains 2 agenda points.
+Corp uses Argus Security: Protection Guaranteed to force the Runner to suffer 2 meat damage.
+Runner trashes Clone Chip and Scavenge due to meat damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 6 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Casting Call.
+Corp uses Casting Call to install Geothermal Fracking from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp hosts Casting Call on Geothermal Fracking.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Geothermal Fracking in Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 7 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Wraparound protecting Server 1 at position 2.
+Runner encounters Wraparound protecting Server 1 at position 2.
+Runner spends 1 hosted power counter from on Cerberus "Lady" H1 to use Cerberus "Lady" H1 to break all 1 subroutines on Wraparound.
+Runner has no further action.
+Runner passes Wraparound protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Ice Wall protecting Server 1 at position 1.
+Runner encounters Ice Wall protecting Server 1 at position 1.
+Runner spends 1 hosted power counter from on Cerberus "Lady" H1 to use Cerberus "Lady" H1 to break all 1 subroutines on Ice Wall.
+Runner has no further action.
+Runner passes Ice Wall protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Spiderweb protecting Server 1 at position 0.
+Runner encounters Spiderweb protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Spiderweb to end the run.
+Corp resolves 1 unbroken subroutine on Spiderweb ("[subroutine] End the run").
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Shattered Remains from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 7 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 6 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install Artist Colony.
+Runner pays 3 credits to use Hayley Kaplan: Universal Scholar to install Daily Casts from the Grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 8 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 9 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Geothermal Fracking in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Geothermal Fracking in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Geothermal Fracking in Server 1.
+ Geothermal Fracking in Server 1 has left play: 1 facedown Corp card is trashed.
+Corp scores Geothermal Fracking and gains 2 agenda points.
+Runner uses Fan Site to add itself to their score area as an agenda worth 0 agenda points.
+Corp is ending their turn 9 with 0 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 5 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner forfeits 1 agenda (Fan Site), and then pays 1 credits, to use Artist Colony to install Aesop's Pawnshop from the Stack.
+Runner pays 5 credits to use Hayley Kaplan: Universal Scholar to install Professional Contacts from the Grip.
+Runner uses Aesop's Pawnshop to trash Artist Colony and gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Beanstalk Royalties.
+Corp uses Beanstalk Royalties to gain 3 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 6 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Aesop's Pawnshop to trash Cache and gain 3 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 4 credits to install R&D Interface.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner is ending their turn 10 with 9 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 11 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 0 credits to play Fast Track.
+Corp uses Fast Track to reveal Hostile Takeover from R&D and add it to HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 9 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner spends click and pays 1 credits to install Cache.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Spiderweb protecting R&D at position 0.
+Runner encounters Spiderweb protecting R&D at position 0.
+Runner has no further action.
+Corp uses Spiderweb to end the run.
+Corp resolves 1 unbroken subroutine on Spiderweb ("[subroutine] End the run").
+Runner uses Aesop's Pawnshop to trash Cache and gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 11 with 17 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 17 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Same Old Thing.
+Runner pays 0 credits to use Hayley Kaplan: Universal Scholar to install Artist Colony from the Grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits and forfeits 1 agenda (Geothermal Fracking) to rez Archer protecting HQ at position 0.
+Runner encounters Archer protecting HQ at position 0.
+Runner has no further action.
+Corp uses Archer to gain 2 credits.
+Corp uses Archer to trash Atman.
+Corp uses Archer to trash Cerberus "Lady" H1.
+Corp uses Archer to end the run.
+Corp resolves 4 unbroken subroutines on Archer ("[subroutine] Gain 2 credits" and "[subroutine] Trash a program" and "[subroutine] Trash a program" and "[subroutine] End the run").
+Runner is ending their turn 12 with 19 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 13 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 2 credits to play SEA Source.
+Corp uses SEA Source to initiate a trace with strength 3 (Trace 3 - Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses SEA Source to give the Runner 1 tag.
+Corp is ending their turn 13 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 19 credits and 3 cards in the grip.
+Runner uses Aesop's Pawnshop to trash Same Old Thing and gain 3 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner spends click and pays 0 credits to install Fan Site.
+Runner pays 1 credits to use Hayley Kaplan: Universal Scholar to install Film Critic from the Grip.
+Runner is ending their turn 13 with 20 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 14 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Geothermal Fracking and gains 2 agenda points.
+Runner uses Fan Site to add itself to their score area as an agenda worth 0 agenda points.
+Corp is ending their turn 14 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 20 credits and 3 cards in the grip.
+Runner uses Aesop's Pawnshop to trash Artist Colony and gain 3 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner trashes Clone Chip, and then pays 3 credits, to use Clone Chip to install Atman from the Heap.
+Runner pays 2 credits to use Atman to place 2 power counters on itself.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Spiderweb protecting R&D at position 0.
+Runner encounters Spiderweb protecting R&D at position 0.
+Runner pays 3 credits to use Atman to break all 3 subroutines on Spiderweb.
+Runner has no further action.
+Runner passes Spiderweb protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 14 with 14 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 15 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 14 credits and 4 cards in the grip.
+Runner uses Aesop's Pawnshop to trash Film Critic and gain 3 credits.
+Runner spends click and pays 5 credits to play Levy AR Lab Access.
+Runner uses Levy AR Lab Access to shuffle the grip and the heap into the stack.
+Runner removes Levy AR Lab Access from the game instead of trashing it.
+Runner spends click and pays 1 credits to install Film Critic.
+Runner pays 3 credits to use Hayley Kaplan: Universal Scholar to install Daily Casts from the Grip.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner is ending their turn 15 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Hostile Takeover and gains 1 agenda point.
+Corp uses Hostile Takeover to gain 7 credits and take 1 bad publicity.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 16 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 10 credits and 5 cards in the grip.
+Runner uses Aesop's Pawnshop to trash Film Critic and gain 3 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner spends click and pays 4 credits to install R&D Interface.
+Runner pays 1 credits to use Hayley Kaplan: Universal Scholar to install Astrolabe from the Grip.
+Runner spends click to make a run on R&D.
+Runner approaches Spiderweb protecting R&D at position 0.
+Runner encounters Spiderweb protecting R&D at position 0.
+Runner pays 1credits from bad publicity and 2 credits from their credit pool to use Atman to break all 3 subroutines on Spiderweb.
+Runner has no further action.
+Runner passes Spiderweb protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 16 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Hostile Takeover and gains 1 agenda point.
+Corp uses Hostile Takeover to gain 7 credits and take 1 bad publicity.
+Corp spends click and pays 10 credits to play Restructure.
+Corp uses Restructure to gain 15 credits.
+Corp is ending their turn 17 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 9 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner pays 1 credits to use Hayley Kaplan: Universal Scholar to install Astrolabe from the Grip.
+Astrolabe is trashed.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner spends click and pays 0 credits to install Artist Colony.
+Runner is ending their turn 17 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 18 with 18 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp spends click and pays 0 credits to install ice protecting Server 3.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp is ending their turn 18 with 17 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 18 with 11 credits and 4 cards in the grip.
+Runner uses Aesop's Pawnshop to trash Artist Colony and gain 3 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner spends click and pays 0 credits to install Technical Writer.
+Runner pays 5 credits to use Hayley Kaplan: Universal Scholar to install Professional Contacts from the Grip.
+Runner is ending their turn 18 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 17 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to install ice protecting Server 2.
+Corp is ending their turn 19 with 14 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 19 with 14 credits and 5 cards in the grip.
+Runner uses Aesop's Pawnshop to trash Technical Writer and gain 3 credits.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 4 credits to install R&D Interface.
+Runner spends click to make a run on R&D.
+Runner approaches Spiderweb protecting R&D at position 0.
+Runner encounters Spiderweb protecting R&D at position 0.
+Runner pays 2credits from bad publicity and 1 credits from their credit pool to use Atman to break all 3 subroutines on Spiderweb.
+Runner has no further action.
+Runner passes Spiderweb protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Hostile Takeover and gains 1 agenda point.
+Corp uses Argus Security: Protection Guaranteed to force the Runner to suffer 2 meat damage.
+Runner trashes D4v1d and Self-modifying Code due to meat damage.
+Runner accesses an unseen card from R&D.
+Runner pays 5 credits to trash Crisium Grid from R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Professional Contacts to gain 1 credits and draw 1 card.
+Runner is ending their turn 19 with 10 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 20 with 14 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Beanstalk Royalties.
+Corp uses Beanstalk Royalties to gain 3 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 20 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 10 credits and 4 cards in the grip.
+Runner uses Aesop's Pawnshop to trash Clone Chip and gain 3 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Spiderweb protecting R&D at position 0.
+Runner encounters Spiderweb protecting R&D at position 0.
+Runner pays 2credits from bad publicity and 1 credits from their credit pool to use Atman to break all 3 subroutines on Spiderweb.
+Runner has no further action.
+Runner passes Spiderweb protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Oaktown Renovation and gains 2 agenda points.
+Corp uses Argus Security: Protection Guaranteed to force the Runner to suffer 2 meat damage.
+Runner trashes Cerberus "Lady" H1 and Professional Contacts due to meat damage.
+Runner accesses an unseen card from R&D.
+Runner steals Project Atlas and gains 2 agenda points.
+Runner wins the game.

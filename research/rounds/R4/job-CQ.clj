@@ -1,6 +1,6 @@
-;; Job CQ (frozen cq = b4fee9f, code as of 9194eb4): on top of RC41, Runner :breach-damage (fresh8 vs :s1ref) and Corp :rich-dig
+;; Job CQ (frozen cq = 9423f3a): on top of RC41, Runner :breach-damage (fresh8 vs :s1ref) and Corp :rich-dig
 ;; (corp-hard vs :s1ref), seeds 570000-570299 like job CO, so cq-rc41 vs co-rc41 (same spec, same seeds) measures the
-;; always-on fixes since cp (pay-or-trash prompt, Passport remote bar, Anoetic Void).
+;; always-on fixes since cp (pay-or-trash prompt, Passport remote bar, Anoetic Void, Endurance counter cost).
 (require 'monolith.ai.gamelog 'monolith.ai.sweep 'monolith.ai.evalset 'monolith.ai.blunders)
 (let [R "/home/dthurn/monolith/research/rounds/R4"
       ev {:kill-threat 1.0 :hq-flood 1.0 :scorable-agendas 2.5 :asset-econ 1.0 :core-damage 1.0}

@@ -1,0 +1,142 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 4
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp pays 1 credits to rez Mumba Temple in Server 1.
+[!] Mumba Temple - Recurring credits usage not restricted
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Bukhgalter.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp spends click and pays 0 credits to install ice protecting Server 1.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 1.
+Corp trashes Mumba Temple in Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp is ending their turn 2 with 9 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Successful Field Test and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting Server 1 at position 0 to HQ.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add a card in Server 1 to HQ.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 0 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Project Vitruvius and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting Server 2 at position 0 to HQ.
+Corp is ending their turn 3 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 2 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp pays 1 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp is ending their turn 4 with 1 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 1.
+Runner passes ice protecting R&D at position 1.
+Runner will continue the run.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting R&D at position 1 to HQ.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Successful Field Test and gains 2 agenda points.
+Runner wins the game.
