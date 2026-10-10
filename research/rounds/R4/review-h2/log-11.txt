@@ -1,0 +1,367 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 15
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 1 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp pays 0 credits to rez NGO Front in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance NGO Front in Server 2.
+Corp spends 1 hosted advancement counter from on NGO Front and trashes NGO Front to use NGO Front to gain 5 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 2 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 4 credits to rez Border Control protecting Server 1 at position 0.
+Runner encounters Border Control protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Border Control to gain 1 credits.
+Corp uses Border Control to end the run.
+Corp resolves 2 unbroken subroutines on Border Control ("[subroutine] Gain 1 credits for each ice protecting this server" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 2 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores SSL Endorsement and gains 3 agenda points.
+Corp is ending their turn 3 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 1 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Border Control to HQ and gain 4 credits.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Archives.
+Corp spends click and pays 8 credits to play IPO.
+Corp uses IPO to gain 13 credits.
+Corp is ending their turn 4 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Building Blocks from HQ.
+Runner is ending their turn 4 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 13 credits and 4 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp pays 0 credits to rez NGO Front in Server 3.
+Corp pays 0 credits to rez Marcus Batty in the root of Archives.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance NGO Front in Server 3.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance NGO Front in Server 3.
+Corp is ending their turn 5 with 14 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NGO Front from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner is ending their turn 5 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 14 credits and 4 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends 2 hosted advancement counters from on NGO Front and trashes NGO Front to use NGO Front to gain 8 credits.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 4.
+Corp is ending their turn 6 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 4.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses NGO Front from Server 4.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Tithonium from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner is ending their turn 6 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 24 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 5 (new remote).
+Corp spends click to install a card in the root of Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp is ending their turn 7 with 23 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Building Blocks from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Rashida Jaheem from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Rashida Jaheem from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Building Blocks from HQ.
+Runner is ending their turn 7 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 23 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp pays 0 credits to rez NGO Front in Server 4.
+Corp spends 1 hosted advancement counter from on NGO Front and trashes NGO Front to use NGO Front to gain 5 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp is ending their turn 8 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Building Blocks from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Punitive Counterstrike from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Building Blocks from HQ.
+Runner is ending their turn 8 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 25 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp scores SSL Endorsement and gains 3 agenda points.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Building Blocks.
+Corp is ending their turn 9 with 19 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 9 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 19 credits and 4 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Building Blocks.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 5.
+Corp is ending their turn 10 with 17 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 6 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 17 credits and 4 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp is ending their turn 11 with 17 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 11 with 10 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 5.
+Runner approaches ice protecting Server 5 at position 0.
+Corp forfeits 1 agenda (SSL Endorsement) to use Tithonium to rez Tithonium protecting Server 5 at position 0 by paying its alternative cost.
+Runner encounters Tithonium protecting Server 5 at position 0.
+Runner has no further action.
+Corp uses Tithonium to trash MKUltra.
+Corp uses Tithonium to end the run.
+Corp resolves 3 unbroken subroutines on Tithonium ("[subroutine] Trash a program" and "[subroutine] Trash a program" and "[subroutine] Trash a resource and end the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 17 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 5.
+Corp scores SSL Endorsement and gains 3 agenda points.
+Corp is ending their turn 12 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 13 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 14 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Tithonium to HQ and gain 9 credits.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 6 (new remote).
+Corp pays 0 credits to rez Rashida Jaheem in Server 6.
+Corp spends click and pays 0 credits to install ice protecting Server 6.
+Corp is ending their turn 13 with 25 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 17 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 21 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 25 credits and 4 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 7 (new remote).
+Corp pays 3 credits to rez Crisium Grid in Server 7.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 21 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 25 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 25 credits and 5 cards in HQ.
+Corp uses SSL Endorsement to gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 7.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp scores Hostile Takeover and gains 1 agenda point.
+Corp wins the game.
+Corp uses Hostile Takeover to gain 7 credits and take 1 bad publicity.

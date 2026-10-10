@@ -1,0 +1,159 @@
+Review the RUNNER's play in this game.
+Winner: corp (Flatline), turn 6
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Faerie.
+Runner spends click and pays 1 credits to install Bank Job.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Galahad protecting HQ at position 0.
+Runner encounters Galahad protecting HQ at position 0.
+Runner has no further action.
+Corp uses Galahad to end the run.
+Corp resolves 1 unbroken subroutine on Galahad ("[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 6 credits to rez Merlin protecting R&D at position 0.
+Runner encounters Merlin protecting R&D at position 0.
+Runner has no further action.
+Corp uses Merlin to do 2 net damage.
+Corp trashes John Masanori and Legwork due to net damage.
+Corp resolves 1 unbroken subroutine on Merlin ("[subroutine] Do 2 net damage").
+Runner passes Merlin protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 4 credits and 1 card in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 1 card in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 4 credits.
+Corp is ending their turn 3 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Passport.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 2 credits to play Inside Job.
+Runner uses Inside Job to make a run on HQ.
+Runner approaches Galahad protecting HQ at position 0.
+Runner encounters Galahad protecting HQ at position 0.
+Runner uses Inside Job to bypass Galahad protecting HQ at position 0.
+Runner bypasses Galahad.
+Runner passes Galahad protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Blacklist from HQ.
+Runner is ending their turn 3 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 9 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 0 credits to play Shipment from SanSan.
+Corp uses Shipment from SanSan to do nothing.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 2 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Merlin protecting R&D at position 0.
+Runner encounters Merlin protecting R&D at position 0.
+Runner pays 2 credits to use Passport to increase its strength from 2 to 4.
+Runner pays 1 credits to use Passport to break all 1 subroutines on Merlin.
+Runner has no further action.
+Runner passes Merlin protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 4 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 4 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 2 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Merlin protecting R&D at position 0.
+Runner encounters Merlin protecting R&D at position 0.
+Corp uses Merlin to reveal Lancelot from HQ.
+Runner has no further action.
+Corp uses Merlin to trash Faerie.
+Corp uses Merlin to do 2 net damage.
+Corp trashes Inside Job and Sneakdoor Beta due to net damage.
+Corp resolves 2 unbroken subroutines on Merlin ("[subroutine] Trash a program" and "[subroutine] Do 2 net damage").
+Runner passes Merlin protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 5 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 6 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 3 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to install Faerie.
+Runner spends click to make a run on R&D.
+Runner approaches Merlin protecting R&D at position 0.
+Runner encounters Merlin protecting R&D at position 0.
+Corp uses Merlin to reveal Lancelot and Merlin from HQ.
+Runner has no further action.
+Corp uses Merlin to trash Faerie.
+Corp uses Merlin to do 2 net damage.
+Corp trashes Emergency Shutdown and Yog.0 due to net damage.
+Corp uses Merlin to do 2 net damage.
+Corp trashes Security Testing due to net damage.
+Runner is flatlined.
+Corp wins the game.
+Corp resolves 3 unbroken subroutines on Merlin ("[subroutine] Trash a program" and "[subroutine] Do 2 net damage" and "[subroutine] Do 2 net damage").

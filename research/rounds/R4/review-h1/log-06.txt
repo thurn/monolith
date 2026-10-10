@@ -1,0 +1,872 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 24
+
+[!] Whizzard: Master Gamer - Recurring credits usage not restricted
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 1 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Mimic.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 8 credits to rez Tollbooth protecting HQ at position 0.
+Runner encounters Tollbooth protecting HQ at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner is ending their turn 1 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 1 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 2 credits from Whizzard: Master Gamer to trash Sensie Actors Union from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner is ending their turn 2 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 8 credits and 4 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click and pays 3 credits to install Medium.
+Runner is ending their turn 3 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 4 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Medium to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner is ending their turn 4 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp is ending their turn 5 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 9 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 5 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 6 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Street Peddler.
+ Street Peddler has left play: 3 facedown Runner cards (Ice Carver, Net-Ready Eyes, and Obelus) are trashed.
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp is ending their turn 6 with 1 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 5 cards in the grip.
+Runner spends click and pays 6 credits to install Liberated Account.
+Runner spends click to use Liberated Account to gain 4 credits.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Liberated Account to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits from Whizzard: Master Gamer and 1 credits from their credit pool to trash Commercial Bankers Group from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner is ending their turn 6 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Medium.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Medium to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 7 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 6 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click and pays 3 credits to install Medium.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 8 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 2 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Medium to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Medium.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 13 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 3 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Medium to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 4 credits to trash PAD Campaign from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 10 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 4 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Archangel.
+Corp pays 3 credits to use Archangel to force the Runner to encounter it.
+Runner encounters Archangel in R&D.
+Runner has no further action.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 3 credits to install Mimic.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to play Employee Strike.
+Runner uses Employee Strike to disable the Corp identity.
+Runner is ending their turn 11 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 6 credits and 4 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click and pays 3 credits to install Medium.
+Runner is ending their turn 12 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 3 credits and 4 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Medium to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 13 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 7 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 1 credits to play Inject.
+Runner adds Daily Casts to the grip.
+Runner adds Sure Gamble to the grip.
+Runner adds Dirty Laundry to the grip.
+Runner adds Street Peddler to the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner discards 4 from the stack at end of turn.
+Runner is ending their turn 14 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 22 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 9 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 15 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 25 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Closed Accounts.
+Corp uses Closed Accounts to force the Runner to lose all 10 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 16 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 0 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 16 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 17 with 24 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 17 with 22 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 7 credits and 4 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 8 credits to rez Tollbooth protecting Server 1 at position 0.
+Runner encounters Tollbooth protecting Server 1 at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click and pays 0 credits to install Progenitor.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 17 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 14 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Employee Strike is trashed.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 18 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 18 with 7 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 18 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 19 with 16 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 19 with 5 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 19 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 20 with 16 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 20 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 20 with 6 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 20 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 21 with 19 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 5 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 21 with 24 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 21 with 7 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 21 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 22 with 24 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 22 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 22 with 8 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 22 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 23 with 27 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 23 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 23 with 5 credits and 4 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 23 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 24 with 27 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to play Psychographics.
+Corp uses Psychographics to do nothing.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 24 with 27 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 24 with 6 credits and 4 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals AstroScript Pilot Program and gains 2 agenda points.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner approaches Archangel protecting R&D at position 0.
+Runner encounters Archangel protecting R&D at position 0.
+Runner has no further action.
+Corp uses Archangel to initiate a trace with strength 6 (Add an installed Runner card to the grip).
+Corp pays 0 credits to increase trace strength to 6.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Archangel to add 1 installed card to the grip.
+Corp adds Mimic to the grip.
+Corp resolves 1 unbroken subroutine on Archangel ("[subroutine] Trace 6 - Add an installed Runner card to the grip").
+Runner passes Archangel protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Breaking News and gains 1 agenda point.
+Runner wins the game.
+Runner uses Dirty Laundry to gain 5 credits.

@@ -1,0 +1,229 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 8
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 1 credits to install Yusuf.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner places 1 virus counter on Yusuf.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner trashes 1 installed program (Yusuf) to steal SDS Drone Deployment from R&D.
+Runner steals SDS Drone Deployment and gains 3 agenda points.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner must reveal they accessed Sapper.
+Corp uses Sapper to force the Runner to encounter Sapper.
+Runner encounters Sapper in R&D.
+Runner has no further action.
+Runner is ending their turn 1 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 5 credits to play Building Blocks.
+Corp is ending their turn 2 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 8 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hostile Takeover from HQ.
+Runner steals Hostile Takeover and gains 1 agenda point.
+Runner is ending their turn 2 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 3 cards in the grip.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Street Peddler to install Hippo, lowering its install cost by 1 credits. Clone Chip and Street Peddler are trashed as a result.
+Runner pays 1 credits to install Hippo from among the set-aside cards (paying 1 credits less).
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Border Control protecting HQ at position 0.
+Runner encounters Border Control protecting HQ at position 0.
+Runner has no further action.
+Corp uses Border Control to gain 1 credits.
+Corp uses Border Control to end the run.
+Corp resolves 2 unbroken subroutines on Border Control ("[subroutine] Gain 1 credits for each ice protecting this server" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Sapper protecting R&D at position 0.
+Runner encounters Sapper protecting R&D at position 0.
+Runner has no further action.
+Corp uses Sapper to trash D4v1d.
+Corp resolves 1 unbroken subroutine on Sapper ("[subroutine] Trash a program").
+Runner passes Sapper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 0 credits and 4 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Border Control to HQ and gain 4 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 6 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Sapper protecting R&D at position 0.
+Runner encounters Sapper protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Sapper ("[subroutine] Trash a program").
+Runner passes Sapper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Hostile Takeover and gains 1 agenda point.
+Runner spends click and pays 1 credits to play I've Had Worse.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 4 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 6 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Sapper to HQ and gain 3 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click and pays 5 credits to play Building Blocks.
+Corp is ending their turn 5 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Inject.
+Runner adds Liberated Account to the grip.
+Runner adds Clone Chip to the grip.
+Runner adds Knobkierie to the grip.
+Runner adds Sure Gamble to the grip.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 2 from the stack at end of turn.
+Runner is ending their turn 5 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to play Preemptive Action.
+Corp uses Preemptive Action to shuffle Building Blocks and Building Blocks into R&D.
+Corp removes Preemptive Action from the game instead of trashing it.
+Corp is ending their turn 6 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 4 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Border Control protecting HQ at position 0.
+Runner encounters Border Control protecting HQ at position 0.
+Runner has no further action.
+Corp uses Border Control to gain 1 credits.
+Corp uses Border Control to end the run.
+Corp resolves 2 unbroken subroutines on Border Control ("[subroutine] Gain 1 credits for each ice protecting this server" and "[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits to trash Marcus Batty from R&D.
+Runner is ending their turn 6 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 3 credits and 4 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Border Control to HQ and gain 4 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 8 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Rashida Jaheem from HQ.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 5 credits to rez Surveyor protecting R&D at position 0.
+Runner encounters Surveyor protecting R&D at position 0.
+Runner removes Hippo from the game to use Hippo to trash Surveyor protecting R&D at position 0.
+Runner pays 3 credits to increase the strength of MKUltra to 3 and break all subroutines on Surveyor.
+Runner has no further action.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Rashida Jaheem from HQ.
+Runner pays 1 credits to trash Rashida Jaheem from HQ.
+Runner is ending their turn 7 with 8 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 8 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 8 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses SSL Endorsement from HQ.
+Runner steals SSL Endorsement and gains 3 agenda points.
+Runner wins the game.

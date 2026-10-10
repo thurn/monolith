@@ -1,0 +1,124 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 5
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 9 credits to rez Tithonium protecting HQ at position 0.
+Runner encounters Tithonium protecting HQ at position 0.
+Runner spends 3 hosted power counters from on D4v1d to use D4v1d to break all 3 subroutines on Tithonium.
+Runner has no further action.
+Runner passes Tithonium protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hostile Takeover from HQ.
+Runner steals Hostile Takeover and gains 1 agenda point.
+Runner is ending their turn 2 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 3 with 0 credits and 4 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Tithonium to HQ and gain 9 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 9 credits to rez Tithonium protecting HQ at position 0.
+Runner encounters Tithonium protecting HQ at position 0.
+Runner has no further action.
+Corp uses Tithonium to trash D4v1d.
+Corp uses Tithonium to end the run.
+Corp resolves 3 unbroken subroutines on Tithonium ("[subroutine] Trash a program" and "[subroutine] Trash a program" and "[subroutine] Trash a resource and end the run").
+Runner spends click and pays 1 credits to install Yusuf.
+Runner is ending their turn 3 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 1 credits and 5 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Tithonium to HQ and gain 9 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp is ending their turn 4 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 4 cards in the grip.
+Runner spends click and pays 2 credits to install MKUltra.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 9 credits to rez Tithonium protecting HQ at position 0.
+Runner encounters Tithonium protecting HQ at position 0.
+Runner has no further action.
+Corp uses Tithonium to trash MKUltra.
+Corp uses Tithonium to trash Yusuf.
+Corp uses Tithonium to end the run.
+Corp resolves 3 unbroken subroutines on Tithonium ("[subroutine] Trash a program" and "[subroutine] Trash a program" and "[subroutine] Trash a resource and end the run").
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 4 cards in HQ.
+Corp uses Blue Sun: Powering the Future to add Tithonium to HQ and gain 9 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click and pays 4 credits to install Paperclip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses SSL Endorsement from HQ.
+Runner steals SSL Endorsement and gains 3 agenda points.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses SDS Drone Deployment from HQ.
+Runner trashes 1 installed program (Paperclip) to steal SDS Drone Deployment from HQ.
+Runner steals SDS Drone Deployment and gains 3 agenda points.
+Runner wins the game.

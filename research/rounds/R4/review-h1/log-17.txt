@@ -1,0 +1,359 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 15
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Atman.
+Runner pays 0 credits to use Hayley Kaplan: Universal Scholar to install Self-modifying Code from the Grip.
+Runner pays 2 credits to use Atman to place 2 power counters on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 9 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 1 credits to install Cache.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Scorched Earth from HQ.
+Runner is ending their turn 2 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 9 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 0 credits to play Beanstalk Royalties.
+Corp uses Beanstalk Royalties to gain 3 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 3 with 16 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Mother Goddess protecting R&D at position 0.
+Runner encounters Mother Goddess protecting R&D at position 0.
+Runner has no further action.
+Corp uses Mother Goddess to end the run.
+Corp resolves 1 unbroken subroutine on Mother Goddess ("[subroutine] End the run").
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 1 credits, to use Self-modifying Code to install Cache from the Stack.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Restructure from HQ.
+Runner is ending their turn 3 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 12 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 10 credits to play Restructure.
+Corp uses Restructure to gain 15 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 4 with 16 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 4 with 7 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hostile Takeover from HQ.
+Runner steals Hostile Takeover and gains 1 agenda point.
+Corp uses Argus Security: Protection Guaranteed to force the Runner to suffer 2 meat damage.
+Runner trashes R&D Interface and Technical Writer due to meat damage.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Clone Chip.
+Runner is ending their turn 4 with 6 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 16 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to install a card in the root of Server 1.
+Corp is ending their turn 5 with 14 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 1 credits to install Cache.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 5 credits to rez Changeling protecting Server 1 at position 2.
+Runner encounters Changeling protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Changeling to end the run.
+Corp resolves 1 unbroken subroutine on Changeling ("[subroutine] End the run").
+Runner is ending their turn 5 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 9 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Project Atlas and gains 2 agenda points.
+Corp is ending their turn 6 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 8 credits and 4 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits and forfeits 1 agenda (Project Atlas) to rez Archer protecting HQ at position 0.
+Runner encounters Archer protecting HQ at position 0.
+Runner has no further action.
+Corp uses Archer to gain 2 credits.
+Corp uses Archer to trash Atman.
+Corp uses Archer to trash Cache.
+Corp uses Archer to end the run.
+Corp resolves 4 unbroken subroutines on Archer ("[subroutine] Gain 2 credits" and "[subroutine] Trash a program" and "[subroutine] Trash a program" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner trashes Clone Chip, and then pays 3 credits, to use Clone Chip to install Atman from the Heap.
+Runner pays 3 credits to use Atman to place 3 power counters on itself.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install Oaktown Renovation in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 7 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to play Scavenge.
+Runner uses Scavenge to trash an installed Cache and install Self-modifying Code, lowering the cost by 1 credits.
+Runner pays 0 credits to install Self-modifying Code from the Heap (paying 1 credits less).
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 4 credits, to use Self-modifying Code to install Cerberus "Lady" H1 from the Stack.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Changeling protecting Server 1 at position 2.
+Runner encounters Changeling protecting Server 1 at position 2.
+Runner pays 1 credits and spends 1 hosted power counter from on Cerberus "Lady" H1 to increase the strength of Cerberus "Lady" H1 to 4 and break all  subroutines on Changeling.
+Runner has no further action.
+Runner passes Changeling protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 1.
+Corp pays 3 credits to rez Swordsman protecting Server 1 at position 1.
+Runner encounters Swordsman protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Swordsman to trash Atman.
+Corp uses Swordsman to do 1 net damage.
+Corp trashes Professional Contacts due to net damage.
+Corp resolves 2 unbroken subroutines on Swordsman ("[subroutine] Trash an AI program" and "[subroutine] Do 1 net damage").
+Runner passes Swordsman protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Runner passes ice protecting Server 1 at position 0.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Oaktown Renovation from Server 1.
+Runner steals Oaktown Renovation and gains 2 agenda points.
+Corp uses Argus Security: Protection Guaranteed to force the Runner to suffer 2 meat damage.
+Runner trashes Daily Casts and Scavenge due to meat damage.
+Runner is ending their turn 7 with 0 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 8 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install Oaktown Renovation in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 0 credits and 0 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 0 credits to play Scavenge.
+Runner uses Scavenge to trash an installed Cache and install Self-modifying Code, lowering the cost by 1 credits.
+Runner pays 0 credits to install Self-modifying Code from the Heap (paying 1 credits less).
+Runner is ending their turn 8 with 0 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 9 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp scores Oaktown Renovation and gains 2 agenda points.
+Corp is ending their turn 9 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 0 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 3 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 10 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install Oaktown Renovation in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 2.
+Corp is ending their turn 10 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 3 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 2 credits, to use Self-modifying Code to install Chameleon from the Stack.
+Runner uses Chameleon to choose Barrier.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 1.
+Runner approaches Changeling protecting Server 1 at position 2.
+Runner encounters Changeling protecting Server 1 at position 2.
+Runner pays 1 credits and spends 1 hosted power counter from on Cerberus "Lady" H1 to increase the strength of Cerberus "Lady" H1 to 4 and break all  subroutines on Changeling.
+Runner has no further action.
+Runner passes Changeling protecting Server 1 at position 2.
+Runner will continue the run.
+Runner approaches Swordsman protecting Server 1 at position 1.
+Runner encounters Swordsman protecting Server 1 at position 1.
+Runner has no further action.
+Corp uses Swordsman to do 1 net damage.
+Corp trashes Fan Site due to net damage.
+Corp resolves 2 unbroken subroutines on Swordsman ("[subroutine] Trash an AI program" and "[subroutine] Do 1 net damage").
+Runner passes Swordsman protecting Server 1 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Enigma protecting Server 1 at position 0.
+Runner encounters Enigma protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner is ending their turn 10 with 0 credits and 3 cards in the grip.
+[hr]
+Runner uses Chameleon to add itself to Grip.
+Corp started their turn 11 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Oaktown Renovation in Server 1.
+Corp uses Oaktown Renovation to gain 2 credits.
+Corp scores Oaktown Renovation and gains 2 agenda points.
+Corp is ending their turn 11 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install Chameleon.
+Runner uses Chameleon to choose Barrier.
+Runner is ending their turn 11 with 0 credits and 4 cards in the grip.
+[hr]
+Runner uses Chameleon to add itself to Grip.
+Corp started their turn 12 with 8 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 0 credits to play Casting Call.
+Corp uses Casting Call to install Project Atlas from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp hosts Casting Call on Project Atlas.
+Corp is ending their turn 12 with 7 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 12 with 0 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 7 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Project Atlas in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Project Atlas in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance Project Atlas in Server 1.
+ Project Atlas in Server 1 has left play: 1 facedown Corp card is trashed.
+Corp scores Project Atlas and gains 2 agenda points.
+Corp is ending their turn 13 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 4 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Chameleon.
+Runner uses Chameleon to choose Barrier.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Snare! from Server 2.
+Corp pays 4 credits to use Snare! to give the Runner 1 tag and do 3 net damage.
+Corp trashes Aesop's Pawnshop, Clone Chip, and R&D Interface due to net damage.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner is ending their turn 13 with 1 credits and 1 card in the grip.
+[hr]
+Runner uses Chameleon to add itself to Grip.
+Corp started their turn 14 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 2 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 14 with 1 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Mother Goddess protecting R&D at position 0.
+Runner encounters Mother Goddess protecting R&D at position 0.
+Runner pays 1 credits and spends 1 hosted power counter from on Cerberus "Lady" H1 to increase the strength of Cerberus "Lady" H1 to 4 and break all  subroutines on Mother Goddess.
+Runner has no further action.
+Runner passes Mother Goddess protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 14 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 15 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Hostile Takeover and gains 1 agenda point.
+Corp wins the game.
+Corp uses Hostile Takeover to gain 7 credits and take 1 bad publicity.

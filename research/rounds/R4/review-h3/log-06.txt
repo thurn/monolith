@@ -1,0 +1,468 @@
+Review the CORP's play in this game.
+Winner: runner (Agenda), turn 13
+
+[!] Whizzard: Master Gamer - Recurring credits usage not restricted
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner uses Street Peddler to install Daily Casts, lowering its install cost by 1 credits. I've Had Worse and Yog.0 are trashed as a result.
+Runner pays 2 credits to install Daily Casts from among the set-aside cards (paying 1 credits less).
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 1 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 10 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 2 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 7 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 5 credits to install Yog.0.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 2 credits to rez Turnpike protecting HQ at position 0.
+Runner encounters Turnpike protecting HQ at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Sensie Actors Union from HQ.
+Runner is ending their turn 2 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 10 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click and pays 1 credits to play Closed Accounts.
+Corp uses Closed Accounts to force the Runner to lose all 7 credits.
+Corp is ending their turn 3 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 0 credits and 4 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner is ending their turn 3 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 4 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 4 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 6 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 8 credits to rez Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner has no further action.
+Corp uses Tollbooth to end the run.
+Corp resolves 1 unbroken subroutine on Tollbooth ("[subroutine] End the run").
+Runner spends click and pays 2 credits to install Parasite on Tollbooth protecting R&D at position 0.
+[!] Parasite - [Erratum] Program: Virus - Trojan
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 3 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches Turnpike protecting HQ at position 0.
+Runner encounters Turnpike protecting HQ at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses SanSan City Grid from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp is ending their turn 6 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 7 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Parasite on Tollbooth protecting R&D at position 0.
+[!] Parasite - [Erratum] Program: Virus - Trojan
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner pays 0 credits to use Yog.0 to break all 1 subroutines on Tollbooth.
+Runner has no further action.
+Runner passes Tollbooth protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner is ending their turn 6 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 2 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner approaches Tollbooth protecting R&D at position 0.
+Runner encounters Tollbooth protecting R&D at position 0.
+Runner pays 3 credits on encountering Tollbooth.
+Runner pays 0 credits to use Yog.0 to break all 1 subroutines on Tollbooth.
+Runner has no further action.
+Runner passes Tollbooth protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches Turnpike protecting HQ at position 0.
+Runner encounters Turnpike protecting HQ at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Beale from HQ.
+Runner steals Project Beale and gains 2 agenda points.
+Runner is ending their turn 7 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 1 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner uses Parasite to trash Tollbooth.
+ Tollbooth protecting R&D at position 0 has left play: Parasite and Parasite are trashed.
+Corp uses NBN: Controlling the Message to initiate a trace with strength 4.
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses NBN: Controlling the Message to give the Runner 1 tag.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Breaking News and gains 1 agenda point.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 9 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 6 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 9 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 2 credits to use Corp Basic Action Card to trash Daily Casts.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 10 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 3 credits to trash Jackson Howard from R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches Turnpike protecting HQ at position 0.
+Runner encounters Turnpike protecting HQ at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 10 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 7 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Turnpike protecting HQ at position 0.
+Runner encounters Turnpike protecting HQ at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches Turnpike protecting HQ at position 0.
+Runner encounters Turnpike protecting HQ at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner is ending their turn 11 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 3 credits to play Hard-Hitting News.
+Corp uses Hard-Hitting News to initiate a trace with strength 4 (Give the Runner 4 tags).
+Corp pays 0 credits to increase trace strength to 4.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Hard-Hitting News to give the Runner 4 tags.
+Corp is ending their turn 12 with 10 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 12 with 9 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 2 credits to use Runner Basic Action Card to remove 1 tag.
+Runner spends click to make a run on HQ.
+Runner approaches Turnpike protecting HQ at position 0.
+Runner encounters Turnpike protecting HQ at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Commercial Bankers Group from HQ.
+Runner pays 2 credits to trash Commercial Bankers Group from HQ.
+Runner is ending their turn 12 with 5 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 10 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 13 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 5 credits and 5 cards in the grip.
+Runner uses Whizzard: Master Gamer to take 1 [Recurring Credits].
+Runner spends click to make a run on HQ.
+Runner approaches Turnpike protecting HQ at position 0.
+Runner encounters Turnpike protecting HQ at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Commercial Bankers Group from HQ.
+Runner pays 2 credits from Whizzard: Master Gamer to trash Commercial Bankers Group from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Turnpike protecting HQ at position 0.
+Runner encounters Turnpike protecting HQ at position 0.
+Corp uses Turnpike to force the Runner to lose 1 credits.
+Runner has no further action.
+Corp uses Turnpike to initiate a trace with strength 5 (Give the Runner 1 tag).
+Corp pays 0 credits to increase trace strength to 5.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Turnpike to give the Runner 1 tag.
+Corp resolves 1 unbroken subroutine on Turnpike ("[subroutine] Trace 5 - Give the Runner 1 tag").
+Runner passes Turnpike protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Global Food Initiative from HQ.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner wins the game.

@@ -1,0 +1,660 @@
+Review the RUNNER's play in this game.
+Winner: corp (Agenda), turn 29
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp pays 1 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Bukhgalter.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 5 credits and 4 cards in the grip.
+Runner spends click and pays 5 credits to play Sure Gamble.
+Runner uses Sure Gamble to gain 9 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click and pays 3 credits to install Daily Casts.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 2 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 8 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 6 credits and 4 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp pays 2 credits to rez Marilyn Campaign in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 11 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to play Legwork.
+Runner uses Legwork to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Hagen protecting HQ at position 0.
+Runner encounters Hagen protecting HQ at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on Server 1.
+Runner will continue the run.
+Corp pays 3 credits to rez Cyberdex Virus Suite in Server 1.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Cyberdex Virus Suite from Server 1.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner pays 1 credits to trash Cyberdex Virus Suite from Server 1.
+Runner accesses Marilyn Campaign from Server 1.
+Runner pays 3 credits to trash Marilyn Campaign from Server 1.
+Corp uses Marilyn Campaign to shuffle itself into R&D instead of moving it to Archives.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches ice protecting R&D at position 1.
+Corp pays 3 credits to rez Gatekeeper protecting R&D at position 1.
+Runner encounters Gatekeeper protecting R&D at position 1.
+Runner has no further action.
+Corp uses Gatekeeper to draw 0 cards.
+Corp uses Gatekeeper to reveal Project Vitruvius from HQ, and shuffle it into R&D.
+Corp uses Gatekeeper to end the run.
+Corp resolves 2 unbroken subroutines on Gatekeeper ("[subroutine] Draw cards, reveal and shuffle agendas" and "[subroutine] End the run").
+Runner uses Bravado to gain 6 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 4 with 13 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 0 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 1 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 13 credits and 3 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner spends click and pays 2 credits to play Inside Job.
+Runner uses Inside Job to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Runner passes ice protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Cybernetics Court from Server 2.
+Runner pays 5 credits to trash Cybernetics Court from Server 2.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 5 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 1 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 2.
+Corp trashes a card in Server 2.
+Corp is ending their turn 6 with 3 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 6 with 8 credits and 5 cards in the grip.
+Runner uses Daily Casts to gain 2 credits.
+Runner trashes Daily Casts.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches Gatekeeper protecting R&D at position 1.
+Runner encounters Gatekeeper protecting R&D at position 1.
+Runner has no further action.
+Corp uses Gatekeeper to draw 0 cards.
+Corp uses Gatekeeper to reveal Global Food Initiative from HQ, and shuffle it into R&D.
+Corp uses Gatekeeper to end the run.
+Corp resolves 2 unbroken subroutines on Gatekeeper ("[subroutine] Draw cards, reveal and shuffle agendas" and "[subroutine] End the run").
+Runner uses Bravado to gain 6 credits.
+Runner spends click and pays 3 credits to play Bravado.
+Runner approaches Gatekeeper protecting R&D at position 1.
+Runner encounters Gatekeeper protecting R&D at position 1.
+Runner has no further action.
+Corp uses Gatekeeper to draw 0 cards.
+Corp uses Gatekeeper to shuffle R&D.
+Corp uses Gatekeeper to end the run.
+Corp resolves 2 unbroken subroutines on Gatekeeper ("[subroutine] Draw cards, reveal and shuffle agendas" and "[subroutine] End the run").
+Runner uses Bravado to gain 6 credits.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 2 credits to rez Tour Guide protecting Server 2 at position 0.
+Runner encounters Tour Guide protecting Server 2 at position 0.
+Runner has no further action.
+Runner passes Tour Guide protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Jeeves Model Bioroids from Server 2.
+Runner pays 5 credits to trash Jeeves Model Bioroids from Server 2.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 6 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 1 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 4 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 7 with 11 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 7 with 14 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to install a card in the root of Server 2.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 2.
+Corp trashes a card in Server 2.
+Corp pays 1 credits to rez Mumba Temple in Server 2.
+[!] Mumba Temple - Recurring credits usage not restricted
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 7 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 8 with 14 credits and 5 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 8 with 17 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 7 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 9 with 11 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 9 with 17 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 21 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 11 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 10 with 15 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 10 with 21 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 10 with 25 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 15 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 2 gain/draw decisions.
+Corp uses Fully Operational to gain 2 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp spends click to install a card in the root of Server 3 (new remote).
+Corp pays 0 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting Server 3.
+Corp is ending their turn 11 with 20 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 11 with 25 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 3 credits to rez Gatekeeper protecting Server 3 at position 0.
+Runner encounters Gatekeeper protecting Server 3 at position 0.
+Runner has no further action.
+Corp uses Gatekeeper to draw 0 cards.
+Corp uses Gatekeeper to reveal Global Food Initiative and Global Food Initiative from HQ, and shuffle them into R&D.
+Corp uses Gatekeeper to end the run.
+Corp resolves 2 unbroken subroutines on Gatekeeper ("[subroutine] Draw cards, reveal and shuffle agendas" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 11 with 28 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 17 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 4.
+Corp trashes a card in Server 4.
+Corp pays 0 credits to rez Rashida Jaheem in Server 4.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp pays 0 credits to rez Cybernetics Court in Server 3.
+Corp spends click to install a card in the root of Server 5 (new remote).
+Corp is ending their turn 12 with 19 credits and 0 cards in HQ.
+[hr]
+Runner started their turn 12 with 28 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 32 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 19 credits and 0 cards in HQ.
+Corp uses Rashida Jaheem to gain 3 credits and draw 3 cards.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to install a card in the root of Server 6 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 6.
+Corp trashes a card in Server 6.
+Corp pays 2 credits from Mumba Temple to rez Marilyn Campaign in Server 6.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 3 gain/draw decisions.
+Corp uses Fully Operational to gain 2 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp is ending their turn 13 with 23 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 13 with 32 credits and 5 cards in the grip.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner accesses everything else in Archives.
+Runner spends click to make a run on Server 6.
+Runner will continue the run.
+Runner approaches Server 6.
+Runner breaches Server 6.
+Runner accesses Marilyn Campaign from Server 6.
+Runner pays 3 credits to trash Marilyn Campaign from Server 6.
+Corp uses Marilyn Campaign to shuffle itself into R&D instead of moving it to Archives.
+Runner spends click to make a run on Server 5.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses MCA Austerity Policy from Server 5.
+Runner pays 3 credits to trash MCA Austerity Policy from Server 5.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 13 with 27 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 23 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 7 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 7.
+Corp spends click to install a card in the root of Server 7.
+Corp trashes a card in Server 7.
+Corp uses Mumba Temple to take 1 [Recurring Credits].
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 14 with 24 credits and 1 card in HQ.
+[hr]
+Runner started their turn 14 with 27 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 7.
+Runner approaches ice protecting Server 7 at position 0.
+Corp pays 1 credits from Mumba Temple and 5 credits from their credit pool to rez Fairchild 3.0 protecting Server 7 at position 0.
+Runner encounters Fairchild 3.0 protecting Server 7 at position 0.
+Runner has no further action.
+Corp uses Fairchild 3.0 to force the Runner to pay 3 credits.
+Runner pays 3 credits.
+Corp uses Fairchild 3.0 to force the Runner to pay 3 credits.
+Runner pays 3 credits.
+Corp uses Fairchild 3.0 to end the run.
+Corp resolves 3 unbroken subroutines on Fairchild 3.0 ("[subroutine] Force the Runner to pay 3 credits or trash an installed card" and "[subroutine] Force the Runner to pay 3 credits or trash an installed card" and "[subroutine] Do 1 core damage or end the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 24 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 19 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp spends click and pays 1 credits to install ice protecting Server 2.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 2.
+Corp trashes Mumba Temple in Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 15 with 17 credits and 1 card in HQ.
+[hr]
+Runner started their turn 15 with 24 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 1.
+Corp pays 3 credits to rez Drafter protecting Server 2 at position 1.
+Runner encounters Drafter protecting Server 2 at position 1.
+Runner has no further action.
+Corp uses Drafter to add Biotic Labor in Archives to HQ.
+Corp uses Drafter to install a card from Archives in the root of Server 8 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 8.
+Corp trashes a card in Server 8.
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Tour Guide protecting Server 2 at position 0.
+Runner encounters Tour Guide protecting Server 2 at position 0.
+Runner uses Bukhgalter to gain 2 credits.
+Runner pays 1 credits to use Bukhgalter to break all 1 subroutines on Tour Guide.
+Runner has no further action.
+Runner passes Tour Guide protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Mumba Temple from Server 2.
+Runner pays 3 credits to trash Mumba Temple from Server 2.
+Runner spends click to make a run on Server 8.
+Runner will continue the run.
+Runner approaches Server 8.
+Runner breaches Server 8.
+Runner accesses Marilyn Campaign from Server 8.
+Runner pays 3 credits to trash Marilyn Campaign from Server 8.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 15 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 16 with 14 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp scores Successful Field Test and gains 2 agenda points.
+Corp uses Successful Field Test to install cards from HQ, ignoring all costs.
+Corp uses Successful Field Test to install a card from HQ in the root of Server 9 (new remote).
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting R&D at position 0 to HQ.
+Corp is ending their turn 16 with 11 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 16 with 20 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 9.
+Runner will continue the run.
+Runner approaches Server 9.
+Runner breaches Server 9.
+Runner accesses Mumba Temple from Server 9.
+Runner pays 3 credits to trash Mumba Temple from Server 9.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 16 with 20 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 17 with 11 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 7.
+Corp pays 1 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting Server 7.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 17 with 6 credits and 1 card in HQ.
+[hr]
+Runner started their turn 17 with 20 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 17 with 24 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 18 with 6 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp scores Successful Field Test and gains 2 agenda points.
+Corp uses Successful Field Test to install cards from HQ, ignoring all costs.
+Corp uses Successful Field Test to install a card from HQ in the root of Server 10 (new remote).
+Corp uses Successful Field Test to install a card from HQ in the root of Server 11 (new remote).
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting Server 7 at position 1 to HQ.
+Corp is ending their turn 18 with 3 credits and 1 card in HQ.
+[hr]
+Runner started their turn 18 with 24 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 11.
+Runner will continue the run.
+Runner approaches Server 11.
+Runner breaches Server 11.
+Runner accesses Project Vitruvius from Server 11.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add a card in Server 10 to HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 18 with 27 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 19 with 3 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp spends click to install a card in the root of Server 7.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 19 with 3 credits and 1 card in HQ.
+[hr]
+Runner started their turn 19 with 27 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 19 with 31 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 20 with 3 credits and 1 card in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp scores Project Vitruvius and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting R&D at position 1 to HQ.
+Corp is ending their turn 20 with 0 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 20 with 31 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 20 with 35 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 21 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to install ice protecting Server 7.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 7.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 21 with 1 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 21 with 35 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 21 with 39 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 22 with 1 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 7.
+Corp trashes a card in Server 7.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 22 with 2 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 22 with 39 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 22 with 43 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 23 with 2 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 23 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 23 with 43 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 23 with 47 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 24 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 2.
+Corp trashes a card in Server 2.
+Corp spends click to install a card in the root of Server 2.
+Corp trashes a card in Server 2.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 24 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 24 with 47 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches Drafter protecting Server 2 at position 1.
+Runner encounters Drafter protecting Server 2 at position 1.
+Runner has no further action.
+Corp uses Drafter to add Biotic Labor in Archives to HQ.
+Corp uses Drafter to install Rashida Jaheem from Archives in the root of Server 12 (new remote).
+Corp resolves 2 unbroken subroutines on Drafter ("[subroutine] Add card from Archives to HQ" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Drafter protecting Server 2 at position 1.
+Runner will continue the run.
+Runner approaches Tour Guide protecting Server 2 at position 0.
+Runner encounters Tour Guide protecting Server 2 at position 0.
+Runner uses Bukhgalter to gain 2 credits.
+Runner pays 1 credits to use Bukhgalter to break all 1 subroutines on Tour Guide.
+Runner has no further action.
+Runner passes Tour Guide protecting Server 2 at position 0.
+Runner will continue the run.
+Runner approaches Server 2.
+Runner breaches Server 2.
+Runner accesses Successful Field Test from Server 2.
+Runner steals Successful Field Test and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add a card in Server 7 to HQ.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner accesses Global Food Initiative from Archives.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add ice protecting Server 7 at position 1 to HQ.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 24 with 50 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 25 with 4 credits and 7 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp pays 2 credits to use Asa Group: Security Through Vigilance to install ice from HQ protecting Server 2.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 3 gain/draw decisions.
+Corp uses Fully Operational to gain 2 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click to install a card in the root of Server 7.
+Corp is ending their turn 25 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 25 with 50 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 2.
+Corp pays 4 credits to rez Hagen protecting Server 2 at position 2.
+Runner encounters Hagen protecting Server 2 at position 2.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 25 with 53 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 26 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 7.
+Corp is ending their turn 26 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 26 with 53 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 26 with 57 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 27 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 27 with 5 credits and 6 cards in HQ.
+[hr]
+Runner started their turn 27 with 57 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 27 with 61 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 28 with 5 credits and 6 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp pays 0 credits to rez Rashida Jaheem in Server 12.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 28 with 6 credits and 7 cards in HQ.
+[hr]
+Runner started their turn 28 with 61 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 28 with 65 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 29 with 6 credits and 7 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Corp wins the game.

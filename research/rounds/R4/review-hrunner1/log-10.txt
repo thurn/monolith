@@ -1,0 +1,218 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 7
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 7 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play The Maker's Eye.
+Runner uses The Maker's Eye to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Project Beale and gains 2 agenda points.
+Runner accesses an unseen card from R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to install Cyber-Cypher.
+Runner uses Cyber-Cypher to target HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 9 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 2 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner has no further action.
+Corp uses Enigma to force the Runner to lose click, if able.
+Corp uses Enigma to end the run.
+Corp resolves 2 unbroken subroutines on Enigma ("[subroutine] Force the Runner to lose click" and "[subroutine] End the run").
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 4 credits to rez Architect protecting HQ at position 0.
+Runner encounters Architect protecting HQ at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp uses Architect to install a card from  position 1 of R&D in the root of Server 1 (new remote).
+Corp uses Near-Earth Hub: Broadcast Center to draw 1 card.
+Corp uses Architect to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NAPD Contract from HQ.
+Runner declines to pay to steal NAPD Contract.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 2 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 3 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 3 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 7 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Architect protecting HQ at position 0.
+Runner encounters Architect protecting HQ at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp pays 0 credits to use Architect to install ice from  position 1 of R&D protecting Archives.
+Corp uses Architect to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Beale from HQ.
+Runner steals Project Beale and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 3 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 10 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 4 with 8 credits and 5 cards in the grip.
+Runner spends click and pays 0 credits to install Self-modifying Code.
+Runner spends clickclick and pays 3 credits to play Lucky Find.
+Runner uses Lucky Find to gain 9 credits.
+Runner pays 2 credits and trashes Self-modifying Code, and then pays 3 credits, to use Self-modifying Code to install Atman from the Stack.
+Runner pays 2 credits to use Atman to place 2 power counters on itself.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on HQ.
+Runner approaches Architect protecting HQ at position 0.
+Runner encounters Architect protecting HQ at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp uses Architect to install a card from  position 1 of R&D in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp uses Architect to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses NAPD Contract from HQ.
+Runner pays 4 credits to steal NAPD Contract from HQ.
+Runner steals NAPD Contract and gains 2 agenda points.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 4 with 6 credits and 2 cards in the grip.
+[hr]
+Corp started their turn 5 with 10 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends clickclick and pays 0 credits to play Shipment from SanSan.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 2 credits.
+Corp is ending their turn 5 with 7 credits and 2 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 2 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Architect protecting HQ at position 0.
+Runner encounters Architect protecting HQ at position 0.
+Runner has no further action.
+Corp uses Architect to look at the top 5 cards of R&D.
+Corp pays 0 credits to use Architect to install ice from  position 1 of R&D protecting Archives.
+Corp uses Architect to install a card from Archives in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp resolves 2 unbroken subroutines on Architect ("[subroutine] Look at the top 5 cards of R&D" and "[subroutine] Install a card from HQ or Archives").
+Runner passes Architect protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Jackson Howard from HQ.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 5 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 7 credits and 2 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 6 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 6 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 1 credits to play Sweeps Week.
+Corp uses Sweeps Week to gain 4 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 7 with 12 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 5 credits and 4 cards in the grip.
+Runner spends click and pays 0 credits to install Clone Chip.
+Runner spends click to make a run on R&D.
+Runner approaches Enigma protecting R&D at position 0.
+Runner encounters Enigma protecting R&D at position 0.
+Runner pays 2 credits to use Atman to break all 2 subroutines on Enigma.
+Runner has no further action.
+Runner passes Enigma protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals AstroScript Pilot Program and gains 2 agenda points.
+Runner wins the game.

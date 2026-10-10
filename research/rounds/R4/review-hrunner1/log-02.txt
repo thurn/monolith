@@ -1,0 +1,462 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 17
+
+Corp keeps their hand.
+Runner takes a mulligan.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to install Lamprey.
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner spends click and pays 1 credits to install Lamprey.
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 1 with 4 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 6 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 0 credits to play Interns.
+Corp uses Interns to install a card from HQ in the root of Archives.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 2 with 6 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 2 with 4 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Corp pays 2 credits to rez Caprice Nisei in the root of Archives.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Corporate Sales Team from Archives.
+Runner steals Corporate Sales Team and gains 2 agenda points.
+Runner accesses Caprice Nisei from the root of Archives.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 4 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 7 credits and 4 cards in the grip.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Runner passes ice protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner uses Lamprey to force the Corp to lose 1 credits.
+Runner uses Lamprey to force the Corp to lose 1 credits.
+Runner breaches HQ.
+Runner accesses Hedge Fund from HQ.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Runner passes ice protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 3 with 5 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 4 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 5 credits and 3 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 3 credits to rez Viper protecting R&D at position 0.
+Runner encounters Viper protecting R&D at position 0.
+Runner has no further action.
+Corp uses Viper to initiate a trace with strength 3 (Force the Runner to lose click).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Viper to force the Runner to lose click, if able.
+Corp uses Viper to initiate a trace with strength 3 (End the run).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Viper to end the run.
+Corp resolves 2 unbroken subroutines on Viper ("[subroutine] Trace 3 - Force the Runner to lose click" and "[subroutine] Trace 3 - End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 7 credits and 3 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 5 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 5 with 7 credits and 3 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 5 credits to rez Lotus Field protecting HQ at position 0.
+Runner encounters Lotus Field protecting HQ at position 0.
+Runner has no further action.
+Corp uses Lotus Field to end the run.
+Corp resolves 1 unbroken subroutine on Lotus Field ("[subroutine] End the run").
+Runner is ending their turn 5 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 9 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 0 credits to install Street Peddler.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Imp and Cache from the top of the stack, trashes them, and gains 2 credits.
+Runner adds Adjusted Chronotype to the grip.
+Runner adds Inject to the grip.
+Runner uses Street Peddler to install Scheherazade, lowering its install cost by 1 credits. Inject and Wyldside are trashed as a result.
+Runner pays 0 credits to install Scheherazade from among the set-aside cards (paying 1 credits less).
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 6 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp spends click and pays 2 credits to install ice protecting Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 7 with 8 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 7 with 11 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to install Clot.
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner pays 0 credits.
+Corp pays 0 credits.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Caprice Nisei from the root of Archives.
+Runner pays 1 credits to trash Caprice Nisei from the root of Archives.
+Runner accesses everything else in Archives.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner is ending their turn 7 with 9 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 9 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 8 with 9 credits and 5 cards in the grip.
+Runner spends click and pays 1 credits to play Inject.
+Runner reveals Datasucker, Lamprey, and Parasite from the top of the stack, trashes them, and gains 3 credits.
+Runner adds Déjà Vu to the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 2.
+Corp pays 3 credits to rez Eli 1.0 protecting Server 1 at position 2.
+Runner encounters Eli 1.0 protecting Server 1 at position 2.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner spends click and pays 1 credits to install Aesop's Pawnshop.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner is ending their turn 8 with 10 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Corporate Sales Team and gains 2 agenda points.
+Corp is ending their turn 9 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 10 credits and 5 cards in the grip.
+Runner uses Aesop's Pawnshop to trash Scheherazade and gain 3 credits.
+Corp uses Corporate Sales Team to gain 1 credits.
+Runner spends click and pays 3 credits to install Adjusted Chronotype.
+Runner spends click and pays 3 credits to install Wyldside.
+Runner uses Wyldside to draw 2 cards and lose click.
+Runner uses Adjusted Chronotype to gain click.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 3 credits to install D4v1d.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 9 with 4 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 6 credits and 5 cards in HQ.
+Corp uses Corporate Sales Team to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 4 credits and 5 cards in the grip.
+Runner uses Wyldside to draw 2 cards and lose click.
+Runner uses Adjusted Chronotype to gain click.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Corp uses Corporate Sales Team to gain 1 credits.
+Runner spends click and pays 2 credits to install Parasite on Eli 1.0 protecting Server 1 at position 2.
+[!] Parasite - [Erratum] Program: Virus - Trojan
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner uses Aesop's Pawnshop to trash Parasite and gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to install Clot.
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner spends click and pays 3 credits to install Medium.
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner is ending their turn 10 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 11 with 12 credits and 5 cards in HQ.
+Corp uses Corporate Sales Team to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 10 credits to play Restructure.
+Corp uses Restructure to gain 15 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 11 with 19 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 11 with 1 credits and 4 cards in the grip.
+Runner uses Aesop's Pawnshop to trash Clot and gain 3 credits.
+Runner uses Wyldside to draw 2 cards and lose click.
+Runner uses Adjusted Chronotype to gain click.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Corp uses Corporate Sales Team to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Global Food Initiative from Archives.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner accesses Philotic Entanglement from Archives.
+Runner steals Philotic Entanglement and gains 2 agenda points.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner discards 1 from the stack at end of turn.
+Runner is ending their turn 11 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 21 credits and 5 cards in HQ.
+Corp uses Corporate Sales Team to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 12 with 25 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 12 with 7 credits and 5 cards in the grip.
+Runner uses Wyldside to draw 2 cards and lose click.
+Runner uses Adjusted Chronotype to gain click.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Corp uses Corporate Sales Team to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner spends click and pays 2 credits to play Déjà Vu.
+Runner uses Déjà Vu to add Déjà Vu to the grip.
+Runner uses Déjà Vu to add Clot to the grip.
+Runner discards 3 from the stack at end of turn.
+Runner is ending their turn 12 with 7 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 27 credits and 5 cards in HQ.
+Corp uses Corporate Sales Team to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 13 with 31 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 13 with 7 credits and 5 cards in the grip.
+Runner uses Wyldside to draw 2 cards and lose click.
+Runner uses Adjusted Chronotype to gain click.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Corp uses Corporate Sales Team to gain 1 credits.
+Runner spends click and pays 1 credits to install Cache.
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends click and pays 3 credits to install Faust.
+Runner uses Aesop's Pawnshop to trash Cache and gain 3 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Lotus Field protecting HQ at position 0.
+Runner encounters Lotus Field protecting HQ at position 0.
+Runner trashes 2 cards (Clot and Cache) from the grip to increase the strength of Faust to 4 and break all  subroutines on Lotus Field.
+Runner has no further action.
+Runner passes Lotus Field protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Viper from HQ.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 13 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 14 with 33 credits and 5 cards in HQ.
+Corp uses Corporate Sales Team to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 14 with 37 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 7 credits and 4 cards in the grip.
+Runner uses Wyldside to draw 2 cards and lose click.
+Runner uses Adjusted Chronotype to gain click.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 1 credits to install Cache.
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends 1 hosted virus counter from on Cache to use Cache to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Viper protecting R&D at position 0.
+Runner encounters Viper protecting R&D at position 0.
+Runner trashes 3 cards (Datasucker, D4v1d, and Aesop's Pawnshop) from the grip to increase the strength of Faust to 4 and break all 2 subroutines on Viper.
+Runner has no further action.
+Runner passes Viper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Lotus Field protecting HQ at position 0.
+Runner encounters Lotus Field protecting HQ at position 0.
+Runner trashes 2 cards (Levy AR Lab Access and Aesop's Pawnshop) from the grip to increase the strength of Faust to 4 and break all  subroutines on Lotus Field.
+Runner has no further action.
+Runner passes Lotus Field protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Eli 1.0 from HQ.
+Runner is ending their turn 14 with 9 credits and 1 card in the grip.
+[hr]
+Corp started their turn 15 with 38 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 15 with 41 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 9 credits and 1 card in the grip.
+Runner uses Aesop's Pawnshop to trash Cache and gain 3 credits.
+Runner uses Wyldside to draw 2 cards and lose click.
+Runner uses Adjusted Chronotype to gain click.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click and pays 2 credits to install Imp.
+Runner uses Noise: Hacker Extraordinaire to force the Corp to trash the top card of R&D.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Viper protecting R&D at position 0.
+Runner encounters Viper protecting R&D at position 0.
+Runner trashes 3 cards (Wyldside, Déjà Vu, and Adjusted Chronotype) from the grip to increase the strength of Faust to 4 and break all 2 subroutines on Viper.
+Runner has no further action.
+Runner passes Viper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner uses Medium to access 0 additional cards from R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner is ending their turn 15 with 10 credits and 0 cards in the grip.
+[hr]
+Corp started their turn 16 with 42 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 16 with 45 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 16 with 10 credits and 0 cards in the grip.
+Runner uses Aesop's Pawnshop to trash Imp and gain 3 credits.
+Runner uses Wyldside to draw 2 cards and lose click.
+Runner uses Adjusted Chronotype to gain click.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner approaches Viper protecting R&D at position 0.
+Runner encounters Viper protecting R&D at position 0.
+Runner trashes 3 cards (Faust, Street Peddler, and Street Peddler) from the grip to increase the strength of Faust to 4 and break all 2 subroutines on Viper.
+Runner has no further action.
+Runner passes Viper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner accesses Cyberdex Virus Suite from Archives.
+Corp uses Cyberdex Virus Suite to purge virus counters.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner is ending their turn 16 with 13 credits and 1 card in the grip.
+[hr]
+Corp started their turn 17 with 46 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 3 credits to play Celebrity Gift.
+Corp uses Celebrity Gift to reveal Cobra, Eli 1.0, Hedge Fund, Hedge Fund, and Viper from HQ and gain 10 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 53 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 13 credits and 1 card in the grip.
+Runner uses Wyldside to draw 2 cards and lose click.
+Runner uses Adjusted Chronotype to gain click.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Viper protecting R&D at position 0.
+Runner encounters Viper protecting R&D at position 0.
+Runner trashes 3 cards (Parasite, Imp, and Datasucker) from the grip to increase the strength of Faust to 4 and break all 2 subroutines on Viper.
+Runner has no further action.
+Runner passes Viper protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner wins the game.

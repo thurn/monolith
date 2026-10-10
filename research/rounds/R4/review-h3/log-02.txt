@@ -1,0 +1,452 @@
+Review the CORP's play in this game.
+Winner: corp (Agenda), turn 13
+
+Corp keeps their hand.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 1 (new remote).
+Corp spends click to install a card in the root of Server 1.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp is ending their turn 1 with 5 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click and pays 3 credits to install Mimic.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Launch Campaign from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Interns from HQ.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Marcus Batty from HQ.
+Runner is ending their turn 1 with 2 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 2 with 5 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 6 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 2 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 1.
+Runner approaches ice protecting Server 1 at position 0.
+Corp pays 3 credits to rez Eli 1.0 protecting Server 1 at position 0.
+Runner encounters Eli 1.0 protecting Server 1 at position 0.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 2 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp is ending their turn 3 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Corp uses Pālanā Foods: Sustainable Growth to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 3 with 8 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Nisei MK II and gains 2 agenda points.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 4 with 2 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 8 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 4 with 12 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 5 with 2 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click and pays 0 credits to install ice protecting Server 2 (new remote).
+Corp is ending their turn 5 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 12 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 5 with 16 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 6 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 6 with 4 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 16 credits and 5 cards in the grip.
+Runner spends click to make a run on Server 2.
+Runner approaches ice protecting Server 2 at position 0.
+Corp pays 3 credits to rez Eli 1.0 protecting Server 2 at position 0.
+Runner encounters Eli 1.0 protecting Server 2 at position 0.
+Runner has no further action.
+Corp uses Eli 1.0 to end the run.
+Corp resolves 1 unbroken subroutine on Eli 1.0 ("[subroutine] End the run").
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 1 credits to rez Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 3 credits to trash Jackson Howard from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp uses Crick to install Jackson Howard from Archives in the root of Server 3 (new remote).
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Corporate Sales Team and gains 2 agenda points.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 6 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 7 with 0 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp pays 0 credits to rez Jackson Howard in Server 3.
+Corp uses Jackson Howard to shuffle 1 unseen card into R&D.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 3 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 13 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 7 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 8 with 3 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 8 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 13 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits to trash Caprice Nisei from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp uses Crick to install Caprice Nisei from Archives in the root of Server 5 (new remote).
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits to trash Marcus Batty from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp uses Crick to install Marcus Batty from Archives in the root of Server 6 (new remote).
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 8 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 9 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends clickclick and pays 3 credits to play Celebrity Gift.
+Corp uses Celebrity Gift to reveal Caprice Nisei, Hedge Fund, Launch Campaign, Marcus Batty, and Pup from HQ and gain 10 credits.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp is ending their turn 9 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 11 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 9 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 10 with 11 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 2.
+Corp scores Corporate Sales Team and gains 2 agenda points.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 10 with 8 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 11 credits and 5 cards in the grip.
+Corp uses Corporate Sales Team to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp uses Crick to install a card from Archives in the root of Server 7 (new remote).
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 10 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 9 credits and 5 cards in HQ.
+Corp uses Corporate Sales Team to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 4.
+Corp spends click and pays 1 credits to install ice protecting HQ.
+Corp pays 0 credits to rez Marcus Batty in Server 7.
+Corp spends click and pays 5 credits to play Hedge Fund.
+Corp uses Hedge Fund to gain 9 credits.
+Corp is ending their turn 11 with 13 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 11 with 11 credits and 5 cards in the grip.
+Corp uses Corporate Sales Team to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to make a run on R&D.
+Runner approaches Crick protecting R&D at position 0.
+Runner encounters Crick protecting R&D at position 0.
+Runner has no further action.
+Corp resolves 1 unbroken subroutine on Crick ("[subroutine] Install a card from Archives").
+Runner passes Crick protecting R&D at position 0.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 11 with 11 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 12 with 14 credits and 3 cards in HQ.
+Corp uses Corporate Sales Team to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp pays 0 credits to rez Marcus Batty in Server 6.
+Marcus Batty in Server 7 is trashed.
+Corp spends click and pays 1 credits to install ice protecting R&D.
+Corp is ending their turn 12 with 12 credits and 3 cards in HQ.
+[hr]
+Runner started their turn 12 with 11 credits and 5 cards in the grip.
+Corp uses Corporate Sales Team to gain 1 credits.
+Runner spends click to make a run on Server 4.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 3 credits to rez Viper protecting Server 4 at position 0.
+Runner encounters Viper protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Viper to initiate a trace with strength 3 (Force the Runner to lose click).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Viper to force the Runner to lose click, if able.
+Corp uses Viper to initiate a trace with strength 3 (End the run).
+Corp pays 0 credits to increase trace strength to 3.
+Runner pays 0 credits to increase link strength to 0.
+The trace was successful.
+Corp uses Viper to end the run.
+Corp resolves 2 unbroken subroutines on Viper ("[subroutine] Trace 3 - Force the Runner to lose click" and "[subroutine] Trace 3 - End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 12 with 13 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 13 with 10 credits and 3 cards in HQ.
+Corp uses Corporate Sales Team to gain 1 credits.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp spends click and pays 1 credits to use Corp Basic Action Card to advance a card in Server 1.
+Corp scores Global Food Initiative and gains 3 agenda points.
+Corp wins the game.

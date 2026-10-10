@@ -1098,3 +1098,12 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Corp `:rich-dig` on corp-hard: 0.853 → 0.850 (+0/−1). It almost never changes a game; adopted as a review-motivated neutral.
   - Cross-job check of the always-on fixes (prompt, Passport, Anoetic Void, Endurance), cq-rc41 vs co-rc41: Corp +0/−1, Runner 0.823 → 0.820 (+9/−10), null against `:s1ref`. The wall-run cases came from games against the champion Corp. `:known-wall-runs` is only 0.04 a game against S1.
 - **RC42** = RC41 + Corp `:pressure-first`, `:rich-dig` + Runner `:trace-link`, `:free-run-first`, `:breach-damage`, on code with all always-on fixes and the engine Loki fix. Job CR (frozen `cr`): gate on fresh-2 with new seeds (review-h1..h4, review-hrunner1), then a paired RC41 vs RC42 check on fresh8.
+- **RC42 gate (job CR): FAIL, stopped after review-h1.** h1 candidate 2.90 (Corp 3.2, Runner 2.6; ref 1.50). The other three sets would have needed ~3.7 each. Reviews of h2–h4 and hrunner1 skipped to save budget; the paired win-rate part of CR still runs.
+  - Across g1–g3 and h1, the same deck slots draw the same complaints on fresh seeds:
+    - The classique-2026-b Corp was rated 2 in all four sets: it takes 20–30 turns, advancing ice and playing economy at 25+ credits against a passive Runner.
+    - The classique-2025-d Runner: Chameleon reinstalled and bounced, runs into Enigma without a decoder after Archer.
+    - The classique-2022-b Runner: facechecks into Lancelot or Merlin.
+    - The classique-2025-b Corp: R&D left un-iced under R&D pressure.
+  - The pooled fresh-2 level is ~3.1. I am not mining these decks for card fixes. The Corp complaint is a general behavior also seen in the mining pool (f7 log-02, CM worlds-2018-b), so I'm working on it generally.
+  - Mechanism: S1's `remote-safe?` asks whether the Runner, with its credits + 3, could profitably get in. `:s1ref` hoards credits (30–70), so every remote is "unsafe" and the Corp never installs its agendas.
+  - New opt-in `:passive-runner` c (`ee07856`): an iced remote counts as safe when the Runner made no run last turn and the Corp has ≥ c credits. Smoke: 0 stalls. A single replay (f7 log-02) was inconclusive (both games won by flatline). Next: job CS, an A/B on win rate and on turns to win.

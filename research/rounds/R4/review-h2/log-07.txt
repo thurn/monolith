@@ -1,0 +1,488 @@
+Review the RUNNER's play in this game.
+Winner: runner (Agenda), turn 17
+
+Corp takes a mulligan.
+Runner keeps their hand.
+Corp started their turn 1 with 5 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 1 gain/draw decision.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 1 gain/draw decision.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click and pays 4 credits to play Biotic Labor.
+Corp uses Biotic Labor to gain clickclick.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 1 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 1 with 5 credits and 5 cards in the grip.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mumba Temple from HQ.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Mumba Temple from HQ.
+Runner is ending their turn 1 with 6 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 2 with 4 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 1 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 1.
+Corp trashes a card in Server 1.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 2 with 5 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 2 with 6 credits and 5 cards in the grip.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Cybernetics Court from HQ.
+Runner spends click and pays 2 credits to install Boomerang.
+Runner is ending their turn 2 with 5 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 3 with 5 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting HQ.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 3 with 7 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 3 with 5 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 3 credits to trash Marilyn Campaign from R&D.
+Runner spends click to make a run on Server 1.
+Runner will continue the run.
+Runner approaches Server 1.
+Runner breaches Server 1.
+Runner accesses Jeeves Model Bioroids from Server 1.
+Runner is ending their turn 3 with 3 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 4 with 7 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 4 with 10 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 4 with 3 credits and 5 cards in the grip.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner spends click and pays 0 credits to install Tapwrm.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches ice protecting HQ at position 0.
+Corp pays 3 credits to rez Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner trashes Boomerang to use Boomerang to break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Successful Field Test from HQ.
+Runner steals Successful Field Test and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add a card in Server 1 to HQ.
+Runner uses Boomerang to shuffle a copy of Boomerang back into the Stack.
+Runner is ending their turn 4 with 6 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 5 with 7 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to install a card in the root of Server 2 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 2.
+Corp trashes a card in Server 2.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 5 with 9 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 5 with 6 credits and 4 cards in the grip.
+Runner uses Tapwrm to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner steals Global Food Initiative and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add a card in Server 2 to HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 2 credits to play Dirty Laundry.
+Runner uses Dirty Laundry to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner uses Dirty Laundry to gain 5 credits.
+Runner is ending their turn 5 with 11 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 6 with 9 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 6 with 12 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 6 with 11 credits and 4 cards in the grip.
+Runner uses Tapwrm to gain 2 credits.
+Runner spends click and pays 7 credits to install Amina.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner is ending their turn 6 with 7 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 7 with 12 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 7 with 15 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 7 with 7 credits and 4 cards in the grip.
+Runner uses Tapwrm to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner pays 1 credits to trash Rashida Jaheem from R&D.
+Runner spends click and pays 2 credits to install The Turning Wheel.
+Runner is ending their turn 7 with 8 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 8 with 15 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 8 with 18 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 8 with 8 credits and 4 cards in the grip.
+Runner uses Tapwrm to gain 3 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on R&D.
+Runner will continue the run.
+Runner approaches R&D.
+Runner breaches R&D.
+Runner accesses an unseen card from R&D.
+Runner spends click and pays 1 credits to play Special Order.
+Runner uses Special Order to search their Stack for Amina and add it to their Grip.
+Runner spends click to make a run on HQ.
+Runner approaches Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner pays 2 credits to use Amina to break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner uses Amina to make the Corp lose 1 credits.
+Runner passes Gatekeeper protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Cybernetics Court from HQ.
+Runner is ending their turn 8 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 9 with 17 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting R&D.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click and pays 0 credits to install ice protecting Server 3 (new remote).
+Corp is ending their turn 9 with 17 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 9 with 9 credits and 4 cards in the grip.
+Runner uses Tapwrm to gain 3 credits.
+Runner spends click to make a run on R&D.
+Runner approaches ice protecting R&D at position 0.
+Corp pays 4 credits to rez Hagen protecting R&D at position 0.
+Runner encounters Hagen protecting R&D at position 0.
+Runner has no further action.
+Corp uses Hagen to trash Tapwrm.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner pays 2 credits to use Amina to break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner uses Amina to make the Corp lose 1 credits.
+Runner passes Gatekeeper protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Lakshmi Smartfabrics from HQ.
+Runner pays 3 credits to trash Lakshmi Smartfabrics from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 9 with 9 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 10 with 12 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to install ice protecting Server 3.
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 3.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 10 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 10 with 9 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 3.
+Runner approaches ice protecting Server 3 at position 1.
+Corp pays 3 credits to rez Gatekeeper protecting Server 3 at position 1.
+Runner encounters Gatekeeper protecting Server 3 at position 1.
+Runner pays 4 credits to increase the strength of Amina to 6 and break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner uses Amina to make the Corp lose 1 credits.
+Runner passes Gatekeeper protecting Server 3 at position 1.
+Runner will continue the run.
+Runner approaches ice protecting Server 3 at position 0.
+Corp pays 6 credits to rez Fairchild 3.0 protecting Server 3 at position 0.
+Runner encounters Fairchild 3.0 protecting Server 3 at position 0.
+Runner pays 4 credits to increase the strength of Amina to 6 and break all 3 subroutines on Fairchild 3.0.
+Runner has no further action.
+Runner passes Fairchild 3.0 protecting Server 3 at position 0.
+Runner will continue the run.
+Runner approaches Server 3.
+Runner breaches Server 3.
+Runner accesses Cybernetics Court from Server 3.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to make a run on HQ.
+Runner approaches Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner pays 2 credits to use Amina to break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Jeeves Model Bioroids from HQ.
+Runner is ending their turn 10 with 0 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 11 with 1 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 4 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 4.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 11 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 11 with 0 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click and pays 0 credits to install PAD Tap.
+Runner is ending their turn 11 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 12 with 3 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 5 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 5.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 12 with 4 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 12 with 3 credits and 4 cards in the grip.
+Runner spends click to make a run on Server 4.
+Runner approaches ice protecting Server 4 at position 0.
+Corp pays 3 credits to rez Gatekeeper protecting Server 4 at position 0.
+Runner encounters Gatekeeper protecting Server 4 at position 0.
+Runner has no further action.
+Corp uses Gatekeeper to draw 0 cards.
+Corp uses Gatekeeper to reveal Global Food Initiative from HQ, and shuffle it into R&D.
+Corp uses Gatekeeper to end the run.
+Corp resolves 2 unbroken subroutines on Gatekeeper ("[subroutine] Draw cards, reveal and shuffle agendas" and "[subroutine] End the run").
+Runner spends click to make a run on Server 5.
+Runner approaches ice protecting Server 5 at position 0.
+Runner passes ice protecting Server 5 at position 0.
+Runner will continue the run.
+Runner approaches Server 5.
+Runner breaches Server 5.
+Runner accesses Jeeves Model Bioroids from Server 5.
+Runner spends click to make a run on HQ.
+Runner approaches Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner pays 2 credits to use Amina to break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner uses Amina to make the Corp lose 1 credits.
+Runner passes Gatekeeper protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Cybernetics Court from HQ.
+Runner spends click to make a run on Archives.
+Runner will continue the run.
+Runner approaches Archives.
+Runner breaches Archives.
+Runner accesses everything else in Archives.
+Runner is ending their turn 12 with 1 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 13 with 0 credits and 3 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 13 with 3 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 13 with 1 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to draw 1 card.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 4.
+Runner approaches Gatekeeper protecting Server 4 at position 0.
+Runner encounters Gatekeeper protecting Server 4 at position 0.
+Runner pays 2 credits to use Amina to break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner uses Amina to make the Corp lose 1 credits.
+Runner passes Gatekeeper protecting Server 4 at position 0.
+Runner will continue the run.
+Runner approaches Server 4.
+Runner breaches Server 4.
+Runner accesses Daily Quest from Server 4.
+Runner is ending their turn 13 with 1 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 14 with 2 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp is ending their turn 14 with 5 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 14 with 1 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner pays 2 credits to use Amina to break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner uses Amina to make the Corp lose 1 credits.
+Runner passes Gatekeeper protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Rashida Jaheem from HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner is ending their turn 14 with 2 credits and 5 cards in the grip.
+[hr]
+Corp started their turn 15 with 4 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 1 credits to play Fully Operational.
+Corp uses Fully Operational to make 4 gain/draw decisions.
+Corp uses Fully Operational to gain 2 credits.
+Runner uses PAD Tap to gain 1 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp uses Fully Operational to gain 2 credits.
+Corp spends click and pays 5 credits to play Violet Level Clearance.
+Corp uses Violet Level Clearance to gain 8 credits and draw 4 cards.
+Corp discards 3 from HQ at end of turn.
+Corp is ending their turn 15 with 14 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 15 with 3 credits and 5 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner pays 2 credits to use Amina to break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner uses Amina to make the Corp lose 1 credits.
+Runner passes Gatekeeper protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Cybernetics Court from HQ.
+Runner spends click and pays 3 credits to install Aniccam.
+Runner is ending their turn 15 with 0 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 16 with 13 credits and 5 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click and pays 0 credits to install ice protecting Server 6 (new remote).
+Corp uses Asa Group: Security Through Vigilance to install a card from HQ in the root of Server 6.
+Corp spends click and pays 0 credits to install ice protecting Server 7 (new remote).
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp is ending their turn 16 with 13 credits and 4 cards in HQ.
+[hr]
+Runner started their turn 16 with 0 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on Server 6.
+Runner approaches ice protecting Server 6 at position 0.
+Corp pays 4 credits to rez Hagen protecting Server 6 at position 0.
+Runner encounters Hagen protecting Server 6 at position 0.
+Runner has no further action.
+Corp uses Hagen to end the run.
+Corp resolves 2 unbroken subroutines on Hagen ("[subroutine] Trash 1 program" and "[subroutine] End the run").
+Runner is ending their turn 16 with 3 credits and 4 cards in the grip.
+[hr]
+Corp started their turn 17 with 9 credits and 4 cards in HQ.
+Corp makes their mandatory start of turn draw.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp spends click to use Corp Basic Action Card to draw 1 card.
+Corp spends click to use Corp Basic Action Card to gain 1 credits.
+Corp discards 1 card from HQ at end of turn.
+Corp is ending their turn 17 with 11 credits and 5 cards in HQ.
+[hr]
+Runner started their turn 17 with 3 credits and 4 cards in the grip.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner pays 2 credits to use Amina to break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner uses Amina to make the Corp lose 1 credits.
+Runner passes Gatekeeper protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Successful Field Test from HQ.
+Runner steals Successful Field Test and gains 2 agenda points.
+Runner uses Leela Patel: Trained Pragmatist to add a card in Server 3 to HQ.
+Runner spends click to use Runner Basic Action Card to gain 1 credits.
+Runner spends click to make a run on HQ.
+Runner approaches Gatekeeper protecting HQ at position 0.
+Runner encounters Gatekeeper protecting HQ at position 0.
+Runner pays 2 credits to use Amina to break all 2 subroutines on Gatekeeper.
+Runner has no further action.
+Runner passes Gatekeeper protecting HQ at position 0.
+Runner will continue the run.
+Runner approaches HQ.
+Runner breaches HQ.
+Runner accesses Project Vitruvius from HQ.
+Runner steals Project Vitruvius and gains 2 agenda points.
+Runner wins the game.
