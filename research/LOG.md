@@ -1115,3 +1115,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
 - **Job CS result** (RC42 Corp vs `:s1ref`, seeds 590000–590299 on fresh8 and 591000–591299 on corp-hard; win rate and turns to win):
   - `:passive-runner` 8: fresh 0.971 → 0.960 (+2/−6), corp-hard 0.840 → 0.831 (+1/−3); mean win turn 13.54 → 13.56. Rejected. Remote safety against a hoarding Runner is not what makes the Corp slow, at least not in these games.
   - Evaluator `:rd-exposure` 2.0 (was 1.0): fresh 0.980 → 0.970 (+5/−8), null. **Open central while holding ice: 0.51 → 0.28 per game (−45%)**; turns ending broke 0.80 → 0.64. Adopted as a review-motivated neutral (un-iced R&D under pressure is a recurring Corp note: g3-04, h1-04, h1-10).
+- **Slow-close Corp, diagnosed on mining-pool data** (cs-rc42 vs `:s1ref`: 12 of 553 Corp wins took 25+ turns). Replay of seed 590041 (worlds-2021-b, a 29-turn win):
+  - From turn 14 the Corp sat at 6 points and 40–66 credits with Offworld Office (a winning agenda) in HQ. Every iced remote held a rezzed economy asset and it had no ice in hand, so S1 had no scoring remote. The planner advanced Mausolus 3–4 times a turn instead, about 16 advancements in all, where 3 unlock its ETR.
+  - New opt-in `:ice-adv-cap` (planner prune): no advancing an ice already at the largest "N or more hosted advancement counters" in its text (else 3).
+  - New opt-in `:overwrite-rich` c: with ≥ c credits, an agenda may replace a lone rezzed, unadvanced asset in an iced remote (S1's scoring remotes and the planner's install prune).
+  - With both, the same seed is won 8–0 on turn 16 instead of turn 29. Smoke: 0 stalls (`cd91d32`). Job CU A/Bs them together (Corp vs `:s1ref`, fresh8 + corp-hard, win rate and turns to win).
