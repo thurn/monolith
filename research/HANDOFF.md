@@ -1,5 +1,24 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-10 12:50 (R4, autonomous phase)
+
+- **Best agent:** still RC36 for T2 (held-out review 3.40). RC41 and RC42 both failed the fresh-2 gate (RC41 g1–g3: 3.10 / 3.30 / 3.20; RC42 h1: 2.90; reviews stopped early once a pass was out of reach). The agent's level on never-mined decks is ~3.1–3.2, Runner the weaker side.
+- **Done since 01:30:**
+  - Fixes from mining-pool diagnosis, all always-on:
+    - engine Loki/Anansi infinite subroutine loop (fork; patches backed up in `research/engine-patches/`)
+    - Passport barred from remote ice
+    - Anoetic Void
+    - Endurance counter cost
+    - pay-or-trash prompts
+    - agenda access/steal damage (Fetal AI, Personal Evolution)
+  - New knobs adopted: `:breach-damage`, `:free-run-first`, `:trace-link`, `:pressure-first`, `:rich-dig`, eval `:rd-exposure` 2.0. Rejected: `:passive-runner`, `:scorable-joint`, `:overdraw`.
+- **Ladder:** T2 met (RC36). T3 puzzles met (current code: dev 0.95, held-out 1.00). T3 review not met.
+- **Running:** job CT (`:score-kill`, and a paired measure of the engine Loki and PE fixes), ends around 14:00.
+- **Next 3:**
+  - (1) RC43 = RC42 + `:rd-exposure` 2.0 (+ `:score-kill` if not negative).
+  - (2) Before spending reviews on another gate: find the slow-close Corp behavior in mining-pool games (long Corp wins against `:s1ref`) and the Runner's low-grip endings against damage decks.
+  - (3) Gate RC43 on fresh-2 with new seeds only after a change that plausibly moves the review mean by ≥ 0.2.
+
 ## Status 2026-10-10 01:30 (R4, autonomous phase)
 
 - **Best agent:** RC36 (`job-K36.clj`, frozen `by`) is still the only agent meeting T2 on held-out (review 3.40 / 3.50). Candidate RC40 (= RC39 spec) failed the fresh gate: f5–f8 pooled 3.475 (bar 3.5), frunner3 2.90 (bar 3.2).
