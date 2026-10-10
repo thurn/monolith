@@ -1030,3 +1030,16 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Cross-job check of the always-on fixes (cm-rc40 vs ck-rc39, same seeds, decks, opponent and knobs): Corp 0.880 → 0.883 (+1/−0); **Runner 0.457 → 0.517 (+31/−13, p ≈ 0.01)**. The heap-breaker and variable-econ fixes are a real Runner gain, the largest single step in several rounds.
   - Proxies: Runner `tagged-ends` rose 0.85 → 1.06 per game with `:overdraw` (drawing less leaves fewer clicks for tag removal? no clear story); nothing else moved.
   - Next: CN (running, ~2.5 h) tests `:tagged-install`, `:follow-check`, `:overwrite-trap` and `:scorable-joint`, and cn-rc40 vs cm-rc40 measures the break-cost fix on the Runner side.
+- **Remaining review themes in the RC40 gate notes** (candidate games rated ≤ 3; the fresh8 decks are a mining pool now):
+  - frunner3: all 9 games rated 1 are the *reference* Runner (S1 hoarding credits for 10+ turns). The candidate won 9 of 10 and still averaged 2.9. Its notes are style complaints in wins.
+  - Candidate Runner, f5–f8 (11 games): tags left up (6 games: Liza's forced tag, Hard-Hitting News, then resource trashes), empty Archives runs (3), 9-credit Femme Fatale never used (2), runs while broke (2).
+    - Repeated HQ accesses of the same card (frunner3 log-02: Jackson Howard 6 times in 11 runs) happen with HQ at 5 cards: random access, which the reviewer cannot see. Not a bug.
+    - The "empty Archives runs" follow a face-down discard each Corp turn into an open Archives: a free check, so a reviewer misread.
+    - f8 log-17's tags are the Aeneas Informant reinstall loop, which CN's `:tagged-install` arm targets. Liza (f8 log-05) removes last turn's tag *before* the run that gives a new one. Deck-specific; not chased.
+  - Candidate Corp, f5–f8 (9 games): open centrals early (5 games; agendas stolen from an un-iced HQ or R&D), plus single cases.
+- **Opt-in `:pressure-first`** (Corp, `983112f`): when exactly one of HQ and R&D had a successful run last turn, S1's protect-centrals and react-centrals ice it first, overriding `:hq-first` (agenda in HQ → HQ first).
+  - f6 log-11 (worlds-2022-a, full-game replay): after four R&D runs a turn and none on HQ, S1 put Fairchild 3.0 on HQ because Élivágar was in HQ. With the knob, S1 says R&D. The planner still chose HQ (its line scored more, knowing two agendas sit in HQ), and that game was won, so this is an S1-level change only.
+- **Opt-in `:trace-link`** (Runner, `6a14648`): a subroutine with "Trace N" is void in the run calculator when N + Corp credits ≤ the Runner's link.
+  - frunner3 log-07: a Corp at 0 credits with Ichi 1.0 on R&D (trace 1 vs link 1, no programs to trash). The Runner made one R&D run a turn and clicked for credits, pricing every run at 1 core damage and 1 tag.
+  - Rare trigger (needs a broke Corp), so a 300-pair A/B will be underpowered.
+- Both smoke-tested (0 stalls). CN runs ~8.5 h in all (champion-vs-champion games take ~230 s); the Corp half ends around 02:00 and the Runner half around 05:00. Next, after CN: RC41 gate on fresh-2, and job CO with `:pressure-first` (Corp) and `:trace-link` (Runner).
