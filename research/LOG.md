@@ -1107,3 +1107,8 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - The pooled fresh-2 level is ~3.1. I am not mining these decks for card fixes. The Corp complaint is a general behavior also seen in the mining pool (f7 log-02, CM worlds-2018-b), so I'm working on it generally.
   - Mechanism: S1's `remote-safe?` asks whether the Runner, with its credits + 3, could profitably get in. `:s1ref` hoards credits (30–70), so every remote is "unsafe" and the Corp never installs its agendas.
   - New opt-in `:passive-runner` c (`ee07856`): an iced remote counts as safe when the Runner made no run last turn and the Corp has ≥ c credits. Smoke: 0 stalls. A single replay (f7 log-02) was inconclusive (both games won by flatline). Next: job CS, an A/B on win rate and on turns to win.
+- **Job CR, paired part** (fresh8 vs `:s1ref`, seeds 580000–580299; RC41 and RC42 both on the fixed code and engine):
+  - RC42 vs RC41: Corp 0.947 → 0.940 (+0/−2), Runner 0.877 → 0.870 (+13/−15). Null. RC42's knobs together do not move win rate.
+  - Runner win rate is 0.87–0.88 on these seeds, against 0.82–0.83 for RC41 on 570000 before the engine Loki and PE fixes. That's a different seed set; job CT measures it paired.
+  - RC42 had 17 Runner flatlines against RC41's 10, 11 of them on classique-2025-a. They are mostly not steals: the Runner ends a turn at 0–1 cards, and the Corp's next **score** kills through Personal Evolution's damage (plus Philotic Entanglement's).
+  - The evaluator's kill-threat covers only meat-damage operations. New opt-in `:score-kill` (`cd0b7e7`): identity damage on score that would empty the grip, with an advanced card in a remote, counts as a 0.8 kill threat. Smoke: 0 stalls. Job CT A/Bs it.
