@@ -1057,3 +1057,13 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - Runner `:follow-check`: identical games (+0/−0). The S1 rules it watches (score, advance, kill) are Corp rules, so it never fires for the Runner. Harmless; left off the Runner.
   - Break-cost fix, cross-job cn-rc40 vs cm-rc40: 0.517 → 0.510 (+19/−21), null. Kept (it is a correct price, and frunner3 logs 11–12 showed the visible blunder).
 - **RC41** = RC40 + Corp `:follow-check`, `:overwrite-trap` + Runner `:tagged-install`, on code with the always-on fixes. Gate job CP (frozen `cp`), then job CO (`:pressure-first`, `:trace-link`, `:free-run-first` on top of RC41) in the same queue.
+- **RC41 gate on fresh-2 (job CP): FAIL, stopped after 3 of 4 two-sided sets.** Candidate means: g1 3.10, g2 3.30, g3 3.20 (pool 3.20; g4 would have needed ~4.4). Corp 3.2 / 3.8 / 3.4 (3.47); Runner 3.0 / 2.8 / 3.0 (2.93). Reference S1: 1.40 / 1.70 / 1.90.
+  - I skipped review-g4 and review-grunner1 to save review budget, since the outcome could not change. Deviation from the pre-registered 4+1 sets; logged here.
+  - Reading: fresh8 (mined since RC39) gave RC40 3.475; the never-mined fresh-2 decks give RC41 3.20. That matches the earlier finding that mined dev decks over-predict by ~0.3. The agent's true review level is ~3.2–3.4, Runner the weaker side by ~0.5.
+  - General themes in the notes (no card-specific mining of these decks):
+    - Corp: a rich Corp that will not close against a passive Runner (g1 logs 11 and 19, g3 log-11, g2 log-02: credit clicks, IPOs, advancing ice at 20–70 credits).
+    - Runner: repeated runs into known rezzed ice it cannot break (g1 logs 05 and 12, g2 logs 15 and 17), tags left up (g1-15, g3-05, g3-17), and an unchecked fresh remote card at 5 Corp points (g3-15).
+- **Rich-Corp stall, diagnosed on mining-pool data** (cm-rc40 Corp vs `:s1ref`, corp-hard): 7/300 games have ≥ 5 credit clicks at ≥ 15 credits, 6 of the top 10 on worlds-2018-b (asset spam).
+  - Replay of seed 550291: turn 19, 19 credits, a full hand of five assets and no agenda. S1 said "credit" because `rich-draw` only draws below hand size.
+  - New opt-in `:rich-dig` (`e8c1d44`): a rich Corp (≥ `:rich-credit`) with no agenda in HQ draws even at a full hand. S1 then draws there. Smoke: 0 stalls.
+- **Always-on prompt fix** (`e8c1d44`): "Pay N [Credits] / Trash an installed card" (Fairchild 2.0/3.0) now pays when affordable. "Choose an installed card to trash" now picks the cheapest non-breaker, non-console card. Before, neither prompt had an S1 rule (f7 log-07: at 4 credits the Runner trashed Paperclip and Tech Trader).
