@@ -85,7 +85,14 @@
                                       (srv/runner-pool-from-obs obs (runner-decklist env))
                                       (count (get-in obs [:runner :hand])))
              (srv/corp-server-safety obs k value (w env :corp-safety-extra)))]
-    (and (seq (srv/ices obs k)) (<= (:u ev) 0.0))))
+    (and (seq (srv/ices obs k))
+         (or (<= (:u ev) 0.0)
+             ;; :passive-runner c: a Runner that made no run last turn, against a Corp with c+ credits, is
+             ;; not contesting remotes; an iced remote will do (gate reviews: a rich Corp sat on agendas
+             ;; for 10-15 turns against a credit-hoarding Runner whose money made every remote "unsafe")
+             (when-let [c (w env :passive-runner)]
+               (and (empty? (get-in obs [:runner :register-last-turn :made-run]))
+                    (>= (or (get-in obs [:corp :credit]) 0) c)))))))
 
 (defn overwritable?
   "An iced remote whose only content is one unrezzed, unadvanced asset (an ambush like Snare!) that an
