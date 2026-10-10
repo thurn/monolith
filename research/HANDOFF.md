@@ -1,5 +1,21 @@
 # Handoff: Netrunner AI research
 
+## Status 2026-10-10 17:15 (R4, paused for system reboot)
+
+- **Best agent:** RC36 for T2 (held-out review 3.40). Current candidate RC43 (`job-CV.clj`, frozen `cv`); its fresh-2 gate set i1 was 3.20. Fresh-2 has been flat at ~3.14 across RC41–RC43 (sets g1–g3, h1, i1).
+- **Ladder:** T2 met (RC36). T3 puzzles met (RC43-like: dev 1.00, held-out 1.00). T3 review not met.
+- **Today's main gains:**
+  - Engine Loki/Anansi loop fix (fork, backed up in `research/engine-patches/`) plus Fetal AI / Personal Evolution damage modelling: Runner +20/−4 vs `:s1ref`, flatlines 29 → 8 per 300.
+  - Several run-model card fixes (Passport, Anoetic Void, Endurance).
+- **Running:** nothing. Job CW was stopped at 164/300 for the reboot (partial data kept). Untested opt-in knobs: `:opp-adapt`, `:agenda-strong`.
+- **To resume:**
+  - Start the REPL: `AI_HEAP=3g scripts/ai-repl`, in the background.
+  - Frozen worktrees in `/home/dthurn/monolith-frozen/` survive the reboot. Relaunch jobs from one with `AI_HEAP=8g scripts/ai-job <abs log> "(load-file \"<abs clj>\")"`.
+- **Next 3:**
+  - (1) A/B `:opp-adapt` 2 and `:agenda-strong` 8 (Corp vs `:s1ref`, win rate and turns to win; copy `job-CU.clj`).
+  - (2) Optionally rerun CW from frozen `cv` for a full read against the RC28 champion.
+  - (3) Gate again on fresh-2 only after a change that plausibly moves the review mean by ≥ 0.2. Persistent low slots: the classique-2026-b Corp (opponent modelling against a passive Runner) and the classique-2025-d Runner.
+
 ## Status 2026-10-10 12:50 (R4, autonomous phase)
 
 - **Best agent:** still RC36 for T2 (held-out review 3.40). RC41 and RC42 both failed the fresh-2 gate (RC41 g1–g3: 3.10 / 3.30 / 3.20; RC42 h1: 2.90; reviews stopped early once a pass was out of reach). The agent's level on never-mined decks is ~3.1–3.2, Runner the weaker side.
