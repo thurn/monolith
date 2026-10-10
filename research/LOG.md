@@ -1020,3 +1020,7 @@ Question: does a per-matchup option book beat one global config? `rounds/R5/job-
   - New opt-in `:scorable-joint` (`cb9f20f`): agendas in reach are allocated jointly (cheapest first), and each counts at most its scored value after the feature weight. At this decision the stale line drops to +1.5 and the Corp scores. Smoke: 0 stalls.
   - Job CN gets a Corp arm cn-sj (frozen `cn` re-frozen at `cb9f20f`).
   - Also new: a planner debug line per rerank sample (under `*debug*` only).
+- **Pre-registered fresh-2 gate decks** (chosen before any game is played on them for review): `:classique-2025-b :classique-2025-d :classique-2026-b :classique-2026-d :classique-2023-a :classique-2023-b :classique-2023-c :classique-2022-b`.
+  - These are the Classique lists not used in fresh8 and never mined in reviews. Several appeared in old A/B mixes (corp-proxy, runner-proxy), which used them only for win rates.
+  - From RC41 on, the gate is 4 fresh-2 two-sided sets pooled ≥ 3.5 plus 1 fresh-2 Runner-only set ≥ 3.2. The fresh8 decks become a mining pool (and stay reported).
+  - A stall sweep on fresh-2 comes first (engine and card-text coverage).
